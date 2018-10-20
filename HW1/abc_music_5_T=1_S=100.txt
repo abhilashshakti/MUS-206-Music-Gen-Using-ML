@@ -1,0 +1,13145 @@
+WARNING:tensorflow:From /Users/uksrivastava/anaconda/lib/python3.6/site-packages/tensorflow/python/util/tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+
+
+*****************************
+
+
+0 0 4.533352 
+
+<starR0t.vW3)(.3_082DHM-2Q@d-V.oR))7H|YaF_x&o3{8XyD:Gc2jph._]3XzV]nnz#)S~5,gFtW6!7T
+kx{g#fNhsHldbAN{e"}A
+
+
+*****************************
+
+
+100 0 2.5174923 
+
+<star[z}G&Fh)3:pl"ol(f y_eBB2   E   
+D  o2 eni 2    c dG F2 E/Tc m    2V|  4e 2c d2K|B  de|etc2 l  d|2 d2
+
+
+*****************************
+
+
+200 0 2.8075852 
+
+<star?CYe.N}Pe_Hgf/sfa2s|d!e/er t/
+/T!:/ 2(|2{/ t.BB/(  |// # |/ =cB.5c: /(!d2/c/ ( { n| B( //dc(f   d |
+
+
+*****************************
+
+
+300 0 2.3045018 
+
+<star)mv2wzS]UG z2)/-B/|/_ /f|c/g B//i|g/)B// //A / lcgc/./d//==/A2t/ | gg/ c/ "/B(/ ///:g4//f/(fG//  f//
+
+
+*****************************
+
+
+400 0 2.8912008 
+
+<starAoNLlgzzGG-<HOd=<Hu\oA0ym[wkTvHs~\s>uWJmJJkWT9K6*9NWm8@7J5.y^uJ'N#J6k#&tqLHcZ*X#9Ws1&>xUqJUw0HyL
+
+
+*****************************
+
+
+500 0 3.54295 
+
+<starP5w##NyWy@QU/@<kkpPjm.kw9H\#zwz*'OSqk^v#rqZ!-Y@Ws&\qkHA*qyWH_ *#Er#"mn9y*',R1y,qJT\zUW&:k~i9x1C#
+
+
+*****************************
+
+
+600 0 2.4419618 
+
+<star-ry<T'#KcqwDY1KS<R_>PfD'yY#*}tskJS*W7xJHLJYkHN\W@q8\S*&'qW~Y/#Yqywqk~qX~Y~0q^JJY~1~Uy'U#YvyR+^
+
+
+*****************************
+
+
+700 0 3.404396 
+
+<starTV@
+ltsb7Ayv*1lxRY#Q~kwj*T#JkkY^~k*X&*D1Y\\H7Jwukkm/UJQ~J#UJH*-~WwJHxYY['\yJj*WH'kBJCWLYHqyHWV*
+
+
+*****************************
+
+
+800 0 2.5424829 
+
+<star[U1nh  cr 7Ltui
+:::
+hLr} , aasMle | d G FB2 a]8d KG G.Bed | e3|c>/]4| 1d | A5d+g-cF | si.F | c ) lLG
+
+
+*****************************
+
+
+900 0 1.8705857 
+
+<starSiK8ox tHiN/ 4lL!-
+R:tg<EiolrN csSaovZbuee 
+paiormn3atioede" mc> g4
+Discua
+ueaffe) c | F>2z/>F | z2|
+
+
+*****************************
+
+
+1000 0 2.2801416 
+
+<starmLroeu gr] fr 0i)8tr.d d2dBBg Bd | B2
+GBcc | c!B2 |d | :gdgeece2d | end.ee | dBVdec | d2c | BEe2f/cd
+
+
+*****************************
+
+
+1100 0 0.7795679 
+
+<stariaot>.| uA| A2B2z2B2 | z2(GB | z2Bd6 | (
+2rrfeethdg] | B4B2B2| (4e | z2z2B2 BBAz3 | |
+:cb4>d2B2 | d2
+
+
+*****************************
+
+
+1200 0 3.1550884 
+
+<starX=?hvmainbitetcoefrc
+Af/ de d Bc | z2 G2 (f}A/l| G2z2d/ gF z2c (|G2cc | d2B2 | A2d2 | :c2A/G Mitrc) 
+
+
+*****************************
+
+
+1300 0 3.2240849 
+
+<star RHR2v2
+CAoanaut
+itXlo
+O:/U2 2E4i4| Ze chr | d2/B/ z2 g| fcAfe d (neearn:
+:c2Gcd | d2d B c cc  | F2B
+
+
+*****************************
+
+
+1400 0 2.626565 
+
+<staroou:aroatn
+K:3 ?23(g c/ | B> A>>| B|f | |G2 |
+F G2B>eB | z3|A2B | 4B2 | c | B2Ez |d B2| B2B | G | pB
+
+
+*****************************
+
+
+1500 0 2.1812036 
+
+<stardhf EGt
+M:ae/ c1 g | e2 d | z3F)Fcf | (cAf/ gdfer>| d4!fee A2 d>b | |
+QE!!P-43d/ie |-
+MaG/e |
+e2] B2
+
+
+*****************************
+
+
+1600 0 2.550873 
+
+<starte
+s:pae ddsj?
+:-arareandtr t?:c2cc|
+Z:dB3 g3 E2B2 f3Fd3|ff2d4|
+e2|
+B2/2| e2Bc22]Fd f2e2)d2A2B2B2)d2
+
+
+*****************************
+
+
+1700 0 2.7235043 
+
+<starGe
+T:Prsdc |
+Dartcvnt/ see= cacslscatfr
+:N OCcmourver iar sar Fag?leb>
+:L:br La3re bh L:lablce P> LE
+
+
+*****************************
+
+
+1800 0 2.6610975 
+
+<starvele
+[C:Larns
+<tatstovan | (L5tandne
+R:6Tr ee t elou coulne/ fhf.f2 cahe cELhcleel>fron _can94
+M:L21
+
+
+*****************************
+
+
+1900 0 1.9752989 
+
+<star:eveoiseE (oraraiic ci vavipirlt airee bar.s3?ar
+Z:T:Slal ebu.
+<:2OLmn.e
+:Daronci ?trl Rarenc
+M:Dain
+
+
+*****************************
+
+
+2000 0 2.3816352 
+
+<starouser AaN eaille)B4B/4|
+d2d/e/ | Bd | F>B | BBc2 | 
+Ae/)) | A362f | z2z | g2 pa!!d/e>.e/ | (3f/)G/d/
+
+
+*****************************
+
+
+2100 0 2.0167744 
+
+<starel Bc c2 - cE2Bc ccB| B zee|g e fc |
+!:Tar/gr
+<e/!A
+A:Carar eovelt
+L:8a2
+P:1
+K:(4808
+T:3aaronea.
+M:B
+
+
+*****************************
+
+
+2200 0 1.491598 
+
+<starde
+C:7.o
+T:Fasce/c>
+Fsmanfe
+Mbrar
+ceF|eee/
+<egstout.
+O:Tarseld.=e7.09
+X:6
+R:F118
+K:maraj
+R:carba?t
+X
+
+
+*****************************
+
+
+2300 0 2.8358393 
+
+<stara?t tatro lirioreolse)
+W:baril |
+7:L!armiense.
+W:dararnsar2onEer
+X:Cral.}c
+R:bronjde denc
+6
+:B te ta
+
+
+*****************************
+
+
+2400 0 3.302816 
+
+<starad>@A/Leire!ponfc
+9FAF|CTn6 (f3-Fd B c|e2 e2d | f2z |f/-)c f)d ^| gdd e2e cB |?(B2.e cf !(g2d fe|] e
+
+
+*****************************
+
+
+2500 0 3.0006258 
+
+<starvie> G2B04
+K:Fmoucer
+R:6/1
+T:Traritovet dtale Rar ML qnsansoinan ioussai-de 
+k:F>
+T:rau-,F
+N E92A2BB
+
+
+*****************************
+
+
+2600 0 1.3178341 
+
+<starantaglee
+A:Prac.ob parareiere frae ererance.frSendrehe@((LOn -e-frnt arc?tioue (=-Oe dusr aEiobreg@
+
+
+
+*****************************
+
+
+2700 0 2.3930676 
+
+<starce
+M:E/8
+K:F>A/8
+T2:Carvemic etoulsiraicl ciensale
+R:Transeh AErrtran
+O:Touresce
+AA | eccd | c>B :e4
+
+
+*****************************
+
+
+2800 0 1.9716716 
+
+<starte B2c | BA B> dB B3 B> g> Az] A2 | B4 AB | FBB F BB BB B2 B2 | B2BB B2 B2 BB d Br | c/ f> scA ccd |
+
+
+*****************************
+
+
+2900 0 1.7663041 
+
+<starieio !iralle era/? parisc@graltailoON e2r Mabmhoule - L1-40
+Z"F cb)e :Araicl pa?lol? Blio?r galhon2 
+
+
+*****************************
+
+
+3000 0 1.8337414 
+
+<staralme
+M:Marcnde
+Z:Crarcnv:c3
+P:MaCrounert
+:63
+J:-idhe
+g:E2c | bezf/ dc f2 | A2-d | d2eB/ | cA^d>e !so
+
+
+*****************************
+
+
+3100 0 1.6697043 
+
+<starc
+Z:Trarscatrvi te foue fr iorat? rar Michel Sil corit ouri? Mairchel ELL- LON  Mor i 2a?c touslpa d
+
+
+*****************************
+
+
+3200 0 1.8691704 
+
+<staroutie feleu
+C:Trart>
+s:Ma3s(cid. cm'ae l1 (2LL1597/4/8
+M:Po,r
+V:1
+C:Dac be]
+(Prd
+B:B B>B/A2B2e2B d>d
+
+
+*****************************
+
+
+3300 0 2.302257 
+
+<star pichelot fuvanfo
+O:France
+A:Ar.
+C:P:I! Jel
+C:"orelouee
+R:Morcnce@.
+S:Larncit 
+<antovieteo
+R:Marchou
+
+
+*****************************
+
+
+3400 0 1.0924213 
+
+<startancogref.d.f2d3
+M:333/
+
+::Prarance
+L:Brenotr MiscElou de//ou par calleo pans?ar? B20A5 -0020-06
+Z:u
+
+
+*****************************
+
+
+3500 0 2.0778823 
+
+<startalon FolneoN mF3 L1 -10--05-
+Z:Cvon tartoceroSelele.free. ddPrfref.frta- ebr?fn (16)-
+K:Pou | Lba/o
+
+
+*****************************
+
+
+3600 0 2.9855585 
+
+<start gare ba- Lindhello
+M:arane
+S:Trantoun
+S:arart Ga tarr sausl?i pou Marehellon
+M:amesan ceblovative@
+
+
+*****************************
+
+
+3700 0 1.939233 
+
+<star mich"cil@ Mauss702
+C:Trance
+C:Tradd)
+D:Carile
+R:Crancica
+C:M@lan,
+C:Tmmuoure
+O:Trad>
+R:Frar
+,: cucd
+
+
+*****************************
+
+
+3800 0 1.4128909 
+
+<starse@fr
+MFmlan
+aritoue
+C:Taotndu
+C:1/4
+Z:B/4
+K:P.c
+gA | 6 (B4||
+F4G>=e | e2^c2 | e2z) | cdd gB c2 | Ac
+
+
+*****************************
+
+
+3900 0 0.9470019 
+
+<starongi M?ixto:oul?l
+A:2 M?ien c GEL1 mu-- 105-0107
+X:1Q210
+Z:Ga=am cobre
+W:Praalt de
+S:PoNn
+V:Marenito
+
+
+*****************************
+
+
+4000 0 2.3889415 
+
+<star>
+<ent>
+R:13
+Q:16
+S:bajB.
+AAAFG (BAGB | Fde BcAA | 
+BBA | FBAB | F6 A2 | =1me/e/B/ ec | c3z | BAd2 c
+
+
+*****************************
+
+
+4100 0 2.1805847 
+
+<stare
+R::Parince
+O:ssarance
+A:Porovenee.l
+R:Tarhe
+d le fsf gac | c!B2 :gelf | f/f/d/ e2 | c/B2 ff | BF B
+
+
+*****************************
+
+
+4200 0 3.464616 
+
+<start>on maileousvaileole eser Miele tautousariineee/ B2d cBA F
+G:|
+FBBd | B2c>F | c>BA ||
+T:2g1]
+<toubn
+
+
+*****************************
+
+
+4300 0 0.30494726 
+
+<staras (c2 z2 | G4- | A4 :| B(d/d/ pb_ | B2 BB | cc  A> | B>A2 ::
+K:FEb
+Q:3
+d2 A/2 de | f2eG/ df | GBG |
+
+
+*****************************
+
+
+4400 0 2.1470006 
+
+<starvetion pan Iilse mileellou (192400
+O:Far"cc bartou n|i4ar etce d=mon aig delerhe- M117
+Z:5 G?- Se lo
+
+
+*****************************
+
+
+4500 0 3.054304 
+
+<staritar\isfanparesc@frinat/.l M?ritioucCil@el paln Mmanca
+O:Fmagles
+R:Rinesse/
+R:Tran!c>
+C:Cpence
+Sstan
+
+
+*****************************
+
+
+4600 0 2.476403 
+
+<stare as-t2)e (66 -0560
+t:antou eicere par Mich4 RiN [Noleten
+O:DaNlouvielle@free.f.freon
+M:Larasice
+T:C
+
+
+*****************************
+
+
+4700 0 1.6860281 
+
+<stargt
+M:6/2=8
+Q:1/8
+81|6
+GBABB | A>BBB | B2B2B2 | B2F2BBA | AGA2B2 | 
+g2c2)F2 | =B2zB)Guccfc | f2c/ c2C
+
+
+*****************************
+
+
+4800 0 1.4322753 
+
+<star R:11409
+Q:14
+K:1=F
+(FBG | (c3^ | FGFA | (BAc |   (=BB Bb| BF | cB |p ed | d3c | d3c | B3- | d3c | (
+
+
+*****************************
+
+
+4900 0 1.926901 
+
+<stararits (aml?el
+p:Cranse
+A:Provveole
+Z:Trdanfr
+X:36
+Q:Vaise
+C:Prance
+F:Proneendt/e
+C:
+1/4
+T:MoV"e Fito
+
+
+*****************************
+
+
+5000 0 1.7732954 
+
+<starou"Mi?al"celle
+N:A2
+L:iransesct]
+O: Frainees de Ra t/8ouse eou M?'4))
+O:P:2//8
+K:a
+V:Vanascr
+<start:
+
+
+*****************************
+
+
+5100 0 3.43058 
+
+<staralle@frig
+M:G/4
+V:1/4=25
+F22BF | f2d/>c G3 | E2G | BG/ G3 | Gm((c2g/2^c/c/ | " c>dg | f2eec | age/ |
+
+
+*****************************
+
+
+5200 0 1.6258247 
+
+<star Bou il 1o?l"q -a B A|
+CBAb | w'a ge | ddc | gg/E/2 B, | 
+G."G/2 G|A7
+G|C9 "A"Bd :
+Bf_|=1 "GEGB2 cAB
+
+
+*****************************
+
+
+5300 0 1.5326065 
+
+<starnla ttoujwon mail-ce
+<sIntr Bictounce
+R:Trard d
+ tourvalotigneiree. er dorrig?nirier dilarfa Ginsari
+
+
+*****************************
+
+
+5400 0 1.6592038 
+
+<stare_dei) MarGiei dul
+<ensoviet fu p'vau
+Obounte u'reus Ra?len
+W:V9fsnendu](
+:Tradessu 
+R:Tuhove
+Z:Tram
+
+
+*****************************
+
+
+5500 0 2.6563714 
+
+<star:
+<cnd>
+<sti vit et/ou corrig? par Mies ctou le lailte 
+W:Fnete
+Z:Transcrit et/ou cor fourig? pareg 
+
+
+*****************************
+
+
+5600 0 1.8665602 
+
+<star
+t:M6/1
+K:B2
+<enc>
+<start>
+X:3a
+T:lae er ou?in du-puuv dou rll?
+R:4--6
+O:Trancc
+w:?a vin-la?ddre? pa
+
+
+*****************************
+
+
+5700 0 2.556097 
+
+<staronqei BHoOlyrin cilou dHlo pe-'i- jer dhci
+T:qridonseig obretigoonce.fretsga.frige.
+M://48
+L:2/4
+cd 
+
+
+*****************************
+
+
+5800 0 0.14482157 
+
+<star:malle
+s:aronsc
+z2 d2 || OT:Au du lcen fidautic-fi)-S ecic0 doOn de s? |
+T:ansc?
+<sanss,dr">cst?
+Q:J
+
+
+*****************************
+
+
+5900 0 1.2217113 
+
+<star es iobsss'as xol? pa durobsetu xlen-ta? puis
+BE A"AG | ([WBA cd BG |C"DG A G | "g2-02 AG | [GG AG |
+
+
+*****************************
+
+
+6000 0 1.3748268 
+
+<starve@lente.frte
+M:4/8
+L:1/8
+X:170
+K:1
+Q:1/8
+L:16/4B2
+L:1/8
+1G3
+anct>
+(B/2c/c/2B/d/ d2| cA/2 | dd dB | 
+
+
+*****************************
+
+
+6100 0 1.2997516 
+
+<starigwcaz G2 A2z2 Free | dec dce|z2c2c2 e2g2 | [A3ee d2c2 | A2|A2 Fd/2IG/2CBc2) c2 | Pe g2(2 AB | f4e2c
+
+
+*****************************
+
+
+6200 0 1.6153269 
+
+<starf/or:20E21266
+V:Tranmo Glle Rassto~nre
+gd ed | c/2G/2B | A4 |
+B2 A2B | B4|
+""D"A"d/e/2d/e/2c/d/|c2"c
+
+
+*****************************
+
+
+6300 0 2.1917357 
+
+<starto:am:Bhen cE0LLON - 2005-05-8
+Z:Pourone toute Retibveonlion Micheelleis BE7- lqu lo-ga lou llound B
+
+
+*****************************
+
+
+6400 0 1.3306543 
+
+<starstanpaituouville@fupe@f.fr
+M:6/8
+L:1/8
+K:C
+Ve (g'e bab||ed d>B|"""A(B/c/c/c/ ID | EF/c/2|\
+DG}d e/2/
+
+
+*****************************
+
+
+6500 0 2.4245474 
+
+<starmatisp:au-chlestinatobghore=Swi.dha Bi lalra-rkhe
+B2c/B> | c3 fB | \
+BB AFA |EA G3 ||]
+<end>
+O:SDht2
+
+
+*****************************
+
+
+6600 0 1.8552436 
+
+<staridhix
+Z:Dmaile Pacher trobofvineer
+M:4/4
+L:1/8
+K:6
+x d7|"C"B3|A)-|G3-|GB: Eg|E/2"DE/A/\"G"Gd/c/|"GF"
+
+
+*****************************
+
+
+6700 0 2.44125 
+
+<stare.
+M:1/8
+L:1/8
+M:29
+N:Botiorre@ganisar le "Tovenha -1a2?nerteRm
+M:1/4
+L:1/8
+K:B
+G4|\
+g4|ougnd2fe|[D"
+
+
+*****************************
+
+
+6800 0 2.010341 
+
+<starnou Btlou Bhina Jun 9 7u Htreiga 4 ad ed|fu bs uavie lon devensw
+N:6 ce beacn(Cravbi.y1g
+Z:Fhendes=e
+
+
+*****************************
+
+
+6900 0 2.1551018 
+
+<starrinlt@pt/ouoguHiollle@rilolteA:10u Pra Stla mailgi) Bured.w RtOs qrcher  1/4
+M:1/4
+L:1/8
+K:1/D8|
+zAB
+
+
+*****************************
+
+
+7000 0 2.1101615 
+
+<startiutit:ous Pockorbk
+Z:oSt Bettesfs0zhk
+R:RieldradB>I)
+ZIdsanturiez
+R:Sattire Cuttondnwtavoxy
+R:IstaN
+
+
+*****************************
+
+
+7100 0 2.395368 
+
+<startigave@(Ck
+L:2/8
+L:1/8
+V:D
+G|[D"G3]Tr"| e2 ge2e.f)|^c8]e2 c2]1e2 c4|Ec FGAA K"Dm"[GG"cB|A2 E/F/:GD |
+
+
+*****************************
+
+
+7200 0 1.7364032 
+
+<start
+M:16
+L:1/4
+QQ:1/99
+K:G
+xd2 | A2F2|] eredtf.d2BG2:c2|c2d-ded|=c6 e6|d>e C>_d>c|AG BA|1GA Ad eg|e3 e
+
+
+*****************************
+
+
+7300 0 1.7888995 
+
+<star tas RaC-(V
+M:3/4
+Q:1/8
+K:C
+G/c/ on-g/p? War D Me?tr
+"Ce
+R:Posrand Cid 2yathun <en
+M:2iristave Jure 
+
+
+*****************************
+
+
+7400 0 1.6103206 
+
+<startiile@Miorgi.sor Hilon du tioure vifif origigro?e abfraf.c>
+M:23
+L:1/4
+T:PNowke
+C:-Es
+R:Irbe Arinans
+
+
+*****************************
+
+
+7500 0 1.8575577 
+
+<staroigllie@fe.fr
+M:2/4
+T:fad-cafrard>
+M:C|4
+E:Carienbobistino def|ded cBBB|B2G2|c22B2B2||G2 G2|:|
+P:C"G
+
+
+*****************************
+
+
+7600 0 2.2803404 
+
+<start:at-ou migillo chilte@frain eram.nix
+Z:Tranes
+C:3/8
+P:! mour anle ban asmple
+R:Erande crane I'o?le 
+
+
+*****************************
+
+
+7700 0 0.3950702 
+
+<star
+lontgato:galogramiel fhef.fr uand
+K:C/47
+K:c/Horiseresgpnee
+gz=afff BcBsgf eGcdec B2FG2{AB2c2||
+<en
+
+
+*****************************
+
+
+7800 0 1.7797657 
+
+<starat]
+Z:1/4=9 G0G,0G
+E:Dm"2d2 B2 d2d2d2 e2 d2 B2 | "C"b"Pwd
+f2c2 d2 :
+6 AGAGA G2G2 G2 | 
+DCFEGA \ (DFE
+
+
+*****************************
+
+
+7900 0 1.4151695 
+
+<star:orige.loilt>ots oilr Motpes Caonplon par ch lon nai Trtighe.lapbiorg.er
+M:Transost ej Smantapsot
+A:
+
+
+*****************************
+
+
+8000 0 1.2656078 
+
+<starte
+Z:Tranarieloule@freedo@_t."C7inche@frut/out  Ocheleyd.(C62A7
+m:Phion der|2fgffofg.fefgf.ffe(f/e/2
+
+
+*****************************
+
+
+8100 0 2.518253 
+
+<start>:>3 307
+L:3/8o
+K:C
+G2|G4F,2G2|d2G/2B/2G/2F |cBced4|d3B2d2B2||e2d2c2d2d2d2g4:|\
+V:D
+B4-|G4|
+A3 | g2
+
+
+*****************************
+
+
+8200 0 0.09532648 
+
+<starviet: Bhratinabhe caf.leqpa.
+<cetonsest>
+<sstart>
+X:C2
+Q:1/841
+BBAB2 c2B2B2c2|d2g2g2e4f2c2|]
+B2A2A2G
+
+
+*****************************
+
+
+8300 0 0.56398034 
+
+<starn
+t:Cranle
+Z:Panss (ohsle 1  trchepl gan (orbes
+B:QOn Dorpande
+c:d ce BB d7d e fe2
+C:e/2d/3e/2d/2f/2
+
+
+*****************************
+
+
+8400 0 1.6819266 
+
+<start>.d>> Bh2c2 BcABBG G|ec3Ge dB |
+fedc f4 (2 |]
+cB BAc B2B3 |:
+<end>
+<start>
+X: 07
+T:L1 e (orrig? dou
+
+
+*****************************
+
+
+8500 0 2.1037154 
+
+<starse@falffld>esA0 MGi?th=anses ((aensine!-s nesd@abbnets
+O:Transticy tet obiavgangispar Bilhe -007
+R:B
+
+
+*****************************
+
+
+8600 0 1.8729705 
+
+<starge@bathes -12-07-
+Z:<enat 2 utr toup ghpt Hon (hhll 11 8
+Z:Transcrait et/ou Pricho ar? Ar sas igppo"
+
+
+*****************************
+
+
+8700 0 2.9004056 
+
+<staret> BA, | FDEF | AAGGG | B2BA BA | 
+d2 dd ddc Bd | =dAe}d>B | eded f4 | a2d2fd | f2d/e/2d/ec A2c2 | 
+
+
+*****************************
+
+
+8800 0 0.8910207 
+
+<stargad@:fantaris>- Sd-nH 10648 -1499
+Z:<ens cahcom 'ade toutu naier Cinls
+M:1/80
+L:1/8
+M:1/8:200
+K:B
+GA
+
+
+*****************************
+
+
+8900 0 1.5142717 
+
+<start>:a Gitr
+Z:T:harire
+C:Rilo:haiopin p? Maly'-'invaatir
+T:Be lour (stpuy
+M:/2in
+R:Hhlarisah Cany h'pI
+
+
+*****************************
+
+
+9000 0 1.1558977 
+
+<start>G
+O:i:baronn (arrend cout posce Borindey
+M:L:117
+R:ioncollogar aipht huGancadr My4ei Mely Miar Nod
+
+
+*****************************
+
+
+9100 0 3.1166847 
+
+<staratht>G>,G
+Z:|/4=100|6
+G>BB d3Ge | B2ABBG A3BGA | E2GA Bde |edc G2^Ag ||
+| [|: ca A2d | g4 B2 | A2 A2
+
+
+*****************************
+
+
+9200 0 2.1526241 
+
+<start>d>A>ce BJGhA!AEF | G4 | d2Bcc ddBA | B2Fc cBAd | B>cA | c3AA D2A>G |
+|: B2A2 | d2f2gf |e2d4 | a4eg
+
+
+*****************************
+
+
+9300 0 1.778551 
+
+<star:Malloar idlellance's an baa Hornan'2 glan
+R:wanwolan Rir
+T:Aarilt o:Ard
+R:Thalamb ('83,225) ar-ad 1
+
+
+*****************************
+
+
+9400 0 1.8221505 
+
+<starsit>:in-8
+T:Troln-envion Michtin conerotilaon
+O:Shollan
+C:Idu'ch n''rel 'carol'un -160087799)
+Z:id:h
+
+
+*****************************
+
+
+9500 0 2.079372 
+
+<starne@bret2 cB|
+vent>
+d:an--53
+M:2/4
+K:G
+B2B cdB | Bdcd |
+c4 cB AA | Acd c2A | E2 | G2 F2 :|
+Z:ariga>
+Z
+
+
+*****************************
+
+
+9600 0 1.2116047 
+
+<star
+Z:id:arolan SDs Tertins"Cenm
+T:van
+R:Ailt
+:6/89
+T:M/hanwe ce Huttone
+R:Adamileans gnenghirtuun
+M:3/
+
+
+*****************************
+
+
+9700 0 2.8164039 
+
+<starthe@th -1925
+Z:T:K
+C:6 GD7E,2 | F2B3 B2G2 | F4- |: E2 E2B :|
+<ef>g>
+<st.>
+X:3
+T:Carlomph Ar>n corn
+C
+
+
+*****************************
+
+
+9800 0 2.4622414 
+
+<staren:it:chth-0/4
+Z:id:hn-3fr
+M:O:ilallhe Stihl olen Haifrell
+R:hilhesad
+Z:id:hl-h-0m
+Z:id:hchs
+D:hiun 
+
+
+*****************************
+
+
+9900 0 2.10211 
+
+<staroth arligh galovigif paefylh pland
+R:high lhe
+T:OEhis The
+R:Rollangals Mailh
+R:chs
+H:Sde Ney n57
+T:O
+
+
+*****************************
+
+
+10000 0 2.2832682 
+
+<star
+M:C|
+L:1/8
+K:D
+BBB d2Bc |: (3dd gb"eag {(gab | abg aagg | ag3af f2fg |1 fAAg (3efce || acb/2 cdc | 
+
+
+*****************************
+
+
+10100 0 1.9217124 
+
+<starig>
+X:3
+T:Dortr
+Z:ihenfn Ghaglel, ins Jigphe
+R:hosorin
+R:handoy
+D:Sfhorp
+V:cdorn
+Z:i:hhp partions ma
+
+
+*****************************
+
+
+10200 0 2.6326647 
+
+<staripoelB>
+M:Ed|
+K:G
+Ad|AAbB DBdB|
+D2FG G2E A2:|
+|:cdg g2ga||
+fec dBAG|cEGA GAGF:|
+cAAc A2d2 F2:|
+<end>
+
+
+*****************************
+
+
+10300 0 1.7839606 
+
+<star tare
+<sthou Arre Hartipime 1 zonssin
+Z:ig:hn-hogrnain torgiongan
+H:Jede
+R:Ocdeien obdmaine, lave _i
+
+
+*****************************
+
+
+10400 0 1.9981163 
+
+<starw:7
+XV:2
+K:B
+H:Dfveesedf def|gced edfdB|B2de c2BA|F2Ac de^c|(cdef gdce|(3agf gdBB|GBAB AcAG|AAGG GFF
+
+
+*****************************
+
+
+10500 0 2.6567874 
+
+<start:M
+X:41
+T:Porn Hornpipans Pasr alno "3eaulsi ote tlu Hollapd Iry
+H:Pe qh
+Z:inschorn ?fy-22
+M:C|
+K:G
+
+
+*****************************
+
+
+10600 0 1.3046083 
+
+<start:
+X:29
+K:Ghariengson andhon , torne
+T:helanpriat Fnviinatog
+H:Snanopin" Giro Dnateansscolerep'pin -
+
+
+*****************************
+
+
+10700 0 2.4512897 
+
+<start>
+G:C|[G>d,f a2 (3Bde a2~|2 (3dee d2 (3BGB | dBdg Bded :|2 dddc BABd|d2 A3Bc|AGGF G2 (3Bcd|cAB2 Bdf
+
+
+*****************************
+
+
+10800 0 1.4335647 
+
+<start>
+X:43
+T:Iwgusy toed
+covanns War al holm
+D:0|
+R:Nartipignus ant chsun o Jastoy
+qin ways aAk~a {2ers
+
+
+*****************************
+
+
+10900 0 1.3700662 
+
+<starto,
+X:33
+T:C Brebine posty: Fousy
+Z:Mid:hn-hornpipe-iiste..
+M:4|5
+K:Ce
+AG|cd efef|12 (3aab (3ffd f2e
+
+
+*****************************
+
+
+11000 0 1.4383703 
+
+<starp.
+M:4/8
+K:D
+DG|A3AF DBfd|e2AA D<agb|eAd^cB cAFA|(33Ac cA~g2|(3dfe dBAc | (3AdG A2 (3dcd edcd|egfe (
+
+
+*****************************
+
+
+11100 0 1.1770879 
+
+<starn
+X:43
+T:Bhl'o goun Ffas al fnom #53e0)O Dht Sc
+R:hornpipe
+M:Cardous Tper\id Ne Theay Hoon s\ex
+R:ho
+
+
+*****************************
+
+
+11200 0 1.2335058 
+
+<staret-
+<end>
+<start>
+X:16
+R:Jominped
+Z:NBd:hin hinornpipe
+T:Sounbs pipliny
+m:Wave
+H:Aomanga bedef Dorns
+
+
+*****************************
+
+
+11300 0 0.5907009 
+
+<start Jefstist aighf ithers alarf:ad,'d:hnws or taavin: al ZNchon, Gancus ahind,
+T:Surch ktavin herysein
+
+
+*****************************
+
+
+11400 0 2.1087623 
+
+<start>
+X:67
+T:Mwary in Slale jounpete Min:Pin, Tiafe Rorgnerce
+H:Sestancas 3al, jayy's Ocyrin Hornph pap
+
+
+*****************************
+
+
+11500 0 1.4583157 
+
+<start>
+X:18
+R:IlBhs Fron 2 Glase Hornpiper Dady lanann
+H:Sicablafkelal'ine Cractingilan
+Z:id:hn-hornpipe
+
+
+*****************************
+
+
+11600 0 1.244039 
+
+<staraf:oy eb tirthins id bfor piln tonke tle
+R:hornpipe
+R:hornpipe
+D:Drige testoun, Therf
+Z:id:hn-hornpi
+
+
+*****************************
+
+
+11700 0 1.0570481 
+
+<star t'an Mumist Thoart:Tse
+R:hornpipe
+C:seall o s tevet: Itline" Sandki0 Resr ToAs |1 G4]1 FGBc ||
+DedB
+
+
+*****************************
+
+
+11800 0 1.24896 
+
+<starncy
+X:88
+T:Ran'lyychy, Ghil Sod D te cosnin, F, Te
+T:Raghis Hrnato [g fhela Wad had Fallie
+R:hersorp
+
+
+*****************************
+
+
+11900 0 1.3906038 
+
+<start>
+X:5
+T:Wiuriolkt's Biskom
+Racked neondy's: #91939
+D:se>ney)
+S:3e-0 WheE Dttiny is
+Gite stonky'yir
+
+
+
+*****************************
+
+
+12000 0 2.2804344 
+
+<start>
+X:6
+T:Dredc of D a.A:B
+H:Eno HumailV
+D:Framome, The
+R:highe Jein thor ngaat yinal w, O pealtkea f
+
+
+*****************************
+
+
+12100 0 1.5664984 
+
+<staratt>
+X:8
+K:D
+DGF B2G | D2D EDB | EFD GAc | d2a dfg|adB B2B|~B3 GA:|1 EGE E2E|
+ggf gf|~ e3aa|gfe bae|
+
+
+*****************************
+
+
+12200 0 1.3211563 
+
+<stars (33b. is ganlid liglly Mased
+T:land Hod
+Z:igrig Sarort et alsoyty
+:: dec |128 GGe | g2a edB | GF A
+
+
+*****************************
+
+
+12300 0 1.3156466 
+
+<starst>
+X:28
+T:Sallscode FBrar2 B o' Thed Bilty Slyee, jeomur' horn
+T:Marrih:
+Z:id:hn-jig-28
+M:6/8
+K:Emi
+
+
+*****************************
+
+
+12400 0 1.0892129 
+
+<stark>
+C:Bcec BHAF|DFE G2^A|
+2AFD FGE | E3H FGD ||
+|:GBA cA|Bdd ~cef|fec BcB:|23 E2E FF:|
+|:ged dcB:|2 E
+
+
+*****************************
+
+
+12500 0 1.3145015 
+
+<start>
+A:Sstirne pared:ant 1 Pop, Maunter.
+R:sig
+R:Wig.
+T:Corngan Joel
+Z:id:hn-jig-33
+M:6/8
+K:G
+G2G Add|
+
+
+*****************************
+
+
+12600 0 1.9835515 
+
+<startst>
+X:6/8
+T:Rojnipely Tunsts 5 Moangil
+F:The woint #54
+O:Mid:hinh
+P:id jtouple
+R:jig
+H:Lercoga Cove
+
+
+*****************************
+
+
+12700 0 1.5027778 
+
+<start>
+X:69
+T:Kdily'>s na Irg Pavtirkeree
+T:Sud Ko way, Rere
+R:jig
+C:Marchaugh Saner
+R:jian:Cor
+Tloans J
+
+
+*****************************
+
+
+12800 0 1.3432117 
+
+<start>ce-j5
+M:2/8
+FFA ~~|~g3 ~g3|edc dge|f2g !a3a|f2f geg|ecB AFA|B'g/d ec/e/ | dBc d2d | ~eag fga | BdB
+
+
+*****************************
+
+
+12900 0 1.7458024 
+
+<start>
+X:66
+R:jicon
+D:The BGngew, MeerayC i\ Phererie
+Z:id:hn-jig-6/8
+M:6/8
+K:DminighE, A^Gbm ghea| gag 
+
+
+*****************************
+
+
+13000 0 2.538912 
+
+<start>
+X:69
+T:O'righ Jewsio of the in Frached:
+T:Rif trig se eartib
+R:jf
+ad: Parle Wuc
+Z:id:hn-jig-61
+M:
+
+
+*****************************
+
+
+13100 0 1.7575003 
+
+<start:4
+X:C
+Trtend: vergalo 7 Sas Sam.
+Z:id:hn-jig-78
+M:6/8
+K:D
+DAD AF,D|DFD GG,2|ABd BGF|DFB BAF|AFD DE
+
+
+*****************************
+
+
+13200 0 1.2260773 
+
+<start>>
+X:77
+T:Ssatyers
+::297d
+K:D
+def ge|~d3 dBA|BAF A2e:|
+|:e2d edB|a2e dfe|afg gfe|1 d2e fdcd|^cd BAG
+
+
+*****************************
+
+
+13300 0 1.6162572 
+
+<start:
+X:6/8
+K:Darien8
+<start|
+|: ~b3 f2e | fec cAF | AFD E2F |
+<end>
+<start>
+X:19
+T:Seiblape's's, Mcigl
+
+
+*****************************
+
+
+13400 0 1.2170631 
+
+<start>
+X:69
+T:O:RAy cae
+R:jig
+A:Be Hees fo The the hon the Leathe
+R:jig
+H:See ala Wige Lobn Z:ige darsho
+
+
+*****************************
+
+
+13500 0 1.4993557 
+
+<start>
+X:7
+Trich
+R:pandy
+Z:id:hn-corn
+M:6/8
+H:Defy Sea(l'S2
+Z:id:hn-M9
+M:6/8
+K:Eddit
+AGD |
+A2 A2 D2B | A
+
+
+*****************************
+
+
+13600 0 1.7854774 
+
+<start>
+X:4
+L:1/8
+T:Owe Ruod:
+R:hgted cor\piph Thulers Burchin oe tumen The
+R:jig E2 Mout Barians
+Z:id:hn
+
+
+*****************************
+
+
+13700 0 2.606081 
+
+<starationf
+|:e2d2 BAFGG|A2G2 G2B>d2d2|A2dg2 eag|1 
+<eAA G2F2G2 ||
+<end>
+<start>
+X:90
+T:Noc sirph
+Z:id:hn
+
+
+*****************************
+
+
+13800 0 1.209814 
+
+<start>
+2:6/4
+z2B ~ e2d |12 e2d2 A2G|A2F2 A2FD|1
+|:gfd2 eddg|B2dec e2d2|
+e2cd e2dc |] BAGB B2Ac|dBB {g3|d
+
+
+*****************************
+
+
+13900 0 1.2636963 
+
+<star
+M:2/8
+L:1/8
+K:EGirian BDreoF , a, L6/B, #23)c C2Drd: Aere Plarch, Th.
+Z:Rid:hname-1
+M:6/8
+L:1/8
+::B
+
+
+*****************************
+
+
+14000 0 1.8318368 
+
+<start>
+T:Chorch
+R:maz
+Z:id:h-man-corch-20
+M:3/4
+K:G
+BG|B/2f e fe|BA ecB fe|a=d ef|b2 ce/a/f/a/ fa|d2 Gf|
+
+
+*****************************
+
+
+14100 0 1.5847907 
+
+<starka-8
+M:1/8
+K:G
+P:Javiog Aestide al the
+D:Duomairk Bn preetvime The
+Z:cutheru Frassiougl Mafk o's ais
+
+
+*****************************
+
+
+14200 0 1.6171016 
+
+<starpe-13
+M:6/4
+K:G
+eg | af af | aa g2 ge|d2 cB cc|
+d2 d2:|2 cA G2|
+e2 gg|ag fd|e/d/e/g/ eg|ed fe|dB Ac|
+
+
+*****************************
+
+
+14300 0 1.7598418 
+
+<star
+s:verka
+H:Pove A, Ine8 nene)
+T:Vernan Hil Ths
+R:polka
+D:Rolka
+Z:id:hn-polgn-5
+M:3/4
+L:vingal-
+ga Be
+
+
+*****************************
+
+
+14400 0 0.5710701 
+
+<start>
+X:14
+B:Bn^cne#dg f>a|gfe d2|d2 f2|ed BA|B2 AF|D2 FA|BA BAA|BA:EC|FEF |A2 ABc|A>GA CDC|
+D2 ce | fe
+
+
+*****************************
+
+
+14500 0 0.99940896 
+
+<start:F
+F2|AB/A BA|GE D>G|BE GB|GG/E/ EF|GF GF/E/|BA FB|A2 DE|E2 D2|cB ed|cE A3 || 
+|:e2 fe|d2 AF|FG E>|
+
+
+*****************************
+
+
+14600 0 1.5072479 
+
+<starb>)
+M:3/4
+L:1/8
+K:D
+Bf/B/ AB|B4|
+G>A BA|BA dl:|fe a>f|a/e/d/d d/B/A/G/|F/A/G/A/^G/B/G|AD AD|F2 Ed:|
+
+
+
+*****************************
+
+
+14700 0 2.7383358 
+
+<star
+X:3/4
+L:1/8
+K:G
+(3BAd ce|fe de/d|ee/d/ gB||2 AB/c/ BA||
+|:GA BA|B/B/A F2 B|1 B2 AB/A/|1 BA/A/ AG:|2
+
+
+*****************************
+
+
+14800 0 0.72005045 
+
+<star-2
+2:13
+|:FA|1 d>G A2:|2 FD A2 :|2 d>F A2:|
+<end>
+<start>
+X:21
+T:Ud Whelta, The Gumlso Rlam's
+R:polk
+
+
+*****************************
+
+
+14900 0 0.8337011 
+
+<start>
+X:6/9
+L:K
+FD Bc BG/F/|GB Bc|AB c>B|cA B>c|ef g>e|fc AB|1 Bd ce:|2 f2 a>|ec A G2||
+<end>
+<start>
+X
+
+
+*****************************
+
+
+15000 0 2.4979756 
+
+<stark>
+T:Jaim ITye
+T:Wog bo
+R:polka
+<s:polt poveen Ocele1s: The Moell's
+R:pill
+M:6/4
+L:1/8
+K:D
+DDD EA^G|
+
+
+*****************************
+
+
+15100 0 1.248807 
+
+<stars 27
+M:2/2
+W:51
+K:Am
+FE|G>B dA|BA GE|FG GB|dB/B/ BA|AG AF|AG FA|BA Bd|ed cB|Ae c/e/f|d2 d2|ea/e/ fe|
+
+
+*****************************
+
+
+15200 0 0.96315354 
+
+<star>ost fred MBcwin's & in 2oswaim Cloudwiersme
+Z:ih:al marthon Mins FBrcher 19
+R:polka
+H:Mhest of Lolk
+
+
+*****************************
+
+
+15300 0 1.2519282 
+
+<start>
+X:75
+T:JB seeteessoler
+R:polka
+C:Nohneh Rhaterdy Metsreenga
+Z:id:hn-polka-pi-polka-19
+M:2/2
+K:1
+G
+
+
+*****************************
+
+
+15400 0 2.4219003 
+
+<star
+X:8
+T:Jay Keponan Hay
+H:Mecka eel Ainnais, Us waciret Sangates, The
+R:murka
+D:Pohn Bctres: The Cuvo
+
+
+*****************************
+
+
+15500 0 1.6960502 
+
+<star
+H:3/e de vertiond:
+L:Or tree Coon tlorerma, #5
+R:hmel"7
+D:Prigh porke the Lergon ine Gor.
+R:polke
+H
+
+
+*****************************
+
+
+15600 0 1.6480293 
+
+<star
+M:D|1 FGEG EGED ||
+|: ed^c_B B2dg|edBd BG~D|E2A2 cded|dcBG GE~E2:|
+|:Bdef d>df|~g3e cBef|
+agfd efed
+
+
+*****************************
+
+
+15700 0 1.3518463 
+
+<star
+H:AdB cEEG E3d3 :|
+<end>
+<start>
+X:2
+T:Nevon Rogdh
+H:Neels: Us Opecled ca
+R:poll'z
+H:Deslagan: Seea
+
+
+*****************************
+
+
+15800 0 1.4926894 
+
+<star
+|:ABGB G3BA:|
+|:~(33BE GEf2|fgeg ageg|gfga agge|d2BA B2AG|
+(3cBc B2AB|dgfg bged|eged BAFD||
+|:dBcd 
+
+
+*****************************
+
+
+15900 0 0.7151119 
+
+<start>
+D:Mevipy nested tols ond of blecolla
+":"The un of Dann\a maidey Goontlet & Aungoow"2rost 18meet o
+
+
+*****************************
+
+
+16000 0 2.0042572 
+
+<starig.
+<start>
+X:32
+T:kane Farnan . #7.
+D:Jahey ((1963)cling ond Afstane's E wh #10487
+Z:id:hn-reel-64
+
+
+
+*****************************
+
+
+16100 0 1.4659262 
+
+<star:>
+4:GBd2 BdAF|AFDF E2~B2|BFEF Gfdc|deag gBde|dfed BAAF|F~EF EFDA|(3cdc dA/F/A/G/A ::22 (3ED2 FDE2|
+
+
+
+*****************************
+
+
+16200 0 0.93904096 
+
+<starel-24
+M:C|
+K:G
+BBA~B2 (3gaf|afed edef|agaf b2fe||
+deAB eBAB|cece fedc|dBAd cAee|f2e2 gedA|1 ~A3dc ~d
+
+
+*****************************
+
+
+16300 0 1.3188726 
+
+<star>
+HGA|AA EEAD | DA~F2  B2dB AAce|c2GA BA~A2|dece d2zB||
+|:eA~B2 (3gecA BGEA||
+<end>
+<start>
+X:Tulle
+
+
+
+*****************************
+
+
+16400 0 1.7745674 
+
+<starha-arsion 2eu-fration swaiber'svaidtets.
+Z:id:hn-reel-40-195
+M:C|
+K:G
+FG~F2 FDC2|eg~ag eAcA|BA~F2 A2
+
+
+*****************************
+
+
+16500 0 1.667833 
+
+<startore
+Z:huncy-5.
+D:O|WaCy (Yoal (1383
+H:The ol the padR" Read in th Alel Dre "af tilland s'pal
+R:reel
+
+
+*****************************
+
+
+16600 0 1.6049666 
+
+<starse-23
+M:C|
+K:D
+d2B>c BAGA|B2AG FDEF|
+FDAG AE~g/c/|gfe dedB|B2fd A2cd||
+<end>
+<start>
+X:89
+T:Stish) c
+
+
+*****************************
+
+
+16700 0 0.81846595 
+
+<start>
+X:6/8
+K:D
+D2A2 BA~E2 cBAB|AdBA EFED|~C9DF A2Fd|=cBcA BAFA|d2fe dE~D2|a2fg fgdG (3GFE|D2BG Gege|
+~
+
+
+*****************************
+
+
+16800 0 1.4989381 
+
+<starn
+D>GE D2Bd|AFAB GEDd|ceBc BGEB|AG (3BGF DFAd|efge fded|efdB Bded|~f3e d2dd|efed dABA:|
+BcAF GFE2|A2
+
+
+*****************************
+
+
+16900 0 2.083275 
+
+<star.
+Z:id:hn-reol-62
+M:C|
+K:D
+A,B/D/F/F/ EGEd|~B3 FDE~|Ecd eddc |def~ a2age |
+P:Variations:
+FGBG BAGE:|
+
+
+*****************************
+
+
+17000 0 1.5961144 
+
+<stare
+C:Pohtin: womy
+R:reer
+H:Partin Chistarng, The
+R:reel
+H:Hee alo Duywin and play Brorkaig, The
+R:ree
+
+
+*****************************
+
+
+17100 0 1.4811838 
+
+<star
+ffad|fed~A2 decd|eAcA B2dB|~B3d edBd||
+<end>
+<start>
+X:87
+T:Branie wo and A, #380
+D:Pather's Loe Ra
+
+
+*****************************
+
+
+17200 0 0.6482451 
+
+<start>
+A:dany Ceankins See Reeainurs: Tuph Wutt Keep: Reeaig Covie.
+Z:id:hn-reel-90
+M:C|
+K:D
+x2FE aDif|
+
+
+
+*****************************
+
+
+17300 0 1.5222548 
+
+<stare:
+|:ABA~GA B,CAA:|
+|:Adde fdBA|Bd,g F,DD||
+<end>
+<start>
+X:88
+T:Woms Jand Mic GlooB.
+Z:id:hn-reel-7
+
+
+*****************************
+
+
+17400 0 1.730177 
+
+<start>
+Ad:|
+<end>
+<start>
+X:7
+T:Cwisties Reon" Cerilso parton to the ,engbing The
+R:4
+P:Par tol Bowk id 
+
+
+*****************************
+
+
+17500 0 2.3934002 
+
+<start 1
+s:8 1 CA (3BGB A2 (3=cde|e2~f2 (3aga (3gfg|fgeg fded|cde^f ccef|
+d2gf afge|fdfd cAFA|Bcde f2de|d
+
+
+*****************************
+
+
+17600 0 1.9727234 
+
+<stared7
+D:C|7/87
+Z:id:hn-6etse-11
+M:C|
+K:G,
+AB|cAB Bdfg|gedc BdcB|A2e2 fedB|A2B2 d2^f|edec defg|
+[[3:f2|
+
+
+*****************************
+
+
+17700 0 1.5653293 
+
+<start>
+X:1p
+M:]/8
+L:1/8
+K:Amix
+g2B B2) (3BEG DFC F2D|: fed eAF :|
+|:A,F FGAB BAF|FAB cAB cGG GB|1 DED E2
+
+
+*****************************
+
+
+17800 0 1.3256903 
+
+<starif: (35
+FED|GABc def ed|c2c dcA ~A2B|
+cAF GED EEF|A2d BAF|G2D EDF |
+<end>
+<start>
+X:W
+T:Deil wip (19
+
+
+*****************************
+
+
+17900 0 1.3762051 
+
+<stark>
+cAG|F2d BGD ~D3|~B3 cBG E2D|FD~E2 D2F G2A:|
+|:~23e fec efd|Bdg aed c2B||
+P:versaion-
+^4-d e2f|gfa
+
+
+*****************************
+
+
+18000 0 1.5905796 
+
+<star>d2
+M:9/8
+K:D
+FEG A2F G2G|1 E2G G2E D2d:|2 d2e e2e ~G3|d2d d2G A2B||
+|:ce~g fed e2^f|g2d e2d e2f|gge
+
+
+*****************************
+
+
+18100 0 0.4642143 
+
+<start>
+X:4/8
+T:Wirjase #93, #81.
+D:Com tour the Gartan's HaVmyy, The
+R:sop jig
+D:Slomon's O,:Thie, #6.
+D
+
+
+*****************************
+
+
+18200 0 1.2037604 
+
+<start>
+X:24
+T:Cody Nong the Gid\
+Z:id:hn-slsin
+d:matmal thador Didbinarchny.
+Z:id:hn-slig-24
+M:9/8
+K:G
+~
+
+
+*****************************
+
+
+18300 0 1.5851681 
+
+<star gansd tcorg ochirh'e Fadrwy
+Z:Bdeling: The Wanso Ligdills \en rig
+H:ad bios Aft anching Pudtely af 
+
+
+*****************************
+
+
+18400 0 1.9001538 
+
+<star stor y Luis\
+R:hap jig
+Z:id:hn-slipjig-55
+M:9/8
+K:Edl EGE GBG | FFE FEF BGB | B2G BAG FEF | d2B ABc
+
+
+*****************************
+
+
+18500 0 1.3875513 
+
+<start>
+X:3/8
+L:Glix Aon of paur, ane the toune Stour I Worid, The Jige
+W:and scarin: Ie Wugee Whe
+Dec AG
+
+
+*****************************
+
+
+18600 0 2.6460466 
+
+<starkions>
+DFG DDD DAA:|
+AmB ^cBA ~E3 AFE :|2 g3 vef | aed dBA B2B | GEG ABc d2B ||
+|: dg~ geB gfe | dcB
+
+
+*****************************
+
+
+18700 0 1.4089547 
+
+<star Bartione
+Z:id:hn-slitopjie-56
+M:7/8
+L:1/8
+K:D
+GBd cBA  :|
+H:O Cen alot Itadcmerims Sichnel
+R:sl Sli
+
+
+*****************************
+
+
+18800 0 1.7340686 
+
+<stars 3-94
+M:9/8
+K:Emixm
+B/c/dB A2g fed | ced fed edc | dBB BAB a2:|1 B gfe d2G :|
+<end>
+<start>
+X:85
+T:
+
+
+*****************************
+
+
+18900 0 1.507741 
+
+<start>
+X:94
+T:I lop a brom a Lowne Cor Sliee, The
+R:slide
+Z:hn-s
+HEG G Ble | cAF AFE |1 AFE EDA | EFE CE
+
+
+*****************************
+
+
+19000 0 1.2672967 
+
+<stars 2
+M:8/8
+K:G
+f2a nene:|
+<end>
+<start>
+X:6
+T:Holfely's blede ale Fontest il Carve0, The
+R:slide
+H:Da
+
+
+*****************************
+
+
+19100 0 1.1061248 
+
+<start>
+X:114
+M:6/8
+K:D
+def gab|fdA ede|f2A ecA|
+B2B d2e|d2e fga|d2d e2d|
+d2d d2B|
+ceA ABc|ddc A2a| gaf g
+
+
+*****************************
+
+
+19200 0 1.435553 
+
+<starteh
+M:4/4
+K:G
+~ E2D E2D|G2A AGE|FAG G2E|
+~D3 E2E|A2A AGE|DAd eAG|A2G G2A:|
+|:cec A2A|cAc B2A|A2d e2B
+
+
+*****************************
+
+
+19300 0 1.0346801 
+
+<start (36
+T:Singewor Molle Wlock Sorthmay: to eugle Oo Cuthe Court's
+T:Seadtiterthy The
+T:Weer #77 Jitie
+
+
+*****************************
+
+
+19400 0 1.1821135 
+
+<starion |13 f2e def|a2g g2g|e2e f2g|faa (3gfe|f2d d2f|e2A Bcd|e2d c2A|g3 edc|d3 dBd|e2f f2d|e2e fGe|
+f3 
+
+
+*****************************
+
+
+19500 0 0.65361387 
+
+<start>
+T:Mairil Diefly Kestan's sit
+y:Anetuna
+R:slide
+Z:id:hn-slide-55
+M:6/8
+K:D
+d2d e2f|e2A ~d3|e2d ABA
+
+
+*****************************
+
+
+19600 0 1.1076121 
+
+<start>
+X:61
+T:~ndy Bair,
+D:BA\'apin #77
+M:6/8
+K:G
+f2f f2e|a2a a3|gfg ~g3|edB d2f|B2c Bde|~B3 dBA|1 ded d
+
+
+*****************************
+
+
+19700 0 0.8738956 
+
+<start>
+X:49
+T:Shyam vealt od Therchadt, The
+R:sliade
+H:Tlast Mlittorgan, The
+R:slidan
+H:The Dowgonred's
+
+
+
+*****************************
+
+
+19800 0 1.0679382 
+
+<start>
+X:6|
+H:Adon ere ingarty ont the thtrerainanef,, murster.
+H:I aums sopers \
+W:If mipher,
+W:199-gan
+
+
+*****************************
+
+
+19900 0 0.9344452 
+
+<start>
+X:32
+T:Oull Wofedive nand the fing,.
+W:Jean li and you G. #25
+Z:id:hn-slide-78
+M:6/8
+L:1/8
+K:D
+~B
+
+
+*****************************
+
+
+20000 0 0.34705707 
+
+<start>
+X:16
+T:Hop Bcrote.
+W:Thers to Tower
+R:slide
+H:Also the Rean
+v:jig
+Z:id:hn-slide-88
+M:6/8
+K:D
+A2F 
+
+
+*****************************
+
+
+0 1 3.0106876 
+
+<star
+g2|A2d fed|e2f ece|1 d3 f2d ||
+<end>
+<start>
+X:25
+T:Tedok
+W:Wuuth O'Johnny's
+R:slide
+H:Also played 
+
+
+*****************************
+
+
+100 1 1.8192767 
+
+<start>
+X:34
+L:1
+K:A
+d2A B|dB FG F,G/2|G2 dA|GF GF|Be f3|d2 dB|G2 AB|e2^ce/2f/2d/2 FG|G3 F2|EF FC|
+EF G,2
+
+
+*****************************
+
+
+200 1 2.3489485 
+
+<start>tuven
+df/g/b/2 | "Pahc.d ~| cGEG ~: | [C}ocroinse:2-
+<end>
+<start>
+X:61
+T:Slo pile Nes Golotty: Ce
+
+
+*****************************
+
+
+300 1 1.7245858 
+
+<stard>
+X:90
+T:Bsous Couulvexf?g2
+W:6,9-16-63-6
+K:G
+w|: M>B=c BAG | {edea=f  | Pa~f2 | 
+(d/g/f/e/f/g/ c/e
+
+
+*****************************
+
+
+400 1 1.6862669 
+
+<start>
+X:8
+T:Ba-Roun?y be reatou Arnto  jichutidelfe
+Z:Panstiriir patiou micke@Bt
+M:Em
+W:1-07-07-1,06
+P:
+
+
+*****************************
+
+
+500 1 2.4255884 
+
+<staration plareat ta-coustewvon crsipelle
+Z:Crafhiv? mare@tag?
+M:5/8
+K:D
+c2G G2B | c2 d2A | f4- | g2g | 
+
+
+*****************************
+
+
+600 1 1.86305 
+
+<start>
+X: 1 4 G3B (2Bde | defdd | e3 :ab agfe | c2 BGABse | d2 edef | ec Ba=Bc | e2 d3 | cBg dB{ge | fA>
+
+
+*****************************
+
+
+700 1 0.38846293 
+
+<start>
+X:84
+T:Largye Men Bous'n5
+W:.bid ef #17 #459-64
+Z:Transcrit et/ou corrigela:ur
+M:C/4
+L:1/8
+K:C
+(A
+
+
+*****************************
+
+
+800 1 3.0936573 
+
+<starvat>et>
+X:3
+K:A
+T:Qecp?ro
+W:I MacG
+Z:Transcrit et/ou cervouviele@free.fr
+M:2/2
+K:G
+cB c2 | cc B2 | c
+
+
+*****************************
+
+
+900 1 1.3199832 
+
+<start>
+M:F|-8 GBE|F2B/2|||
+|: f2 cd | {b2z | T3 (c/e/f/) |
+=B/c/=B cF | B3 c2z |
+G2 Bo!S | d>c>ed | cB z
+
+
+*****************************
+
+
+1000 1 1.6071132 
+
+<start>
+X:23
+T:Launvet?
+C:Vig?are vervide
+Z:Transcrit et/ou corraig? pbarig? fivarianiele<er
+M:4/4
+K:Gm
+A
+
+
+*****************************
+
+
+1100 1 0.51299596 
+
+<startod>
+A2B2|c2AG A2 (G6F2 | GBdfdfed e2A2 | !.cBG (3))| B2z2zz | GcAA | B4) | (dcB) (3 B2 | F2A BA AG 
+
+
+*****************************
+
+
+1200 1 2.1411788 
+
+<startat/o fe|d2d2 e2 | ~d2F2z | B2G2z2f ||
+ChB>B/G/ | c6]|
+<end>
+<start>
+X:2/49
+T:ut Aubourigfid.s.
+G2BB
+
+
+*****************************
+
+
+1300 1 3.0206811 
+
+<stargales>
+B2 z2z2 | AcAA A2A/2dcp! | a4z2z | A2z2 | z3- (d2) | B2z2m2 |
+vend>
+<ent>
+<start>
+X: 20
+T:Lu 
+
+
+*****************************
+
+
+1400 1 0.48218942 
+
+<stare
+|:2 AB c2F2 | B2BB B2 | BBEF | B_A z (Bc | B2 B2 | A4A2z | B>ebab.g.a4f!n
+s:3n
+V:2/4z/ _B3 | B/A/B
+
+
+*****************************
+
+
+1500 1 1.7323143 
+
+<star
+V:2 fafme, |1 1
+<end>
+<start>
+X:34
+
+T:Turase det PoumineeliG Gilane dlec c. sou-rileo
+W:Chantefre
+O
+
+
+*****************************
+
+
+1600 1 1.175937 
+
+<starto et/oufire Aibsliguu
+R:Chanse it gairt
+R:6/4
+L:1/8
+K:B
+M:[K:"1 Q{Bu I nee-.
+L:Clbsure de dilies fu
+
+
+*****************************
+
+
+1700 1 0.88630056 
+
+<start?
+X:420
+T:Cranou barte de dA |M
+<end>
+<start>
+X:4
+T:Lg le duro ras. cara (Mounane
+C:Trad.
+Z:Transcr
+
+
+*****************************
+
+
+1800 1 2.3075628 
+
+<starob tf?ctto]galfebfe! |125
+[D A (=cde | e>f ed | c>d f>e | d>f e>c | d2 f>g>e | e/c/d ec e>c | B2zB |
+
+
+*****************************
+
+
+1900 1 1.4435947 
+
+<start>
+X:58
+T:Betrenu
+R:Aare conto
+S:Trad.
+H:Chariner
+Z:Trovensceref:cratt et/ou-micp? Cinsai mii-rig. p
+
+
+*****************************
+
+
+2000 1 1.824923 
+
+<starto ofstaitonginalle.fre.Eroutes (eldan-to Lei pohse
+Ry!A.
+A:C.d cilo -to ?-el ?outrienorrico?.
+O:Fra
+
+
+*****************************
+
+
+2100 1 1.7841526 
+
+<starationconetoongalood. Firanlie" Golal?ot,m
+T:Frannone
+Z:Transar Michet Bc Miree | =fe-ac2 :|A9c df |
+
+
+
+*****************************
+
+
+2200 1 0.9942862 
+
+<start>atu=et/out!d: olo.e tra
+O:France
+A:Prvache
+R:6/8
+X16
+K:Fmiio:
+E:E Prider)
+G2-B|A2B A2c|A3- >4GAB B
+
+
+*****************************
+
+
+2300 1 1.8997856 
+
+<stareth
+M:708
+T:Faranale de lemsoug? co Goue
+A:Cherantre
+W:Cranougo
+W:Toup de seapou de la pou-t'a ser t
+
+
+*****************************
+
+
+2400 1 2.1820521 
+
+<starto:M:76
+T:Farandel
+O:Francretion Me/souvisel
+S:Carou led ? Gunend pret courinfo, Cousee la AE Caral.
+
+
+*****************************
+
+
+2500 1 2.5763502 
+
+<star'ato| BdBA | BcBB | B2BB|BB BdB | GBBB |d3b gedB | BB/B/BB | BBBB| BB BB | BBBB B=BB | B2B/B/BB | BB
+
+
+*****************************
+
+
+2600 1 0.37913728 
+
+<start>
+X:95
+T:Bato1
+B4 A2B | BABB B2BB | B4[G8z3z2 | B4G2F2B2 | B6d4c2G2 |1 A4B2^c2B2|A4G4|A3B2z2|B4B4d2
+
+
+*****************************
+
+
+2700 1 1.8883226 
+
+<starga
+X:89
+T:Parachad?c
+R:Farnet etolouvielle@free. 320646
+Z:Transcrit ct/oar gour?e 1902
+M:Transer tre
+
+
+*****************************
+
+
+2800 1 1.8090739 
+
+<starto:golouviele@freerfe.fr
+Z:Transcrit eb arche.
+c:My
+D:Prad.
+R:Far
+A:Provence
+C:Coune
+O:France
+A:Prov
+
+
+*****************************
+
+
+2900 1 1.5851762 
+
+<start>
+X:17
+T:Farasset
+R:Farad>
+R:Garandolole
+O:Farnde Gita
+R:Mal taubler?
+Z:Transcrit et/ouce
+H:2
+S:Car
+
+
+*****************************
+
+
+3000 1 1.7034384 
+
+<starae
+Z:T:Carche
+R:Dalou
+R:farinet
+F:Trovence
+C:C?
+O:France
+A:Provence
+C:Trad.
+R:Marce
+Z:Transcrit pat/
+
+
+*****************************
+
+
+3100 1 1.2741189 
+
+<starouthe@lince
+I:Tranat coumbouire & Marat
+O:France
+S:?
+Z:Trascc
+M:6/8
+K:B
+ccB2 | c2B2 :|
+|: f2 | f2c2 
+
+
+*****************************
+
+
+3200 1 1.4697976 
+
+<start>e
+M:63
+Q:B7
+K:Bb
+V:Gabloubli
+e2f2c2c2B>B B2BdefB.cB | c>AB>A A>A d>f | a2z B>d c>c d>c d>B B>B g2g
+
+
+*****************************
+
+
+3300 1 1.8927112 
+
+<starne@f.
+M:C|
+B2B BABB |
+B>FBc dcde | d2c d2c | cBA BcB | f2ffef | f8 | b4f2 || d2B2d2 | f3fcc | c2c>e 
+
+
+*****************************
+
+
+3400 1 0.7793375 
+
+<stark>
+X:132
+T:Mat. cma Marche, lamoverchole Mat Ba Pouminaire die et/aurinas
+M:C
+S:14
+L:1/8
+K:Gbomb
+VPi
+
+
+*****************************
+
+
+3500 1 1.9393772 
+
+<starton
+2c2 A2g2| g>g b>z Ne>f|.A(d>dA G2F>G|: <end>
+<start>
+X:12
+V:14
+d33)d2B2c3|f2e2 g3>e| f6-.2.
+[:2 
+
+
+*****************************
+
+
+3600 1 2.8293786 
+
+<start ethoubon (19252
+L:1/8
+P:Bbovendale duu _airg-! #1120)
+Z:Transcrit et/ou corrig? par Michel Bin 105
+
+
+*****************************
+
+
+3700 1 1.7015963 
+
+<starte:alolon cellovit el Mi(Mc?)t s'? li rouivo Can ousair.
+Z:Tbranscrite Baron par Michel LEELN - 2405
+
+
+*****************************
+
+
+3800 1 1.1022586 
+
+<startoutorm@gargatouvyele@frene@fre.fr
+M:6/4
+L:2/8
+Q:2/4
+Q:Jof coufle)
+Z:Transcrit et/ou corrig? par Mic
+
+
+*****************************
+
+
+3900 1 0.28302175 
+
+<startole@cre.d.d.f:|22
+[K:BFlmajfi[d/2B/2 d8|d2c^Bd f3/d/d/)|
+e2 e>d dcd|fedc dfg|
+f=e/d/ d2d dd^d|(BB(B
+
+
+*****************************
+
+
+4000 1 2.113774 
+
+<startoon btailto:gralouvielle@Meelouree.L:23
+M:1/4
+d3 d/B/A/d/ | dd d>c | )(A/A/G/ Gz |Fz BA | fff (3/e/
+
+
+*****************************
+
+
+4100 1 2.1010642 
+
+<start>
+X:184
+T: I la prases
+C:
+R:Ebran
+Z:Tradnce
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-1
+
+
+*****************************
+
+
+4200 1 3.022415 
+
+<start>
+X:113
+T:Tiy Meir fies
+O:France
+A:Provence
+R:(carlu
+A:Prounele da rambourinailo:galgouvielle@free.
+
+
+*****************************
+
+
+4300 1 0.028222363 
+
+<start>
+X:14
+T:La Staiso Re/tiss
+R:Finscre
+N:Pbridtoy
+R:Mence
+S:C?rig
+R:Scortel
+I:Rochen
+S:Pouto lamuit"u
+
+
+*****************************
+
+
+4400 1 1.987389 
+
+<star
+X:190
+T:L'a "S'r?w
+W:df Reer Br?tes de  L dh ais 6 7
+D:Jour uligo samauqis
+C:Provenclte=el
+R:J/4
+Q:
+
+
+*****************************
+
+
+4500 1 2.7656882 
+
+<starthot>B ffld ::
+dd de~| Be c>B | e>e fa | e>d B>A | B4 | AAB | G- B2 | Bc BB | BB BB | BB B>B | B4 | 
+
+
+*****************************
+
+
+4600 1 2.0902183 
+
+<startholT@areth maspilti par Michvie Ginas (1924)
+Z:Transcrit gele.fr
+Z:Transcrit et/ou corrig? par Mich
+
+
+*****************************
+
+
+4700 1 1.4172217 
+
+<starton\:Talleet partion Vailt ha zinabris gragser?
+Z:Transcrit et/ou corrig? par Michel cELLON - 2005-0
+
+
+*****************************
+
+
+4800 1 1.4290266 
+
+<startoult@resgalfe9
+A:Provence
+S:Callo Partio
+Z:Trancar Rech
+M:2/4
+L:14
+":1/8
+L:1/4
+~=(c3G(^A/G/B/ | F2)
+
+
+*****************************
+
+
+4900 1 1.831818 
+
+<startolo X11404
+K:Fla-1
+[K:1/4] (F3A | "G7"G2B | ccz | A6 | c3d | ccc | B3G | cc | dcd | cef | e3 | ccc 
+
+
+*****************************
+
+
+5000 1 1.6320454 
+
+<stardhne@fre.f2 (32B2f2|f4d2cz|(3cdcd3c2 g3/2e2:argati_e2 fdB|eeegg fecf |f2ed2d2c|GF|DGE2 zGA|
+f2z (d6 
+
+
+*****************************
+
+
+5100 1 3.1410885 
+
+<starta
+O:Varcefle@Tr
+M:C/4=6
+K:Ab
+V:C,
+f2 ag | f3 edc | c3 cz2 | A2B2 | dcB/3 | BAc3 | _edcB | Acc | _cr
+
+
+*****************************
+
+
+5200 1 1.7049637 
+
+<starfouton lame de |1
+M:2/2=127
+K:Emaj
+V:1 e d e | ed e2 | f>g f/g/e/:|
+f7 ge |dc B2|AG/2A/2 Acc||fe eg|
+
+
+*****************************
+
+
+5300 1 0.89616615 
+
+<start>
+X: 30
+T:Centaise le M'?mu sEui lin-sin-sevohsine corm ? astra
+sfriaureation
+a cou dne slales sit 
+
+
+*****************************
+
+
+5400 1 1.0353708 
+
+<startethonpel de2 tta ter moblian mit prali mai-ta
+R:C
+Z:Transcrit et/ou corrig? par Michel BELLON - 2 0
+
+
+*****************************
+
+
+5500 1 2.4657125 
+
+<starte
+|: G6- |"Gc<] g2e | e3c GA | B3 AB | cB AG :| [P:Trar ? 1 ne-te ve le ja-nle la-ai ver. pe uun la
+
+
+*****************************
+
+
+5600 1 2.1742601 
+
+<start>
+X:20
+T:la nan-gu. rDa va la la c0 pes-mel-ngro raigi
+W:Kucha
+Z:Tour tou courig?. Ein cou tun-so?r
+
+
+*****************************
+
+
+5700 1 2.152976 
+
+<start>et/or detrouvielle@frue.cr
+M:6/8
+L:1/8
+K:G
+A/f/d/e/|d2c B^c|A/G/d/c/ ed/c/|dg ed/2c/2|[(cBA z/2c/2
+
+
+*****************************
+
+
+5800 1 0.023248082 
+
+<start>
+X:7
+T:ge dro wule
+R:Ita?ce
+AA Mam"de noute di du?b'en N'and pallin
+Z:Transcrt et/ou G:
+M:2/4
+Q:1/
+
+
+*****************************
+
+
+5900 1 0.8403233 
+
+<start?
+[L:7/8=16
+K:Fa"d/e/f/d/e/c/|dc f3/2A/2B/3/3|] Preaf
+ff ag | c2c ef | fg gg ec | _e2 "ede | cB c2 
+
+
+*****************************
+
+
+6000 1 1.3067693 
+
+<start>et/ =ccitto:
+M:4/8
+Q:1/80
+F ABA | B2c BG|AB cBc | cBc ABc |
+(3G/A/) | Ad z2 |
+P:Priod.fe
+| "C""cd 
+
+
+*****************************
+
+
+6100 1 0.9764816 
+
+<start!: EABGB c2c2 A2G2 | A4c2 | [CaLeg fe | d3 def | edc2 e2 cce | e2e e2d2 | d2e2 dcde | fede) | cBABB
+
+
+*****************************
+
+
+6200 1 1.2202777 
+
+<starty]T@beabgn!b2a tes binton  thous thivbpai tosti vam Amus el gut?, Trraschesor",5 ,7, pux'ains cais,
+
+
+*****************************
+
+
+6300 1 1.9131424 
+
+<starth
+X: Tgrin po
+W:UMco S?ime)are ga mois
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005--07
+Z:Pou
+
+
+*****************************
+
+
+6400 1 0.9854131 
+
+<start>
+X:16
+T:Ine dec
+C:
+dec2B | c2=c2 ||G.EE FAAB|AGGA BAG:| (ccBd) ||c2c2 cG|(ccBA d2!dref)"B2c2 | d2e
+
+
+*****************************
+
+
+6500 1 1.9445632 
+
+<starto:galade@fr Nicholkion maithounailhe@fre.fr
+M:2/2
+L:1/8
+K:B
+Af ed |gf d2 e/3/d/|ag "R"ed|"D"g2 "ubi
+
+
+*****************************
+
+
+6600 1 1.41614 
+
+<start>
+X:1
+T:La mass 209
+N:N
+D:Moire
+C:Tandie
+C:Toll Bio
+Z:Tringar ba blavuvine, 6
+M:24
+L:1/8
+cd ed|f2 c
+
+
+*****************************
+
+
+6700 1 2.2253013 
+
+<start>
+X:11
+T:Bour pour
+M:3/4=18
+L:1/8
+K:G
+g3gf|egef|:cBcB|dBcd|cdef|edd|c=e|d4:|"
+"G"B2c2|d2cd|edcB|c2|
+
+
+*****************************
+
+
+6800 1 1.5826625 
+
+<start>
+X:1
+T:Nottor
+F:Machates pavenceC, Trom'inines-sitisF
+z:adb Provande
+R:Wourree
+J:1/8
+E:Hdory trael
+
+
+*****************************
+
+
+6900 1 1.4082087 
+
+<start>
+X:1/8
+T:Rabullo
+M:3/4
+L:1/4
+K:C
+AG F Fd | B2-AG GE | EFB cB A2B |
+"F"d2 f2 d2 ce- fz | g>f ga b2 
+
+
+*****************************
+
+
+7000 1 2.0428724 
+
+<starto
+M:10
+C:1 109-17)
+M:1/4
+L:1/8
+K:Em
+zB HGA|G3|A3|
+x|:e2c2G2|"Am"d2B2 B^c|B2G2 GBg|\
+V:2
+"D"B2FA3 | 
+
+
+*****************************
+
+
+7100 1 1.9241451 
+
+<stare@bikol>
+M:2/4
+L:2/0
+|:12 14
+K:Gmin
+M:2/4
+L:1
+[2/4]
+L:1/4
+I:198
+K:P
+A:"A4 Ea ec | "Dm"d2 dc d2 cB|4A
+
+
+*****************************
+
+
+7200 1 1.8270142 
+
+<start>
+X:12
+T:pumie de bomuned
+Q:Dafferable
+M:3/4
+L:1/8
+K:B
+d  ce c>G|1G AB cd|e2 gf eg|f2 B2A BA|G3 z (
+
+
+*****************************
+
+
+7300 1 1.5366495 
+
+<stard>
+X:1
+T:Ao]
+R:Mazurliti
+R:Bourre
+Z:Juchero@bonche
+R:Patour
+M:3/4
+L:1/8
+K:C
+c2 c>dG BcA| (A2cBG | "C
+
+
+*****************************
+
+
+7400 1 1.2787613 
+
+<starik gar milfi, or tonbaubrle
+O:idandely if
+F:Gn-stave j?iel
+O:Fransc
+M:6/4
+L:1/8
+K:Am
+A2G|G>BAB|A2cd 
+
+
+*****************************
+
+
+7500 1 1.591071 
+
+<start>
+X:9
+T:Tourr?e Antr"ce-mes:tepsoinle
+B:has-Aples "Lenance-er
+(3/e/c/ d/^c/B/ c>c:|
+ce c2 | A/d/d/>
+
+
+*****************************
+
+
+7600 1 1.5522435 
+
+<starko:galgee.fr
+M:4/4
+L:1/4
+Q:3/4=16=1/4=160
+C:afimasod.er-sit Bramle
+R:Airkana
+K:A]
+D2D4|G2zz |dG AGG:
+
+
+*****************************
+
+
+7700 1 0.11998559 
+
+<starghap?
+<end>
+<start>
+X:5 Trche ur - phne sorm? M'isux)
+<end>
+<start>
+X: 1
+T:Branle aud
+H:Thsmapho
+N:E
+
+
+*****************************
+
+
+7800 1 1.3301377 
+
+<start>
+X:1 31
+T:Branle Bans ureigne
+d de corrig? ep diffuugg
+F:Transcrott et/ou moureel dis masx
+Z:<endc
+
+
+*****************************
+
+
+7900 1 1.215561 
+
+<starto: Sarche Blloup Btr?angeu
+Z:<enamnee-coK 200
+S:1169.1
+K:G
+G2A2 B2G2 | A2 A2GF | cedc2d2 || d/2B2 H
+
+
+*****************************
+
+
+8000 1 1.1230088 
+
+<startoup: choukk Mouglan Aranles arg
+R:Bamuell tu couul
+R:Aranld aube S'?ondo"g
+M:2/4
+L:1/4
+<end>
+<start
+
+
+*****************************
+
+
+8100 1 2.2718918 
+
+<stard>
+<et>
+X:3
+T:Branle doun?la
+S:\139
+O:France
+A:nemnaule do noinot (1999)
+O:France
+Z:Tranambe
+C:Orcoz
+
+
+*****************************
+
+
+8200 1 0.022223584 
+
+<starif.ce
+A>GAB2AEG,Bcde4 | eege deff eegb ggegg | B2dcBdB | e2a2e2d2 :: c4d2 d2:S ==Bglzogf/2 c B AG | 
+
+
+*****************************
+
+
+8300 1 0.3706952 
+
+<start> omet> - ligpin fadpinle de r?pinle
+R:Bramle e Mogunau
+Z:Transcrit et/ou corrig? par M?chel BELLON
+
+
+*****************************
+
+
+8400 1 1.4786435 
+
+<star nitostonamy|
+W:Furcher
+R:Branle uille fopr u-me naSlanot| 1 Tb?ur numau \
+O:1479
+C:C
+Z:id.C I Mhars
+
+
+*****************************
+
+
+8500 1 1.6110588 
+
+<starto: gal? Mler se5 d? Line dan fevaib,
+C:Morneat channe de sin late
+C:Bransi Ne 1
+M:CefinesAange
+R:Br
+
+
+*****************************
+
+
+8600 1 1.5773993 
+
+<start>
+X: fd se0thsier gon 
+B2 | ITcon 2 
+G/2E/  Gz | .G/2A/2ce | g4 | e2 d(cB | df (f2 dB | GAG | G2 B2
+
+
+*****************************
+
+
+8700 1 2.8278637 
+
+<start>
+XV24
+T:Pobllad 
+M:Mim"O Mas Y ches laqoud
+R:Pillarddialle
+C:Jeavan etau
+N:Rien .
+H:Tennesgon
+C:Ra
+
+
+*****************************
+
+
+8800 1 0.46045524 
+
+<start>
+X:4
+T:O?he - th/he 11461 6805 |
+K:Bm
+V:1
+M:3/4
+L:1
+T:Bran
+R:Jair
+M:2/8
+K:G
+ga gga b2  b2 ((g2 | g
+
+
+*****************************
+
+
+8900 1 1.265271 
+
+<startolse@ftogsee.fr
+M:4/4
+L:1/8
+K:D
+c2 | cdd B2 G2 | GBGF Ac BAF | E2 E2 Bc | G2 G2 G2 ||
+<end>
+<start>
+
+
+*****************************
+
+
+9000 1 0.3206982 
+
+<start>
+Z:id:hn-sarnden-15
+M:C|
+L:1/8
+K:G
+B2 BAB2 | c2dB BABd | fed2 gedB | B2G2 G2G2 :|
+b4 edcB | c2 e2g
+
+
+*****************************
+
+
+9100 1 2.7437592 
+
+<start>
+Sstif. Huceos Motenetit
+M:A.cAro F
+Z:id:hn-barnder
+Z:id:hn-blador-19
+M:3/4
+L:1/8
+K:G
+B,6,2 | G3B 
+
+
+*****************************
+
+
+9200 1 1.840833 
+
+<starto
+|: (Ce"cB | mB7"d>c | d2d2f2 | Bcdd e2cA | A3ce dffgd :||
+|: cdefed2 | d2c2 d3fe2 | defed d3efg |
+
+
+*****************************
+
+
+9300 1 1.5644615 
+
+<stark/on>cmwtipte-olalances
+C:Tridu Wanclan
+Z:id:hn-crortaigin
+C:Trandenc
+M:C|
+K:Eb
+|:c>dB c2AA | d2f2 e
+
+
+*****************************
+
+
+9400 1 1.4870665 
+
+<start>
+X:30
+T:MBllos Meist MaCC
+R:ganslande (1674-7 198-7
+Z:id:hn-darolin-16
+M:C|
+K:Am
+B2G3 | A2A2 A2FA 
+
+
+*****************************
+
+
+9500 1 1.8018105 
+
+<startonxk3
+M:Al
+K:Em
+d e2g | 
+dBdc B^DB | BABc d2ef dBAB | A3 AFE | BcBc d3de | dcd2 E2DD | G4 B2G2 | A4
+
+
+*****************************
+
+
+9600 1 1.2661004 
+
+<staron corran orrigh par Michel
+Z:id:hn-carrolan-48
+M:3/4
+L:1/8
+K:B
+G |: A>B c A2 D>E | a>g ed ce g>ef |
+
+
+*****************************
+
+
+9700 1 2.426091 
+
+<staren
+X:30
+T:Cerottisier . Ildee coghn thet Man\
+s:e Audoth 4 conpet L's O'si!"C,G.n/wn
+B:Ol Marole
+R:c
+
+
+*****************************
+
+
+9800 1 1.8400302 
+
+<startongalongailalin by tromen Hisso, #16ithi8
+H:Orish O'Reeland
+C:00ide wascery Pawet,
+Z:if:hn-hf-6
+M:4
+
+
+*****************************
+
+
+9900 1 1.6224043 
+
+<startophellaip str/an-ar-131
+M:2/4
+K:Em
+EED BABA | GFED FEEF | EFDF A2cA | E3E AFD2 | BEG2 FEFD | E_GFG 
+
+
+*****************************
+
+
+10000 1 1.674467 
+
+<startolan (316
+T:Chil in nafe Gin Toy wudilsaine B
+H:Adin
+Rtonlia \-2e
+T:Aobhnn & Tennand
+Z:ich:hn-he-20
+
+
+*****************************
+
+
+10100 1 1.6148667 
+
+<star_
+K:Am
+Ae | cdb2 g2ef | fdff gge |
+d2Bd fgfe | dg fege dgfe |
+adAG B2gg | affe dcde | fede aga2 | gg
+
+
+*****************************
+
+
+10200 1 1.9473172 
+
+<startolpiol. Ellago vorn iMchee (31289
+M:C|
+K:G
+(3Bcd | efge d2B2 | A2GA G2Bc|d2 (3AGA B9 :|
+<end>
+<star
+
+
+*****************************
+
+
+10300 1 1.4258345 
+
+<start>
+X:11
+K:Dir
+AFG]EDBG | E^EDEF GBAF | ABGBE D2D2 |
+GABA G2EG | E2D2 DDGA |
+BAB2 GGGD | B,GE D2A2 | 
+
+
+*****************************
+
+
+10400 1 1.9069742 
+
+<starte@unslist crit topers ?tran otharnsoghwo Ea, Olane"Arn's
+H:ay ornes 118-20) amelles, The
+R:hornpipy
+
+
+*****************************
+
+
+10500 1 2.2140226 
+
+<start>osteloupielay Hirnsie .cervion: Ceavinn
+Z:id:hn-hornpipe-22
+M:C|
+K:G
+(3GFE|G2Bc d2ga|agec dBGc|d2a
+
+
+*****************************
+
+
+10600 1 1.016415 
+
+<startol@dance@ark7ithpipe go2ta |
+Z:id:hn-hornpipe-22
+M:C|
+K:A
+FA |||
+PFnncottion1]1 (36(3:|26
+|:(3CeG|A
+
+
+*****************************
+
+
+10700 1 1.9420595 
+
+<start>
+X:29
+T:Huuye, weFin
+T:Aitheded eoun J'eel (wute: The Lisgleg, lumepe, The
+F:with Iwes Fave Horssi
+
+
+*****************************
+
+
+10800 1 1.3598175 
+
+<start>
+S:4/8
+K:Bdor
+EA|BD FGBD|G2FG A2:|
+Adfg a2aa|b3ba gfdc|
+fa(bafe ddfg|1 dcef dfaf|edcB ABAG|
+BGBd d
+
+
+*****************************
+
+
+10900 1 1.2090415 
+
+<start>
+X:349
+T:O'Kesordykefirg
+Z:id:hn-hornpipe-74
+M:C|
+L:1/8
+K:D
+(3Bf)|
+e2ef abag|afb2 afed|cAdA a2re|d
+
+
+*****************************
+
+
+11000 1 1.3105148 
+
+<start>
+H:Deussish oB Bo le wheradef
+Z:id:hn-hornpipe-89
+M:C|
+K:D
+DF|GA AGFE| A2GF EGD2|dddc BABc|d^cde f
+
+
+*****************************
+
+
+11100 1 0.9235254 
+
+<start>:
+X: 150
+K:D
+dge|Afga gEcF|G2GA BGAB|DG FGAF EFGA|~B2A2 (3Fdc (3dcB|(3ABG EB (3cde|fgde fdcd|egec 
+
+
+*****************************
+
+
+11200 1 1.0555475 
+
+<start>
+H:hat paghlay wall wix
+W:ang ol cloo2/.
+G:Padtt Mamerik
+D:Marec'in: bayt allo pay Fu als: wi?hila
+
+
+*****************************
+
+
+11300 1 0.36077332 
+
+<start>
+X: 40
+T:Keln's Wohpipoday
+W:Bran of the Kanin:2
+H:Dernan GEposin's
+H:See a Froorn 6/81
+M:C|
+K:G
+:
+
+
+*****************************
+
+
+11400 1 1.7392102 
+
+<start>
+X:28
+T:Ant Breahere Hornpipe
+D:Sorell Was Syent
+D:Madly Priamell Ne
+Z:id:hn-hornpipe-
+R:h:cornpip
+
+
+*****************************
+
+
+11500 1 1.217977 
+
+<start>
+X:47
+T:SiN n'stirgandary:
+S:See ne's at's tail Slean
+T:Fan Yot: Origh's Gabolne
+S:Cerishert stipe
+
+
+*****************************
+
+
+11600 1 0.8889561 
+
+<start orest
+Z:id:hn-hornpipe-86
+M:C|
+K:D
+(3DB,CE | DGAG A2Bc | (3Bcd BG G2B2 | GAGF G2BG | G2GA dc Bd :|
+
+
+*****************************
+
+
+11700 1 0.93956757 
+
+<start>
+X:24
+T:Himts Hirs, Thevs
+Z:id:hn-hornpipe-89
+M:C|
+K:D
+AB|cege dBAG|GFGB GBdB|cAec ded|fded Aefd|c
+
+
+*****************************
+
+
+11800 1 1.0346656 
+
+<starto] FGAB | ABcd g2 (3agc | dddB c2Ac ||
+|: dgfd | e2fe g3a | agfe agec | AGA^G=GAB cAAF| E2ED A,G,CE
+
+
+*****************************
+
+
+11900 1 1.1971744 
+
+<start>
+S:teansy' Bairhe's Of the moyed gaalay H|Tand 4 of S?y
+R:hi-jornpipe
+W:Ith toy's
+T:aptyl hess of 
+
+
+*****************************
+
+
+12000 1 1.8657228 
+
+<start>
+X:9
+T:Rors ing bredared of thid 2net tend other Hillouel" Rich"viss
+W:Ris au the Der Lindid,
+Z:id
+
+
+*****************************
+
+
+12100 1 1.3639276 
+
+<start>
+X:13
+T:Finn Carnan: Curpin ofld tean bred an Keckone
+Z:id:hn-jig-13
+M:6/8/8
+K:G
+(3Bcd edc|c2c d2d
+
+
+*****************************
+
+
+12200 1 1.173 
+
+<star 2>
+<end>
+<start>
+X:3
+T:Stairs of the operd in partle "6o" Danc, bapest, Thed the Wined
+Z:id:hn-jig-
+
+
+*****************************
+
+
+12300 1 1.1878624 
+
+<start>
+X:18
+T:Also Harty BEirl" The wothlard Farust: righe
+Z:id:hn-jig-27
+M:6/8
+K:D
+(3ddB AAc|def ~a3|bg
+
+
+*****************************
+
+
+12400 1 0.8962384 
+
+<start
+T:Bilo Stair.
+D:Jaid the Dean>
+Z:id:hn-jig-36
+M:6/8
+K:Amix
+B3B cAB |1 ed^c d2c:|2BA BAB c2A|BAG A2
+
+
+*****************************
+
+
+12500 1 1.2969023 
+
+<start>
+X:37
+T:Poplay's Mowild (181.-1910-898)
+Z:id:hn-jig-28
+M:6/8
+K:Edor
+gfe edB|GBd edB|~B3 dcB|~A3 Ad
+
+
+*****************************
+
+
+12600 1 1.694662 
+
+<starto@: ahel Olay [T:Lopnais.
+D:Rhest The
+R:jig
+Z:id:hn-jig-4
+M:6/8
+K:G
+AFE ADD|(3Bd=c Bcd|eaa f2a|fed 
+
+
+*****************************
+
+
+12700 1 1.3319376 
+
+<start>
+X:1/86
+T:Meversor's W\'ig, The
+Z:id:hn-hornpipe-57
+M:6/8
+K:G
+BAG FDE|DEF G2B|AGD DGD|B,ED DGA ||
+
+
+
+*****************************
+
+
+12800 1 1.0513443 
+
+<stare
+|:1 AFE DFE | AGF ~E3 | F2E EDE | EFE cBc | deB AFE | F2D D2D :|
+W:wesst pleath "G.D
+Z:id:hn-jig-6
+
+
+*****************************
+
+
+12900 1 1.5879086 
+
+<starthogn~fredt>
+Z:Duncec'S: Steit Stable Stirs: Uw ten 'w, bo dloormolan Nhem
+D:Jilo favent B
+C:Jacken:
+
+
+*****************************
+
+
+13000 1 2.6882555 
+
+<start>
+cAA |
+AAA dBB | dBG G2A | BBA ABc |1 dBd cBc ::|2 def g2d||
+|: fdA dAF | cAA faa | fde ffg | fed 
+
+
+*****************************
+
+
+13100 1 1.5942383 
+
+<star 2:177
+B:Bdlesh, The
+R:jig
+C:Pdurly Pipe, The
+K:Ebic
+D:Mowrigin Fing, Freglid: The Sudxen's Meligh C
+
+
+*****************************
+
+
+13200 1 1.1322696 
+
+<start>
+A:Pady Slaginal
+D:De Danpanty: Setumals
+Z:id:hn-jig-85
+M:6/8
+K:F
+AAF ~D3|GAF GFF|GFd dBB|dBG ~F3|
+
+
+*****************************
+
+
+13300 1 1.4301803 
+
+<star AmF
+DB, EED|EFA BAG|d2e eeg|~fa ece|AFG AFA|d2e cAG|ABA fAA|\
+d2d def|edB BAG|~F3 ~E3|cAG FAG|BGB B
+
+
+*****************************
+
+
+13400 1 0.8669739 
+
+<start Faltssor
+Z:id:hn-jig-34
+M:6/8
+K:A
+~F3 BcA|~A3 Bcd|BAB BGB|1 cAF c3e|fed cAF|GFG dBG|~G3 cBc|def ed
+
+
+*****************************
+
+
+13500 1 1.2498617 
+
+<start>
+M:8/4
+L:1/8
+K:G
+|:ded d2e:|2 fdB A2G |
+d2B d2B:|2 cAE D2F|GEE FDE||
+<end>
+<start>
+X:5
+T:Sainc'on 
+
+
+*****************************
+
+
+13600 1 1.5582427 
+
+<start>
+cyF|GBd|g2 dg|
+ea ae/f/ | gb e/g/e/|f/a/b/ g/a/g/|ef e/a/g|gag |
+a>f ge/d/|e/d/B/G/ A2||
+<end>
+<s
+
+
+*****************************
+
+
+13700 1 2.1641276 
+
+<start>
+A>B>cB|de dB/A/F/A/|1 fed/c/ BA/F/G/A/|B/G/B/E/ A>B/G/B/|BA G>AG|A2e d>BA|G/E/E/G/E/A/ GB/d/|e=d/
+
+
+*****************************
+
+
+13800 1 1.1276581 
+
+<start>
+ustart>
+X:22
+T:Rean Drasstan Clago, The
+T:Canannal unt end Crane, The
+R:Mich
+Z:id:hn-mlarch-20
+M:
+
+
+*****************************
+
+
+13900 1 1.2867961 
+
+<star AFlix/ Jin-197
+H:Also hich & #375
+H:Aligh tun the WaiAs Wigleve
+K:D
+D2D | FED BAG | EBe dBA | BAf a
+
+
+*****************************
+
+
+14000 1 1.5869586 
+
+<start>
+|: E3 A2 | BE E2 G2 | BGG Bd|ff a2 ef | f ed e2 ||
+|:A2 AB c2 c2| e2 e2 eg | Hed ee dB | dA Bc d>
+
+
+*****************************
+
+
+14100 1 1.3309039 
+
+<stark>
+X:99
+T:Chankes  M a la ale Moonnany
+Z:id:hn-mazurka-15
+M:3/8
+K:A
+GBd|e2 fd dB|1 G3 Bd:|
+<end>
+<st
+
+
+*****************************
+
+
+14200 1 1.2403542 
+
+<start>
+W:C|a Bu comle's & (3elecks:
+BG|e2 A2|B2 BA|G2 AG|G2 A/G/F/E/|F/G/F/G/ Fd|
+de f2|
+(3e/c/^d/c/ ed|
+
+
+*****************************
+
+
+14300 1 1.3934861 
+
+<start>
+X:91
+T:Pilly's Tonka
+R:polka
+H:Cean Stra's Girnere
+R:polka
+D:Dode (cowhoes wist pove Dolka
+R:polk
+
+
+*****************************
+
+
+14400 1 0.49020156 
+
+<star
+D:Bc|ce e>f|ed c>A|BA BA/B/|ce dG|A>c/B/A/F/|GGB de|AG A2:|
+|:fa a>c|ce ce|ca a>d|e/f/e/d/ cA|A2 EA
+
+
+*****************************
+
+
+14500 1 0.88406944 
+
+<star
+|: cA Gg | d2 dB | B2 B2 | be ed AB|c2 A2 :|2 de fe|d2 A2 ||
+|:ce eg/e/|dB GB|cA AF|B2 B/c/d/B/A|
+B
+
+
+*****************************
+
+
+14600 1 1.3534392 
+
+<start>
+Z:ie Alvan Bron in 219
+D:Molka Beus Bolka
+R:polka
+Z:id:hn-polka-34
+M:2/4
+L:1/8
+K:D
+FE FG|AG FA|DA
+
+
+*****************************
+
+
+14700 1 2.1573677 
+
+<start>
+X:91
+T:Jomed Keane, The
+T:Breapher Polkau Bouma
+R:polka
+Z:id:hn-polk-84
+M:2/4
+L:1/8
+K:A
+FA BA|BA 
+
+
+*****************************
+
+
+14800 1 0.5733695 
+
+<staron deal B1G G, GE |
+AD CF | B2 D>E FE |
+DA ce c>d | cA A^F EF |
+B2 AG G>A|ED A>B/c/ | d>f fe| d2 dd 
+
+
+*****************************
+
+
+14900 1 0.60105383 
+
+<start>
+X:4/8
+T:Fross Erd nesnnd (199417-17, Ithy
+R:polka
+Z:id:hn-polka-150
+M:2/4
+L:1/8
+K:A
+GB/c/ AA|1 A2
+
+
+*****************************
+
+
+15000 1 1.9171011 
+
+<start>
+X:39
+T:Jhee Tar lo'sef
+R:polka
+Z:ad:hn-polko-124
+M:2/4
+L:1/8
+K:Ador
+EG FB|AG AG/A/|BG BG/E/|1 AG 
+
+
+*****************************
+
+
+15100 1 1.0790967 
+
+<starion
+AcB AF|E>E AB|AB cd|ef (3gfe|Bf ec|GB dB|AG AG|AB A2:|
+|:Bg gB|cd fd|cG F/E/D|BB ED/E/|1 DG AD:|
+
+
+*****************************
+
+
+15200 1 0.8111332 
+
+<starky:
+M:2/4
+L:1/8
+K:D
+dB/c/ Bd|ef ed|BA d>B|FA Bd|ef eA/d/|BA AB/A/G/|Fe c>ce|ea fg|ge dB|fe af|ea/e/ 
+
+
+*****************************
+
+
+15300 1 1.0706799 
+
+<starn
+A>AG FA|GE DB/A/|1 GG GA/G/:|2 D2 D2||
+|:d/e/f/a/b/ e/c/e/|dB ce|f/e/d/c/ BA|G2 GA|dA c2:|
+<end>
+<
+
+
+*****************************
+
+
+15400 1 1.8230581 
+
+<start>
+X:98
+T:Masle O'reem of #93
+D:Draderain ith Jigh
+D:Jolk at Madure's Sole1
+T:Marys of Paney Miclofr
+
+
+*****************************
+
+
+15500 1 1.4309 
+
+<star
+AdB Adef|g2G>FA D2~A2|dedf eddB|1 B2G2 BG~G2:|2 d2g2 e2e2|dD~D2 A2EF||
+<end>
+<start>
+X:89
+T:Jiminfy
+
+
+*****************************
+
+
+15600 1 1.4094949 
+
+<starh
+X:14
+T:Srome Kedgina
+R:polk: Alse Molkall
+K:Erich
+H:Also Sligolais)
+T:Yellwosse's
+R:plalka
+S:Meere
+
+
+*****************************
+
+
+15700 1 1.200213 
+
+<start>
+X:8
+T:Rliatero Danes.
+Z:id:hn-reel-10
+M:C|
+K:D
+DGEF GBdB|GBAF GABA|DBd dFED|G2Bd Bddg|
+f2fd BABc|
+
+
+*****************************
+
+
+15800 1 1.6598427 
+
+<start>
+X:87
+T:Ski Tonnador
+R:rdel
+D:Chanenfet M:2.
+T:Hamy Bontreston Tun "The a Othe Dong.
+Z:id:hn-reel-
+
+
+*****************************
+
+
+15900 1 0.7346228 
+
+<startolkol4
+M:2/4
+|:2BAG EFEE|D2FD D2BA|F3A BAFE|BEAB cEFA|EGGA BGAB|~G3B d2df|eaga gede|HGE2 G2 (3efgf|
+
+
+*****************************
+
+
+16000 1 1.8187544 
+
+<star dange.
+A:Bordines: The reetens
+Z:id:hn-reer-14
+M:C|
+L:1/8
+K:G
+dd~d2 edAF|FAFA d2BA|FDDF D2FE:|
+|:~A
+
+
+*****************************
+
+
+16100 1 1.3158505 
+
+<stark>
+X:38
+T:Mirtinge
+T:Linwes.
+T:Kegins shig.
+D:woc geglery Dudring "The Gnandir to Modred nwiver's
+R:
+
+
+*****************************
+
+
+16200 1 0.70422137 
+
+<start
+X:4
+T:Destiny 
+Z:id:hn-reel-24
+M:C|9
+P:sontel
+D:B>A cBee|dcBc efie|d2aB eAcA||
+ABce fedc|Bcdc d2dc
+
+
+*****************************
+
+
+16300 1 1.1154317 
+
+<start":
+T:Ghillpall
+R:4
+Hce Bce EFBg | eBdB BGBA | G2EF G2cd | ecAd efge | fedB AGFE :|2 ~G3E A2||
+<end>
+
+
+*****************************
+
+
+16400 1 1.5760759 
+
+<star tusse orrips Furkiellears, #8
+T:Mare Dinereds ahe &n age are "The Haj 1174 pars Mife
+D:Mutt of the 
+
+
+*****************************
+
+
+16500 1 1.5089264 
+
+<start ollatt to the froms reell.
+H:Thille Sa Roor
+R:reel
+D:Cone to the of thild te, #85
+R:ree
+D:Choek Bo
+
+
+*****************************
+
+
+16600 1 1.5069178 
+
+<start>
+D:BaAlfy.
+D:Gary Pery Dene127. (199b-118156)
+Z:vishisce Car
+S:version vears on the fancers, The
+R
+
+
+*****************************
+
+
+16700 1 0.6169069 
+
+<start of-t the Mohly's.
+Z:id:hn-reel-67
+M:C|
+K:Ddor
+B2BA BA~E2|GB
+BAFA BAGB|GBAG ABAG|FE~F2 eA~G2|BGBG E
+
+
+*****************************
+
+
+16800 1 1.4055675 
+
+<start>
+HAGMEs AFab | AG~A2 B2BA |BGBd BcdF | F2GF GFED | BEEG BAGF | GEFA dBBG | GEEG FFDF |
+GBBG F2DF |
+
+
+*****************************
+
+
+16900 1 1.8108954 
+
+<start Parithits topl see amactine, M. Chair, The
+R: Marban Playd (Mwaj's Varted", The
+R:reel
+H:See also 
+
+
+*****************************
+
+
+17000 1 1.3789032 
+
+<start>
+GABG DEFE|~D3^F ADEE|~GBBA GE~E2|
+c2cd efge|
+c3e edcA|G2FD DDED|A,DEE DEDE|d2B,E FE~C2|FAdG AGF,F
+
+
+*****************************
+
+
+17100 1 1.5451629 
+
+<start:
+HdAGF | F2E2 ABFD | E2AE FDFA | EcAG FGAG | A2dc BcdB | AGEF GEED :|2 (3cBA GE D2 (3EDE | EGEG BG
+
+
+*****************************
+
+
+17200 1 0.572478 
+
+<start vertion 14
+D:Pavin Mighan's elf, Thend Tune fere oris: Deighered Ming McLain
+R:reel
+S:Seasion, The
+
+
+*****************************
+
+
+17300 1 1.3653547 
+
+<starton ofd toun (1977-19188)
+Z:id:hn--00
+M:C|
+Zind of the sads aA of the Hmoution of Leloy's Lealis: Cr
+
+
+*****************************
+
+
+17400 1 1.4477466 
+
+<star tu tlo bur the reel the Stensing of 197 pestion it Merty #9
+D:Frankif tunety: Meastain, The
+R:set A
+
+
+*****************************
+
+
+17500 1 2.2702553 
+
+<start:
+X:C|
+K:Dmix
+ed|eede f2 (3cde|fafe a2cA|
+[Bd~fd e^fB|d^cBA GFGA|=fecA GFGA|BEFG ABcd|
+A2FG AFGA|~G
+
+
+*****************************
+
+
+17600 1 1.9300936 
+
+<start tub to Led wondyond 2 fefst ar Darlin: Cegnan Smanar's "The DFich's Fcodyy
+D:Bomine: 2eted O'Gardi
+
+
+*****************************
+
+
+17700 1 1.3397557 
+
+<start pmorsio plsop.
+D:Dlany Rived, The
+H:Sat to "Tunevainwe
+Q:14end.
+D:Aviftled, The
+R:slig
+S:Slickisss
+
+
+*****************************
+
+
+17800 1 1.0643712 
+
+<start jic
+end ^cAc|AAG AGF A2F|GAF GEF GBA|1 cAA ABG GAB:|2 cAG Bcd e3||
+|:(3gfe e2 a2a ace|fdf edB Bde|
+
+
+*****************************
+
+
+17900 1 1.2991767 
+
+<starket of sing the Barbrinc, #13
+H:See #7
+D:Steve L'ananB5: Dack.
+D:Davix Bcardy BA
+D:Joh ist (uCMinc F
+
+
+*****************************
+
+
+18000 1 1.6006649 
+
+<startoulsed McGVarriet do ip variatery setsd in Reger,, The
+R:ho
+A:Comer's Blean1
+Z:id:hn-slipjig-23
+M:C
+
+
+*****************************
+
+
+18100 1 0.41763362 
+
+<startaphy
+D:Peddyckan: Keene, The and & Pampary's
+R:slipin jig
+Z:id:hn-slipjig-31
+M:9/8
+K:G
+FAG AFF D2B|
+
+
+*****************************
+
+
+18200 1 1.019848 
+
+<starbations: (38lap ears# The Girk
+R:hop jig
+Z:id:hn-slipjig-43
+M:9/16
+K:Adom
+D:DE D2F D2A:|2 B3e fgf ed
+
+
+*****************************
+
+
+18300 1 1.3833581 
+
+<start>
+X:46
+T:Dampoline Currinkis
+R:slip jig
+D:Dabrion: Lill" #72
+D:Matnt Spyng in Allo Sre
+R:slip jig
+Z
+
+
+*****************************
+
+
+18400 1 1.6609389 
+
+<start of thic Swane ar a a \9ig and and Tund: The Endir, The
+R:slip #3 Mi, Whiphe's Fands
+T:Wuttrehlan C
+
+
+*****************************
+
+
+18500 1 1.1546006 
+
+<start>
+J:6/8
+L:1/8
+K:D
+D2F A2F G2B ABc|dBB f2e edB ege|dBG B2^e g2e|dBE BGA Bcd|BAG GGE D2B||
+<end>
+<sta
+
+
+*****************************
+
+
+18600 1 2.459499 
+
+<start>
+X:81
+T:Mic wasch's Whithy the And Ralso merte
+R:hop jig
+H:De^sy Bonna, Thers ow' C\'einand 92, #6
+
+
+*****************************
+
+
+18700 1 1.4342498 
+
+<start>:9
+=c}AGF GBE | Bee Beg fec | BAB cBG G2E | FEC cEE ~E2c :|2 deg ~a3 eaf | dBd ~g3 gad |
+P:varifti
+
+
+*****************************
+
+
+18800 1 1.5286949 
+
+<start>
+X:68
+T:Fruna Flicheel Bole
+R:slip jig
+Z:hn-slipjig-80
+M:9/8
+L:1/8]
+K:G
+|: BdB dBA ceA | f2d ABc d
+
+
+*****************************
+
+
+18900 1 1.2797176 
+
+<start>
+X:8
+T:Melinny Gockinges
+Z:hn-slid-1.
+M:6/8
+K:G
+c|AGF GEE|GAB DED|1 A3 GAG:|2 GFE E2D ||
+<end>
+<st
+
+
+*****************************
+
+
+19000 1 1.0493361 
+
+<start>
+M:C|
+K:D
+EED GBd|fed cAG|D3 EDE|E2=c A2e|f2e ffe|f3 d2d|e2f gfe|d2e b2b|1 ed^^cd fed:|2 Bba geg||
+
+
+*****************************
+
+
+19100 1 1.0195475 
+
+<start>
+Sttors of Jhive
+R:slide
+S:Sulsoel Crpathins: Towney
+R:slide
+T:Kevin & Listy's
+T:Jigh to "\'e Han 
+
+
+*****************************
+
+
+19200 1 1.3418971 
+
+<start>
+astairtolland poun to the bathest am of the #os aude, The
+T:Frory's On82.
+H:A ix the Routassan, S
+
+
+*****************************
+
+
+19300 1 1.0174915 
+
+<start>
+X:68
+T:Craigh of bhee
+R:slide
+H:Sele alsoin 42
+Z:id:hn-slide-34
+M:6/8
+K:A
+~B3 EG2 | ABA G2D | EGA
+
+
+*****************************
+
+
+19400 1 1.1521634 
+
+<stark jine
+d:Stoe Magain 3'The Ocke shing, s? she Doll #53
+E:See also #74
+D:Hime tam Alaoca
+R:sighe
+C:Un
+
+
+*****************************
+
+
+19500 1 0.59395254 
+
+<start>
+Striah\'sis
+R:slide
+D:Seanof Dairiom Ive
+R:slide
+D:Maidhn airs of My5
+Z:id:hn-slidin:25
+M:6/8
+K:G
+
+
+*****************************
+
+
+19600 1 0.9627089 
+
+<start>
+X:31
+T:Kedd in of puss have tyoun the lowne's inton, #1
+T:Leve Col ond Wowni's
+Z:id:hn-slide-72
+M
+
+
+*****************************
+
+
+19700 1 0.8784586 
+
+<startonk and Altorsin vertel's nam
+T:Padd whestel
+Z:id:hn-slide-67
+M:6/8
+L:1/8
+K:D
+~E2E FED | E2F DED | 
+
+
+*****************************
+
+
+19800 1 1.0030932 
+
+<start>
+X:29
+T:Tadurid Joht yo, 2nelseh hle jig.
+W:Keantan the Fowe's Ohe naslessh
+P:slide boums lore,
+H:
+
+
+*****************************
+
+
+19900 1 0.7588119 
+
+<start>
+X:64
+T:Dad handrey O') Bussin.
+W:And weane: S\'eat
+T:\'a trilftair to the
+R:slidie Mair
+R:side
+Z:
+
+
+*****************************
+
+
+20000 1 0.25842836 
+
+<start>
+X:68
+T:Morgh wuirewa Sillie and hicked sighl foter slade
+Z:id:hn-slide-82
+M:6/8
+L:1/8
+K:G
+B2B B2A
+
+
+*****************************
+
+
+0 2 2.7584374 
+
+<start: The Rwothing in Dublie
+R:sigon
+Z:id:hn-slide-99
+M:6/8
+L:1/8
+K:G
+G2 BcB | A2c EFA | BAB c2A | B2A 
+
+
+*****************************
+
+
+100 2 1.4463322 
+
+<start>
+X:8
+T:Rohn Raber
+d:Sisrellate.
+H:The Nout2.
+F:MyCraAk:
+P:Tursso il Mar-elle parte.
+M:4/4=Gfir jig
+
+
+*****************************
+
+
+200 2 1.6981494 
+
+<start>
+X:19
+T:O'O'feefe
+R:slide
+D:Nevanle.
+C:BoV? (Drlec! O'Cour tute"
+Z:Transcout pathe Landule.
+Z:Tare
+
+
+*****************************
+
+
+300 2 1.6889626 
+
+<start>
+X:44
+T:Pradde O'Keefeland4:\veer.
+GG|:3] d6/2e/2B/2.g/4|
+e2 f/2g/2f/2 pe/f/e/d/ | c/e/f/e/ d/c/d/
+
+
+*****************************
+
+
+400 2 1.3288276 
+
+<start>
+X:9
+T:Cute Daver fdop  in then Buuteanu
+He/d/c/) | ((c/f/=g/) c/(g/fe/)f/ | c/B/e/f/g/f/ ggg/f/ |
+
+
+*****************************
+
+
+500 2 2.3005667 
+
+<start>
+X:1 1
+T:Lanc Jiggline
+C:Thame havermion
+Z:Thriche Gocke1, 14
+Z:id:hn-slideef-10
+M:6/8
+Z:Kam] (DGA
+
+
+*****************************
+
+
+600 2 1.7999045 
+
+<start>
+X:38
+T:Jn\'e gara tinge
+w:slide
+T:Tranckum
+O:Transcel
+M:C|
+Q:"Cra"couriu jinget of gsmen'sid.
+Ad 
+
+
+*****************************
+
+
+700 2 0.16828746 
+
+<start>
+X:14
+T:Ling Qumaree backtod,
+W:Renginde Cion
+S:2.
+Z:TranscriB cputey dearag.
+B:/orrig?
+Z:Trangfif
+
+
+*****************************
+
+
+800 2 2.7158465 
+
+<starte
+Z:Trenscrit et/ou coraighe
+D:Srcamey 79037144)
+D:Paver ut es parrig?
+E:La henden-5
+H:See parka do
+
+
+*****************************
+
+
+900 2 1.2133194 
+
+<start>B3
+G:|9 z2F) :| 
+GBAB | G2G | c4z2 | (ded)(e)e.B.c | (dB)e | fd/B/dB | f3z |
+eG cBAB | A3 A4 :|
+[3
+
+
+*****************************
+
+
+1000 2 1.4840852 
+
+<startout@catouvinellat@gaengaar Michelle@fr Michellin jigu Salso pa-pair Bant
+O:Francet de-1fng2
+g2fe- |
+
+
+*****************************
+
+
+1100 2 0.40172213 
+
+<start>
+X:22
+T:Figbuso" :
+O:Ked
+G>F FFF | Dfg : fug |(fece | f4ed | cAc de | d3d || cde | g2dfegce | d3 d
+
+
+*****************************
+
+
+1200 2 1.876229 
+
+<start>
+X:22
+T:Per?ro dour?pam,
+C:Pancelouration Douckiod" Seeufiesle
+R:Vedouriarietion (193
+A:Eddile Qua
+
+
+*****************************
+
+
+1300 2 2.5618827 
+
+<startoug@gage|
+M:3/4
+L:2/2
+[]:1/8
+K:Bb
+K:G0
+V:2
+D2DE | A2c2 c2 | B2z2 :|
+S son! son j fend mamons orciso
+
+
+*****************************
+
+
+1400 2 0.11121443 
+
+<starte@frcet,
+M:C|9
+I nan  d> !c Vas la cou-tomf Mc}7_1z nam!us-magrra to Sam tou 
+O:Frax.
+O:Frajic
+H:F 
+
+
+*****************************
+
+
+1500 2 1.6128364 
+
+<start>
+X:31
+T:Tubri?rae.
+Z:Ranscrit et/ou crig. barrins Carpaition Seele
+M:2/4
+L:1/1
+Q:"Transoutle neupo
+
+
+*****************************
+
+
+1600 2 1.1297683 
+
+<starto>matloumat"og? Jamou sines Gina Salps se tar Ails our bar Gu?re
+R:Danse vicled ansominel difflet a
+
+
+*****************************
+
+
+1700 2 0.5996595 
+
+<start>
+X:23
+T:La Bmast
+O:France
+C:Trad.
+F:Pranfe
+A:Provence
+C:Tramsclire
+Z:Tarsct et1o parse9
+O: Frane A
+
+
+*****************************
+
+
+1800 2 1.9769894 
+
+<start>
+X:25
+T:L' Panto
+R:Mousco
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/4
+K:Le Ais
+
+
+*****************************
+
+
+1900 2 1.4192041 
+
+<start>
+X:52
+T:Louspes Mairie de prina
+R:Dantet
+R:Danse tambourinaire Ging-6
+O:L4/8
+K:Bb
+ggfe | d2d2 | c3
+
+
+*****************************
+
+
+2000 2 1.6721694 
+
+<starto tourmouvielle derfle@bramaile (Eranto timo:galouaidelourielle@on to Maghpioel nou ie dout-t/o nag
+
+
+*****************************
+
+
+2100 2 1.7494643 
+
+<startamato?monvivilalato:gbananvielle@free.fr
+M:6/8
+L:1/8
+K:Bbmaj
+V:A
+G2F Add | efga gag | ff e>d c2B | 
+
+
+*****************************
+
+
+2200 2 0.8651908 
+
+<start>
+X:71
+T:Farandole (uuna Provictade
+Z:Franscrit et/ou corrig? par Michel BELLON - 2005-07-27
+Z:Pour
+
+
+*****************************
+
+
+2300 2 1.8331048 
+
+<start>
+X:67
+T:Farando touslo le parso, [W:927
+Z:Transcrit et/ou corrig? par Michel BELON - 2005-07-26
+Z:
+
+
+*****************************
+
+
+2400 2 2.0121186 
+
+<start>outtole.moutoonatouvinsollielong.
+M:6/8
+L:1/8
+K:Bbmajor
+B2A Bcdc|(3A2 ffg fgf|e2e e2d|e2c eFA|Laga
+
+
+*****************************
+
+
+2500 2 2.1583686 
+
+<starteto poltathoug?!Cent.
+M:4/8
+L:1/8
+K:F
+d2c|d2z f2d|f2f f2d|Le2f2 | cB/A/B/B/A/d/|fd d3| fd/B/ FG|1F6
+
+
+*****************************
+
+
+2600 2 0.24393047 
+
+<start>
+X:98
+T:La Gravus
+T:A
+f2g2e2 dede|
+d2c2d2c4 |]
+B4{2c3/4]|]
+<end>
+<start>
+X:64
+T:La I rado
+R:Far
+g:
+
+
+*****************************
+
+
+2700 2 1.8979406 
+
+<start>
+X940
+T:Li de Pramen dingruivilinan
+O:France
+A:Provence
+S:Carnet gubanbin
+M:2/4
+L:1/8
+K:Bbmaj
+(=B2
+
+
+*****************************
+
+
+2800 2 1.5885634 
+
+<start>
+X:91
+T:Carr?ct set #h154
+Z:Po:1/8
+K:Bbmaj
+G2 Bd {B}Fd B2 | e2 d2 cd ce | gf f>e f>e d2 de | (e2 e
+
+
+*****************************
+
+
+2900 2 1.4627651 
+
+<start>
+X:72
+T:Larnnaic's
+T:Kadride
+R:Mol
+O:Prance
+A:Provence
+C:Anony Ginas
+O:Danance
+A:Provence
+C:Trad.
+
+
+
+*****************************
+
+
+3000 2 1.5010171 
+
+<stard>
+<et>(d>c-d>A ||
+F2 ||B2 f33:|
+g4| c4A |A4 zAc|A3) ||
+d4 | egfed|c4A2|A4B4| A2^c2 ||
+d2y | g3f|f2B
+
+
+*****************************
+
+
+3100 2 1.0847856 
+
+<start>
+X790
+T:Leci cloudefinal
+C:Coura Muicer
+O:France
+A:Provence
+C:Cran?
+M:B
+L:2/8
+K:F
+AB A2 cd c2 | eg
+
+
+*****************************
+
+
+3200 2 1.186137 
+
+<start>
+X192
+T:La L? fi-sloy,
+T:Of Mareapo?
+R:Marzhe
+Ssornel? S
+O:France
+A:Provence
+C:Pomatiocc Vitale Ga
+
+
+*****************************
+
+
+3300 2 1.6703486 
+
+<starout@choutoukile@free.fr
+M:4/4
+L:1/8
+K:Bb
+V:1
+(A2(e2)(fed3 | c6c | c2c2A2 c2c3|B3A BABAc | c3Ace f2c2
+
+
+*****************************
+
+
+3400 2 0.63615227 
+
+<start>
+X3199
+T:Maolo"O,dro"Trad.
+R:Iranse
+C:Trad.
+R:Marche
+H:Coumence
+C:Pro
+See.
+O:France
+A:Provence
+C:T
+
+
+*****************************
+
+
+3500 2 1.8384246 
+
+<starto
+X:125
+T:Materinata
+O:France
+A:Provence
+R:Mateloute
+O:France
+A:Provence
+C:A du?tamanie
+C:Coumiuron
+
+
+*****************************
+
+
+3600 2 2.5394323 
+
+<start>
+X:611
+T:Balot)
+O:France
+A:Provence
+C:J. Ginal
+R:Marche
+S:Marche
+A:Se.
+AFB A2 | B2B2c>B | g2(3gcef
+
+
+*****************************
+
+
+3700 2 1.3968773 
+
+<starat?ophet@oby GELLON P:Follet? de tambourinaire ce Guafl ofurkie pourinas (1924)
+Z:Transcir par Miche
+
+
+*****************************
+
+
+3800 2 1.1343783 
+
+<startoflsoppe0)
+R:IB land cou?sp C, Goa, 4
+Z:9/8
+Q:3/8=16
+K:Gb
+V:B
+c2 cd | d2e2 ::
+e2ce | f4-| .en.e dc 
+
+
+*****************************
+
+
+3900 2 0.2960897 
+
+<staret@freaton
+M:3/8=12 G4B2B2B2 | B4BBBB|B2B2B2B2|B3 F2B2|
+d4=c2B2|A2B8z2| F2F2 z2Fd|A2A2F2 ||
+d2d2d38 
+
+
+*****************************
+
+
+4000 2 1.9503001 
+
+<starto
+X:140
+T:Bmal? de "TeDrigaine
+R:Pronnce
+C:Anony
+O:France
+A:Provence
+C:J. (M?Enntalou
+O:France
+A:Pr
+
+
+*****************************
+
+
+4100 2 1.980076 
+
+<starhe@paretonot@obe!Anstoles frobthe _ocl? - 2005-06
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005
+
+
+*****************************
+
+
+4200 2 2.8473525 
+
+<staro|1f3 gfe|dfdf ged| (cccAcc|(d3cceg|=a2a2|.
+f2d2|f4d2ce|c3  Acdc|g3-f>ef|e2d cBA|c>Bcd e2|1cdcBc| d3
+
+
+*****************************
+
+
+4300 2 0.01325331 
+
+<start>
+X:19
+T:Rina
+S:Cath=y |Mcele df |
+L:1/6
+K:Bbmaj
+c/or M2b2rearre fonn [Ac]:||)
+<end>
+<start>
+X:155
+
+
+
+*****************************
+
+
+4400 2 2.0571432 
+
+<star'sthou Mariohc
+O:France
+C:Il Harado
+O:France
+C:IT:Croven (Fmerrou
+O:Fbredo Bucoul
+S:Ch
+O:France
+C:Jc
+
+
+*****************************
+
+
+4500 2 2.3261995 
+
+<starthY8
+K:F
+AB Ac | cc c2 | e2e>e B3 | AB ce |1 g2 (ba | gd !fine!| 
+F2 A>G c>d | cz z>B |
+c3 zB | c/6B
+
+
+*****************************
+
+
+4600 2 1.8900036 
+
+<start>
+X: 185
+T:Se Ja Pas
+V:1/16
+P:Bamessji
+V:Nansch
+d2d dd | ded d32|.ig"F2 "GB[ddd||
+e/d/e/ "dm"gd | "
+
+
+*****************************
+
+
+4700 2 1.2679228 
+
+<start>
+X:36
+T:CiROrin gasso 
+Rischalle de parto - var Bum? tans ou  Vigausse vissHal? t?d pasleat Gsudpi
+
+
+*****************************
+
+
+4800 2 1.429346 
+
+<start>
+X:16
+T:Allopoute de la mi?ol too n?mo, Theslier
+T:J?p 190 loupse le Ruipe
+K:F
+B3 | AAA | A3- | (=
+
+
+*****************************
+
+
+4900 2 1.7072692 
+
+<startoustionavila@Sailt?olse@free.fr
+M:3/4
+L:1/4
+Q:1/4=170
+K:Bb
+d2c2|d2d2d2|d2d2d2 | f2efg | g2b2agag|g2
+
+
+*****************************
+
+
+5000 2 1.3828486 
+
+<startoultepp@Maramig?llese@lrig.f.frtapkaiks
+FG^F | GBe B2{ab/b/2b fig ff | e2c cBA | G4 GBc |
+ce fe d3 
+
+
+*****************************
+
+
+5100 2 2.8766732 
+
+<startoust@etholenc@fret.fr
+M:4/4
+L:1/_16
+K:Gmaj
+g3 fd'rena>.
+<end>
+<start>
+X: 4
+T:Vailou tens ?urtwal Fr
+
+
+*****************************
+
+
+5200 2 1.6295592 
+
+<start>
+X:17
+T:Branle la calele Ge 
+R:
+M:2/4
+Q:3/80
+K:Bb
+VF"G=B | A2 F | G F | G/A A/G/ | FG |
+FG G>E | G
+
+
+*****************************
+
+
+5300 2 0.63612545 
+
+<starth
+X:10
+T:Cernt? cou-ma-t?ue Voussuir
+O:Drance
+Z:Transcrit et/ou corrig? par Michel BELLN - 2004-7
+Z
+
+
+*****************************
+
+
+5400 2 0.99700546 
+
+<starth!c\:18
+T:Iti Moulane Marchinnet
+O:France
+C:Mervicient1
+R:Cou-les maun fump fis .g
+T:Proventeuisca 
+
+
+*****************************
+
+
+5500 2 2.241796 
+
+<start>
+X:26
+T:Gand le ?ro
+N:
+W:I Wauslere le mus Yuun n'vourin?laul.
+Z:Transcrit et/ou corrig? par Miche
+
+
+*****************************
+
+
+5600 2 2.278851 
+
+<start>
+X: 13
+T:La leuni firs L'ure Rurdinaro do le ge Au-ro, The savpete
+R:Eisch
+Z:Transcrit et/ou corri
+
+
+*****************************
+
+
+5700 2 2.0357027 
+
+<start>
+V: 1
+D F>E C2E .Eurbn aig la vis-er pailt ni foun trip
+<end>
+<start>
+X:6 "Lin tembet/e dour fil-s
+
+
+*****************************
+
+
+5800 2 0.01209214 
+
+<staret>
+X: 18
+T:Lel stanc2
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-28
+Z:Pour toute observa
+
+
+*****************************
+
+
+5900 2 0.73446065 
+
+<start>
+X:16
+T:La E'Reengaul gaisi _? r'ai du-lous la lonx'ait pe
+C:Muese S'?c
+O:Itrance
+d:couriatise
+C:T
+
+
+*****************************
+
+
+6000 2 1.1975701 
+
+<start>aution mailto:galouveelle@fre.frit/ ab an tronain plonge
+R:Jombje
+R:Flandeto
+C:J. Finte
+R:ioncelle
+
+
+*****************************
+
+
+6100 2 0.8805159 
+
+<startouthcpo 3L? zie-viligu
+R:-lor-Jig
+D:Parantlon My-Ciller
+Z:Transcrit du trailion mailto:galouvielle@
+
+
+*****************************
+
+
+6200 2 1.2272513 
+
+<start>
+X:35
+T:CradevGi=Sait
+R:Carnat
+B:Orich?la?ce la CmeKaginao
+O:France
+A:voruee qun
+R:Dinssion
+Z:Tran
+
+
+*****************************
+
+
+6300 2 1.8635726 
+
+<start>
+X: II"Orderons du beur du bheertiq
+O:France
+C:Tulito
+Z:Transcrit ct/oncce
+C:Transione du tu bais 
+
+
+*****************************
+
+
+6400 2 0.97217894 
+
+<start>
+X150
+T:Rigetilasc
+C:Rice ditly
+R:Dmasche
+s:Changes (Hillois
+C:Blergucairo_N
+Z:Pour toupe obsarvan
+
+
+*****************************
+
+
+6500 2 1.7980261 
+
+<start>
+X:14
+T:les Vavers E Granchse
+C:J. Chive Ad, Rowbabs
+R:Scottishe - Alpans
+R:Schottische
+S:Carniny 
+
+
+*****************************
+
+
+6600 2 1.2515787 
+
+<start>
+X:1
+T:Le Koarnes Be Jupiekeche
+T:Re_ted Aranle (=umpercy
+L:2/4
+eff Ledc |B2gf edcd | e2ege |1d2 d
+
+
+*****************************
+
+
+6700 2 2.0899467 
+
+<starto!ce|7
+c/c/d/e/) g:|
+w:Scostred
+R:Bourree
+C:Le Lonctaulles pestestard inaltut zur tubo ren
+R:Bourre
+
+
+*****************************
+
+
+6800 2 1.1229702 
+
+<startto@bel ue Siariginalla 4 anx 2 las thancre
+K:Bu
+C:Proneece
+A:Pridiebs Quim? cook -tr2 paser ddan-ti
+
+
+*****************************
+
+
+6900 2 1.1007382 
+
+<star>
+X: 10
+T:ch' chottile din
+Z:ididhdy Bolkabl
+C:Tarot: douli?re "Davane bave
+Z:Comall Chrinee-2l, Cla
+
+
+*****************************
+
+
+7000 2 1.9369742 
+
+<start>
+X: 11
+T:La Passilauf Stauroriginall)
+C:Roise
+C:Annant McCeg xautte Wutwaba
+O:Deve Dencherrd. siot
+
+
+*****************************
+
+
+7100 2 1.7290387 
+
+<starth
+FB,G, "FIreathp"GB2G2B2|cdecdcB|GBGFABcd| edc^cAcdcBc|(3B/A/B) G2F2|\
+B2EB2FB4|A8|
+d2f2ef2|gfedc|
+
+
+*****************************
+
+
+7200 2 1.7683483 
+
+<starto Smokt?e le Molle
+N:Padour
+M:1/2
+L:1/8
+K:Cm
+G/2G/G/A/ B4|GGG Gc/B/|AF F/E/D:|2 EDD:|2 DDE|F3|EDE D
+
+
+*****************************
+
+
+7300 2 1.3910992 
+
+<start>
+Z:Thons GloWer J'andral neethy
+T:Les Jol?caldrs.
+I:Herchokidel 20 Frogd no Rwene
+B/A/G A/B/c/A/B/
+
+
+*****************************
+
+
+7400 2 1.0703675 
+
+<start>
+X S 1 0-tbe Qucand
+w:2tt>t nundef
+N:orkig/g/f/anglomai mu> Lastor" Crantent)
+C:cnd ecame
+M:2/4
+L:
+
+
+*****************************
+
+
+7500 2 1.1523204 
+
+<start>
+X:16
+T:Bougus'ane
+Z:Dave Holyman ablave Pandel dill 1002-02-22
+Z:Pourante
+S:Toganti-chetp du vour
+
+
+*****************************
+
+
+7600 2 0.9738952 
+
+<starnott>
+Amanam als moublane
+K:C
+B/2c/2d/2c/2B/2A/2c/2A/2|
+<end>
+<start>
+X: 1
+T:Chadpananche
+T:aff his 
+
+
+*****************************
+
+
+7700 2 0.06839479 
+
+<start>
+X: 18
+T:Polka
+B:
+K:
+K:C
+G/g/2f/2d/2g/2 f/2d/2c/2d/2c/2|_B/2BA/2A/2G/2c/2A/2B/2A/2G/2c/2|F3:|
+P:Ad
+
+
+*****************************
+
+
+7800 2 1.1892401 
+
+<starong@et>estepouk corrig? par Thever tascorrig? par Michel BELLON - 2006-15-18
+Z:Pour toute observatio
+
+
+*****************************
+
+
+7900 2 0.9927153 
+
+<star>
+X: 13
+T:Branli dif?
+R:Branle
+C:pard an 2  tanee
+C:Taulinn Birsd
+Z:cranscrit et/ou corrig? par Mich
+
+
+*****************************
+
+
+8000 2 1.2595751 
+
+<star>
+X:18
+T:gave Cestie la santes.
+R:1/4
+L:1/4
+K:G
+A2BcAG B~G2D2F2 | GAGABd c4d4 | d2b2B2 |
+A2EFGAB2 A2
+
+
+*****************************
+
+
+8100 2 2.2027993 
+
+<startouthe@laposietlee.freee.francot/of Darance.fr
+M:4/4
+L:1/8
+Q:1/4=220
+K:Gmaj
+K:C
+GGBeBc B2A2|B6|\
+gge
+
+
+*****************************
+
+
+8200 2 0.011178056 
+
+<start>
+X: 8
+L:1/4
+Q:1/4=114
+K:Dmaj
+V:1
+A2AA cded dcBd | dcde dffd c2 ::
+Bddd dd3f/ | ggfdef e4 d2 | dded
+
+
+*****************************
+
+
+8300 2 0.33926567 
+
+<start>
+X:18
+T:Branle de dess Charme salle
+C:Kinampel a Ch apotoh or slembefer.f de (contog
+R:Bransle
+C:M
+
+
+*****************************
+
+
+8400 2 1.5229398 
+
+<start>
+X: L4 1103
+T:Huri bumos
+W:obc Aanlait
+B:Orche o baisto
+R:Branle de lavers Jobsin Bq
+"Chorpohne
+C:
+
+
+*****************************
+
+
+8500 2 1.4973303 
+
+<starteok Brigeloug@| anet sictis Brane le beau la double 6
+e de/2 fe | f/2e/2)ea2 | D3c B2 :|
+T:aisel: B
+
+
+*****************************
+
+
+8600 2 1.4573903 
+
+<starta|5
+V:3
+c2ed A2 d2 | d2eded | d>Bcd ecdd | e2BABc :|
+P:Anore crig.
+R:Branll
+A Bc B2 | A2AA AG|Ad AG
+
+
+*****************************
+
+
+8700 2 2.5446692 
+
+<start>
+XJ49
+T:Pado mande .H. Charoha's Cally
+O: Panablay: Chots oaco? no manth Cois id Camow vais es Mbl
+
+
+*****************************
+
+
+8800 2 0.42870602 
+
+<starth
+AAA | BA A2 F2 | E2 GD GE | G3B AG ||
+<end>
+<start>
+X:16
+T:MolBr q'?et ai PollyG, The
+R:air
+Z:id:
+
+
+*****************************
+
+
+8900 2 1.0646588 
+
+<start>
+X:13
+T:For nogre 
+Bc/d/B/ | AB AG | A/G/FA |
+G3B | c4 ||
+P:Icoubhonti an fromy doy d? time qullan
+
+
+*****************************
+
+
+9000 2 0.24203368 
+
+<start@dheth
+G2A2 | d2B2 G3B | G2d2 d2d2 | B2c2 B2G2 | G4 G2A2 | D3 D2A |
+B2B2 BAGA |
+e2dB ABcd/^c/ | GAB
+
+
+*****************************
+
+
+9100 2 2.6831367 
+
+<start>
+X:15
+T:Datais Cills Toons the Mas the Molleuim", J\ "IDomaulle
+C:eennoly
+Z:id:hn-barndance-4
+M:C|
+
+
+*****************************
+
+
+9200 2 1.7474095 
+
+<startomascrhe@batorh.on y'stavally p'are
+T:Harty Gaul
+T:Daric and wirAs
+H: chroas waCles Monnetines and 
+
+
+*****************************
+
+
+9300 2 1.2187455 
+
+<start>
+X:9
+T:Murcho G>ate"
+R:Mezurote Gandin
+Z:id:hn-carolalanc7
+M:3/4
+|: f2f2c | B^c/c/ Bc|d2 Bc |
+dd/d
+
+
+*****************************
+
+
+9400 2 1.3356136 
+
+<start 
+F2\
+D2B2 G2AB|d2d2 B2AG|Bc d2AF|G2BG E2GA|BcAB GBdA|1
+<end>
+<start>
+X:4
+T:Walx onceable
+R:barolan
+
+
+*****************************
+
+
+9500 2 1.7373141 
+
+<start>
+X:18
+T:Plour yosongu
+R:carolan
+C:Rifcly's O'S the Harsson
+R:barolan
+R:carlowan
+C:Turlough O'Carol
+
+
+*****************************
+
+
+9600 2 1.0595582 
+
+<starth
+FEE|FDF FE|E2 E2FE|ABAG F3D|
+E2 A2 (3d>d e>dc>c|G2 e>d c>BA|G2 E2 e2|d4 d^c|
+Bc egge|cdcB ABcd|e2
+
+
+*****************************
+
+
+9700 2 2.1919181 
+
+<start>
+X: 82
+T:ciss J12ferA
+R:carolet
+C:OAn Mox'e and lapsor. Gesceabe=lttel Macnetathannely., #21
+C:Jy 
+
+
+*****************************
+
+
+9800 2 1.630756 
+
+<star>
+X:180
+T:Planxteps on M? Kamle, 2nell do ch0Asthping
+R:highland
+Z:id:hn-hf-16
+M:C|
+K:G
+F2Bd Aenfx e
+
+
+*****************************
+
+
+9900 2 1.4507369 
+
+<start>oth mons bassaons
+E:Glandsgethnander
+H: int Chronis Hieh Stipe
+R:highlan
+C:sumpish O'Carogh tl ayy
+
+
+*****************************
+
+
+10000 2 1.5329231 
+
+<start>
+X:2
+T:Clank" The
+T:highli Gaymne's Collin, #297
+Z:id:hn-hf-32
+M:3/4
+L:1/8
+K:Emir
+GFGA B2A>BcB |
+c
+
+
+*****************************
+
+
+10100 2 1.4198928 
+
+<start>
+M:C|
+K:D
+Fd|(3ded dB GABA|GBdd BGBd|e2df edAG|FDFA GAFG|(3Bde d2 (3def (3egf|efga gfge|fedB BFAB|
+
+
+*****************************
+
+
+10200 2 1.4412172 
+
+<startouphoton:
+GDED GEDGB | A2AG A2EF | E2D2 G2z2 :|
+[2A2 (3cdc jdcAA|G2GA B2cB|cdGF G2:|
+<end>
+<start>
+
+
+
+*****************************
+
+
+10300 2 1.4537376 
+
+<startou"coGhin (5155)
+H:E simes, The
+T:Untrosan Conn chloghar Sal Comel an or ohe Wouq Mick
+T:Pir tuin S
+
+
+*****************************
+
+
+10400 2 1.860975 
+
+<start>
+X:9
+T:Whe airl as a last
+T:Charst ic Macic
+Z:id:hn-hornpipe-12
+M:C|
+K:G
+FE|D2F2 dAGB|A2FA BcBB|(3
+
+
+*****************************
+
+
+10500 2 2.137622 
+
+<startolet>
+Z:id:hn-hornpipe-24
+M:C|
+K:C
+BA|dcAB A2FG|ABcA ec Ac|edcA AGBd|
+gfg2 eAFA|~B3G AGFA|=G2GA Bde
+
+
+*****************************
+
+
+10600 2 0.9391957 
+
+<start>
+X:4
+T:C\Thre of 188
+H:Blilan: Cooland (lithered Folknws payet Mennes" Indennerpin
+K:ABc|cBAB cAGA
+
+
+*****************************
+
+
+10700 2 1.5331427 
+
+<starton> ocheviston
+D:Kixk
+D:Madinas Cearte: Ledon" #46.
+H:Senatainaine 2nectanne
+H:Sean achegly
+Z:id:hn
+
+
+*****************************
+
+
+10800 2 1.27987 
+
+<start>et>
+<end>
+<start>
+X:4
+T:Mows thetser's ne tu, Auposg, Males
+W:Furky wuyaull & butly sor to brit ik
+
+
+*****************************
+
+
+10900 2 1.2076753 
+
+<start>
+X:2/4
+Z:8
+D:|h38
+H:Car wucklanl
+Z:id:hn-hornpipe-46
+M:C|
+K:G
+G2FA | B2G2 dAFA | [DBG2 (3FAF A2 AG
+
+
+*****************************
+
+
+11000 2 1.2832259 
+
+<start>
+X:4
+D:Nelo:/ I hest sest sos Pie
+Z:id:hn-hornpipe-68
+M:C|
+K:Edor
+eA|B>AG ABAG Ad|e2Bc d2A2|Addf a
+
+
+*****************************
+
+
+11100 2 0.9691738 
+
+<start>
+X:95
+T:ut in thre cankillougle
+R:hornpipe
+Z:id:hn-hornpipe-50
+M:C|
+K:F
+DG|BAGE FEFG|Area efeg|fec
+
+
+*****************************
+
+
+11200 2 0.9708484 
+
+<start>
+X:23
+T:Teorsieg Flumer's yec 180, (Hc
+Z:id:hn-hornpipe-27
+M:C|
+K:D
+b2|g2dg f2eg|edBd efge|dggf g2
+
+
+*****************************
+
+
+11300 2 0.32909307 
+
+<start>
+X:6/4
+T:Alaghnaghag MHdoddelp: Mablire Huck
+Z:id:hn-hornpipe-69
+M:C|
+K:D
+g2|(3ab ag ed|fga fgag|f
+
+
+*****************************
+
+
+11400 2 1.7163227 
+
+<start>
+X:61
+T:Filly's Favin 257
+D:Rhetrer Horging.
+D:MuxM:Loeeman: derce Dook 2taine #13
+D:May2, Challay
+
+
+*****************************
+
+
+11500 2 1.2164948 
+
+<start>
+X:33
+T:Spep'in's
+R:horn
+D:Patriun
+S:Fhog, Thedran: The Wordy Balndlore, \ ((3982)
+Z:id:hn-hornpip
+
+
+*****************************
+
+
+11600 2 0.8511101 
+
+<starn StrmathAeppe-enttel serstipe, The
+T:Sumolandy: Iy Liy M\'MadlOy'e Woux ono Mornin
+Z:id:hn-hornpipe
+
+
+*****************************
+
+
+11700 2 0.83653975 
+
+<start:Tavet/or mas (1538)
+Z:id:hn-hornpipe-88
+M:C|
+K:D
+GA|BG3B dGBd|B2gd BAGB|DGBG AGEF|DABc dcBA|GFEF G
+
+
+*****************************
+
+
+11800 2 0.9490989 
+
+<starth>
+X:99
+T:Ee comnyy Lige, The
+R:hornpipe
+H:See also played in Fanndy
+Z:id:hn-hornpipe-94
+M:C|
+K:D
+|
+
+
+*****************************
+
+
+11900 2 1.1344098 
+
+<start>
+X:5
+T:Tigeld hestle bay Z:id in Hory hamm of ao h'y olpidy and sildhamel The
+R:hornpipe
+D:Jies Ho
+
+
+*****************************
+
+
+12000 2 1.6267279 
+
+<start>
+X:1/4
+T:numem ander, The
+R:jiaj
+D:Then ther the Reilly wunne, The
+R:jig
+|: G7 (3ABA| GED cBd | DE
+
+
+*****************************
+
+
+12100 2 1.2606635 
+
+<start>
+X:11
+T:Pink ithony. Nove th Muineenster.", #87
+R:jig
+W:Samen & Peadk Pitt I Andow's Weath thish o
+
+
+*****************************
+
+
+12200 2 1.2037933 
+
+<start>
+X:13
+T:Wellewon Ly Campows
+R:jig
+H:See also #8
+Z:id:hn-jig-18
+H:Als B conpend P Wingle
+T:Jean: #1
+
+
+*****************************
+
+
+12300 2 1.2045121 
+
+<start>
+X:25
+T:Salbatern's Limmest and cearran
+D:Nearnel dust tues N ind dimce, The
+R:jig
+D:Andy Sbain: O
+
+
+*****************************
+
+
+12400 2 0.79787284 
+
+<start>
+X:20
+T:Crathers Eonms, wked the SAms Whathmy
+R:jig
+Z:id:hn-jig-36
+M:6/8
+K:En
+FAB ~A3 | ~B3 dFE|GA
+
+
+*****************************
+
+
+12500 2 1.2443109 
+
+<start>
+X:14
+T:Frlanks The reewair
+Z:id:hn-jig-34
+M:6/8
+K:D
+DEE A2A|BEF FAd|DBB BGB|dcB BAA|BAB fge|fed B
+
+
+*****************************
+
+
+12600 2 1.4347823 
+
+<starth
+Hef|gBd ~F3|ABc AB|cee ede|fed d2|
+efg ac'|agf agf|dBd ged|1ce gee c2d|ede d2B|Bcd fed|~A3 feA|ce
+
+
+*****************************
+
+
+12700 2 1.3605285 
+
+<starto] f2f g2f|edB dBd|eAA c2A|GEG AB:|
+|:cd cBG|edc dcF|~F3G ABc|dcd edc|1 dcA G3::|2BBd g2b||
+<end>
+<
+
+
+*****************************
+
+
+12800 2 0.9439408 
+
+<start>
+W:3 ag deg | aaA BA | C Bd efd | ABc ~g3f | ecB ABd |3 AGG EAB :|2 BGG G2F ||
+P:variations
+|: ~G2
+
+
+*****************************
+
+
+12900 2 1.4901067 
+
+<star!:3Aath]
+DED GFD|1 EBD FEDC:|2 AGE E2D||
+|:def|cAGF dAF|dfg gfe|fdB fad|cAG FDC|~E3 ecB|AGE GFE|DED 
+
+
+*****************************
+
+
+13000 2 2.606595 
+
+<start>
+X:6/8
+T:Shorabc harcc ive in the Willes
+T:Hurl Hurlig.
+Z:id:hn-jig-26
+M:6/8
+K:Ador
+~E3 cBc|d2B B2
+
+
+*****************************
+
+
+13100 2 1.5379022 
+
+<stark etho:Tipin'sip p?rig in Busle
+T:S'aurron's felloyan: Scy'eon Scol
+Z:id:hn-jig-67
+M:6/8
+K:D
+DAB|GBG
+
+
+*****************************
+
+
+13200 2 1.06419 
+
+<starton cavex Iuls an (16818(3)
+D:Patrick Brwawale
+D:Te Ravins Ofony
+D:Sama Maschallar
+Z:id:hn-jig-86
+M:
+
+
+*****************************
+
+
+13300 2 1.331205 
+
+<starth
+cAG|eAA eAA|-d3 def|gfe dAF:|
+|:~G3 ~B3|ded faf|1 dBG G2E:|2 gfg gag|fed cAF|~D3 EFG|~A3 d2c|dec 
+
+
+*****************************
+
+
+13400 2 0.71320426 
+
+<startof.
+dcd|GEG cBc|1 dcB ~A3:|2Bcd edd|cAA bcA|BGG ABc|FDDG GAF|D2D E3:|
+|:A2d e2f|efe afg|fee fed|eGB
+
+
+*****************************
+
+
+13500 2 1.1245617 
+
+<starth
+AGF GB|c2A eAg|F2A B2B:|
+|:fde f2a|afd d2e|fdf ag=f|~a3 gfe|1 efe d2e:|2 fdc d2F||
+<end>
+<start>
+
+
+
+*****************************
+
+
+13600 2 1.4925437 
+
+<start>
+X:9
+P:Morpel broth (1979
+Z:id:hn-march-7
+M:2/4
+L:1/8
+K:Bdor
+GA c2A|B/A/GG G2A|B/A/B//A/ AB/c/d/|e
+
+
+*****************************
+
+
+13700 2 1.9584608 
+
+<starch
+X: 15
+T:ToiriBe Broche rerel#19
+Z:Tradhsh also played in mother's Stapes
+R:maver
+Z:id:hn-march-12
+
+
+*****************************
+
+
+13800 2 1.0811716 
+
+<startuphstepls-mestowest
+R:maril
+E>F E2F | E2 A2Bd | cBAB D2Din |  g2G>A BDFG ||
+|: e2a2 gegf | e2e2gf e
+
+
+*****************************
+
+
+13900 2 1.1396744 
+
+<starhoumh
+<end>
+<start>
+X:44
+T:Saltal (Duckion: Heatheste.
+R:Dilsor & Seleen 6 \161
+Z:id:hn-march-68
+M:2
+
+
+*****************************
+
+
+14000 2 1.45515 
+
+<start>
+X:13
+T:Thifira's Wordh, The
+R:mazurofal Ssting Baakrackan Cancgang: I, Iwnkil Ahoon & #11
+T:Miche
+
+
+*****************************
+
+
+14100 2 1.015273 
+
+<start>
+X:12
+T:Shan's Brock
+Z:id:hn-mazurka-4
+M:3/8
+K:G
+|:DE DF|GB dc Bc|d2 dc d2|c2 e2 ee|dd c2 A2|d2 gd
+
+
+*****************************
+
+
+14200 2 1.2012079 
+
+<startuphkapste-nest polke
+H:Deran areee to playe vinezth#mathe
+K:G
+GB | A2 A2 | B2 B2 cB | A2 de dB | B2
+
+
+*****************************
+
+
+14300 2 1.2443601 
+
+<start>
+X:9
+T:Hullew pla tonems andy version Li ane Hack an Alnan:sur)
+Z:id:hn-polka-8
+M:2/4
+L:1/8
+K:D
+D^
+
+
+*****************************
+
+
+14400 2 0.444461 
+
+<start>
+X:23
+T:Faqbol Ennas Uhe eallo
+T:Uinn McEly
+T:John Che
+R:jig
+Z:id:hn-polka-1
+M:6
+K:D
+P:Bucha's and
+
+
+*****************************
+
+
+14500 2 0.79735816 
+
+<stark>
+c>de|G2 G>A|BA A>B|AG G2|ED G>A|B2 cd|Bd Bd:|
+|:d2 e>f|1 A2 A2:|2 fe fe|d2 d2||
+<end>
+<start>
+X:1
+
+
+*****************************
+
+
+14600 2 1.2938378 
+
+<starthophe-melssigs ou the Altw, The
+R:polka
+D:Mceve: Polkend Het ol Sligo, #32
+K:Bdir
+D:|2 Bc AE|1 DD D
+
+
+*****************************
+
+
+14700 2 1.8109103 
+
+<start>
+X:36
+T:Rameul My Maidogdr's Jad, #32
+Z:id:hn-polka-49
+M:2/4
+L:1/8
+K:D
+Ac/d/|cA Af|fd/d/ Bd|ef ed|
+
+
+*****************************
+
+
+14800 2 0.48756078 
+
+<start>
+X:78
+T:Moln KevA Staig Polka
+R:polka
+c:De Garnine-11
+M:2/4
+L:1/8
+K:D
+Ac f>e f/g/a/b/| a2 be|aa ca
+
+
+*****************************
+
+
+14900 2 0.5631058 
+
+<start>
+X:25
+T:Callan Rewnna
+M:C|
+K:D
+de ec|1 A3 ec/d/|ec ce|cA FE|FE E>F|EF AA|fe e2|cB cA|BA A^G|
+GE F2
+
+
+*****************************
+
+
+15000 2 1.5824084 
+
+<stary
+H:| gg gf/e/|Be eB/e/|dB Bc|GA FE|GB Ge|
+A>B ce|df A>=c|1 d>e dB|AB/d/ e/d/B/A/|1 AG G2:|2 AG GB||
+
+
+*****************************
+
+
+15100 2 0.9849401 
+
+<stare
+essfred.
+Z:id:hn-polka-77
+M:2/4
+L:1/8
+K:Amix
+G>A BD|GA BE|ED DG|AB/A/ Bc|BA BG|cA GE|A=B Be|dc B/A
+
+
+*****************************
+
+
+15200 2 0.73939484 
+
+<startons:orves Tur Char Pane
+Z:id:hn-polka-87
+M:2/4
+L:1/8
+K:D
+f>e dG|e2 c2|Bc/d/ cB|Ad B/c/B|
+A2 AB/c/|d
+
+
+*****************************
+
+
+15300 2 0.9807831 
+
+<start>
+X:80
+T:Johny's Colem's
+R:polka
+Z:id:hn-polka-81
+M:2/4
+L:1/8
+K:ED
+B/A/ GF|B/G/A/B/ AF|Df f/e/d//B/
+
+
+*****************************
+
+
+15400 2 1.3878431 
+
+<startaF|
+FmDB DFd|d>BG FG|AF FA|AB/G/ F/A/A/B/|
+Ac Ad|BA BA/G/|BA E/E/F/G/|Bc cd/c/|
+dc BA|Dc GB|AF Ef|e
+
+
+*****************************
+
+
+15500 2 1.4497228 
+
+<start.frothowess an Chen Mc.n.
+Z:id:hn-reel-8
+M:C|
+K:G
+Bd de|fded edcA|Bd~B2 defa|1 edcA A2AA:|2 BGG2 AG
+
+
+*****************************
+
+
+15600 2 1.2313304 
+
+<starutoh latle.d.
+E:Dethins of the 2ac Ele"se.
+Z:id:hn-reel-dord.-.
+T:Rist Magin
+D:Mary Beygega| (3gge g
+
+
+*****************************
+
+
+15700 2 1.0181754 
+
+<starons: if pargin: Polka
+R:rolsion: Cether (Horne, The
+R:reclion:
+Z:id:hn-freel-2
+M:C|
+K:G
+FAe fdBA|GAB
+
+
+*****************************
+
+
+15800 2 1.5536029 
+
+<starethonphosd on Claudk.
+Z:id:hn-polka-50
+M:C|
+K:D
+~E3 EF~E2|FAAF EAAPB||
+dfed cded|edBd B2dB|ABcA ~c3A
+
+
+*****************************
+
+
+15900 2 0.6610269 
+
+<start>
+X:29
+T:Drom O'Donnie cerry
+Z:id:hn-reel-95
+M:C|
+K:Gdor
+~A3B AGEGD|BGEF GEAB|cBcd edcA|BG~E2 EGAG|
+
+
+*****************************
+
+
+16000 2 1.6503215 
+
+<staretons os gu lomee from wates.
+D:Jock if Stree]
+Z:id:hn-reel-36
+M:C|
+K:D
+DB,DG | F2GE FED2 (3Bree | d
+
+
+*****************************
+
+
+16100 2 1.2171586 
+
+<start>
+X:79
+T:Teve Clado, The
+R:rfe
+H: Soldate.
+D:Chter played His playcd.
+Z:id:hn-reel-34
+M:C|
+K:D
+GBd 
+
+
+*****************************
+
+
+16200 2 0.6017663 
+
+<start>
+M:4/8
+K:G
+~G3F GBG~|1 GGBd egeg |ffed cBAc|e2df ecBe|
+edcd eAce|Afdc BAcB|1 Afed cAec|afec dfec|d
+
+
+*****************************
+
+
+16300 2 1.0733697 
+
+<start:atehtle.freelly.1
+Z:id:hn-reel-46
+M:C|
+K:G
+B2BB ~A3B|cBcA GB~B2|cBAc dcAG|FEDG BE~E2|
+ED^FA ceAB|~
+
+
+*****************************
+
+
+16400 2 1.4319601 
+
+<start ust tuncart version 1 (3900-)
+D:Cha Jefer "Co, The Sturt "The Mutish
+R:reep
+Z:id:hn-reel-145
+M:C|
+
+
+
+*****************************
+
+
+16500 2 1.3356189 
+
+<start>
+Hef df|e2 ed ed (3cde|fdec F2GA|
+BdGB GFGB|AFDF DEDC|~D3AF EFGE|~F2GE FGAB|ADED cAFG|A2DE D2B,D|
+
+
+
+*****************************
+
+
+16600 2 1.5885495 
+
+<starothonshe
+D:Prady with thelers. Pyean Onig, The
+T:Gromely Stwolly an Tennish obenn's "The Gallyn's an
+
+
+*****************************
+
+
+16700 2 0.5049011 
+
+<start>
+H:Set in is whasel" "Davie)
+R:reel
+D:Mary Bergin: (Duntman: Fedonm's Magandren
+Z:id:hn-reel-76
+M:
+
+
+*****************************
+
+
+16800 2 1.321666 
+
+<startons:
+f>ed|edBA BcBA|1 FABG BG~G2 :|2 BGBd ~g3e||
+d2~B2 ~f3B|ABAG FAHB|AF~E2 DBAF|FABF EFAF|G2BG BGA
+
+
+*****************************
+
+
+16900 2 1.6204109 
+
+<starhutl
+~f/e/d/c/ Adec|1 dgfg fdgA:|
+|:B2cd cdcd|ceec ecAd|cdec ~A2fg|afec dBGB||
+P:variatiCh7
+|:~G3B ~
+
+
+*****************************
+
+
+17000 2 1.2377782 
+
+<start>
+D>CED FDCE|GBde fdcd|cBAD ADdB|AGFA BEgB|1 dBAG FDD2:|2 dfba bagf|edde fdAF|
+dcAG FDED||
+F2AB cde
+
+
+*****************************
+
+
+17100 2 1.5270447 
+
+<start oor in (1p-)
+D:Ha glaighttimes: The "Kmorye: and Fered wwat in cow
+R:reel
+C:Pet the catnedz nppper
+
+
+*****************************
+
+
+17200 2 0.5715465 
+
+<starhoth
+dg/g/a/g/:|2 a2 eg/a/g/e/|df/a/g/e/ d2 BA||
+<end>
+<start>
+X:90
+T:Lick is the Firtmatish, The
+T:
+
+
+*****************************
+
+
+17300 2 1.2634968 
+
+<start>
+Z:id:hn-recop-34
+M:C|
+K:D
+AD|AGEF EAFA|D2FA dcBA|GBcd efge|
+B2dB cBAB|cAGB ADFA|defd e2dB|1 AFFA 
+
+
+*****************************
+
+
+17400 2 1.413464 
+
+<start>
+Z:Tad Doinly Rean Yands (19. See also played in Gillint
+D:version S
+Z:id:hn-cornan-5
+M:C|
+K:Dmix
+
+
+
+*****************************
+
+
+17500 2 2.1719222 
+
+<starth-par the the in Mardh: Balghe
+T:Hudmeng, The
+R:set dance
+H:Seuftie let of Pitw varagd "Cond, Cown 
+
+
+*****************************
+
+
+17600 2 1.6823863 
+
+<start|athpe eac vardien
+Z:id:hn-setdance-1
+M:6/8
+I:viripe tune vessinc Bloned's in bather, ig the of tub
+
+
+*****************************
+
+
+17700 2 1.233744 
+
+<start Murich is aull version of se play at of grick played |9
+D:D EFEF DFD DBdF dBE E2B, |
+ZD.DEF G2~E2 
+
+
+*****************************
+
+
+17800 2 0.99669784 
+
+<start>
+X:12
+T:Farichy's
+T:Wupwuy Scamudy, The
+T:O'Fereorpish 15
+Z:id:hn-slipjig-4
+M:9/8
+K:Dmix
+d2|d2 (3d
+
+
+*****************************
+
+
+17900 2 1.2882242 
+
+<start>
+X:10
+T:Dadring Holling\'e De, Nigg, The
+R:plapso played Alec.an.
+D:Bott\'  |998
+H:Relatoag.
+H:Als
+
+
+*****************************
+
+
+18000 2 1.3601065 
+
+<start>
+X:80
+T:Daully ip thinglymeny2
+Z:id:hn-slipjig-26
+M:9/8
+K:D
+DA|:A2d ~g3 edc|~G3 AGA eDd|eaa g2e d2
+
+
+*****************************
+
+
+18100 2 0.43591794 
+
+<starthst):
+Z:id:hn-slipjig-38
+M:C|
+K:D
+D2F DEF F2A|Bcd B2A BEG|BEf ADd GAG||
+FDD DEc:|2 D2F E2D E2F||
+<e
+
+
+*****************************
+
+
+18200 2 0.90384406 
+
+<stark
+X:81
+d:Ddc|fed cAG G2A:|
+|:d2e f2d B2z|eBe a2g agb|a2f g e2d e2f|g2g a2 b2a a3|fed cBA B3||
+<end>
+
+
+
+*****************************
+
+
+18300 2 1.2973571 
+
+<starddelt:os of bairy on the Gerryks 'id Dups
+Z:id:hn-slipa-j7
+M:9/8
+K:G
+GAB ABc G2A|Bdd dcA G2A|BBd efd
+
+
+*****************************
+
+
+18400 2 1.4645747 
+
+<start>
+X:92
+T:Mish with
+T:The.Ting Junpain
+H:Ond potts McGFlynnn: Rye
+R:slip jig
+H:Olsan Jig.
+Z:hessios 
+
+
+*****************************
+
+
+18500 2 1.050056 
+
+<starhes-1 1288
+Z:id:hn-slipjig-66
+M:6/8
+K:G
+d2A G2G GED:| 
+[2g3|afd e2f gfa|g2f edB dBB|1 efe geB g2e:|2
+
+
+*****************************
+
+
+18600 2 2.462397 
+
+<start>
+X:'32
+K:D
+F2 F2B :| [M:4/2] GBB g2B BdB | BAG A2B d3 | dBc dcA AGE | GFG G2B cAG | FGG GAB c3:|
+(
+
+
+*****************************
+
+
+18700 2 1.4846387 
+
+<start>
+X:30
+T:Bix
+R:veelaully)
+M:2/A/G Lithrich of tanch's Jigs
+H:See #57
+Z:Thil for to the mountay oe B
+
+
+*****************************
+
+
+18800 2 1.3054042 
+
+<start>
+X:45
+T:J\'a ferm ohe Reated in the Huder's Enistir Yowes arew "The Blask.
+Z:hn-slipjig-85
+M:C|
+L:
+
+
+*****************************
+
+
+18900 2 1.2314711 
+
+<start>
+X:87
+T:Cuick of the Beiss Mhilerw's in the Saugh th O'roant a Jig, The
+T:Humoums has a Kat,an, Uk
+
+
+*****************************
+
+
+19000 2 1.0118315 
+
+<starth
+X:18
+T:Cairney Pyirn Lisl in Molo Las, 2\'ain
+W:An Dair Jinn plday
+Z:id:hn-slide-1
+M:6/8
+K:G
+E2D 
+
+
+*****************************
+
+
+19100 2 1.0434978 
+
+<starions:
+~f3 agf|g2g B2g|1 a2e d2e|a2g f2a|ged cB^c|def g2g:|
+|:a2a g2e|d2g f2d|B2d edc|BAB c3||
+<end>
+
+
+
+*****************************
+
+
+19200 2 1.2319604 
+
+<stard>
+<start>
+X:18
+T:Bile Dotles, The
+R:slide
+S:I Clool of Mhainter Datering, The
+R:single Bolley ao (1
+
+
+*****************************
+
+
+19300 2 1.0652307 
+
+<startonseto Laril
+H:coimu, The
+R:slide
+Z:id:hn-slide-37
+M:6/8
+K:D
+~F3 | Bge Bce | fed cBc | A2B cBB | Ad
+
+
+*****************************
+
+
+19400 2 1.1048696 
+
+<start>
+X:36
+T:Oef O'Craile O'Keefe
+Z:id:hn-slide-27
+M:6/8
+K:D
+F2D D2G|F2E D2A|AFG ABc|d2G GBG|F2A AFD|D3
+
+
+*****************************
+
+
+19500 2 0.573417 
+
+<staresth! stait of Alle
+R:sothus Cllogh Slig in Chilat, The
+T:Rounsiy O'Kegefre's
+R:singel jin
+Z:id:hn-s
+
+
+*****************************
+
+
+19600 2 0.8765558 
+
+<starthon:hm>ast aes the couber
+Z:id:hn-slide-44
+M:6/8
+L:1/8
+K:Ad
+E2D FGE|A2F A2e|
+c2c d2B|g2g fgf|e2f gf
+
+
+*****************************
+
+
+19700 2 0.8357505 
+
+<starth
+X:68
+T:Have wasnain.
+Z:id:hn-slide-68
+M:6/8
+L:1/18
+K:D
+F2A BAB | c3 Ace | g2d B2A | BAB BAB | d2B
+
+
+*****************************
+
+
+19800 2 0.9566517 
+
+<start>
+X:120
+T:Cong oh is then's intil or Dy, Magry and into ny >olletted of herry.
+W:Thisare,
+W:I Padr 
+
+
+*****************************
+
+
+19900 2 0.7233851 
+
+<start>
+X:88
+T:Packy Slidhts Churibe
+R:slide
+H:Also played in G
+Gag edc | ~A3 d3 |
+fag afd | g2f e2f | ge
+
+
+*****************************
+
+
+20000 2 0.19103046 
+
+<start>
+X:81
+T:Gadlars
+Reghe
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+d2A ABG |d3 AGA | BdB AGE | A2D E2D ||
+|: G
+
+
+*****************************
+
+
+0 3 2.4911754 
+
+<start>
+|:F2d2 edB|A2A F2A|B2A bEd|c3 B2d|e2e d2B|~A3 ABd|1 c3 e3:|2 a3 aga||
+B2c G2g|age dBG|1 G3 G2d:|2
+
+
+*****************************
+
+
+100 3 1.3398445 
+
+<start>
+X:1
+T:O'Keedfan's
+R:slide
+C:Ja.Af.: Chatleey: Anime S.
+<endd>
+<start>
+X:15
+T:Borkg Mewsownna,
+W:T
+
+
+*****************************
+
+
+200 3 1.3448071 
+
+<starto-vailth:
+D:Gcir de cna-te-wen-e/an'o.
+W:1t pamds cempottB
+I:ancelare5
+Z:il: Ip-290-906,8
+Z:vassit 
+
+
+*****************************
+
+
+300 3 1.5509157 
+
+<starthelt par maltionts troisellatleele@fr
+M:4/4
+L:10
+B3 G4 db | g2f2 edc=B | A4-  cBcB | (d2)(B2e2Fd) |
+
+
+*****************************
+
+
+400 3 1.1799107 
+
+<startet>
+X:4
+T:Kinckesd
+Z:wndou (162.-1940)
+Z:Sstance-690
+M:6/8
+K:A
+F F DF GA | =B TB,C \
+(c2) (ceg/a/) 
+
+
+*****************************
+
+
+500 3 2.1765494 
+
+<starte
+X:5
+T:Cramide of Kelef.
+F2F ABA | G3/=B/G/ B/2G/2 .A | G2 z2 :|
+K:F
+D2-F3-ZF2G/2F/4=E|G>A B2G3|]
+
+
+
+*****************************
+
+
+600 3 1.8004081 
+
+<starthul oredelonseele
+Z:Transcrit et/ou corrig? par Michel BELLON - 20007-03-25
+Z:Pour toute observatio
+
+
+*****************************
+
+
+700 3 0.12143737 
+
+<start>
+X:14
+T:A Margeleass
+O: EGu|
+O:D. C4 an the-num five- finprel Muzo Listantesin,
+G4] |:F4D2|F3FG|G4
+
+
+*****************************
+
+
+800 3 2.4134312 
+
+<stard>
+W:Turt? pas?fe nambo, Chair
+W:Un come" G2 z/A/BA/ | Gg (3GA/B/d/d/ d2 | cc B/A/B/ |
+GFB/F/ | G3 |
+
+
+*****************************
+
+
+900 3 1.0962913 
+
+<start>out is:19
+M:2/4
+T:N'\RoongreuV cou
+M:3/4
+L:1/8
+K:Bb
+BG |: G2 | F2c2c4 | d2z2 | !A>!c2  (d/e/)dcA |
+
+
+*****************************
+
+
+1000 3 1.3717363 
+
+<startouthelletoulvistion jimiut? pilabe
+S:Thpor Oumidioneramie. (G2e) c2Crast nor Maryetou
+R:Air
+M:2/4
+L
+
+
+*****************************
+
+
+1100 3 0.32605866 
+
+<start>
+X: 22
+T:L'ebramousiny tre"Rialo
+O:France
+A:Provence
+C:Arise Cavanky wing fimpoli ar-chino tranale
+
+
+*****************************
+
+
+1200 3 1.8082999 
+
+<start>At
+X:75
+T:Leave O'Pamrovouredamo
+Bed |
+<end>
+<start>
+X:15
+T:Baonerado poconlat
+V:
+d>c) | B2 cA | F
+
+
+*****************************
+
+
+1300 3 2.2977767 
+
+<start>
+X:33
+T:Lo galloubalie Huper,
+T:Lan craerA Annocta:
+C:Tul de mes menigu cour? Patfi?re Bust Reule
+
+
+
+*****************************
+
+
+1400 3 0.076570794 
+
+<start>
+X:3
+T:Chaef rennout (Ao)o wac.
+W:wed fouspe : La Frando
+B2 AF E | E3 G2 | F>E FB | CB G>F | 
+B2 G
+
+
+*****************************
+
+
+1500 3 1.4940845 
+
+<start>
+X:19
+T:Fornione
+O:Franscrit et/ou corrig? frafree@free.free.fr...G.F.)
+H:Alson galerans ()
+O:FDin
+
+
+*****************************
+
+
+1600 3 1.1245073 
+
+<start>
+X:46
+T:1/80
+P:an mhande la ceuru
+S:Carnes (1928)
+Z:Transcrit et/ou cre Moghad.
+R:Chanson
+Z:Transc
+
+
+*****************************
+
+
+1700 3 0.47305736 
+
+<start>
+X:11
+T:La Laingle
+R:4/4
+L:1/8
+K:Bb
+A2 AAAA | cBA B2d>e | f2af fedf | [ecde e4e2ce | f2d e2f2 | ff
+
+
+*****************************
+
+
+1800 3 1.6572871 
+
+<start>
+X:55
+T:L'ui namo Cu\'am?
+V:0s
+A,D:A=B wille
+O:France
+A:Provense
+C:Trad.
+R: Mise
+R:Danse de Mair
+O
+
+
+*****************************
+
+
+1900 3 1.4212244 
+
+<start>
+X:28
+T:La Treamon
+O:France
+A:Provence
+C:Trad.
+O:France
+A:Provence
+C:Trad.
+R:riviene
+S:Carnet da t
+
+
+*****************************
+
+
+2000 3 1.4722798 
+
+<start>
+X:63
+T:In Billee)f?re
+A:Creatoukie
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-
+
+
+*****************************
+
+
+2100 3 1.6622758 
+
+<start>
+X:87
+T:Calgo
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-02
+Z:Pour toute obser
+
+
+*****************************
+
+
+2200 3 0.7441805 
+
+<start>
+X:7
+T:Farandole
+Z:Transcrit et/ou cor/or Mighelle B2ELLONon icse@-1924
+Z:Transcrit et/ou corrig? 
+
+
+*****************************
+
+
+2300 3 1.8430508 
+
+<startaphItoutemouvile@free.fr
+M:6/8
+Q:3/8=90
+K:Bbmaj/e!f|fff fgf|dAB BAB| B6 (AB)|
+A2G AGA|c2B Acd|ege e
+
+
+*****************************
+
+
+2400 3 2.0880425 
+
+<start>
+uttouche also part.sie, Magrin
+O:Frande
+A:Cranfe
+C:Parkantoto
+O:France
+A:Provence
+C:Caraulo
+C:Ch?
+
+
+*****************************
+
+
+2500 3 1.9614621 
+
+<start>
+X:89
+T:La fien deLs) hir-s?rGin
+O:France
+A:Provence
+C:La Bdiso
+p:F
+FAd|d2dc =efed|FFAd A=Bc|1 cBA
+
+
+*****************************
+
+
+2600 3 0.22176577 
+
+<start>onttouttouvo"IT:ubtham Samilled: Lansoiser Fivoor maire7 par mar Michel BELON: 2 st granst stamben
+
+
+*****************************
+
+
+2700 3 1.7590775 
+
+<start>
+X:88
+T:La foubountans piver O'Keefabco:Cadefron!G4 GGBz | 
+W:.?
+T:Lis ?rn?zone Beito
+O:France
+Z:T
+
+
+*****************************
+
+
+2800 3 1.5130019 
+
+<start>
+X: 19
+T:La pretot?obe
+T:Olidgisong R'ar
+W:Marcetau
+R:Mande Berto
+I:Caroum
+O:Farance
+A:Com Sambenr
+
+
+*****************************
+
+
+2900 3 1.3943503 
+
+<starc>
+X:126
+T:Lifx se kambrii
+O:Farnance
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pou
+
+
+*****************************
+
+
+3000 3 1.4119389 
+
+<start>
+X:160
+K:Gmajor
+FGA FGc|1 d2z B2g f2g|f2g e2c|d2D F>Bc|
+[12 f3c Bgf|e^c BAG2|d>c BBc| B2AG FGine>d
+
+
+*****************************
+
+
+3100 3 1.0696539 
+
+<start>
+X:140
+T:La a li?sort di rasse
+R:Marche
+M:2/4
+L:1/8
+K:Bb
+V:
+f2 (e/f/) gz | e2 e/f/e/g/) | f2 (3^^f
+
+
+*****************************
+
+
+3200 3 1.0692012 
+
+<start>
+X:117
+T:La MasseG Fr?cherg
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-27
+Z:Pour toute 
+
+
+*****************************
+
+
+3300 3 1.3885775 
+
+<start>
+X:110
+T:La da pato
+T:Bu?louseu
+O:France
+A:Provence
+R:Marche
+S:Carnet du tambourinaire
+Z:Tradrsesl
+
+
+*****************************
+
+
+3400 3 0.5595602 
+
+<start>
+X:16
+T:Matendotagindoue
+O:France
+A:Provence
+C:?
+Z:Transcrit et/ou corrig? par Michelle@free.fr
+M:
+
+
+*****************************
+
+
+3500 3 1.8159145 
+
+<start>
+X:832
+K:Bb
+V:Bb
+V:Galoubet
+d3:|Ld2c>d c3| GAB>B f2B>d| edcB Acfe|d2ce dcBc|^d3  BABc|d4| (A3)]fed
+
+
+*****************************
+
+
+3600 3 2.4676619 
+
+<start>
+X:I4mate
+D:Provenceo
+M:2/4
+L:1/1618
+K:FciV daloto!d2 dd | d2zd | c2cecc | d6 | B2z2f>e | a3B>A | 
+
+
+*****************************
+
+
+3700 3 1.0809257 
+
+<start>
+X:132
+T:Ronond Dunaubour
+D:?
+O:France
+A:Pronven pubrinaire de la tambourvinaire Ginas (1924)
+S:Ca
+
+
+*****************************
+
+
+3800 3 1.0798385 
+
+<starto?utsclpaper? plaft galoubel
+C:Paur Mictellou
+O:France
+A:Artro lec
+Stant du tem? baisplieira
+O:Fran
+
+
+*****************************
+
+
+3900 3 0.36587512 
+
+<staron -(1284]
+T:Poun de Socle
+O:France
+C:Paravene
+R:Mazulle
+Z:Transcrit et/ou corrig? par Michel BELLON
+
+
+*****************************
+
+
+4000 3 1.8383965 
+
+<starbaato{V:Transclolet@eton
+Forcot Ibranle (?r?7
+R:Polka
+C:A. Glanter
+C:?. deft?le
+C:Paraul
+C:"Tradly d
+
+
+*****************************
+
+
+4100 3 1.9470946 
+
+<stard"ogy|
+F2c2 c4 | c3 B>A (3B/)B3/2 | G3B ABz2 | B4 | B2 B2 | A/B/c/d/ BF | Gc/B/ G2(A/G/F/A/ | BB d2 
+
+
+*****************************
+
+
+4200 3 2.7763243 
+
+<starthouph[X:5090
+T:La Pouto lot Alailouleding
+C:
+T:Eustoqur Gle couboe c?=u
+R:Mariche Hil Matre"O'In?er
+
+
+*****************************
+
+
+4300 3 0.00834335 
+
+<startoInstoltoustonvens?riche@free@free.fr
+S:Carnet du tambourinaire Ginas riganesc stigra priail
+C:Trie
+
+
+*****************************
+
+
+4400 3 1.9757805 
+
+<startonelle@fe|
+<end>
+<start>
+X:60
+T:Scostaer
+R:Scott
+O:France
+O:France
+R:"AnAmbe
+K:Bb
+K:Eb
+K:Bb]
+B2g2 |
+
+
+*****************************
+
+
+4500 3 2.2763908 
+
+<starth
+X:915
+T:S Combing le-?s verch?
+Z:Transcrit et/ou corrig? par 1925
+M:2/4
+L:1/4
+Q:6/8=90
+K:Bb
+V:Gal
+
+
+*****************************
+
+
+4600 3 1.7773395 
+
+<starth
+d:
+<end>
+<start>
+X:106
+T: Torlse de In Ranchale
+B:M75 4ct/4
+Sd>
+<end>
+<start>
+X: 166
+T:La Samboti
+
+
+*****************************
+
+
+4700 3 1.1428301 
+
+<starkathon|V52|
+.c2{.f.B.c.B|"Gid}uaf|d6|'f8]f2|d2c|B2B2|c9AB|(8BcB|(AGAQD| |
+[Bd][Bd]|[2d^F dRed|cBA^c 
+
+
+*****************************
+
+
+4800 3 1.3582617 
+
+<startouph@eIlonviche plout basse7
+!:Trovence
+R:Vi?s
+Z:Transtion eschet@d.frationg?
+Z:Transcrit par toute
+
+
+*****************************
+
+
+4900 3 1.4988447 
+
+<star!:Gmajoubcel
+|:"Fm] c3|FBA,|ABAG|(3d/A/G/2 F/2A/2F/2 | "Gm"G>BG|G/2F/2 E/2D/2 FG,/2 j.e |1 Ludifh:h 
+
+
+*****************************
+
+
+5000 3 1.292776 
+
+<start>
+X: 16
+L:1/8
+K:Gm
+GB | B2B A2G | (dfed cdcd | cdcd cAAB | Adc cdc | d2d^cBA | B3 ::
+B3GB | e2e>f |
+
+
+*****************************
+
+
+5100 3 2.8514588 
+
+<startoustelolouville@free.fr
+M:7/4
+L:1/8
+Q:1/4=90
+K:Bb
+V:1
+G2 A2 | "Gmym[BG] "Gmbrard] : |
+P:Irmilx
+o:Tr
+
+
+*****************************
+
+
+5200 3 1.5811647 
+
+<start>
+X:8
+T:Cranle  Dirlis Grouspi?rdalle)
+O:France
+C:Carnes
+Z:Transcrie eucou Areathes (1954
+C:Couch e
+
+
+*****************************
+
+
+5300 3 0.5630972 
+
+<start>
+X:31
+T:Coulurdiereirl (1924)
+O:France
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 20
+
+
+*****************************
+
+
+5400 3 0.873133 
+
+<start>
+X: 16
+T:Pountaus da Jign?
+W:Int nou
+S E Welteurdit ent oit
+W:Pola zu hia is pos mo jeci Marfer gr
+
+
+*****************************
+
+
+5500 3 2.1739228 
+
+<starthu[et>
+<end>
+<start>
+X:16
+T:Vouder duw _ordisaire
+W: ?1197
+Z:Transcrit et//ou corrig? par Michel BE
+
+
+*****************************
+
+
+5600 3 2.282942 
+
+<start>
+Xichefle=e=
+O:Frufescion (et/u la bett doul la be-leveur oe L'so n'xo
+w:L'ighan
+O:France
+T:La Val
+
+
+*****************************
+
+
+5700 3 1.9729162 
+
+<startajouphe@fhpeet :: 2909
+Z:Transcrit et/ou corrig? par Michel BELLON - 200-0-21
+Z:Pour toute observat
+
+
+*****************************
+
+
+5800 3 0.008992404 
+
+<startout! CCLou tousi?le M? the pol
+Q:3/4=120
+K:G
+|: "G"G3 G2G | 
+G2B d3 | e dd BA | "G"BG c2 | "B7"A3 :
+
+
+*****************************
+
+
+5900 3 0.68083566 
+
+<startapattophontepobtoon mimixa
+Z:Transcrit et/ou Veittie.fre
+M:4/4
+L:1/8
+K:Tmame
+BdBd | e2e2 | edce | d
+
+
+*****************************
+
+
+6000 3 1.0919793 
+
+<start>
+X:86
+T:Penurcue dde n'ai-lo R?sousid' Grantle
+R:Marin congo
+R:Garnande
+R:Ziradie Nolabe de compen
+
+
+*****************************
+
+
+6100 3 0.897046 
+
+<start>
+X: 15
+T:Lobab2er Bu Eitle qu monno por, n'es fins
+O:France
+A:Fr?titi la, set dorchet Gines
+O:Fran
+
+
+*****************************
+
+
+6200 3 1.1039361 
+
+<start>
+am!che | dgd e2d | c4 z2 ||
+P:A
+V:1
+Adf | gfeg | fedd | d3 | cBc | d4 | d3e | e3f2 | efeg | d4_ |
+
+
+*****************************
+
+
+6300 3 1.8556203 
+
+<starton: mail xu Dous n'ur du le ah
+S:7:
+I:1785
+Z:Transcrit et/ou corrig? par Michel BELLON - 200-07-10
+
+
+
+*****************************
+
+
+6400 3 0.92628485 
+
+<starsothetou pailtopmauplielle@frear
+M:2/4
+L:1/18
+K:C
+^FGiF nand+c2 CE|GB BA/B/|
+FA AG|G2A2|c2c2|e(3f/2f
+
+
+*****************************
+
+
+6500 3 1.6010413 
+
+<start>
+X:1/4
+T:Aird
+d2dc A2G2 G2 :|
+g4c4|B4 z>EFG|A2G4|E2G2 F2G2|A7A4 c2|\
+"G"E2F2 A2A2|"G8[G"F6|]CEG2F)
+
+
+*****************************
+
+
+6600 3 1.1772474 
+
+<start? p'as plang, C s-ttt/ Paqurear Schouttiserba/to: gatse part i? Find" CErie, The
+C:Jean of Merre
+C:
+
+
+*****************************
+
+
+6700 3 1.9199822 
+
+<starts>
+Itriam polland en na Doir nu j'2 ingasfs
+L:1/8
+P:Deol Bigas ul pouteduir Mhui Ca4
+S: Sout du boi
+
+
+*****************************
+
+
+6800 3 1.0521381 
+
+<start>
+X:6
+T:Bouchedagrd en-tont.
+N:In Areame
+C:Tobli.
+R:colled di Dhnank Ne Hollan-25
+M:2/4
+L:1/8
+K:G
+G
+
+
+*****************************
+
+
+6900 3 0.9128015 
+
+<startouttimh?plie@Trailonsm?Uillype@fre.fr.
+<stapt>
+X:4
+T:Rossolidle
+C:Bide's Rymave
+M:2/4
+L:1/8
+Q:1/4=2
+
+
+*****************************
+
+
+7000 3 1.8509014 
+
+<stardh postrounFilliel)
+M:3/4
+L:1/8
+K:Am
+A2GF GABc | d2dcBA | G2B2cB |1A4
+FAFAgf | g2g2 gag2 g2c6|
+B2cdd
+
+
+*****************************
+
+
+7100 3 1.6660022 
+
+<start>
+X:10
+T:Provende Cavantise al Domok no Fu
+D:Thopiec odo
+Z:Dave Hollang <ave?
+C:Franscridu
+C:Tumero
+
+
+*****************************
+
+
+7200 3 1.7753198 
+
+<start>
+X14
+T:Mazurka "The Keligo
+R:Sare Buzue
+H:Teafffchellts 200ne cive rie.
+C:J. Gintad nwok.
+I:dllanc
+
+
+*****************************
+
+
+7300 3 1.2418852 
+
+<start>
+X:1/4
+T:La feva de bapki
+S:Frange wite)
+R:Mazurka
+C:Stalle
+R:Maltds et Chuchail
+N:Pe_ark
+C:Hormin
+
+
+*****************************
+
+
+7400 3 0.960873 
+
+<starthappleppestiopGiEpapit@e@lafponOk.>Troath Hoid tio
+N:Dandris
+C:Trad
+R:Waltab
+M:2/4
+L:1/8
+K:Dm
+c2 cG
+
+
+*****************************
+
+
+7500 3 1.1118699 
+
+<starthupion:Stpoimielle@fronght>fm>, Wantent
+M:3/2
+L:1/4
+x/ourett potto Breprig
+C:Tradtion Datineagleson
+
+
+*****************************
+
+
+7600 3 0.6757289 
+
+<start>
+X'8/4
+R:Branse de Mance
+M:6/4
+L:1/8
+K:m
+c2gg fede f2eddc | G4 FFDA |1G2 B6 | B2BB BBBG | F2EF ABc
+
+
+*****************************
+
+
+7700 3 0.049902607 
+
+<start>
+X: 1
+L:1/4
+Q:196
+K:Gmajor
+V:1/8
+g2gg | e2gf ec c2 e2 | B4 B6 | G4 G>A |
+G>A G2A2 | _B2AA Gce> | d
+
+
+*****************************
+
+
+7800 3 1.1396147 
+
+<start>
+X:14
+""F"cc "F"z2 c2|\
+K:C
+d/e/ le dd B2| "A"HB g d e d "Ac"GF BF | \
+E2 "G"D2 "G7"DD | 1 Ez EG A
+
+
+*****************************
+
+
+7900 3 0.9065953 
+
+<start>
+X: 8
+T:Branle Brename de lifies? cavlleluetz Lou mous'ati necmiene.
+B:BbLe (1721
+d:Orchesowch gl/
+
+
+*****************************
+
+
+8000 3 1.2223457 
+
+<start>
+X:28
+T:Berenee des Alupo
+C:Staplei?
+Z:Transcrit>e et por Brangigain (15719
+M:2/4
+L:1/8
+K:G
+a2 ab|
+
+
+*****************************
+
+
+8100 3 2.122929 
+
+<stargouvonsietlonese@free.fr
+M:2/4
+L:1/4
+Q:1/4=220
+Q:3/4=100
+K:Amaj
+V:Dall
+G2G2|G2G8|]
+<end>
+<start>
+X:2
+
+
+*****************************
+
+
+8200 3 0.0073539657 
+
+<starthwu.chettp2e
+M:2/4
+L:1/4
+K:G
+V:1
+AhA GGABGAF2GF | GGGBA2 | GABA GAGB | d2B2G2 :: cBGABAGA | (AGAG^F
+
+
+*****************************
+
+
+8300 3 0.3398725 
+
+<start>
+X: 142
+T:La chine?
+C:Iprad. a Charilisise
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-0z-1
+
+
+*****************************
+
+
+8400 3 1.4951205 
+
+<start>
+X:39
+T:Igilane
+C:Thuropowin Halligne
+R:Branle du bot?
+Q:1/4=2208
+F:Branle dourke ? ma?le coutouil
+
+
+*****************************
+
+
+8500 3 1.4417628 
+
+<start>
+X: 17
+T:Gigane Slas
+O:1613
+R:Branle double
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-
+
+
+*****************************
+
+
+8600 3 1.3718305 
+
+<startounch
+Q:1/2=200
+K:Fmaj
+V:1
+F FEFE | D2GA | EABc | d2z2 | x4 | A4- | A>GED | EAFD |
+E3B |
+d2e2 | ddf
+
+
+*****************************
+
+
+8700 3 2.4921048 
+
+<start>
+X:3
+T:Havote: Efitlone pla fres
+O:Branle Stene
+Z:id:hn-air-to difabraale
+C:Inabo n? Canwall? aBmo
+
+
+*****************************
+
+
+8800 3 0.4341912 
+
+<startou Sclees BELLON] -- |005-08:4
+Z:vanscir (1
+Z:?r Giskinge Messa amonnisc 
+K:C
+G2 AG A>E | G2 G2 G2 
+
+
+*****************************
+
+
+8900 3 1.0502334 
+
+<starotombonsmals in toum bland stois monle
+Z:Vidiris (c.-16600)
+Z:id:hn- dannlin
+O:France
+Z:id:hn-22ifur
+
+
+*****************************
+
+
+9000 3 0.19610888 
+
+<startonpeploite ofter vaith and and jumpooran ? Mancet)
+R:darndan 2
+C:C?. Gellandardh a tamamon homne'ie
+
+
+*****************************
+
+
+9100 3 2.544957 
+
+<start>
+X:12
+T:Joec Kerfe's
+R:barndance
+Z:id:hn-barndance-19
+M:C
+L:1/8
+K:G
+BA | ADFA BAGA | G2B2 d3B | AG
+
+
+*****************************
+
+
+9200 3 1.7251465 
+
+<start>
+X:11
+T:Jige Keell's Jog, The,
+R:Bradl G\ 1922, #77
+H:2
+S:Curinso GlauPs anc jie
+C:Stersion lowe
+R
+
+
+*****************************
+
+
+9300 3 1.1474248 
+
+<startouthupo-Wichellfree.fr
+M:C|
+K:F
+(G2 E2 | B4 :|2 d2 | ed c2 | d3f | e>f e2 | d4 | BA Bc | d>Bd eaa |
+
+
+*****************************
+
+
+9400 3 1.2860864 
+
+<starth
+Z:Transcrit et/ou corlet carsou par Michele Billam
+B:O'Fadrall Cence witheross
+R:Airchan
+C:Ke bet
+
+
+*****************************
+
+
+9500 3 1.629845 
+
+<start>
+X:36
+T:Glas
+O:corkin
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-13
+M:3/4
+R:replo An Doubre
+
+
+
+*****************************
+
+
+9600 3 1.0093377 
+
+<start>
+X:4
+T:C?llagh
+H:Farsolan
+H:De sarpal Dlseame (1640-1738)
+H:Alstrpppers is Cyoran
+R:carolan
+C:Turl
+
+
+*****************************
+
+
+9700 3 2.0895681 
+
+<startonchies in clrom Heas
+Z:id:hn-parplande-5
+M:3/4
+L:1/8
+K:Fmaj
+ABc | cB>AG | (3Bcd (3cBA E2 (3a/2g/2a
+
+
+*****************************
+
+
+9800 3 1.5578614 
+
+<start>
+X:17
+T:Chrpos, The
+R:fland
+Z:id:hn-hf-20
+M:C|
+6:0
+K:Am
+B,E EB,CA,D | E,DE,B,,D,F, | G,2D,2 G,G,G,
+
+
+*****************************
+
+
+9900 3 1.2429323 
+
+<startounsie sizh troigh
+O:180 s 1670
+Z:id:hn-hf-10
+M:C|
+L:1/8
+K:A
+E2A2 dBde | Bcde baa>e | dBAF GDBA |
+g
+
+
+*****************************
+
+
+10000 3 1.3521467 
+
+<start
+X:69
+T:O'Seel# Keone: jighlanpe
+R:hagland
+D:Deavy Michallaith1
+Z:id:hn-hl-26
+M:C|2
+L:1/8
+K:D
+(3G/F
+
+
+*****************************
+
+
+10100 3 1.2074237 
+
+<startophes pay And ce
+T:Noge
+R:hornpipe
+D:Fhtrectey
+Z:id:hn-hornpipe-7
+M:C|
+K:D
+K:D
+g2 (3bag |age^c defg
+
+
+*****************************
+
+
+10200 3 1.1089067 
+
+<starto]gagc|ea (3gag e2eg|
+e2ec d2ef|gfed edga|g2gf gfeg|
+aBlg bgag|e2df a2gf|dcdd B2(3AGA|
+B^cded d2G2|
+
+
+*****************************
+
+
+10300 3 1.3360792 
+
+<startowhonse@le stramas (1707-1938)
+D:Botming O'Sellongy and & Hean's sambers" and and rehn Clark: akc r
+
+
+*****************************
+
+
+10400 3 1.7395183 
+
+<startopellat or treves of bles
+T:Pripses of the Pene Hood, Toneed also "The cinolions.
+Z:id:hn-hornpipe-
+
+
+*****************************
+
+
+10500 3 2.065463 
+
+<starthpsise in <st played in DAAks
+Z:id:hn-hornpipe-25
+M:C|
+L:1/8
+K:G
+(3G~E2|A2Ad g2fe|dBde fage|fabg ae
+
+
+*****************************
+
+
+10600 3 0.8389903 
+
+<startonpoissiellteon.es (isharsion treather Hotinaon Gradain
+R:hornpipe
+D:Paliad Crennce
+R:hornpipe
+Z:id
+
+
+*****************************
+
+
+10700 3 1.289668 
+
+<startoph?
+DGBd|dBAG AGED|(3FGA (3Bcd AG=FG|
+GEGA FAdB|cAFD ~G2B,|
+|:GBGF|G2GF GF|G2GF ~G3A|G2DE D2DF|GFG
+
+
+*****************************
+
+
+10800 3 1.1404023 
+
+<start atZ:
+Stue was a rand her tun tuc tune to spide guckeo
+T:If Warlem andarl Hcot un theak fordmone th
+
+
+*****************************
+
+
+10900 3 1.156817 
+
+<start>
+X:4
+T:Elt waly in the reen also nagloruman (381899,)
+H:See also played in |
+D:Craulk Ifory in F
+Z
+
+
+*****************************
+
+
+11000 3 1.1126374 
+
+<start>
+X:49
+T:Liss's West
+R:hornpipe
+H:See also vissif Lergon, The tules Lorny Loss (enank
+C:Papey
+Z:id:
+
+
+*****************************
+
+
+11100 3 0.85843587 
+
+<start>
+X:40
+T:Siling ergan O'Neli
+O:Franse
+D:Hollothe'y plast is Faists
+Z:id:hn-hornpipe-55
+M:C|
+K:Ador
+
+
+
+*****************************
+
+
+11200 3 0.9280449 
+
+<start>
+X:The figu or Boue
+Z:id:hn-hornpipe-39
+M:C|
+K:Ador
+FD | cBAG  (3FAd | egfe d2 (3efg | (3a^gB AB (
+
+
+*****************************
+
+
+11300 3 0.3204036 
+
+<start>
+X:34
+T:Salae's Saadl#89
+D:Martie Harnain (16180) sot doger tune it Traigh
+Z:id:hn-hornpipe-60
+M:C
+
+
+*****************************
+
+
+11400 3 1.574277 
+
+<start>
+X:26
+T:Ind Whoelk, The
+R:hornpipe
+C:Vervien Fasto, Seain
+Z:id:hn-hornpipe-53
+M:A|
+K:Ador
+cA (3GGA
+
+
+*****************************
+
+
+11500 3 1.2271419 
+
+<start>
+X:47
+T:Walligh Lancofam
+Z:id:hn-hornpipe-74
+M:C|
+K:G
+(3Bcd|ee (3fed edce|dcA (3ABc AB (3dcB|defa 
+
+
+*****************************
+
+
+11600 3 0.8179205 
+
+<start>
+X:21
+T:Kilsh Bamourt
+D:Sear Nergin
+Z:id:hn-hornpipe-78
+M:C|
+K:Dmix
+d^cAG FA~G2|(3EFG gdcB G2gf|f2
+
+
+*****************************
+
+
+11700 3 0.7565371 
+
+<starthougle@cape|arec d2 (3cBc Bg |1 peed c2DF | B,2AF Ggdc | AGED A4 :|2 AGGB d2ed ||
+|: Bcd | e2ae dgg
+
+
+*****************************
+
+
+11800 3 0.8520358 
+
+<start>
+X:9/9
+T:Plantying Adniste, The
+T:Kast it war, The
+T:Alshamestlin Hor
+R:hornpipe
+H:Alsoch D War tw
+
+
+*****************************
+
+
+11900 3 1.0533042 
+
+<start>
+X:7
+T:Ibceog Petherey, The
+R:hornpipe
+Z:id:hn-jic-8
+M:C|
+L:/1/8
+K:G
+GA|dgg2 gdge| dcAG FAd^c|def 
+
+
+*****************************
+
+
+12000 3 1.4056726 
+
+<start>
+X:9
+T:S'ish his the Kilman, The
+R:jig
+H:Selamel of Ender to ik the Har bornpipe, #363
+Z:id:hn-jif
+
+
+*****************************
+
+
+12100 3 1.2299786 
+
+<start>
+X:13
+T:Then Hokarnt, The
+T:Nowepamps "Junin'ain
+W:Fogad it to Musse Jig, The
+R:jig
+C:Johss of Ino
+
+
+*****************************
+
+
+12200 3 1.2590568 
+
+<start>
+X:41
+T:Tunrous Bancy.
+D:Glunkan: Sessirt partel, The
+T:Jimesc" Same with a mintrent
+W:Slegan & Ju
+
+
+*****************************
+
+
+12300 3 1.2066469 
+
+<startonglex
+<stirt>
+X:13
+T:Bantruec, The
+R:jig
+C:Mary Ber
+T:Spipell in the seam
+Z:id:hn-jig-14
+M:6/8
+fge
+
+
+*****************************
+
+
+12400 3 0.72701365 
+
+<startloth.ces btus: | e,27,2 B,3E,G,A, |
+E,3D DG,G, | E,DE c,GA, | C,CE GAB :|2 AGE c2d | cAF C2D ||
+|: 
+
+
+*****************************
+
+
+12500 3 1.153621 
+
+<start>
+X:39
+T:Cream Thove in: int Jame
+R:jig
+D:Bed neane Kit.
+D:Matt Mc. ceagha
+Z:id:hn-jig-45
+M:6/8
+K:G
+
+
+*****************************
+
+
+12600 3 1.2815235 
+
+<start>
+X:3
+T:Moll's Johnd ai ny milks and parts
+H:The sonny "The's Maip to Tunley
+Z:id:hn-jig-46
+M:6/8
+K
+
+
+*****************************
+
+
+12700 3 1.4013565 
+
+<start>
+X:51
+T:Cotst Chrishader's
+C:SullyC
+D:Mury Mooun's Seal
+R:jig
+D:Tary Hop Barry's Fave
+T:Marall's W
+
+
+*****************************
+
+
+12800 3 0.8759597 
+
+<start>
+X:25
+T:Priplie Peaukt's
+R:jig
+D:Bobby Lapy, The
+R:jig
+H:See also rige las, Iris), Ta
+R:jig
+C:See 
+
+
+*****************************
+
+
+12900 3 1.4132953 
+
+<starht|
+P:Version 2
+|: fdB cBA|f2d edB|A^de ~def|gfe dBA|Adf afe|~d3 faa|gbg fed|gdB AFE|1 ~G3 D2D:|2 GA
+
+
+*****************************
+
+
+13000 3 2.5291781 
+
+<start>
+X:9
+T:Kyngs of the
+R:jig
+D:Altan: Ty the Kieller
+S:id 2illoy
+D:Jicher
+Z:id:hn-jig-66
+M:6/8
+K:D
+dB
+
+
+*****************************
+
+
+13100 3 1.4770721 
+
+<start>
+X:7
+T:Cluroig, The
+R:jig
+D:Chieft Feack Menan: Swall Spart Corman varcal \'O BErwoob.
+Z:id:hn-jig
+
+
+*****************************
+
+
+13200 3 0.9708047 
+
+<starhu[A2^GE|DDE D2e|cAF AGF|1 BGE E3:|2 B,G,D ~ge||
+<end>
+<start>
+X:816
+T:Pladding Eoly Cladifain
+Z:id:
+
+
+*****************************
+
+
+13300 3 1.2814728 
+
+<starhdathQC|GEED E2D|FAA B2A|ABA B2d|
+dBG GAB|~f3 f2d|fdd edA|FDD BEE:|
+[2 E2E F2G|GEE CEG|~A3 AGA|BGB A
+
+
+*****************************
+
+
+13400 3 0.560479 
+
+<starhtht ant>
+a2t a2e|gfe dBd|efe dBG|~E3 EFG|A2f c2A|eAA ABc|def gec|1 GBG E2F:|2 GFE E3||
+|:~c3 BAG|AB
+
+
+*****************************
+
+
+13500 3 0.9756402 
+
+<starthy
+ag|fef gfe|1 fdd d2F:|2 BGE G2A|B2G GBd2|:
+ged e2d|=c2A d2B|A2F D2F:|
+|:AB|AGF F3|EFG AGE|Ade dc
+
+
+*****************************
+
+
+13600 3 1.528252 
+
+<startheth] o- ||
+|: e3 ede | gg f2 | d/e/d/e/ c>g |
+ag b/a/b/g/ |
+e/e/d/B/ F/d/B/ | AF/F/ A/B/d/ | eee e
+
+
+*****************************
+
+
+13700 3 1.7830145 
+
+<starhuellet>
+cB BA|B>AB d3:|
+<end>
+<start>
+X:16
+T:Ante of Broons, The
+R:march
+Z:id:hn-march-18
+M:3/4
+L:1
+
+
+*****************************
+
+
+13800 3 1.0783381 
+
+<stareth! Bare Suntam
+|: ede dBd | eeeg edcB |1 AGG>F E2D :|2 BAF A2 ||
+<end>
+<start>
+X:100
+T:Cugeler's R
+
+
+*****************************
+
+
+13900 3 1.0612674 
+
+<start>
+X:4
+T:Fairiffan's March
+R:march
+H:See also #12
+D:Sean Keane: Ofd ergion's trop of 1437 I see art
+
+
+
+*****************************
+
+
+14000 3 1.3997965 
+
+<start>
+X:35
+T:Throsd io Sille by bhisc of Lanyy Olidy
+D:hhife bastruck-1
+T:Halth of Slign's Mathermous
+Z
+
+
+*****************************
+
+
+14100 3 0.8208074 
+
+<stardath+By |
+a2 fd FA|B2 BA GB|A2 ed Bd|c=B AG FA|de fe dc|B2 B2 DF|1 G3:|2 AG FA||
+<end>
+<start>
+X:10
+
+
+
+*****************************
+
+
+14200 3 1.096588 
+
+<starophk
+~a3 ag | fe dc BA | Bd d2 G3A |
+B2 g2 ef | ed c2 cc |
+B2 Bc dB |1 A2 dc dc | B2 g2 d2 |
+e2 d3 |
+
+
+*****************************
+
+
+14300 3 1.1205378 
+
+<start>
+X:3
+T:41s Poll"Hamenn
+Z:id:hn-polka-8
+M:2/4
+L:1/8
+K:G
+G2 BG|EE EF Ac|e2 B gd|ea af/g/|eA Be|gf/e/
+
+
+*****************************
+
+
+14400 3 0.40505153 
+
+<start>
+X:13
+T:Wongo Fe Pyror Lout ffomce, The
+R:polka
+H:The hais clackid of fipper.
+Z:id:hn-polka-11
+M:C
+
+
+*****************************
+
+
+14500 3 0.77457374 
+
+<startouk parich offel
+S:The Dan Ally's Too dek Brecke's Chou
+T:AAGix Floudaish version of Algoy
+Z:id:hn-
+
+
+*****************************
+
+
+14600 3 1.253986 
+
+<start>
+X:104
+T:Net Cow Clob Rhagh
+R:polka
+Z:id:hn-polka-32
+M:2/4
+L:1/8
+K:A
+d/e/f/e/ fd|BG GB|AB A2 d|ed 
+
+
+*****************************
+
+
+14700 3 1.5694731 
+
+<starhpop-3
+BGBA|GdBd B=Bc|dG/B/ BA/B/|cd/B/ AB|c2 AB|cA A2|(3Bcd c/B/|cd/c/ BA|G4:|
+|:ef/e/ ce|ef ed|ef/
+
+
+*****************************
+
+
+14800 3 0.47603044 
+
+<start>
+X:2
+T:Lalliy Coutt G
+Z:id:hn-polka-43
+M:2/4
+L:1/8
+K:D
+d2 cd|ef fe/f/|a/f/e/F/ Ad|A>G FE|ET/f/ Bc|
+
+
+*****************************
+
+
+14900 3 0.5290844 
+
+<start>
+X:4
+T:O's Loacten's
+R:polka
+H:The fackought is Wolka, The
+R:polka
+Z:id:hn-polka-62
+M:2/4
+L:3/8
+K:
+
+
+*****************************
+
+
+15000 3 1.3929905 
+
+<starton-horgbinpe-4
+C:Mich Allish: The
+R:piab
+D:Mary Bewa
+Z:id:hn-polka-69
+M:2/4
+L:1/8
+K:D
+de ef/g/|a g/
+
+
+*****************************
+
+
+15100 3 0.91524786 
+
+<start>
+X:73
+T:Old Ceaw es #172
+Z:id:hn-polka-70
+M:2/4
+L:1/8
+K:A
+Bd/^c/d ed|fB eA|d2 d2|e/f/e/f/ g>d|ce e
+
+
+*****************************
+
+
+15200 3 0.680961 
+
+<stared)
+Z:id:hn-polka-58
+M:2/4
+L:1/8
+K:Dm
+Ad cB|AD F2|AF EF|FE EF/E/|A>E FD|ED DE|FA AF/G/|D2 AG|BG B/G/
+
+
+*****************************
+
+
+15300 3 0.919154 
+
+<start>
+X:8
+D:Bairby Keenais: Toppent
+T:Iwmang the Connming, The
+R:polka
+D:B Dd Blennin: The Dromest
+Z:id
+
+
+*****************************
+
+
+15400 3 1.1731663 
+
+<start>
+X:72
+T:Rolka
+R:polka
+D:Alambey & Hanger, #915
+Z:id:hn-polka-98
+M:2/4
+L:1/8
+K:Em
+F2 EF|DB DG|Bc cA
+
+
+*****************************
+
+
+15500 3 1.4597462 
+
+<stare
+H:Sumtincle reels from a sail #156
+D:Mcaucky & Connone
+Z:id:hn-polka-96
+M:3/4
+L:1/8
+K:G
+~(3DB, ||
+
+
+
+*****************************
+
+
+15600 3 1.114297 
+
+<start>
+X:15
+T:Il Homers.
+D:Begb Matdiasty's.
+H:There uf to reets arsion ad Stolles.
+D:My Charricle 
+B:ON
+
+
+*****************************
+
+
+15700 3 0.92743814 
+
+<stardh
+aG~g2|edcB d2ge|
+d2ef gede|~f2af gedg|
+fd~d2 fdcA|~A3 BAFA|dfed ~B3A:|
+<end>
+<start>
+X:16
+T:Floga
+
+
+*****************************
+
+
+15800 3 1.3626882 
+
+<start>
+X:2
+T:Jennmor to Sagles, The
+T:Gackna in Pattle M. Prossolos Mac7ontty Cover Net Rack
+D:Kevin Bre
+
+
+*****************************
+
+
+15900 3 0.64459914 
+
+<starkationsows:
+ag~e2 gfed|Bdef dedf|eA^cA BEFD|EdBc d2dc|(3Bcd cA FD (3EFG|
+dBd^c BGGB|d3feg fa\gdBrge|
+
+
+*****************************
+
+
+16000 3 1.4905038 
+
+<starh also an ad reel reel gadone th the Dinat in: #6
+De af/e/ | dg dB AG | FE ED |
+c2 c/B/A | G2 G2 GE 
+
+
+*****************************
+
+
+16100 3 1.1664264 
+
+<star ast' themen rela
+T:Trip hin ort. Ancil, in Coone.
+R:repir
+Z:id:hn-reel-30
+M:C|
+K:D
+d2AF ~G3A|B2BB E
+
+
+*****************************
+
+
+16200 3 0.57708186 
+
+<start>
+X:9
+T:Priss of Alet, The
+R:reel
+Z:id:hn-reel-49
+M:6/8
+K:A
+~g3e ~e3f|g2eg ~a3g|eabe dBAF|FEDF ~F3A
+
+
+*****************************
+
+
+16300 3 1.0594715 
+
+<startoulthletloppolion fso version tune, The
+T:Gowny Tumeman Glareet, The
+R:reel
+D:Overy is Danars.
+Z:id
+
+
+*****************************
+
+
+16400 3 1.3208679 
+
+<start>
+X:89
+T:Morchore Polkad on the Bumes's & To Spolest F Paty plated the see seant, #7636 Dewbrable
+H
+
+
+*****************************
+
+
+16500 3 1.2091053 
+
+<start>
+X:54
+T:Cary Horn's The Rockst
+T:Ty Slamen's Past Parius, The
+T:Beall's Pestle Relastevilles.
+H:Th
+
+
+*****************************
+
+
+16600 3 1.6069189 
+
+<start>
+X:56
+T:Brae Alendy're
+T:Breeven Tuc of, The
+R:slig
+D:De Dannes" Relate. Reaph
+Z:id:hn-reel-58
+M:C
+
+
+*****************************
+
+
+16700 3 0.48061755 
+
+<starhuplet os 1. #697
+H:The a son megion.
+Z:id:hn-reel-67
+M:C|
+K:G
+edBd gdBd|BAFc ABcd|f2dc d2ed|gedB AG
+
+
+*****************************
+
+
+16800 3 1.2562319 
+
+<start>
+X:90
+T:Mashien J'ine
+R:reel
+S:Pary Street fief tait, The
+R:reel
+C:JachaeftE Reel, The
+R:reelareel
+
+
+*****************************
+
+
+16900 3 1.5659486 
+
+<starhotl.|:eeef e2|~f3a ef~f2|afef edBA|=cfef geBd|
+edBd e2fg|eaag ecge|dBGB ABGA:|
+<end>
+<start>
+X:78
+T
+
+
+*****************************
+
+
+17000 3 1.1054093 
+
+<starhpilla-1at ent|:-and.
+D:Nonne Gartnnipe
+H:Simher 481
+Z:id:hn-reel-58
+M:C|
+K:Dmix
+BedB BAFA|d2ed f2de
+
+
+*****************************
+
+
+17100 3 1.4902489 
+
+<starhoph>est easthre.
+D:Chiery Puppled De..cot playn, The
+T:Kess Costranneathe of Two freny.
+D:Frovingel
+
+
+*****************************
+
+
+17200 3 0.6077802 
+
+<star.bothie | breat he athess\'aidh.
+D:Crankie Coabed the the manter spati's Up twewd to Mulstain Pothrn
+
+
+*****************************
+
+
+17300 3 1.1806667 
+
+<start|
+ABcA bA~A2|fd~f2 fdcA|~d3cBA ~G3|d2=B2 gfge|
+[1 dB~B2 gB~B2|g2be ~g3e|dBGB A2dB||
+|:(3ABA ~F2 {ce
+
+
+*****************************
+
+
+17400 3 1.3921856 
+
+<starhoth ^c-scecid ea:|
+<end>
+<start>
+X:46
+T:Bixt na Frooth\'ain
+D:Eillig Calsc)
+Z:id:hn-setdance-3
+M:C|
+
+
+*****************************
+
+
+17500 3 2.0373433 
+
+<start>
+X:60
+T:Brean ow un Somen, The
+R:set dan
+D:Neves in mukilan
+R:slet dance
+D:Paddy Glackin: In Allos
+
+
+*****************************
+
+
+17600 3 1.5886761 
+
+<startepoth obcar in 2t/orsin vick
+Hed | (f2af (3gfe d2 | fef ed | (3cBA cAB |
+cAG AGF | ABc dcB | B2g2 e
+
+
+*****************************
+
+
+17700 3 1.1609397 
+
+<start>
+X:16
+T:Mornet Badgroy's
+R:slip jig
+C:Mast Patt to thumb to ty On Sudin
+Respey (c8-1924wep 1 2085-
+
+
+*****************************
+
+
+17800 3 0.9267567 
+
+<starhophipe-ta-p'uper steppeltoug. Jig af and lottabhing.
+D:Matt Molloy, Deyedy
+Z:id:hn-slipjig-8
+M:C|
+<
+
+
+*****************************
+
+
+17900 3 1.298476 
+
+<startothes Bcarn Wall
+Z:id:hn-slipjig-18
+D:CaM, Clothely MACCloin "The Glorn Hill
+W:This Are Haterman & 
+
+
+*****************************
+
+
+18000 3 1.2633177 
+
+<stary cEcE E2Emb|
+a (3gfe d2e ~B3|~g3 aga g2f|~g3 agf g2d|(3efg ba gfe dcA|Bee a2A B2g|
+cBA ABG AGE|^F2E
+
+
+*****************************
+
+
+18100 3 0.42914551 
+
+<startonses in 1800.Ng, sies
+D:Pody tha Highlars a Lillie any neisseg Will, #9
+Z:id:hn-slipjig-39
+M:9/8
+K
+
+
+*****************************
+
+
+18200 3 0.9254435 
+
+<starth
+X:90
+T:MiK Glaghan.
+Z:id:hn-slipjig-47
+M:9/8
+K:G
+G2A B2G G2G|~G3 GBG A2G|A2B d2G E3D|B2G A2B c2A:
+
+
+*****************************
+
+
+18300 3 1.1130615 
+
+<startonhot te ~arsion mamps , P\beal Hlar in Dere, #28
+Z:id:hn-slipjig-25
+M:9/8
+K:D
+F2F ABA BAF|gFE F2A 
+
+
+*****************************
+
+
+18400 3 1.1949042 
+
+<starhpostophep-3700
+M:9/8
+K:Ador
+GeB dBA BEB|~B3 B2B B2A|Bcd cAG E2E||
+P:Vor playinced defd et and ce au
+
+
+*****************************
+
+
+18500 3 0.9949589 
+
+<starhatopon W:ips of Oc Also fer
+W:Alich un whundaurlingar of the s\'i Baslich swap jig, The
+W:Thond, sh
+
+
+*****************************
+
+
+18600 3 2.3100514 
+
+<startons:
+dsed|BAGB d2B|G2A Bcd efd|e2B e2f g2e|
+d2B B2B ABc Bcd|BAB d2A e2d|BAG Bcd edd|BAB dfe dBG|
+GA
+
+
+*****************************
+
+
+18700 3 1.5044622 
+
+<starthpas Sith fumer
+Z:id:hn-slipjig-47
+M:9/8
+K:G
+GAB G2A BAG | DGG FGA dAB |1 g2g e2d e2B E2D | GAB d2B
+
+
+*****************************
+
+
+18800 3 1.1050793 
+
+<startonsonsmis alson g? uncpon
+c/c/cA BA/B/ ce/d/c/B/ | cA A>B cA :|
+|: gb/a/b/a/g/ ab/a/g/e/ b/a/g/a/b 
+
+
+*****************************
+
+
+18900 3 1.1509011 
+
+<starthphot of the the to thp, aire math downe, ano, mou, fes An bhinre Pled to hiddl a la Leair gar the 
+
+
+*****************************
+
+
+19000 3 0.9747366 
+
+<start>
+X:12
+T:Joul Sker, Ji Beli#42
+D:Muellat Marth\'?, Bea othin Lave
+R:slide
+H:Also played in AB, G
+B 
+
+
+*****************************
+
+
+19100 3 0.9752481 
+
+<starth
+c3d ef|gec d2e:|
+|:f2e fBf|e2a ece|afg afd|1 e2d c2d|c2B c2B:|
+|:G2g fge|d2e d2A|B2A efg|
+|:f2d A
+
+
+*****************************
+
+
+19200 3 1.2277795 
+
+<start>
+X:2
+T:Coehwaed Windh Homed's
+R:singel jig
+Z:id:hn-slide-200
+M:2/2
+L:1/8
+K:Bm
+~D3 GAG|~D3 GEE|G2A 
+
+
+*****************************
+
+
+19300 3 1.030341 
+
+<starioth Fstich by feve parthA-the bairg oct,
+Z:id:hn-slide-30
+M:6/8
+K:D
+V:1 B,2, |B3 BAG|E3 G2A|
+B2A AG
+
+
+*****************************
+
+
+19400 3 0.9868546 
+
+<startolhe to migert?
+Z:id:hn-slide-49
+M:6/8
+K:D
+d2g edB|A2G FED|E2G B2E|1 EGD D2c|Bcd gfB|cAG ABc|d2e e2
+
+
+*****************************
+
+
+19500 3 0.5765992 
+
+<starhoth poum by the to Lig
+T:An Kilges
+R:slide
+Z:id:hn-slide-56
+M:6/8
+K:G
+d2B G2g|d2A GEC|c2d c2A|G2g f
+
+
+*****************************
+
+
+19600 3 0.83711547 
+
+<starathinsist part>
+Azc ABc|z2A c2B|cBc A2G|FED FED|E2D E2F|E2E F2E|E2D E2E|FGA BAB|cBA Bcd|
+~f3 a2a|agf
+
+
+*****************************
+
+
+19700 3 0.8530061 
+
+<starton D]
+<end>
+<start>
+X:69
+T:The Nernyy Home's tole oftm
+T:Kidgie's houce the Eust\'ise,
+H:Devil in b
+
+
+*****************************
+
+
+19800 3 0.9271858 
+
+<start>
+|:~a2g e2c|d2d c2A|B2A E2F|G2B A2B|c2A E2F|E2E G2D|E2F G2A|1 B2c c2A:|2 G3 G2B||
+|:dd g2d|e2A c2A
+
+
+*****************************
+
+
+19900 3 0.68892664 
+
+<star>apiree
+A:Dreent Giver
+Z:id:hn-slide-64
+M:6/8
+L:1/8
+K:Ador
+A2A AFA | f2e c2A | B2 d2 cB | A2D FEF ||
+
+
+*****************************
+
+
+20000 3 0.1530919 
+
+<starthppok
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:Ador
+c2B A2E | DEC D2A | B2A G2B | AGE G2B |
+ABc dcA | BcA FGA
+
+
+*****************************
+
+
+0 4 2.3449194 
+
+<start>
+X:98
+T:Hundel O'K\Fote's
+T:Traisesime to to Jane ohed, The
+R:slide
+Z:id:hn-slide-83
+M:6/8
+L:1/8
+K
+
+
+*****************************
+
+
+100 4 1.4031028 
+
+<start>athoutouth[o:32
+M:6/8
+L:1/8
+K:Ador
+BGA Bcd Ed|Bd dB A|1 DE F2 FD DB,2 | D2 C2E | F2 F_D BE|ED D2 F
+
+
+*****************************
+
+
+200 4 1.0462258 
+
+<start>athout>ete-tancas-..
+M:3/4
+L:1/8
+Q:1/2=7
+L:1/8
+Q:1/4]
+K:A
+d2ef d=cB dAB|cBc d'YB/c/d/|ed/c/ Bd|ed 
+
+
+*****************************
+
+
+300 4 1.3906255 
+
+<start>
+X:6
+T:1 -na toe's up tu's Thety The wounytedr
+Z:id:hn-slide-99
+M:6/8
+L|/8] z,2C2G, G,2D |G,2 E,4G
+
+
+*****************************
+
+
+400 4 0.98551285 
+
+<staro-M>18
+(cB)A) .B2 (c=Bc) | ({c}!+!=B2c3B | 
+(c=Bcd)(e/f) gd | !+!d3=F G2 {}d2)(>c(d)(c/)A/d B/A/) | 
+
+
+*****************************
+
+
+500 4 2.0485427 
+
+<start>o:Valltep: [F3c c2d efe | ceg f3 |
+(3cF de ff d2ef :| B2d G2B | d4 | c4- :||
+<end>
+<start>
+X:9
+T:T
+
+
+*****************************
+
+
+600 4 1.84448 
+
+<start>othotheullof[805
+T:Ohd herlistaing.
+Z:Transcrit et/ouc corrig? par Michel BELLON - 2007-07-22
+Z:Po
+
+
+*****************************
+
+
+700 4 0.095935404 
+
+<start>
+X:12
+T:Ganwarpell?
+R:pousiga
+d:1/2pa a2ne=0-956
+B2c/4d/4e/2d/2 !re8
+d2dd (BAG>FA) F2c2|d2c2 (GBcd
+
+
+*****************************
+
+
+800 4 2.1934037 
+
+<start>
+X:4
+L:1/16
+K:F
+P:ramilair man Vifleu
+T:Nubs? Cantaide.
+Z:Transcrit et/ou corrig? par Michel BELLO
+
+
+*****************************
+
+
+900 4 1.0606227 
+
+<startoumQ?"isthas alla victellaire
+S:ailoun Alfoo
+C:Provence
+C:Provence
+C:Trad.
+S:See hacite w'?ut
+W:Tro
+
+
+*****************************
+
+
+1000 4 1.4201065 
+
+<starhallatobthon mailto:G2Gle~G2.e|d3d3B |
+c2e2 dcAB|ceec B3A|BABc dBcd|B2G2 B2cB|c2BcdB c2B2c|dBdBdf|e2
+
+
+*****************************
+
+
+1100 4 0.27818087 
+
+<start>
+X:3
+T:I "Li. B\'u'b revoire 
+R:garoublie-
+M:6/8
+L:1/8
+Q:"Tron de mobliso
+R:M>7
+Hef ge | fd BA | B
+
+
+*****************************
+
+
+1200 4 1.8076009 
+
+<start>
+X:9
+T:Jocastre I Mickleto
+T:AiD
+,:2/8
+D|EF F Bc|d cA|F2)E|F EFG|AF FA|d2 cd|Fd|cA GA|B2 Gc|FGG|.E
+
+
+*****************************
+
+
+1300 4 2.1741326 
+
+<start>
+X:3
+A:Awend\'oBr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-22
+Z:Pour toute observatio
+
+
+*****************************
+
+
+1400 4 0.054502748 
+
+<start>
+X:4/4
+L:1/8
+K:Bb
+V:1
+AB2c2 | d6 | B2z2 | c2B2 | F2F2 |  d4c2 | B4 | B2B2 | B2A2 | G6 | B2A>B | E2
+
+
+*****************************
+
+
+1500 4 1.3925003 
+
+<startout>
+X:14
+T:La reenuere:Lissant
+C:Tud O'Lavell ?est
+R:"Chichan cou" ADC Croustainse
+T:Chanso dr'ant
+
+
+*****************************
+
+
+1600 4 1.0918778 
+
+<start>
+X:104
+T:Cou'ladyle
+R:Crunsoun of fues hinu
+R:4
+L:1/8
+L:1/8]7
+K:Bb=E5]
+EB DE|d2c F2|F2 FF|A2F|F|A2
+
+
+*****************************
+
+
+1700 4 0.42156684 
+
+<start>
+X:79
+T:2B. Gelcardorche
+O:France
+R:Danse de caranne
+C:Partaux6are (Aunar  A, see settre d/e/tndre
+
+
+*****************************
+
+
+1800 4 1.5599622 
+
+<start>
+X:45
+T:Le cuppissier?
+T:Luiitire
+R:Danse de courtauion
+S:Trive miviere
+O:France
+C:Kance
+Z:Transcr
+
+
+*****************************
+
+
+1900 4 1.4252594 
+
+<startout"Da. GEPFEiN[Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-15
+Z:Pour toute observation m
+
+
+*****************************
+
+
+2000 4 1.3659008 
+
+<start>
+X:63
+T:Fissi campe."Crrection
+S:Aangaire c C
+Z:2/8
+K:Bb4
+d/M>fe>dd>c|BG A>B | e>g (ec)d | (4)(e>d
+
+
+*****************************
+
+
+2100 4 1.4889811 
+
+<start>
+X:27
+T:Camfoche Micoler.
+Q:1/44=12
+C:Ca traedsuigo
+O:France
+F:Trad.
+Z:Transcrit et/ou corrig? par
+
+
+*****************************
+
+
+2200 4 0.74099076 
+
+<start>
+X:68
+T:Li Pasradeny
+R:Alsoutian
+S:Carnet darset {out es Gil Lairnale
+C:Trad.
+Z:Transcrit et/ou co
+
+
+*****************************
+
+
+2300 4 1.7045935 
+
+<start>
+X:68
+T:Cantaire in FE, see la aiso, souta
+O:Fuansoun
+C:Trad.
+C:Trad.
+R:Faronetiese
+M:6/8
+Q:3/8=90
+
+
+*****************************
+
+
+2400 4 2.102813 
+
+<startoutno?tet>oloumelleto-200005-06
+C:Ces mi?s, Cantillon dellou
+W:Carnso, Ga tame pa?Ai2
+W:I la Ri?re
+
+
+
+*****************************
+
+
+2500 4 1.7971737 
+
+<start>
+X:84
+T:Lo trand?Ce, Cu\'O princheu
+R:Fandoton
+S:Carnet du tambourinaire Ginas (Fmansa
+R:Farandole
+
+
+*****************************
+
+
+2600 4 0.20299192 
+
+<start>
+X: 96
+T:La Caurbos n?mol ou fouti
+W:Coumet" n? pa-si-s tant u? asle mau-so, Cou la graip, se? la-
+
+
+*****************************
+
+
+2700 4 1.7374916 
+
+<start>
+X:31
+T:Paur dennou" Lei Lixo,  I', A,.A, s? lauche
+R:vadr
+M:C
+L:1/16
+K:A
+FGE|E2F F3|c3b|!f).f2f |
+
+
+*****************************
+
+
+2800 4 1.4276007 
+
+<start>
+X: 91
+T:Lambou
+O:France
+M:6/8
+L:1/8
+K:Bb
+V:3
+ffed | c2 AB | c2 (3cBA | F2 dc | B2 d>B d/e/f/e/ dd
+
+
+*****************************
+
+
+2900 4 1.320178 
+
+<startoutt@c>olte-toutourian :181
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-04
+Z:Pour toute o
+
+
+*****************************
+
+
+3000 4 1.3263772 
+
+<start>
+X:180
+T:Bo
+M:C\
+K:Adoj
+F2Fz|F6A3:| [P:3] [K:C] L yc cB | cB AA | A2 A>B | c2 BA | B2 fd c2 | e2 f
+
+
+*****************************
+
+
+3100 4 1.0698483 
+
+<startout>
+X:19
+T:Le Proserate
+Q:Lou Relice
+O:France
+C:Tr\I-comritio
+O:France
+A:Provence
+R:Marche
+C:Parre
+
+
+*****************************
+
+
+3200 4 1.0710095 
+
+<start>
+X:172
+T:La Marchatioe Marcher
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-12
+Z:Pour tou
+
+
+*****************************
+
+
+3300 4 1.2695488 
+
+<start>
+X:111
+T:Carto
+T:March Coubeud
+R:Marche
+Z:Transcrit et/ou corrig? par Michel B29 LELLON - 2005-03-
+
+
+*****************************
+
+
+3400 4 0.52941114 
+
+<start>
+X:110
+T:Ai cameto dou' tu-e souper po
+O:France
+A:Provence
+Crenetole
+R:Provence
+O:France
+A:A
+Corim
+
+
+*****************************
+
+
+3500 4 1.7318655 
+
+<start>
+X:128
+T:Maitetto
+C:Cato
+A:Provezce
+C:Trad.o
+M:2/4
+L:1/8
+K:Bb
+V:GaloubetIcme doul boup-pe-_
+<otian
+
+
+*****************************
+
+
+3600 4 2.3057761 
+
+<start>
+X:142
+T:La Bolle den trado
+W:I me Marche" 
+<end>
+<start>
+X:120
+T:Paur des du'on'en ddzus Marusson
+
+
+*****************************
+
+
+3700 4 0.809499 
+
+<startouk malto|gab fef|g2B fgf|d2e fga|f2c ffgA|
+(d2f) (f2f2|gfg agf|gfg fgf|(e3 d)c2|
+(ec BA BABd|d3c/B
+
+
+*****************************
+
+
+3800 4 1.0548356 
+
+<start>
+X:13
+T:Paur oureto
+C:?
+Z:Pour toute observation mailto:galoiveel 3 Giclorin-2118 406
+N:Valou
+S:Ca
+
+
+*****************************
+
+
+3900 4 0.3757125 
+
+<start>
+X:168
+Q:"Pulo",eA Santi?e
+N:Coublio
+C:Paun me"Nerempo
+R:CoBble
+C:n?man Sousine
+I:abc2nwc
+Z:Transc
+
+
+*****************************
+
+
+4000 4 1.7327216 
+
+<start>
+X:112
+T:Cello part of?leid.
+C:
+W:Pass oullit I wiki?
+Z:Transcrit et/ou corrig? par Michel BELLON 
+
+
+*****************************
+
+
+4100 4 1.8805718 
+
+<start>
+X:122
+T:L ari?o Ean lausina, lei caisse?)
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 
+
+
+*****************************
+
+
+4200 4 2.6924555 
+
+<start>
+X:165
+T:Elsa nou Marounalee
+C:Trado" II zuisu
+T:Rimene)
+S:Santant de Raran
+O'Adrnnet>
+M:2/4
+K:B
+G
+
+
+*****************************
+
+
+4300 4 0.005742539 
+
+<start>
+X: 541
+T:Segn cpolrins enor d en-lo Gourtion
+O:Fing?0 Mit e mi?_s oue trmaun la Aorr de la bour M
+
+
+*****************************
+
+
+4400 4 1.8503302 
+
+<start>
+X:150
+T:Qui n'armo Flome sunt sou la coxt veut !
+O:France
+C:Jan
+S:Scottish
+4:10
+T:1835
+R:Scottho 
+
+
+*****************************
+
+
+4500 4 2.195237 
+
+<start>
+X: 518)
+Z:Polanmelloet>stettonsits
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-02-23
+Z:
+
+
+*****************************
+
+
+4600 4 1.5948057 
+
+<start}
+a:Scottith"f2d2(f)(e/d/)c2c|(3ccccA!DC.!B9.Fd.d|
+ccAc B(3-cBB2| =e2AcA>A | B2z ccd | 
+cde f2c | d
+
+
+*****************************
+
+
+4700 4 1.0755754 
+
+<start>oXX1140
+T:Eldpo"Ge, Cra?ching, pambolistisalenong.frith@freec
+C:Provence
+N:Transc
+Z:Transcrit et/o
+
+
+*****************************
+
+
+4800 4 1.2568219 
+
+<startoum[V:99
+L:1/8
+): S
+K:Bb
+F,4A,2 E,3G, | E,4G,2 | [Gm"GABA BAB | B6 | (G2B g2 | f3 FGA | (c2B) A3 | 
+
+
+*****************************
+
+
+4900 4 1.4435487 
+
+<start>othunetlolV: !c'ok louis stagreftiollak>
+K:Bb
+c3Acf | (c2c2c2 | f6 | f2fg (=efe- | fdf=e | d2f | f
+
+
+*****************************
+
+
+5000 4 1.3047343 
+
+<start>
+X:105
+T:Oftenes Laster", Is Rovenne 3rol G Geagne
+T:Laloga) berThoulin?h, 5.
+R:Transle la lesse s
+
+
+*****************************
+
+
+5100 4 2.763166 
+
+<start>
+X:31
+T:Arbolon
+R:Branle
+C:\
+"Acruise Fante, Maussal
+O:France
+C:Trad.
+C:?
+Z:Transcrit et/ou corrig
+
+
+*****************************
+
+
+5200 4 1.6095331 
+
+<start>
+X:18
+T:1. La huille (Dmal Davalone
+R:Dalouel du Tur-sla la Mony Chaloufinqan)
+M:2/4
+L:1/8
+"Ad=e f
+
+
+*****************************
+
+
+5300 4 0.5163313 
+
+<start>
+X:17
+T:Poulingu-tin Paserble
+C:
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-06
+Z:Pour t
+
+
+*****************************
+
+
+5400 4 0.8737122 
+
+<start>
+X:29
+T:Bonottai
+O:France
+C:J. Ginas (Carlint Gavussique
+W:Ais (M:2/2
+"Ibrogandegs des Tuiteur
+R:i
+
+
+*****************************
+
+
+5500 4 2.1052392 
+
+<start>att>
+X:19
+T:Gigau
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-06
+Z:Pour toute observatio
+
+
+*****************************
+
+
+5600 4 2.1243799 
+
+<start>
+X:2
+T:Ligo
+R:Rigaddance  198
+Z:Transcrit et/ou corrig? par Michel BELLON - 2009-06-08-04
+Z:Pour t
+
+
+*****************************
+
+
+5700 4 1.8370297 
+
+<start>
+X: 151
+T:Chrong?
+R:soitiee
+R:---
+S:Cer? gutit dandole
+Z:Transcrit et/ou corrig? par Michel BELLON
+
+
+*****************************
+
+
+5800 4 0.0073012183 
+
+<start>
+X:34
+T:Le oalo coun tu ben con?mor
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04
+
+
+*****************************
+
+
+5900 4 0.6893633 
+
+<starte
+B|B2G2B2|ABAc ecA2|defd e2f2|B4A2|[A2BAGA|AGAB A2G2|A6-|(F2F2 G2:|6e2 d>cBA|d2 e2e2|
+d2 dc d2:|2 
+
+
+*****************************
+
+
+6000 4 1.051307 
+
+<start>
+X:68
+T:La graiqu'E monsaits esse
+R:Dande
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-25
+
+
+*****************************
+
+
+6100 4 0.83494735 
+
+<start>
+X:55
+T:L'engr'es Ronegif
+R:---
+L:1/1
+K:G
+"Gb"Gg g2f2| "C"e |"G"BB d2|"C"ed cB |"F"AA AA| "F"B/2A/
+
+
+*****************************
+
+
+6200 4 1.0237006 
+
+<start>
+X:49
+T:Trioaussand" inorg "Cefise
+R:---
+C:Trad.
+R:Ronde
+Z:Transcrit et/ou corrig? par Michel BELL
+
+
+*****************************
+
+
+6300 4 1.8187783 
+
+<start>
+X:66
+T:Brene)
+Z:Transcrit paria Jour gargouvielle@fre.fr
+Z:Transcrit et/ousceel Piporuite olabcou
+
+
+*****************************
+
+
+6400 4 0.88605034 
+
+<start>
+X:1
+T:1-le du lopp?er, Rore Scom MiDe
+R:Slom-
+C:Sealindo
+S:Aird
+Z:mamoue
+C:Provence
+R:dill a Seri
+
+
+*****************************
+
+
+6500 4 1.5471878 
+
+<start@eto uksorchelle@fr.frig.frit/M: -par clanctisc (604
+R:Schott
+Z:Transcrit et/ou corrig? par Michel 
+
+
+*****************************
+
+
+6600 4 1.063761 
+
+<start>
+X:15
+T:Couir
+C:Thaver Ma Chare RoEe, hus n'in pr?chard hu partier
+M:2/4
+L:1/8
+K:Cm
+AB AG|A2 A2|Az
+
+
+*****************************
+
+
+6700 4 1.8658986 
+
+<starovRB>
+V:1
+S:4
+|:A>G AG G|A>G FG|F>EF G2|B2B2| GBc/d/|ed/c/B|GG| A>G|BcA|G3z|]
+V:2
+A4-|A4|B4c4|A4:|2 
+
+
+*****************************
+
+
+6800 4 0.9059843 
+
+<start@uthor Bliau pest e un de aourre de-tro
+D:Noldenak Stnar-G
+gad gece | d2c2cc | cdefed | f2edcB |1 c
+
+
+*****************************
+
+
+6900 4 0.78045815 
+
+<start>
+X:7
+M:2/4
+L:1/16
+K:C
+|:"G"ce fe d>e | c3- g gf | "F"F2 Gd  Bd | eef e2d | "F"dcB ce | "d"d4 |
+"G"
+
+
+*****************************
+
+
+7000 4 1.8284398 
+
+<start>estaphjicpepbag.
+R:Qariginallsed Wike
+R:Bourree
+M:2/4
+L:1/2
+K:Dmix
+|:GG BA GG|"Cm"G3|^F EF|"G"GG G
+
+
+*****************************
+
+
+7100 4 1.6483034 
+
+<start>
+X:1/8
+T:Don Demo
+L:1/8
+R:Nolted n?s
+M:2/4
+L:1/8
+Q:3/8=8=2
+K:C
+G2G|A2 Bc dB|GA Gd dB|A>F FF|A,2E G
+
+
+*****************************
+
+
+7200 4 1.5457195 
+
+<start>
+X:1
+T:Theonzenne ? reans?
+N:4oor n?e chorad
+ZAulesc one Vichois en Mckavie Magfermal (3199)
+G:rin
+
+
+*****************************
+
+
+7300 4 1.2697003 
+
+<start>
+X:9
+P:Bobred.
+C:Brads eschaw gone
+M:3/4
+L:1/8
+K:C
+S:"G>a ba ce ba || "C"e3 fe | 
+"C7"fe "G"G3- | 
+
+
+*****************************
+
+
+7400 4 0.9155437 
+
+<startoupkWliopOBdsertion Daulge-re2s2
+<end>
+<start>
+XStripotio
+AFG FDA DEPAl-Merich Keckau=Am
+Z:Dave Hol
+
+
+*****************************
+
+
+7500 4 1.0549829 
+
+<startoupkaupcle@frdes|1 1103-048:26
+N:obenella we tavbes ar randel)
+M:6/8
+M:3/4
+L:1/8
+Q:1/4=120
+K:Cm
+|:"
+
+
+*****************************
+
+
+7600 4 0.5234541 
+
+<startouk
+ceg efe | dcd2 Bc |1 c2d2d :|2 d2d ||
+|: B/2c/2B/2A/2c/2_B/2 | c2c2 |
+P:Trans jignel
+d/2e/2f/2d
+
+
+*****************************
+
+
+7700 4 0.041164353 
+
+<starton galouvigile..fr.esst pastara
+A2A Bcd |
+L: e>d comp? mos R'air 1
+M:6/8
+L:1/4
+Q:1/4=017
+K:Gm
+G|\
+P
+
+
+*****************************
+
+
+7800 4 1.1369965 
+
+<start>
+X:11
+T:Lanchesd
+Z:<anamnese@lalt
+Sttpouicher 2igonto:Grance
+C:Trad.
+S:Thoining
+Z:Transcrit et/ou 
+
+
+*****************************
+
+
+7900 4 0.89032274 
+
+<start@agsoriches L'a Lumin? (Fulass.
+<start>
+X: 19
+T:La Coulino
+C:Trad.
+S:Thoind oubdaingefe
+Z:Transcrit
+
+
+*****************************
+
+
+8000 4 1.1682278 
+
+<startouck
+V:Rid/or
+K:G
+A2G G2G | EFG cF | GF/G/ GB | dG zG | e3d | cGef | e2- |]
+K:F
+V:1
+G3G | FFAABc | 
+
+
+*****************************
+
+
+8100 4 2.102839 
+
+<start>
+X:1
+T:2020es (?n?)
+C:Aranle
+R:davbe
+C:Araglegu
+d:Marresse
+C:R?=A hoponentwe (Murortielle
+R:Branll
+
+
+*****************************
+
+
+8200 4 0.0051138885 
+
+<startoutkestoesfe.fretionfseree.fr
+M:6/4
+L:1/2
+"F"Paurine ? jugier es? Gannente d'er andenma m'ens le ba
+
+
+*****************************
+
+
+8300 4 0.34108758 
+
+<start>
+X:42
+T:Branle de la shui.
+I:abc2nwc
+Z:<anancet>
+X:18
+T:Branle de lomporing? un Ime na gartie
+R:Br
+
+
+*****************************
+
+
+8400 4 1.4344034 
+
+<start>
+X:46
+T:Branle da bookis
+R:daurpe
+C:Marve Hearisa lates ni Whadef?re Caisier)
+O:1703
+Z://amcerabe.
+
+
+*****************************
+
+
+8500 4 1.3411778 
+
+<startouc
+B2 GG : (G>A) BG | G/>A/B/A/ Gc !breath!g2 | g/2(c/c/) e (3e/d/) | e/>g/g/>f/ e | (e/2d/2) e/2+
+
+
+*****************************
+
+
+8600 4 1.3290417 
+
+<start>
+X: 14
+T:Hantin com nouge with ^n
+R:Barser
+M:2/2
+L:1/8
+K:Cmaj
+A\
+|: G2- 1 A2B2 | c2B2 | LB2BB | B2
+
+
+*****************************
+
+
+8700 4 2.469855 
+
+<start>
+X'3/4)
+D2 D^GAF GA | B2A2G2 | (AGE^FD2) | A6dc | d2c2A2 | G4 D2 G2 |
+B4cB | A6 | A2GA2B | A2D2^F2
+
+
+*****************************
+
+
+8800 4 0.42983222 
+
+<startomansetoe.frig? 100156: 2  E2- |: 
+Z:?lscown
+Z:id:hn-ait Merrien 'ify
+C:Coyne Ting
+R:Hargubond
+T:Ca
+
+
+*****************************
+
+
+8900 4 1.0338162 
+
+<startaphouWtophes pisdhelle@fre.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-03-18
+Z:Pour toute
+
+
+*****************************
+
+
+9000 4 0.21134405 
+
+<starto}Halstapts: 18
+M:4/4
+L:1/8
+::2
+A3B ABAG | F2Fe G2AB | cdef g2gf |
+egge dBAA | A6 c2 | Egfd Adfg :|
+
+
+*****************************
+
+
+9100 4 2.5345602 
+
+<startonmion mailab and strett>
+Z:id:hn-flander.s
+Z:id:hn-barndance-12
+M:C Letre
+H:Adfrand (Scottish in D
+
+
+*****************************
+
+
+9200 4 1.6174991 
+
+<start>
+X: 1 2
+Bcde | ed^cd | eeag | f4d2 | e4de | f4g2 | f4>ag | f4e2 | d4c2 | c4e2 |1 fedc | B2G2 :|
+<e
+
+
+*****************************
+
+
+9300 4 1.1104697 
+
+<start>
+X:6
+T:Barx - fe6, The
+R:carolan
+C:Turlosthe Landley
+R:garandore
+B:Heurl the Barr O'Carolan's Reet
+
+
+*****************************
+
+
+9400 4 1.2586575 
+
+<startou=cstolelo parpich parichel9
+Z:id:hn-carolan-11
+M:C|
+L:1/4
+K:A
+P:A
+cttttap, M,2, Elson no daus Mar
+
+
+*****************************
+
+
+9500 4 1.6185111 
+
+<startouk pilt over Miress ia Plance
+Z:id:hn-carolan-11
+M:2/4
+L:1/8
+K:D
+A | A6 | ABcB A2fd | efag a2bc | 
+
+
+*****************************
+
+
+9600 4 1.0224004 
+
+<startouvimelleschiti--01088
+Z:Vlanset dron by Coins pard-2
+Z:id:hn-carolan-25
+M:2/4
+L:1/8
+K:G
+g3 e/d/c/e
+
+
+*****************************
+
+
+9700 4 2.006378 
+
+<start>
+X:13
+T:O'Carolan (1738-1738)
+H:Originglo Stom beaull's 3000gee28
+H:Also plyamere oy Collergle Wad
+
+
+*****************************
+
+
+9800 4 1.4894032 
+
+<start>
+X:31
+T:Oneellang O'Noly Hambeezua"
+D:Crand corglen: Ifelingle
+R:carga
+H:Also played lassellansey 
+
+
+*****************************
+
+
+9900 4 1.1589086 
+
+<start>hX: 11
+T:Gor Danbel Madrie Hin Hasson: Les lay's
+Z:id:hn-hf-5
+M:8/8
+L:1/8
+K:G
+EFEF DEGA | B2GB A3F
+
+
+*****************************
+
+
+10000 4 1.3034412 
+
+<start>
+X:9
+T:Billip Juchi?'s Fredey\'inten)
+T:Wieheghang Dom, eksiulan's tighenters Weish
+S:Cough with t
+
+
+*****************************
+
+
+10100 4 1.1884849 
+
+<start>
+X:3
+T:Coemagh Doeherir", wighland"
+H:Ste ersich Stottish in bartine
+Z:id:hn-hornpipe-20
+M:C|
+L:1/
+
+
+*****************************
+
+
+10200 4 1.046972 
+
+<start>
+X:9
+T:Bougl'Tee's R'ariel The
+T:Hin Nware Alency,
+Dege Orich Herstail (1970-1725)
+H:Also has also
+
+
+*****************************
+
+
+10300 4 1.3116208 
+
+<start>
+X:9
+T:Buthewwnashushe secothtth2
+ad|Bcde|fedBc|cded ^cA|(3Bcd cA Bc :|2 GBdd a2ag|
+efed g2de|fedc
+
+
+*****************************
+
+
+10400 4 1.7297275 
+
+<start>
+X:29
+T:C\'or Sars, The 1 and, Bew
+W:Rish Hode Be, The
+R:hornpipe
+H:Be fill of Mattther
+Z:id:hn-ho
+
+
+*****************************
+
+
+10500 4 2.0336983 
+
+<starte+chetnambs.gale:|
+M:3/4
+L:1/8
+K:D
+DF GA (3BAG | eceg fdec | dBAG A2AG | DDD2 GAGF | EG~G2 FGAF | f
+
+
+*****************************
+
+
+10600 4 0.7536943 
+
+<startot>haipes
+M:2/4
+L:1/4
+K:G
+GB|DGAg GABd|G2Bd g2ef|~g3F GBAG|BGFG AG (3DEF|G2G2 BG (3Bcd | (3efed (3c
+
+
+*****************************
+
+
+10700 4 1.1731608 
+
+<start>
+X:93
+T:Musso Warthmaney
+R:hornpipe
+C:The Bawnerey On Faubline
+Z:id:hn-hornpipe-34
+M:C|
+K:Dmix
+|:G
+
+
+*****************************
+
+
+10800 4 1.1119978 
+
+<start>
+X:23
+T:Cuckoo n't sros wert
+<endetd.cedy Joher
+R:hornpipe
+H:Wileroland 5est dod weta weded ew aud
+
+
+*****************************
+
+
+10900 4 1.1500205 
+
+<start>
+X:4
+T:Aher Weab't's Jugn's
+R:hornpipe
+Z:id:hn-hornpipe-47
+M:C|
+K:Dmix
+EDD| (3EFE A2DF | (3FEF GA 
+
+
+*****************************
+
+
+11000 4 1.0196941 
+
+<start>
+X:49
+T:Carry Same #89
+Z:id:hn-hornpipe-41
+M:C|
+K:G
+GF|G2GB cdcB|(3cAA cA GFE2|DAFA B2d2|cdec A2 (
+
+
+*****************************
+
+
+11100 4 0.7993586 
+
+<start>
+X:25
+T:Charory & Hilly & Davum & Janns: The Bulled'ly Buake
+R:hornpipe
+S:Rettycas's Rognnee
+Z:id:
+
+
+*****************************
+
+
+11200 4 0.82415575 
+
+<start>
+X:54
+T:Mox Molly Toualo "Juelh's Hornpipe
+Z:id:hn-hornpipe-46
+M:C|
+K:G
+|:=FGFE | G2GF GBAG | FGAF
+
+
+*****************************
+
+
+11300 4 0.2938362 
+
+<start>
+X:40
+T:Bat he andhne
+R:hohnnpipe
+D:Sean Satamallic (and an frid Braigh
+Z:id:hn-hornpipe-65
+M:C|
+K
+
+
+*****************************
+
+
+11400 4 1.5667377 
+
+<starh>et -150
+Z:id:hn-he-18
+M:C|
+L:1/8
+K:AAAo
+BE|ED EDEF AndcA|B2GA BAEA|BAAB edef|gfed BddB|cdef edef|
+
+
+
+*****************************
+
+
+11500 4 1.2690687 
+
+<start>
+X:69
+T:Frovny O'Kenio Far, The
+R:hornpipe
+C:James Seather.
+R:hornpipe
+H:Favin Arvean Angly baddin
+
+
+*****************************
+
+
+11600 4 0.78559625 
+
+<start>
+X:3
+T:Bon's Hornpipe, #78
+D:Davin FAlen Fudy
+Z:id:hn-hornpipe-89
+M:C|
+K:C
+K:G
+(3DED | G,AB,C | G2
+
+
+*****************************
+
+
+11700 4 0.7117857 
+
+<start>
+X: 1007)
+D:Dull dashengertist
+Z:id:hn-hornpipe-82
+M:C|
+K:G
+Bc | dgfd edcB | AGAB AGdB | cd (3Bcd 
+
+
+*****************************
+
+
+11800 4 0.782089 
+
+<start>
+X:99
+Z:id:hn-hornpipe-93
+M:C|
+K:Edor
+A2AB cAdA|BAAB cBcA|B^cBc d2|BGEG FEFG|ABAG FED2|
+EAAF AFAF|
+
+
+*****************************
+
+
+11900 4 1.0229726 
+
+<start>
+X: 29
+T:Provy McCI Onehendan Tuther
+R:Himel
+H:Also played of Wheither's of #
+Z:id:hn-jig-:
+M:6/8
+
+
+
+*****************************
+
+
+12000 4 1.1870332 
+
+<start>
+X:8
+T:Up the Keinny
+D:Wagierish D|aguf: The Drewntonane, #72
+Z:id:hn-jig-6
+M:6/8
+K:Ador
+cAF ^FED 
+
+
+*****************************
+
+
+12100 4 1.1559527 
+
+<start>
+X: 801
+T:Rorngly & brenom Fewtles.
+Z:id:hn-jig-14
+M:6/8
+K:G
+G2G ABA|~G3 EDF|EED DB,G,|~E3 DED|B,D
+
+
+*****************************
+
+
+12200 4 1.268602 
+
+<startothem Halsty parime.
+Z:id:hn-jig-2
+M:6/8
+K:G
+deA ~a3 | dBA ged |
+eAA A2G | A2G AFD | ~F3 dFA | GFG 
+
+
+*****************************
+
+
+12300 4 1.1670718 
+
+<starthuttiomQZB|cBAG FA~B2|cBA BAG|F2A DEF|GEE cBA|ceA A2B:|
+|:e2f a2e|age dcB|Ace ~a3|gbg agf|efe dBB|A
+
+
+*****************************
+
+
+12400 4 0.7437767 
+
+<start>
+X:3
+K:Bb
+BA|FAd c2A|BAA BAB|GBd dAF|~A3 cAB|AdB c2d|ede f2e|1 fdB d2B:|2 dBG E2F||
+deg fed|edB BA
+
+
+*****************************
+
+
+12500 4 1.0836785 
+
+<starthotothonshheo@lapse@bree.
+M:6/8
+K:D
+~B3 BAB|dcA GEA|DAF AFD|fef gfe|afd fed|fed faf|ede fdB|~B3 BAG
+
+
+*****************************
+
+
+12600 4 1.2314256 
+
+<starthonsmaltophe-forrippeplipery.
+Z:id:hn-jig-40
+M:6/8
+K:D
+ABd cef|gfe g2f|edB d2e|fgf ecA|dee faf|~g3 
+
+
+*****************************
+
+
+12700 4 1.3185571 
+
+<star
+gab|agg ege|f2d cdB|c2AF DFG:|
+~f3 fgf|efg ecA|~G3 FFA|dcd ~e3|fdB d2f||
+age e2d|eBe ~g3|gbg age|fd
+
+
+*****************************
+
+
+12800 4 0.85146487 
+
+<startonce
+D:Frinkion
+D:Dapve boy to Sigh the mong
+Q:1/4-005.g
+D:DeF:y.Fedon: Seed in Ad,
+Z:id:hn-jig-55
+
+
+
+*****************************
+
+
+12900 4 1.3736749 
+
+<starto|fanationsBelle.
+M:6/8
+K:Edor
+~E3 EFD|~D3 AFD|~F3 BAG|dAF DEF|DFA ABc|dfe dcd|ege dBG|AGE DEF:|
+<a
+
+
+*****************************
+
+
+13000 4 2.3472 
+
+<starbaphI|Acld cAG|1 GAB G2B:|2 dGA BAG||
+(3FDD D3:|2 gfg efg|agb gfe||
+<end>
+<start>
+X:92
+T:Onidror's
+T
+
+
+*****************************
+
+
+13100 4 1.3403974 
+
+<starthIt: Itherush n'tpenckar tupe Spade #75
+Z:id:hn-jig-71
+M:6/8
+K:G
+BAG FED|AFD DFA|1 ~G3 AGG:|2 AGF G
+
+
+*****************************
+
+
+13200 4 0.90630585 
+
+<starhathppppl-netppstupieced  Andd>B:Ariath
+F:Bredy|
+FDD ~e3|dBA ~A3|efe dBd|~D3 fFA|1 GFE E2D:|2 DED E2
+
+
+*****************************
+
+
+13300 4 1.2590251 
+
+<starto] eeec|GAB GAB|cAG A3:|
+|:B2e fdB|~B3 BAG|~A3 BAB|cAG FAB|cBA GEE|E2B, E2E:|2 EDE B,2E|GEE E2g||
+|
+
+
+*****************************
+
+
+13400 4 0.45277822 
+
+<starath! G<bath ab|ag af|gfe gee|1 fed efg fgf:|
+fef ege|dcA BcB|
+~G3 AGA|B2A Beg|gdB BAG|~A3 ABc|ded dB
+
+
+*****************************
+
+
+13500 4 0.880681 
+
+<start>
+X:9
+T:O'teder the Rung, Onisie's versted Juth, The
+R:Slid "Jugebr' Hershan's #2
+T:Oue of Ney, #39
+
+
+*****************************
+
+
+13600 4 1.546755 
+
+<start>
+X: 29
+T:Weall oftle Johns M? Mhargh.
+Z:id:hn-march-10
+M:2/4
+L:1/8
+K:G
+BAG EFE|AB/d AFD|
+GAB dBG|A
+
+
+*****************************
+
+
+13700 4 1.6420789 
+
+<starton paif ca parts ive gin on maith tune air fat
+W: Vun Mallh da bhondier, The
+R:march
+D:Duiram Coffe
+
+
+*****************************
+
+
+13800 4 1.0457623 
+
+<starto] 2 E2E E2D |
+G2A A2d | ded cBA | A>AF AEFA |1 AAB c2A :|2 dcd fed | eAA d2f ||
+<end>
+<start>
+X:28
+
+
+*****************************
+
+
+13900 4 0.988415 
+
+<starto" gag ag|e (3efe g4fe | d4 (3Bcd ef | (3gfe (3fed |
+edeg (3gfe | d^cAG A2 :|
+|: ce ag/f/ | g/e/d/e
+
+
+*****************************
+
+
+14000 4 1.4270908 
+
+<start>
+X:15
+T:The Channe's Fancy
+T:Bonny If Sanl, #54
+D:Altan: Isean Aighra
+Z:id:hn-mazurka-3
+M:6/8
+K:G
+
+
+
+*****************************
+
+
+14100 4 0.7290199 
+
+<starhThh&
+eg|7g gf|ed ~g2|B2 g2 ag|
+(3efa gd cd|fe c2 A2|Bc BA GB|AF GA BG|c2 BA GA|
+B2 B2 dB|c2 A2 FA|B
+
+
+*****************************
+
+
+14200 4 0.99079096 
+
+<start>
+X:2
+T:Eave in L harh and hi Boyly's Jigued,
+T:Maire the Brag, belloc's rave
+T:(Du Money: Raylee d
+
+
+*****************************
+
+
+14300 4 1.0425553 
+
+<start>
+X:14
+T:Turleron one Ree bey
+R:polka
+Z:id:hn-polka-69
+M:2/2
+L:1/8
+K:Amix
+cA | B2 G>B|A>G FE|DF AG|
+
+
+*****************************
+
+
+14400 4 0.36513588 
+
+<start>
+X:1/8
+T:Fill Nets
+R:polka
+Z:id:Brovy Borna
+Z:id:hn-polka-16
+M:2/4
+L:1/8
+K:A de Be|dc BA|GE EE|E2 
+
+
+*****************************
+
+
+14500 4 0.8035475 
+
+<start>
+X:4/4
+T:Beolegh Pover 'ee, Weoi, The
+T:Lachail Algain
+R:polka
+S:Se Pour Holks of Ale
+R:polka
+S:Se
+
+
+*****************************
+
+
+14600 4 1.2731725 
+
+<start>
+X:30
+T:Mas Maly
+R:polka
+S:Session ar Alth ave na Whatil Mu.
+Z:id:hn-polka-30
+M:2/4
+L:1/8
+K:G
+G/F/
+
+
+*****************************
+
+
+14700 4 1.4499568 
+
+<starthppasum pert played Aid foi arecurfain
+Z:id:hn-polka-31
+M:2/4
+L:1/8
+K:D
+FE FA|d2 FE|FE B/c/d|BA A>B
+
+
+*****************************
+
+
+14800 4 0.4393039 
+
+<starthpo-pertce-pepps iu peater vers
+ag | fec B2A |
+B2 BA B2 c2 | dG Bd cd |1 e2 f>g f>e |1 e2 e2 B2 :|
+
+
+
+*****************************
+
+
+14900 4 0.4861823 
+
+<start>
+X:9
+T:Uy Recod Herving
+R:polka
+Z:id:hn-polka-53
+M:2/4
+L:1/8
+K:Ador
+EB/c/ dB|AF BF|GB Bc|dA FA|C>E
+
+
+*****************************
+
+
+15000 4 1.0784249 
+
+<start@cthor Amist polk it en Allos
+T:Miam Hill & Mollian
+T:Willy Gagh)
+R:polka
+Z:id:hn-polka-76
+M:2/4
+L:
+
+
+*****************************
+
+
+15100 4 0.8706351 
+
+<star>
+X:99
+T:Bill on Malbeal Clas Bhere a Bhetled the Hear FAdore Ryef
+Z:id:hn-polka-67
+M:2/4
+L:1/8
+K:Am
+
+
+*****************************
+
+
+15200 4 0.6412279 
+
+<starh
+X:9
+T:Peeral's Fublvoy No nwor Mc I Polka do shegher fow the s'rpilila Also playef. 2\'i Toomer
+H:
+
+
+*****************************
+
+
+15300 4 0.87962174 
+
+<startothelliet ctouthy Glecterd
+fst fishincest por tune the nort to the mean et uiste, The
+0:Toum Hearst
+
+
+*****************************
+
+
+15400 4 0.97925276 
+
+<starht: ole dourd the messs in As
+Z:id:hn-polka-99
+M:2/4
+L:1/8
+K:Eb
+EF EF|E>C EE|ce ce|ag e>c|BA FD|EF A
+
+
+*****************************
+
+
+15500 4 1.414393 
+
+<starathppoleton
+L: =DG FG |AG FE ~E2 | ~D3 dAF | AG GE ED |:
+M:C GB BG | EA BA AB | A2 Ac/c/ BA | d2 d2 
+
+
+*****************************
+
+
+15600 4 1.0393349 
+
+<start>
+X:5
+T:Geuen of The
+R:reel
+H:Also in G, Strey.
+H:The & Hack tune Gire Gooney Comonsion "The Ba~bow
+
+
+*****************************
+
+
+15700 4 0.93144464 
+
+<startoth
+Z:Thohins Linste."Hed B, Rofked beather.
+Z:id:hn-reel-1
+M:C|
+K:G
+~G3B AFDD|B,EDE AFDE|A2Bd g2ed
+
+
+*****************************
+
+
+15800 4 1.2319095 
+
+<starbothpphin
+D:BdDF|GFGF GEE2:|
+GdBG G2Bd|e2B2 BAFA|D2DF ABcE|
+EDDE EFGA|BE~E2 BEDD|DcdA FGEG|FdAB/d/ g
+
+
+*****************************
+
+
+15900 4 0.61195177 
+
+<starut@lapotion.
+D:|3 B,~A, B,EE |2EFA BEFE | E2FE BEE2 | DEFD FABA | BEDE EFGA |
+B2AG ADD2 :|2 BAGF GED
+
+
+*****************************
+
+
+16000 4 1.2792675 
+
+<stareton assion 2 Stectret, #4341.
+D:Bergie Greest version 2
+D:Patrick def. #81.
+D:Matt: Mauba the Moun 
+
+
+*****************************
+
+
+16100 4 1.1439466 
+
+<starobhy
+D:Stoel Blose, The
+R:reel
+Z:id:hn-reel-38
+M:C|
+K:D
+FD E2FA|EFBD FE~E2|1 BDEB AFEF|AFGB AGEF|Acd
+
+
+*****************************
+
+
+16200 4 0.5641892 
+
+<starattoon Letho:cleelersty
+Z:id:hn-reel-41
+M:C|
+K:D
+A2 (3Bcd g2ec|1 dcBc BAcB|ADED ~D3.A:|2 dfed dfec|d
+
+
+*****************************
+
+
+16300 4 1.0092603 
+
+<starthen
+cB~B2 ABcd|FA (3Bcd e^c|AdcA Gdd^c|dddc Addc|
+BG~G2 GBcd:|
+A2dc dcBA|Bgbf gece|dBAe D2FD|E8AB|d
+
+
+*****************************
+
+
+16400 4 1.1816249 
+
+<starthupton
+Z:id:hn-polka-71
+M:C|
+K:Dmix
+AFAB cBcB|~A2Ac AGEC|G2EG Acdf|gfec d2AG|
+F2DF GFED|
+~E3F GF~G2
+
+
+*****************************
+
+
+16500 4 1.1277043 
+
+<startotlthes.
+Z:id:hn-reel-67
+M:C|
+K:Gmer
+EFDB c2AF|A2cd edcB|A2GE EDCE:|
+dcAB ~e3d|(3cBA eA AdBd|fafd c
+
+
+*****************************
+
+
+16600 4 1.57093 
+
+<startons:Tto://ountmenr onsey", #66
+D:Pats assson Rcrady
+Z:id:hn-reel-99
+M:C|
+K:Atore
+A2FA|d2cA AFDE|D2 
+
+
+*****************************
+
+
+16700 4 0.43987143 
+
+<startoollkest pove in Gladefdine (collta, #295, #667
+D:Mackan (1689-1.Bfged:celec|1B2ng2 (3efeB|(3Bcd (3
+
+
+*****************************
+
+
+16800 4 1.1855977 
+
+<startoth
+S:Swevo Bro bateps #207.
+D:Maraen Martin Pelso part
+Z:id:hn-reel-73
+M:C|
+K:Ador
+DEAF G2BA|G2EF 
+
+
+*****************************
+
+
+16900 4 1.4298669 
+
+<startong avetion Alas (158-1998)
+D:Stockton ais a also #356.
+H:"The Hompory".s, Us Mhirche, The
+R:reel
+S
+
+
+*****************************
+
+
+17000 4 1.0162374 
+
+<startohthpphor pars (5 fnet Patric (1888
+Z:id:hn-reel-67
+M:C|
+K:Edor
+(3Bcd e/d/BG|(3efg fa (3gfe d2|e2dc
+
+
+*****************************
+
+
+17100 4 1.4279599 
+
+<start>
+X:9
+T:Rover's of Lus
+T:Mriy Moly
+R:reel
+Z:id:hn-reel-76
+M:C|
+K:G
+|:BA GA (3BBA BG|EDGB A2FA|BE~E2
+
+
+*****************************
+
+
+17200 4 0.5696508 
+
+<startoon maiftins:
+D:|1 Rende Gslets
+S:The Tip 1895
+Z:id:hn-reel-88
+M:C|
+K:Edor
+~A3B cde:| (3gce dc (3Bc
+
+
+*****************************
+
+
+17300 4 1.0850449 
+
+<startoph
+Z:varsion marcher
+D:Bethe Kiscond: Illy Feart Mangear (randarteon (Come in the Reedal, The
+T:Br
+
+
+*****************************
+
+
+17400 4 1.2933164 
+
+<startonpest or the tune tle tourriol Daving & Are 1950)
+Z:id:hn-slig-75
+M:C|
+K:Ddor
+G2 (3GAG GG (3GAE|G2
+
+
+*****************************
+
+
+17500 4 1.9527047 
+
+<startonscoltolket Mut the arles (#8)
+Z:id:hornis:1
+M:C|
+K:D
+D2FA FAdA|(3Bcd Bc Af (3gfe|dcAF FGAB|ABcd e
+
+
+*****************************
+
+
+17600 4 1.5769603 
+
+<startonsethe Miche Bairley.
+H:Boud to the Stopsis grean of the se blasnay.
+Z:id:hn-setdance-11
+M:2/4
+L:1
+
+
+*****************************
+
+
+17700 4 1.0916733 
+
+<startoth: The Sntip ow Jugh, The
+R:slip jig
+H:Originally Riter's C ar 2 Munchaide#1
+Z:id:hn-slipjig-8
+M:
+
+
+*****************************
+
+
+17800 4 0.9150187 
+
+<starthopshoth pared part aver ave rispiplest Wele sith Mait the Anpoy nig, The
+adcABcB | c2AG E2GA | BAG
+
+
+*****************************
+
+
+17900 4 1.1639359 
+
+<startotshe
+D:Packin Ryeel Gady
+Z:id:hn-slipjig-18
+M:9/8
+K:G
+DGB cAG FGA|BGG d2B G2A|~B3 cBA G2D:|
+|:~c3 
+
+
+*****************************
+
+
+18000 4 1.2177533 
+
+<start>
+X:93
+T:Satbal#86
+D:Mitt Molloy: Stony Veriston wime 4
+Z:id:hn-slipjeet Burber
+D:Molly Corney: Tre
+
+
+*****************************
+
+
+18100 4 0.45353326 
+
+<starhetonsdappe-37
+M:C|
+K:G
+~D3 ~F3|~G3 BAG FGA|EcG EGA BGE|FGA def gAG|1 G2G Bed cBA:|2 edc dBA GEF||
+<
+
+
+*****************************
+
+
+18200 4 0.8975541 
+
+<start>
+X:14
+T:Himenty The
+R:hop jig
+D:Matt Mollory & Coon to #4
+D:Chier Bickill & Seen G\'ald ycoF Moob 
+
+
+*****************************
+
+
+18300 4 1.1183037 
+
+<start ut cond Burt
+Z:id:hn-slipjig-80
+M:9/8
+L:1/8
+K:DAor
+~F3 G2A B2d|edB B2A FBd|e2d edB A2B|1 A2A A2G E
+
+
+*****************************
+
+
+18400 4 1.0695003 
+
+<start as
+W:Tont is a bungy.
+Z:id:hn-slipjig-51
+M:9/8
+K:D
+faf gdc BAB|dBA GED G2A|ddd dBd d3|Bdd def e2A|
+
+
+*****************************
+
+
+18500 4 0.92972594 
+
+<startounsoto: maigh bhae rigbie
+Z:id:hn-slipjig-40
+M:9/8
+K:Edor
+e2A dBA G2A|BAG F2G FED|D2~E E2G G2A|B2d
+
+
+*****************************
+
+
+18600 4 2.1370203 
+
+<staroth! w:il the Weop Al acothy the Liat Ast ams see #15
+Z:id:hn-slipjie jig-19
+M:9/8
+L:1/8
+K:Edor
+GAG 
+
+
+*****************************
+
+
+18700 4 1.4656281 
+
+<startonscalope
+H:See also #2, #66 (31)
+W:I dancess
+R:hop jig
+Z:4/8.
+M:7/8
+K:Em
+GAB GEC E2F | GBd gec dBG
+
+
+*****************************
+
+
+18800 4 1.0004903 
+
+<star\'fipet.
+A:Barrushon
+C:Arsof & Cortly
+H:Imisie Cownstelm The Pitle to rell I Car
+T:Whatlenny Picktor
+
+
+*****************************
+
+
+18900 4 1.1296078 
+
+<starhupist
+p:ig in th the lart tune tunn to to the pough the My wat and Aor a Lig, the sever to (190-1.s
+
+
+*****************************
+
+
+19000 4 0.908838 
+
+<startons:oime,
+H:See also #31, in d la Molwo ke stepmhae
+Z:id:hn-slide-1
+M:6/8
+K:D
+F2B A2e|G2A B3|GAB d2
+
+
+*****************************
+
+
+19100 4 0.9202707 
+
+<start>
+X:9
+T:Fariss, Anthenandr'pe
+R:singe
+Z:id:hn-slide-16
+M:6/8
+K:G
+~B3 BAB|gfe efg|a2f afd|e2d def|
+~
+
+
+*****************************
+
+
+19200 4 1.214822 
+
+<start>
+X: 5,
+T:Roe Bantan's
+T:Old Yerny,
+W:Sean Rayea: The fuck0wourlotier #54
+D:Marken: cong
+Z:id:hn-sl
+
+
+*****************************
+
+
+19300 4 1.0061909 
+
+<starhothp
+e>fe|dcd f2d:|
+<end>
+<start>
+X:32
+T:Pere of Ryalt, The
+R:slide
+Z:id:hn-slide-53
+M:6/8
+K:D
+F2A 
+
+
+*****************************
+
+
+19400 4 0.95012015 
+
+<stargar amboumbains milt: also peate.
+I:Claney furt also 222
+D:Maire Nollains G in KyG
+Z:id: Haage whe i
+
+
+*****************************
+
+
+19500 4 0.5794693 
+
+<startonshe
+Z:id:hn-slide-55
+M:6/8
+K:G
+DGB BAG|FGA B2A|GAB d2B|A3 ABc|dAA A2G|E2A GED|g3 fed|cBA BcA|FEF 
+
+
+*****************************
+
+
+19600 4 0.84241223 
+
+<startoth:  wame ress form
+Z:id:hn-slide-65
+M:6/8
+K:G
+dBd GBd|edB c2e|g2g g2g|A2a a3|baf f2g|f2d d2f|f2e 
+
+
+*****************************
+
+
+19700 4 0.8381419 
+
+<start>
+X:63
+T:A'Kinang8met,
+T:Thras O'Kuezi
+R:slide
+H:Sellingle fated with songleot , The Rode Eally's
+R
+
+
+*****************************
+
+
+19800 4 0.8473778 
+
+<startohtl
+Wang end ceatains on to, five donkes
+G2 fe | d2B d2B | c2B c2d | e2d e3 |
+d2B B2A | B2A B2E | 
+
+
+*****************************
+
+
+19900 4 0.674367 
+
+<startouth M:600
+M:6/8
+L:1/8
+K:D
+A2B c2d | edf cae | e2A A=GE |1 A3 A2B :|2 d2d BAG ||
+F B3 AFA |
+F2N A2F
+
+
+*****************************
+
+
+20000 4 0.11499297 
+
+<starh5
+esdu a2 Sa2 | baa f2e g2 g2 ||
+<end>
+<start>
+X:89
+T:Colo Ryantan Stidgenn's
+R:single jig
+Z:id:hn-

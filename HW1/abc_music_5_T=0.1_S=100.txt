@@ -1,0 +1,13461 @@
+WARNING:tensorflow:From /Users/uksrivastava/anaconda/lib/python3.6/site-packages/tensorflow/python/util/tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+
+
+*****************************
+
+
+0 0 4.5331993 
+
+<star@K#\hMb.<83s{AzH~N32o_c0,?nHcyq?DsY=M1d]?*CVRlwrz]l+56BHd*3Veen~5UHI<zVD0uch\j?MXW7o^'-)-Xh*TQ/9~[
+
+
+*****************************
+
+
+100 0 2.549865 
+
+<starC)le|                                                                                               
+
+
+*****************************
+
+
+200 0 2.6822736 
+
+<starS{JV/ G /  c / / // //////// ///  // /  / / // /// // ///// / / / //// / // //// / // //// /// /// /
+
+
+*****************************
+
+
+300 0 2.203881 
+
+<star0r}B/A/, e/ | | |  | ///////////////////////////////////////////////////////////////////////////////
+
+
+*****************************
+
+
+400 0 2.9066434 
+
+<star!!!!!H&kW#wRWWWJW~RRWW~WRR~W~#~RW~~RR~W~~~W~~~WRW~~RWW~W~~W~WR~W~~WRWWW~~W~~~~WWR~~W~W~W#W~~W~RWW~W
+
+
+*****************************
+
+
+500 0 3.5471053 
+
+<stariaaiae/ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+
+*****************************
+
+
+600 0 2.3949952 
+
+<starraaee | | | | | | | | | | | | | B2 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+
+
+*****************************
+
+
+700 0 3.5054874 
+
+<staritrre ee e | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+
+
+*****************************
+
+
+800 0 2.5077488 
+
+<starrar e aa aar ou oar oar ae e e oar oar e oae e e o:ar oa ae oar aaa e e e ou ar aoar ae e e e oa ae 
+
+
+*****************************
+
+
+900 0 1.8720539 
+
+<starrar aar ar aar er | | | | | | c2 | | | | | d2 | | d2 | | | c2 | | B2 | f2 | f2 | | | | | d2 | | | | 
+
+
+*****************************
+
+
+1000 0 2.2288668 
+
+<stariee ee | d2d2 | d2d2 | d2d2d | d2 | d2d2 | d2d2 | d2 | d2d2 | d2d2 | d2d | d2d2 | | d2d2 | d2d2 | d2
+
+
+*****************************
+
+
+1100 0 0.8152755 
+
+<startt | B2B2 | B2B2 | B2B2B2 | B2B2 | B2B2 | B2B2 | B2B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | 
+
+
+*****************************
+
+
+1200 0 3.1295643 
+
+<staret eou fae c2 | G2 | F2 | F2 | F2 | F2 | F2 | F2 F2 | F2 | F2 | G2 | G2 | F2 | F2 | F2 | F2 | F2 | F
+
+
+*****************************
+
+
+1300 0 3.144143 
+
+<stariet ee ear ea ea ear ou ean ear eare ear ea ean eare ou oune ea ear ear oure eou ear eare eou eou eo
+
+
+*****************************
+
+
+1400 0 2.7831912 
+
+<staranee ce | B2 | B2B | B2 | B2 | B2B | B2 | B2 | B2 | B2 | B2 | B2 | B2 | B2 | B2 | B2 | B2 | B2 | B2 
+
+
+*****************************
+
+
+1500 0 2.2092736 
+
+<starienee er ear ear ear ear eare eare er ear ear ear ear ear eal eare eare ear ear ear eariele eou ear 
+
+
+*****************************
+
+
+1600 0 2.5027514 
+
+<starte
+R:Carane
+R:Paree
+R:Care cere
+R:Carane
+R:Carere
+R:Carere
+R:Carane
+R:Carnere
+R:Carere
+R:Caren
+T:Car
+
+
+*****************************
+
+
+1700 0 2.7170255 
+
+<starte
+X:Trance
+M:Prarte
+X:Praner car car care ear car carie car ear car car car eare car ear car eare c
+
+
+*****************************
+
+
+1800 0 2.7135894 
+
+<starte eoure eou coure er eoure coure coure coure courere eoure coure courel eoure coure coure coure cou
+
+
+*****************************
+
+
+1900 0 1.9427463 
+
+<startilelle@frererer
+M:Trance
+R:Trance
+R:Trance
+R:Traner tou tou cilou eiloulou Miillou Miil Miilel pari
+
+
+*****************************
+
+
+2000 0 2.3276525 
+
+<stariele@frerererer
+M:Trante
+X:Transte
+R:Transe touritou Miritou mailou Miilel pariilelle@frerer
+M:Tranc
+
+
+*****************************
+
+
+2100 0 2.0100822 
+
+<stariel
+M:Frande
+R:Frande
+R:Frande
+R:Frande
+R:Frande
+R:Frande
+R:Frande
+R:Frande
+R:Frande
+R:Frande
+R:Fran
+
+
+*****************************
+
+
+2200 0 1.5658157 
+
+<staritile@free
+M:F/8
+L:F/8
+K:Farandole
+M:F/8
+K:Farandole
+M:F/8
+K:Farandole
+M:F/8
+K:Farandole de darititi
+
+
+*****************************
+
+
+2300 0 2.8743985 
+
+<starinelle@fren
+W:Pranle de de de de de | d2 d2 | d2 d2 | d2 d2 | d2 c2 | B2 A2 | B2 A2 | A2 B | B2 B B 
+
+
+*****************************
+
+
+2400 0 3.2950797 
+
+<stariou Marilou Mariilou Mar cou cou cou cou couriou Milou cou cou cou cou cou cou cou cou couriilou Mou
+
+
+*****************************
+
+
+2500 0 3.0929253 
+
+<starien pan taile paran pailelle@frereren
+M:6/8
+T:Farande
+C:Prance
+C:Prance
+C:Prance
+C:Prance
+C:Prance
+C
+
+
+*****************************
+
+
+2600 0 1.32841 
+
+<starielle@freren
+M:1/4
+T:Farance
+A:Prance
+C:Prance
+C:Prance
+C:Carance
+C:France
+C:Trance
+C:Prance
+C:Tranc
+
+
+*****************************
+
+
+2700 0 2.3347101 
+
+<starinen Maillellele@fren
+M:F/8
+L:Trance
+A:Provence
+C:Trance
+C:Trance
+C:Trance
+C:Trance
+C:Trance
+C:Tranc
+
+
+*****************************
+
+
+2800 0 2.0270698 
+
+<starielle@free.fr
+M:1/8
+K:1
+L:1
+L:1
+K:Bb
+K:Bb
+BB BB BB BB BB B2 BB BB BB BB BB BB BB BB BB BB BB BB B2 B
+
+
+*****************************
+
+
+2900 0 1.706754 
+
+<starielle@free.fr
+M:1/8
+K:1/8
+K:1
+V:1
+V:1
+V:1
+V:1
+L:1/8
+K:Fb
+V:Faratoute
+A:Prouete
+A:Provence
+C:Trance
+C
+
+
+*****************************
+
+
+3000 0 1.8724716 
+
+<staritile@free.fr
+M:1/8
+K:1
+L:1/8
+K:Fb
+V:Farou de de | d2 | d2 | d2 | d2 | d2 | d2 | d2 | d2 | d2 | c2 |
+
+
+*****************************
+
+
+3100 0 1.67121 
+
+<staritile@free.fr
+M:1/8
+K:1
+L:1/8
+K:1
+L:1
+L:1
+K:1
+L:1
+L:1
+K:1
+L:1
+K:1
+L:1
+L:1
+K:1
+K:1
+V:1
+K:1
+K:1
+K:1
+L:
+
+
+*****************************
+
+
+3200 0 1.968493 
+
+<starielle@free.fr
+M:1/8
+K:1
+L:1/8
+K:1
+K:1
+L:1
+V:1
+V:1
+V:1
+L:1
+L:11
+K:1
+K:1
+L:1
+L:1
+L:1
+L:1
+L:1
+L:1
+L:1
+L
+
+
+*****************************
+
+
+3300 0 2.2756732 
+
+<staritile@free.fr
+M:1/8
+K:1/8
+K:Bb
+V:Galoubet
+d2d2 | d2d2 | B2B2B2 | B2B2B2 | B2B2B2 | B2B2B2 | B2B2B2 |
+
+
+*****************************
+
+
+3400 0 1.1268915 
+
+<stariel par Michel BELLON - 2005-03--02
+Z:Pour toute obser Michel BELLON - 2005-03--02
+Z:Pour toute obse
+
+
+*****************************
+
+
+3500 0 2.067757 
+
+<starit pallou Michel BELLON - 2005-00--2
+Z:Pour toute obser tatou ourence
+C:Trance
+C:Trance
+C:Trance
+C:T
+
+
+*****************************
+
+
+3600 0 2.9390578 
+
+<staritel
+M:1/4
+L:1/8
+K:Bb
+V:Bb
+V:Galouriet
+d2d2 | e2d2 | B2B2B2 | B2B2B2 | B2B2B2 | B2B2B2 | B2B2B2 | B2
+
+
+*****************************
+
+
+3700 0 1.9973073 
+
+<starit? par Michel BELLON - 2005-05-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K
+
+
+*****************************
+
+
+3800 0 1.419312 
+
+<staritalouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+K:Bb
+B | B2 | B2 B2 | c2 c>d | c2 c>c | c2 c>c | c2 c>d | c2 c
+
+
+*****************************
+
+
+3900 0 0.91166246 
+
+<starig? eele.fffef|ffefe|(3BBBBBBBB|BBBBBBBBB | B2B2B2B2B2|
+B2B2B2B2B2B2|B2B2B2B2B2|
+B2B2B2B2B2|B2B2B2B2
+
+
+*****************************
+
+
+4000 0 2.2571537 
+
+<starita par Michel BELLON - 2005-05-2
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:
+
+
+*****************************
+
+
+4100 0 2.2325706 
+
+<starig? parielle@free.fr
+M:1/4
+L:1/8
+K:Bb
+K:Bb
+B/B/B/B/ | B2 B2 | B2 B2 | B2 B2 | B2 B2 | B2 B2 | B2 B2 
+
+
+*****************************
+
+
+4200 0 3.4553998 
+
+<starige par Michel BELLON - 2005-07-2
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:
+
+
+*****************************
+
+
+4300 0 0.378108 
+
+<starine Gire cinas (192)
+O:France
+A:Provence
+C:Provence
+C:Crance
+C:Provence
+C:Provence
+C:Provence
+C:Prov
+
+
+*****************************
+
+
+4400 0 2.0943053 
+
+<starig? par Michel BELLON - 2005-07-2
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:
+
+
+*****************************
+
+
+4500 0 3.100985 
+
+<staritalle@free.fr
+M:2/4
+L:1/8
+K:Bb
+B BB | BB BB | BB BB | BB BB | B2 BB | BB BB | BB BB | BB BB | BB BB
+
+
+*****************************
+
+
+4600 0 2.4666505 
+
+<starig? par Michel BELLON - 2005-07-226
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+
+
+
+*****************************
+
+
+4700 0 1.7471945 
+
+<starig? par Michel BELLON - 2005-06-6
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:
+
+
+*****************************
+
+
+4800 0 1.4553951 
+
+<starig? par Michel BELLON - 2005-07-6
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:
+
+
+*****************************
+
+
+4900 0 1.929032 
+
+<starig? par Michel BELLON - 2005-07-222
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/4
+
+
+
+*****************************
+
+
+5000 0 1.8577687 
+
+<starielle@free.fr
+M:1/4
+L:1/8
+K:Bb
+V:1
+K:Bb
+V:1
+V:1
+V:1
+V:1
+K:Bb
+V:1
+V:1
+V:1
+K:Bb
+V:1
+V:1
+V:1
+V:1
+V:1
+K:
+
+
+*****************************
+
+
+5100 0 3.5570374 
+
+<star Michel BELLON - 2005-07-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:1
+V:1
+
+
+
+*****************************
+
+
+5200 0 1.6007401 
+
+<star ta la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la 
+
+
+*****************************
+
+
+5300 0 1.5548177 
+
+<startin mailt par Michel BELLON - 2005-07-1
+Z:Pour toute observation maitto:galouvielle@free.fr
+M:2/4
+L:
+
+
+*****************************
+
+
+5400 0 1.4460869 
+
+<startion mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Gmaj
+V:1
+GB | G2G2| G2G2 | G2G2 | G2G2 | G2G2 | G2G2 |
+
+
+*****************************
+
+
+5500 0 2.6043518 
+
+<startion mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:G
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+K:G
+V:1
+V:1
+V:1
+V:1
+V: Gmiou
+
+
+*****************************
+
+
+5600 0 1.803682 
+
+<startig? par Michel BELLON - 2007-06-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+
+
+
+*****************************
+
+
+5700 0 2.6805198 
+
+<startion mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+
+
+
+*****************************
+
+
+5800 0 0.2062263 
+
+<startiet et/ou corrig? par Michel BELLON - 2007-04-04
+Z:Pour toute observation mailto:galouvielle@free.f
+
+
+*****************************
+
+
+5900 0 1.4399695 
+
+<starte
+X:1
+T:Le courete par Michel eu la-le la la la la la la-le la la la la la la la la la la la-le la 
+
+
+*****************************
+
+
+6000 0 1.377129 
+
+<startile@free.fr
+M:2/4
+L:1/8
+K:1
+K:1
+V:1
+K:C
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+V:1
+P:1
+V:1
+w:1
+V:1
+V:1
+w:1
+V:1
+V:1
+
+
+*****************************
+
+
+6100 0 1.2753178 
+
+<start>
+X:14
+T:Lalens cour Mon tait par Mai ton tour M'ais lon le le ta-tis le le tan-to tan tous le la l
+
+
+*****************************
+
+
+6200 0 1.625093 
+
+<start>
+X:1
+T:Loute
+R:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+Z:Pour toute observation mai
+
+
+*****************************
+
+
+6300 0 2.202537 
+
+<start>
+X:2
+T:Le courien
+R:Transcrit et/ou corrig? par Michel BELLON - 2007-07-16
+Z:Pour toute observatio
+
+
+*****************************
+
+
+6400 0 1.2182236 
+
+<start>
+X:2
+L:1/8
+K:C
+c2 c2|c2 d2|d2 d2|d2 d2|d2 d2|d2 d2|d2 d2|c2 d2|d2 d2|d2 d2|d2 d2|d4|
+<end>
+<start>
+
+
+*****************************
+
+
+6500 0 2.423392 
+
+<start>
+X:1
+T:Se corrig? par Michel BELLON - 2005-07-09
+Z:Pour toute observation mailto:galouvielle@free.
+
+
+*****************************
+
+
+6600 0 2.1928067 
+
+<start>
+X:1
+T:Le Bourre de bar Moure de barence
+R:Marance
+R:Marance
+R:Marance
+C:2/4
+L:1/4
+L:1/8
+K:D
+G2 | 
+
+
+*****************************
+
+
+6700 0 2.4232996 
+
+<start>
+X:1
+T:Bourree Burans Don Don bourre de bourre Min Bourre Mour Mourre Min Bourre Min Bourre Mour M
+
+
+*****************************
+
+
+6800 0 1.9571267 
+
+<start>
+X:1
+T:Le Bourree
+M:3/8
+L:1/8
+K:G
+G2G2|G2G2G2|G2G2G2|G2G2G2|G2G2G2G2|G2G2G2G2|G2G2G2G2|G2G2G2G2|G2
+
+
+*****************************
+
+
+6900 0 2.0384881 
+
+<start>
+X:1
+T:Bourre
+C:Baltille
+C:Ma tolle de balland Can ban ban ban ban ban ban ban ban ban tant bon Ca
+
+
+*****************************
+
+
+7000 0 2.1880546 
+
+<start>
+X:1
+T:Laltinand <end>
+C:Trance
+Z:Trance
+C:Dante
+C:Dave Holland <end>
+M:3/4
+L:1/4
+L:1/4
+K:D
+G2 A2 
+
+
+*****************************
+
+
+7100 0 2.427635 
+
+<start>
+X:1
+T:Polka
+M:1/8
+L:1/8
+K:C
+B2 B2 B2 | A2 A2 | A2 A2 | A2 A2 | G2 G2 | G2 G2 | G2 G2 | G2 G2 | G2
+
+
+*****************************
+
+
+7200 0 1.8820354 
+
+<start>
+X:1
+T:Mazurka
+M:3/4
+L:1/8
+K:G
+G2 B2 B2|
+G2 B2 B2 | B2 B2 | B2 B2 | B2 B2 | B2 B2 | B2 B2 | B2 B2 
+
+
+*****************************
+
+
+7300 0 1.817423 
+
+<start>
+X:1
+T:La Holland Cin torid <dave@biff.org.uk>
+M:1/4
+L:1/8
+K:C
+G2 G2 | "C"A2 A2 | "C"c2 B2 | "C"c2
+
+
+*****************************
+
+
+7400 0 1.7921675 
+
+<start>
+X:1
+T:Grande
+Z:Save Holland <dave@biff.org.uk>
+M:1/4
+L:1/8
+K:C
+G2G G2G|G2G2G2|G2G2G2|
+G2G2G2|A2G2
+
+
+*****************************
+
+
+7500 0 1.9065444 
+
+<start>
+X:1
+T:Pourience
+Z:Transcrition et/ou corrig? par Michel BELLON - 2005-09-09-102
+Z:Pourte touriero
+
+
+*****************************
+
+
+7600 0 2.432807 
+
+<start>
+X: 1
+T:Brance
+A:Arance
+C:Transerane da boupe boupe boupe bour le bouple et de bane boupe boupe bo
+
+
+*****************************
+
+
+7700 0 0.37803164 
+
+<starthe@fre.fr
+M:2/4
+L:1/4
+Q:1/4=106
+K:Cmaj
+B2c2 c2B2 | c2 c2 | c2 c2 | c2 B2 | c2 c2 | c2 c2 | c2 c2 | 
+
+
+*****************************
+
+
+7800 0 1.5160515 
+
+<start>
+X: 1
+T:Branle de lampese
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-22
+Z:Pour toute ob
+
+
+*****************************
+
+
+7900 0 1.4154079 
+
+<start>
+X: 1
+T:Branle de lambe
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-22
+Z:Pour toute obse
+
+
+*****************************
+
+
+8000 0 1.6298189 
+
+<start>
+X:2
+T:Branle de laub
+R:Branle de lambe
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-215
+
+
+
+*****************************
+
+
+8100 0 2.5651364 
+
+<start>
+X:2
+T:Branle
+C:Cranle
+C:Cranle
+C:Cranle
+C:Cavanle
+C:Cranle
+C:Challe
+C:Cavanle
+C:Cranle
+C:Cranle d
+
+
+*****************************
+
+
+8200 0 0.09185649 
+
+<start>
+X:2
+T:Branle de lambe
+R:Branle de lambese
+R:Branle de lambese
+R:Branle de lambe
+R:Branle de lambe
+
+
+*****************************
+
+
+8300 0 0.50996894 
+
+<start>
+X: 10
+T:Branle de lampe
+R:Branle de lampe
+R:Branle de lampe
+R:Branle de lampe
+R:Branle de lampe
+R
+
+
+*****************************
+
+
+8400 0 1.8150073 
+
+<start>
+X: 32
+T:Branle de la bour la la la la lanle
+C:Charile de lamle
+R:Branle de la la la lanle de la l
+
+
+*****************************
+
+
+8500 0 1.9880013 
+
+<start>
+X: 14
+T:Branle de lan banes Michene
+R:Branse de lan le benes de le be le le benes de le be le ben
+
+
+*****************************
+
+
+8600 0 1.8313468 
+
+<startho:galouvielle@fre.fr
+M:4/4
+L:1/4
+K:G
+G2 | G2 | G2G2 | G2G2 | G2G2 | G2G2G2 | G2G2G2 | G2G2G2 | G2G
+
+
+*****************************
+
+
+8700 0 2.7481058 
+
+<start>
+X: 3
+T:Bollan an an an an an an an an an an an an an an an an an an an an an an an an an Micher M
+
+
+*****************************
+
+
+8800 0 0.91675454 
+
+<start>
+X:1
+T:Brans Che air
+M:3/4
+L:1/8
+K:G
+G2 G2 | G2 G2 G2 | G4 | G2 G2 | G2 G2 | G2 G2 G2 | G2 G2 G2 |
+
+
+*****************************
+
+
+8900 0 1.4800551 
+
+<start>
+X:1
+T:Gour air
+M:3/4
+L:1/8
+K:G
+G2 | G2 G2 | G2 G2 | G2 G2 | G2 G2 | G2 G2 | G2 G2 | G2 G2 | G2 G2
+
+
+*****************************
+
+
+9000 0 1.2727954 
+
+<start>
+X:3
+T:Grans Miche Mance
+Z:id:hn-an-ance
+Z:Transcrit et Bornance
+Z:Transcrit et/our Michel Mance
+Z
+
+
+*****************************
+
+
+9100 0 3.3199508 
+
+<start>
+X:1
+T:Mamne Mollande
+R:id har-ance
+R:id harnde
+R:id harndance
+Z:id:hn-an-1 Marnde
+R:id harndance
+
+
+
+*****************************
+
+
+9200 0 2.1844044 
+
+<start>
+X:3
+T:Poron coren Mollo tolan torolan (16777
+Z:id:hn-carondan
+R:id:haron daron the torolan tarola
+
+
+*****************************
+
+
+9300 0 1.9102149 
+
+<start>
+X:3
+T:Alanolan (16777-178
+M:3/4
+L:1/8
+K:G
+|: | G2 | G2 | G2 | G2 | G2 | G2 | G2 | G2 | G2 | G2 | 
+
+
+*****************************
+
+
+9400 0 1.5847255 
+
+<start>
+X:11
+T:Pourolan
+C:Turolan (1670-1738)
+Z:id:hn-carolan
+R:id:hn-carolan
+R:id:hn-carolan
+R:id:hn-car
+
+
+*****************************
+
+
+9500 0 2.0866365 
+
+<start>
+X:1
+T:Carolan (1670-1738
+Z:id:hn-carolan
+C:Turolan (1670-1738)
+Z:id:hn-carolan
+C:Turolan (1670-17
+
+
+*****************************
+
+
+9600 0 1.204546 
+
+<start>
+X:2
+T:Carolan (1670-1738)
+Z:id:hn-carolan-16
+M:3/4
+L:1/8
+K:G
+|: G2 | G2 G2 | G2 G2 | G2 G2 | G2 G
+
+
+*****************************
+
+
+9700 0 3.0015764 
+
+<start
+X:2
+T:Carolan (1670-1738)
+Z:id:hn-carolan-17
+M:3/4
+L:1/8
+K:G
+GA | B2 B2 B2 B2 | B2 B2 B2 B2 | B2 B
+
+
+*****************************
+
+
+9800 0 2.3769171 
+
+<start>
+X:1
+T:Alan Haren Helel tomel tores Helel tonel te toren Helle to the toren Helel tomel tomel tola
+
+
+*****************************
+
+
+9900 0 2.1186986 
+
+<start>
+X:1
+T:Aloland
+R:highland
+Z:id:hn-hf-1
+M:C|
+K:G
+A2 A2B2 | B2A2 B2A2 | B2B2 B2B2 | B2B2 A2B2 | B2B2
+
+
+*****************************
+
+
+10000 0 2.176048 
+
+<startion (3/8)
+K:C
+G2 G2G2 G2G2 | G2G2 G2G2 | G2G2 G2G2 | G2G2 G2G2 | G2G2 G2G2 | G2G2 G2G2 | G2G2 G2G2 
+
+
+*****************************
+
+
+10100 0 1.900971 
+
+<startion (3/3/8)
+K:D
+D2 G2GF D2:|
+|: (3fgf gfga | gfga agga | gfga agga | gfga aggf | gfga agga | gfga a
+
+
+*****************************
+
+
+10200 0 2.8048563 
+
+<startion (3/3)
+K:G
+G2 G2G2 G2:|
+|:gf|gfgf gfed|dBcB G2G2|
+G2G2 G2G2|
+G2G2 G2G2|
+G2G2 G2G2|
+G2BG G2G2|
+G2
+
+
+*****************************
+
+
+10300 0 1.8763412 
+
+<startion (3/8)
+K:G
+D2 G2 (3AG (3EEF G2 (3AB (3Bc (3Bc (3AG (3Bc (3Bc (3AG (3Bc (3Bc (3Bc (3Bc (3Bc (3Bc 
+
+
+*****************************
+
+
+10400 0 1.9687963 
+
+<startion (3/8)
+K:D
+D2 G2 G2:|
+|:|
+|:|
+|:|
+|:|
+|:|
+|:|
+|:D|
+|:|
+|: G2 G2 (3Bc dBAG | G2GB G2:|
+|: (3Bcd (
+
+
+*****************************
+
+
+10500 0 2.7683508 
+
+<startion (33)
+K:G
+AA|FGFF G2:|
+|:|
+|:F|
+|:|
+|:|
+|:|
+|:|
+|:|
+|:|
+|:|
+|:|
+|:G|
+|:G|
+|:G2|
+G2 G2 G2:|
+|:|
+|
+
+
+*****************************
+
+
+10600 0 1.2802839 
+
+<startion (33)
+K:G
+AB (3Bcd (3Bcd (3Bcd | (3Bcd (3Bcd (3Bcd (3Bcd (3Bcd | (3Bcd (3Bcd (3Bcd (3Bcd (3Bcd |
+
+
+*****************************
+
+
+10700 0 2.5048952 
+
+<startion (33)
+K:G
+GB|dBAG G2 (3Bcd |
+e2ed efed|ed efed ef|eded efed|eded efed|eded efed |
+efed efed|e2 (
+
+
+*****************************
+
+
+10800 0 1.563883 
+
+<start>
+X:3
+T:Coun toun the the tur the tur the ture tur the ture tuckoun the tur the tue the tuckoun the
+
+
+*****************************
+
+
+10900 0 1.4780891 
+
+<start>
+X:3
+T:Durnpine souns The tornpipe
+R:hornpipe
+Z:id:hn-hornpipe-4
+M:C|
+K:G
+AA|AAFA AAFA|AAFA AAFA|A
+
+
+*****************************
+
+
+11000 0 1.4203073 
+
+<start>
+X:4
+T:Durin sornpipe
+Z:id:hn-hornpipe-4
+M:C|
+K:D
+DA|dcBA A2AB | d2dc d2:|
+|: (3cde | fefe d2 (3cd
+
+
+*****************************
+
+
+11100 0 1.0471703 
+
+<start>
+X:55
+T:Darns Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-55
+M:C|
+K:G
+GA|ABAG A2:|
+|: (3ABc | d2de f2ed|e
+
+
+*****************************
+
+
+11200 0 1.2225357 
+
+<start>
+X:3
+T:Darlan somer the tornpipe
+R:hornpipe
+Z:id:hn-hornpipe-6
+M:C|
+K:G
+DE|D2D2 D2:|
+|:D2|
+|: (3Bc
+
+
+*****************************
+
+
+11300 0 0.604577 
+
+<start>
+X:6
+T:Marnpipe
+R:hornpipe
+D:Marin Hornpipe
+R:hornpipe
+D:Marin: Hornpipe
+R:hornpipe
+D:Marnpipe
+R:h
+
+
+*****************************
+
+
+11400 0 2.0312643 
+
+<start>
+X:6
+T:See Hornpipe
+Z:id:hn-hornpipe-69
+M:C|
+K:G
+AG|A2A2 A2:|
+|: (3Bcd | e2efe d2:|
+|: (3efg | a2e
+
+
+*****************************
+
+
+11500 0 1.6556647 
+
+<start
+X:77
+T:Sane Hornpipe
+R:hornpipe
+D:Sean Hornpipe
+R:hornpipe
+D:Seane Hornpipe
+R:hornpipe
+D:Sane Horn
+
+
+*****************************
+
+
+11600 0 1.2161032 
+
+<start>
+X:88
+T:Duris Hornpipe
+Z:id:hn-hornpipe-88
+M:C|
+K:G
+(3Bcd (3Bcd (3Bcd | (3Bcd (3Bcd (3Bcd (3Bcd (3
+
+
+*****************************
+
+
+11700 0 1.0894139 
+
+<start>
+X:88
+T:Dumoun Hornpipe
+Z:id:hn-hornpipe-89
+M:C|
+K:G
+(3Bcd|d2d2 d2 (3dcd|
+d2dc d2 (3dcd | d2dc d2 
+
+
+*****************************
+
+
+11800 0 1.2204351 
+
+<start>
+X:99
+T:Bdornpipe
+R:hornpipe
+H:See of the the the The
+R:hornpipe
+H:See the The
+R:hornpipe
+D:See Ho
+
+
+*****************************
+
+
+11900 0 1.3035822 
+
+<start>
+X:18
+T:Ade and and and be the |
+M:C (3de fe | d2 d2 (3cd | edc d2 :|
+|: fe d2 | AG G2 G2 | AG G2 
+
+
+*****************************
+
+
+12000 0 2.2498837 
+
+<startion (33 (33 |1 AG A2 | AG AG | AGA DED | ~33 ded | ede d2e | fed d2e | fed cAF | ~A3 d2 :|
+|: fed |
+
+
+*****************************
+
+
+12100 0 1.4948822 
+
+<startion (33-11
+K:G
+GBA GBA|GBd ~e3|dBA BAG|GBd ~e3|dBG GBG|GBd ~e3|fed edB|cBA ~G3|BAG B2B|AGB ~A3|BGB 
+
+
+*****************************
+
+
+12200 0 1.2581558 
+
+<starion (33 (3Bc d2 | BAG AFD | ~G3 AFD | AGF G2G | AGF G2G | AGF G2G | AGF G2G | AGF G2G | AGF G2G | AG
+
+
+*****************************
+
+
+12300 0 1.3829527 
+
+<starion partion partie the Bard Bartin Che the Bartin Che the Band Bartin Micher the Bartin: The Bartin 
+
+
+*****************************
+
+
+12400 0 1.1725986 
+
+<startion (33 (3cd edB|BAB A2A|BAB AFA|BAB AFD|~E3 E2A|BAB AFE|EEE EED|EEE EED|EEE E2A|BAG AFE|EEE EED|EE
+
+
+*****************************
+
+
+12500 0 1.2861987 
+
+<starions
+<start>
+X:3
+T:Mist on the the the The The The The
+R:jig
+D:Mig an Mant the The The The
+R:jig
+D:M
+
+
+*****************************
+
+
+12600 0 1.866903 
+
+<starions
+D2A B2d|edB A2B|cAB A2B|cAB A2B|cAB A2B|cBA A2B|ABA A2B|cAB A2B|cAB cAB|cAB cAB|cAB A2B|cAB cAB
+
+
+*****************************
+
+
+12700 0 1.5083017 
+
+<starions
+|: BAG GFD | EFD DFD | EFD D2 :|
+|: Bcd edc | dcd edc | dcd cAG | AGF G2A | BAG G2A | BAG GFD |
+
+
+*****************************
+
+
+12800 0 1.4171054 
+
+<starions
+|: BAG AFD | EFD EFD | EFD EFD | EFD EFD | EFD DFD | EFD DFD | EFD EFD | EFD DFD | EFD EFD | EF
+
+
+*****************************
+
+
+12900 0 1.764278 
+
+<starions
+|: ~D3 DFD | ~D3 DFD | ~D3 DFD | ~D3 DFD | ~D3 DFA | ~F3 DFD | ~D3 DFD | ~D3 DFD | ~D3 DFD | ~D
+
+
+*****************************
+
+
+13000 0 2.5899096 
+
+<starions
+|: ABA AFA | dBA A2A | dBA A2A | dBA A2A | dBA A2A | dBA A2A | dBA A2e | dBA A2A | dBA A2A | dB
+
+
+*****************************
+
+
+13100 0 1.6967142 
+
+<starion (36-17
+T:See Sallin Stee Sige Stale Stad in Ste Sead Stee Sollin Sin Sige
+R:jig
+D:See Sallin Sin
+
+
+*****************************
+
+
+13200 0 1.2352321 
+
+<starions
+|: AFD D2e | ~f3 edB | AFD D2e | ~g3 fdd | edB AFD | ~F3 AFD | ~D3 D2e | ~B3 AFD | ~D3 D2e | ~g
+
+
+*****************************
+
+
+13300 0 1.7717115 
+
+<starions
+|: GEE E2A:|2 GEE E2A:|2 GEE D2A||
+|:~f3 edB|~A3 BAG|~G3 GEE|~E3 E3:|
+|:~f3 edB|~A3 edB|def gfe
+
+
+*****************************
+
+
+13400 0 1.386311 
+
+<starions
+|: GAG G2A:|
+|: fed edB|BAG G2A|BAG FAG|GBd edB|BAG GBd|edB BAG|Bcd edB|BAG GBd|edB ABc|def gfe
+
+
+*****************************
+
+
+13500 0 1.4320244 
+
+<startion Alart March
+Z:id:hn-jarch-2
+M:6/8
+K:D
+AB ABc|dBA A2A|BAG A2A|BAG A2A|BAG A2A|B2A A2A|B2A A2A|B2
+
+
+*****************************
+
+
+13600 0 1.6191179 
+
+<startion (3/8
+K:D
+DE A2:|
+|:ed ef|ed e2|e2 e2|e2 e2|e2 e2|e2 e2|e2 e2|e2 e2|e2 e2|e2 e2|e2 e2|ed e2|ed e
+
+
+*****************************
+
+
+13700 0 2.657332 
+
+<start>
+X:1
+T:Carche the March
+Z:id:hn-march-11
+M:2/4
+L:1/8
+K:Amix
+A2BA B2A2|
+A2A2 A2A2B2|
+A2A2 A2B2:|
+<e
+
+
+*****************************
+
+
+13800 0 1.3793849 
+
+<start>
+<start>
+X:22
+T:Carcher's March
+R:march
+Z:id:hn-march-22
+M:2/4
+L:1/8
+K:Amix
+A2 A2 | A2 A2 :|2 A2 A
+
+
+*****************************
+
+
+13900 0 1.2817684 
+
+<startion (3/86
+K:G
+GB | d2 d2 | BA BG | BG BG | BG AG | BG BG | BG BG | BG BG | BG BG | AG BG | BG BG | 
+
+
+*****************************
+
+
+14000 0 1.8607521 
+
+<start>
+X:2
+T:Adore Barch
+Z:id:hn-mazurka-3
+M:3/4
+K:A
+d:|: BA BA BA|B2 A2 BA|B2 A2 A2 |
+B2 AG AG|F2 AG FA
+
+
+*****************************
+
+
+14100 0 1.7728088 
+
+<starion (36 A2 AB | d2 BA GB | d2 c2 BA | B2 c2 BA | B2 B2 A2 | B2 c2 A2 | B2 c2 B2 | B2 c2 B2 | B2 c2 B
+
+
+*****************************
+
+
+14200 0 1.6889701 
+
+<star
+H:Also po po po po poler's #1
+Z:id:hn-mazurka-1
+M:3/4
+L:1/8
+K:G
+GB|c2 d2|e2 ed|c2 ed|c2 A2|B2 A2|
+B
+
+
+*****************************
+
+
+14300 0 1.7670121 
+
+<star
+A>B AB|ce dB|AB AB|ce dB|AB AB|ce dB|AB AB|ce dB|A2 AB|ce dB|AB AB|ce dB|AB AB|ce dB|AB AB|ce dB|AB
+
+
+*****************************
+
+
+14400 0 0.5385331 
+
+<start
+B>A BA|BA BA|BA BA|AB ce|dB AB|ce dB|AB AB|ce d>B|AB AB|ce d>B|A2 A2:|2 BA A2||
+<end>
+<start>
+X:11
+
+
+*****************************
+
+
+14500 0 1.0321766 
+
+<star
+A:D | AG G>B | AG G>B | AG G2 ||
+<end>
+<start>
+X:22
+T:Sollan Colka
+R:polka
+Z:id:hn-polka-22
+M:2/4
+L
+
+
+*****************************
+
+
+14600 0 1.5330718 
+
+<starion A2 BA |
+BA BA | BA BA | BA AB | BA AF | A2 G2 :|
+|: BA B/A/B/|d2 d2:|
+|:ed e/f/e/d/|e/f/e/ dB|BA
+
+
+*****************************
+
+
+14700 0 2.769004 
+
+<starion parta
+Z:id:hn-polka-24
+M:2/4
+L:1/8
+K:D
+A>B ce|df ef|ef/e/ de|fe de|fe fe|fe de|fe fe|dB AB|ce fe
+
+
+*****************************
+
+
+14800 0 0.83230174 
+
+<star
+A:D Bd|cB AB|cA A>B|cA A>B|cA A>B|cA B/c/d/|cA A>B|cA A>B|cA AB|cA A/B/c/|dB AB|cA AB|cA A/B/c/|d>B
+
+
+*****************************
+
+
+14900 0 0.91861457 
+
+<star
+Z:id:hn-polka-55
+M:2/4
+L:1/8
+K:D
+A>B AF|AF AF|AB cB|AB AB|ce fe|fe fe|fe ec|ef ec|ef ec|ef ec|ef ec
+
+
+*****************************
+
+
+15000 0 2.6071825 
+
+<star
+A:D Bc/d/ | ed ef/g/ | ed ef/g/ | ed ef/e/ | dB AB/c/ | dB AB/c/|dB AB/c/|dB AB/c/|dB AB/c/|dB AB/c
+
+
+*****************************
+
+
+15100 0 1.2966762 
+
+<starion poltie
+T:Jolle Mainna
+Z:id:hn-polka-77
+M:2/4
+L:1/8
+K:D
+A>B AB|cB AB|cB AB|cB AB|cB AB|cB AB|ce d
+
+
+*****************************
+
+
+15200 0 1.007577 
+
+<starion palla
+R:polka
+Z:id:hn-polka-88
+M:2/4
+L:1/8
+K:D
+D>B AB/c/|dB AB/c/|dB AB/c/|dB AB/c/|dB AB/c/|dB 
+
+
+*****************************
+
+
+15300 0 1.1853576 
+
+<starit:
+D>B cB|AB ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce|fe ce
+
+
+*****************************
+
+
+15400 0 2.6945364 
+
+<star
+D:D Be/d/ |
+ed ce|fe de/f/|ed cB|A2 A2||
+<end>
+<start>
+X:99
+T:Jinn Marcher Mared in the Bered in th
+
+
+*****************************
+
+
+15500 0 1.712394 
+
+<star
+D:De Beed |
+~g3e fedB|~G3A BAGB|~g3e dBAG|~G3A BGEG|~G3A BAGB|~g3g gedB|~G3A BAGB|~g3g gedB|~G3A BA
+
+
+*****************************
+
+
+15600 0 1.6605933 
+
+<star
+D2 AGFA | BAGF E2DE | EGEF E2DE | EGEF E2DE | EGFG E2DE | EGEF E2DE | EGEF E2DE | EEDF E2DE | EGFG 
+
+
+*****************************
+
+
+15700 0 1.3566824 
+
+<star
+D:De Beed BA~|1 BGAG G2AG | AGFA BAGA | BGAG AGFA | BGAG AGFA | BAGF GED | EGFG GED | EGFG GED | EG
+
+
+*****************************
+
+
+15800 0 1.6429031 
+
+<star
+H:Del also played in Garelle also #188
+Z:id:hn-reel-22
+M:C|
+K:G
+d2BA BABc|dBAB AGBd|edBA BABA|BABd 
+
+
+*****************************
+
+
+15900 0 0.7799077 
+
+<star
+D:Det an the the Barter the the the the the the the the the the the the the the the the the the the
+
+
+*****************************
+
+
+16000 0 2.0441256 
+
+<starion:
+|:D2 BAFA BAFA|B2dB AFAF|AFDF EFEF|DFEF EFEF|AFDF EFAF|FAFA BAFA|BAFA BAFA|B2dB AFFA|B2dB AFDE:
+
+
+*****************************
+
+
+16100 0 1.5159072 
+
+<star
+D2 DEDE | FAFA BAFA | BAFA BAFA | BAFA BAFA | BAFA BAFA | BAFA BAFA | BAFA BAFA | BAFA BAFA | BAFA 
+
+
+*****************************
+
+
+16200 0 0.90569633 
+
+<star
+H:Dallin Stome Stomer the Mare also also #173
+Z:id:hn-reel-44
+M:C|
+K:D
+D2FA BcBc|dBcB ABcB|ABcB ABc
+
+
+*****************************
+
+
+16300 0 1.2752076 
+
+<starion:
+D2AB ABcB|ABAB cBAB|cBAB cAAB|ABcA BA~A2|
+~g3e dBAB|ABAB ABAB|ABAB ABcA|BA~B2 dBAB|ABcA BA~A2|
+
+
+
+*****************************
+
+
+16400 0 1.8747244 
+
+<starions:
+|:~G3A BG~G2|AG~F2 GBAB|cAAG FGAB|cBAG FGEF|GEFG G2AG|ABcd edcB|cAAG FGAB|cAAG FGEF|
+F2AF GEFG
+
+
+*****************************
+
+
+16500 0 1.6606395 
+
+<starions:
+|:~G3A BAGE|D2FG AGEF|G2BG GEDE|D2FG AGEF|G2GE EDD2:|
+|:d2dc d2fd|e2fd edcB|A2GE EDD2:|
+|:d2dc
+
+
+*****************************
+
+
+16600 0 1.5425813 
+
+<starions:
+|:~G3A BAGB|cAAG FDDE|D2FE EDD2|
+~E3F GEFD|EFEF EDD2|
+FAGB ABcB|ABAF GEDE|DEFE EDD2|
+|:B2AB cB
+
+
+*****************************
+
+
+16700 0 0.9696922 
+
+<star
+A2 BAGB | A2BA BAGE | E2FG A2BA | AGFG E2FA | defe dBGB | A2BA BAGB | A2BA BAGB | A2Bc dBG E2D2 | A
+
+
+*****************************
+
+
+16800 0 1.608019 
+
+<starion paltere to played in Glayed in Glayed in Glayed in Glayed in Glayed in Glayed in Glane Sto the B
+
+
+*****************************
+
+
+16900 0 1.9219021 
+
+<star
+D2 (3Bcd ed (3Bcd | edcA BAGE | FGEF EDDF | EFDF DFDD | EFDF EDD2 | AGFG FDD2 | BAGF DFDF | EFDF ED
+
+
+*****************************
+
+
+17000 0 1.6694081 
+
+<star
+A:D Ad ecdc|dcAG FDD2:|
+|:~f3d edcA|cAGE EDD2:|
+|:fddc dcAB|cAGE EDD2:|
+|:fddc dcAG|FAdc dcAG|FEDE 
+
+
+*****************************
+
+
+17100 0 1.5786612 
+
+<starion (3:19
+K:D
+D2 (3FED ED (3FED | EGEF EDD2 ||
+|: fedc d2dB | A2Bc defg | afge d2dB | A2Bc d2dB | A2
+
+
+*****************************
+
+
+17200 0 0.7659597 
+
+<starion (3:19
+K:D
+D2 (3Bcd eA (3Bcd | eaag edcA | AGEF A2 (3Bcd | eaag edcA | ABcA A2 (3Bcd | edcA ABcA 
+
+
+*****************************
+
+
+17300 0 1.6513422 
+
+<starion (3:19
+D:D,2 EFGE DEFA|dBAF EDD2:|
+|: E2 (3Bcd ef gedB|1 A2 (3Bcd ef gedB|ABcA BAFA|
+~B3d efdB|cA
+
+
+*****************************
+
+
+17400 0 1.621959 
+
+<starion (36 (3cAG A2 (3cde | d2 (3cAG A2 (3cde | fd (3cAG A2 (3cde | d2 (3cAG A2 (3cde | fd (3cAG A2 (3c
+
+
+*****************************
+
+
+17500 0 2.5130901 
+
+<startions
+|: (3cde fd (3cde | fd (3cde fd (3cde | f2 (3gfe d2 (3cde | fd (3cde fd (3cde | fd (3cde fd (3
+
+
+*****************************
+
+
+17600 0 2.038719 
+
+<starions:
+|: d2e | def gfed | cAG A2BA | A2B A2BA | AGAG G2AG | G2A BAG | AGA BAG | AGA BAG | G2A BAG | 
+
+
+*****************************
+
+
+17700 0 1.6297063 
+
+<starion s af the de de def ged | e2d e2f | gfe d2e | def gfe d2:|2 def gfe | def gfe | d2 def g2e | def 
+
+
+*****************************
+
+
+17800 0 1.396965 
+
+<starion 2
+|: (3cBA BAG ABc | def gfe ded | cAG A2A BAG | AGF G2A BAG | AGE G2A BAG | AGF G2A BAG | G2A B
+
+
+*****************************
+
+
+17900 0 1.4252406 
+
+<starion 1 d2 def gfe|d2 dB A2G | ABc d2A BAG | G2A BAG FAd | efe def gfe | def gfe dBG | ABc dBG A2A:|2 
+
+
+*****************************
+
+
+18000 0 1.5671372 
+
+<starion 2 A2 (3AG A2G | A2G G2A B2A | B2A B2A B2A | B2A B2A B2A | B2A B2A B2A | def g2e d2A | def g2e d2
+
+
+*****************************
+
+
+18100 0 0.5635337 
+
+<starion 2:
+<end>
+<start>
+X:33
+T:Humour of the Derry Millers, The
+R:slip jig
+H:See also #3
+Z:id:hn-slipji
+
+
+*****************************
+
+
+18200 0 1.1741362 
+
+<starion al af ge fe |
+fe fef g2e | fed efg a2g | agf gfe fed | e2e fed cAG:|
+|: fed e2f g2e | fed efg a2
+
+
+*****************************
+
+
+18300 0 1.6779486 
+
+<starion af gfe |
+|: fed edB | def gfe | def gfe | def gfe | def gfe | def gfe | def gfe | def gfe | def 
+
+
+*****************************
+
+
+18400 0 1.7167633 
+
+<starig
+H:Also a also #3
+Z:id:hn-slipjig-55
+M:9/8
+K:G
+d2B d2B d2B|BAG G2B d2B|BAB A2B cAB|A2B d2B cAB|1 d
+
+
+*****************************
+
+
+18500 0 1.5084577 
+
+<starion s: I fe the wead the weane to the weane and the wee and the weane the and the weand the weand th
+
+
+*****************************
+
+
+18600 0 2.6571586 
+
+<starion s Also #33
+D:Paddy Berrigh to the Dunne to the Dinch the Band the seand the Furster to the Dune 
+
+
+*****************************
+
+
+18700 0 1.4013613 
+
+<starion s the Bor the Bor to the Bareed to the Bare
+R:slip jig
+H:See also #37
+Z:id:hn-slipjig-77
+M:9/8
+K
+
+
+*****************************
+
+
+18800 0 1.8265108 
+
+<starion s af the Bor the Bor the Bane to #38
+Z:hn-slipjig-88
+M:9/8
+L:1/8
+K:G
+B2A BAB cBA | BAB cAB cAB |
+
+
+*****************************
+
+
+18900 0 1.5644559 
+
+<starion s the Bare the and the and of the alle to the and of the and of the alle to the a a a a a a a a 
+
+
+*****************************
+
+
+19000 0 1.3281947 
+
+<starions
+|: A2A BAB | ABA BAB | A2B A2B | A2B A2B | A3 A2B | A2B d2e | fed efe | d3 d2e | fed efe | d3 d
+
+
+*****************************
+
+
+19100 0 1.0894834 
+
+<starions
+|: G2A B2A|B2A B2A|B2A B2A|B2A B2A|B2A B2A|B2A B2A|BAB A2B|c2A A2B|A2B A2B|A2A BAB|c2A B2A|BAB 
+
+
+*****************************
+
+
+19200 0 1.4572312 
+
+<starions
+|:A2A AGE|G2A G2A|B2A G2A|B2A G2A|G2A G2A|B2A G2A|B2A G2A||
+|:B2A AGE|G2A G2A|B2A G2A|B2A G2A|B
+
+
+*****************************
+
+
+19300 0 1.1423513 
+
+<starions
+|:A2B B2A|B2A B2A|B2A B2A|B2A B2B|c2A B2A|B2A B2A|B2A B2A|B2A B2A|B2A B2A|B2A B2A|B2A B2A|B2A B
+
+
+*****************************
+
+
+19400 0 1.1592338 
+
+<starion 22
+<end>
+<start>
+X:44
+T:O'Kee also #45
+Z:id:hn-slide-44
+M:6/8
+K:D
+D2D D2D|G2B GBA|B2A G2B|cBA B2
+
+
+*****************************
+
+
+19500 0 0.67129976 
+
+<starions
+|:G2A B2A|B2A B2A|B2A B2A|B2A BAB|c2A B2A|G3 G2A:|
+|:e2a a2g|e2e e2f|e2e e2f|e2e e2f|e2e e2f|e2
+
+
+*****************************
+
+
+19600 0 1.1418142 
+
+<start>
+X:62
+T:Minn the Borne, The
+R:slide
+H:See also #19, #6
+Z:id:hn-slide-66
+M:6/8
+L:1/8
+K:G
+G2A B2A|B2
+
+
+*****************************
+
+
+19700 0 0.9569582 
+
+<startions
+|: G2A B2A | BAB d2B | d2B d2B | c2A BAB | c2A B2A | BAB d2B | c2A BAB | c2A BAB | c2A BAB | c
+
+
+*****************************
+
+
+19800 0 1.0076072 
+
+<startion the ther of ther oht ther oht or ther oht ther or ther there or ther ond ortont or ther wor the
+
+
+*****************************
+
+
+19900 0 0.985158 
+
+<startion stor the sor the the warting the and oher the the and oht the sor the the the warter
+Z:id:hn-sl
+
+
+*****************************
+
+
+20000 0 0.42181712 
+
+<startion start the seand the warth the seand the warth the harter
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+D2E D
+
+
+*****************************
+
+
+0 1 2.9484212 
+
+<startion sto part the searte
+R:slide
+Z:id:hn-slide-99
+M:6/8
+L:1/8
+K:G
+B2A B2A | B2A B2A | B2A B2A | B2A 
+
+
+*****************************
+
+
+100 1 1.768996 
+
+<startion ga gfe | d2Bc B2c | d2cB c2 Bc | d2cB c2 B2 | c2d c2 B2 c2|d2 c2 B2 | B2c B2 c2 | d2cB c2 B2 | 
+
+
+*****************************
+
+
+200 1 2.3346288 
+
+<startion defe |
+f2d2 c2B2 | cBcB | cBc/d/ | cB/c/d/ e/d/c/ | Bc/d/ e/d/e/ | f2 e2 | c2 {c}dc/d/ | c/d/e/
+
+
+*****************************
+
+
+300 1 1.5838494 
+
+<start>
+X: 1 
+P:Var jig
+B/c/d/ c/d/e/ | d/c/d/e/ f/e/f/g/ | a/g/f/g/ f/g/e/f/ | e/f/g/f/ e/f/g/f/ | e/d/e
+
+
+*****************************
+
+
+400 1 1.6604358 
+
+<startion touriel or partion parteon partelou parion mailte or parigan touriel or mailte
+fed/c/ | dedede 
+
+
+*****************************
+
+
+500 1 2.45853 
+
+<startion (3/g/) (3f | f2 g2 | f2 g2 | f2 | f2 g2 | f2 g2 | f2 g2 | f2 g2 | f2 | f2 g2 | f2 g2 | f2 g2 | 
+
+
+*****************************
+
+
+600 1 1.9024742 
+
+<startion corrig? par Michel BELLON - 2007-03-222 24-24
+Z:Pour toute observation mailto:galouvielle@free.
+
+
+*****************************
+
+
+700 1 0.33188674 
+
+<startion (ga)) (gf) | (ec) (dc) | (cB)) | (Bc) (cB)) | (cB)) | (cB)) | (Bc) (dc) | (cB)) | (cB)) (cB)) |
+
+
+*****************************
+
+
+800 1 2.4827156 
+
+<starto
+X:1/8
+T:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-23
+Z:Pour toute observation 
+
+
+*****************************
+
+
+900 1 1.3236046 
+
+<startion corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/
+
+
+*****************************
+
+
+1000 1 1.4704998 
+
+<startion et/ou corrig? par Michel BELLON - 2005-07-22
+Z:Pour toute observation mailto:galouvielle@free.f
+
+
+*****************************
+
+
+1100 1 0.41938138 
+
+<startion et/ou tourig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.f
+
+
+*****************************
+
+
+1200 1 2.3931103 
+
+<startion et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.f
+
+
+*****************************
+
+
+1300 1 2.659439 
+
+<starto
+X:2/8
+T:Lourie de de de couring parie sar Miche Burrinair (1924)
+Z:Transcrit et/ou corrig? par Mi
+
+
+*****************************
+
+
+1400 1 0.36064517 
+
+<start>
+X:3/8
+T:La Mauso dou la sau-tou tourinaire dinas (1924)
+Z:Transcrit et/ou corrig? par Michel BELL
+
+
+*****************************
+
+
+1500 1 1.743123 
+
+<start>
+X:2
+T:La tambourine
+R:Chanse
+C:Crance
+R:Chanse
+C:Crance
+R:Chanse
+C:Crance
+R:Chanse
+C:Crance
+R:Cha
+
+
+*****************************
+
+
+1600 1 1.3123796 
+
+<start>
+X:24
+T:Lourie de de carraire de de de carre de de de carre de de de carre de de de carraire de de
+
+
+*****************************
+
+
+1700 1 0.92906004 
+
+<start>
+X:24
+T:La martaire
+R:Carnet de carraitiere
+M:2/4
+L:1/8
+K:Bb
+V:1
+V:1
+V:1
+V:1
+V:1
+V: Bb
+V:1
+V:1
+V:1
+
+
+*****************************
+
+
+1800 1 2.3540163 
+
+<start>
+X:20
+T:Le Laire de tarratine
+R:Danse de caract?re
+R:Danse de caract?re
+R:Danse de caract?re
+R:Dan
+
+
+*****************************
+
+
+1900 1 1.4617424 
+
+<start>
+X:5
+T:Lei toure dou le tou-lo de de de de de | de de | de de | d2 c2 | B2 | B2 | B2 | B2 | B2 | B
+
+
+*****************************
+
+
+2000 1 1.7458959 
+
+<startion (1924)
+<end>
+<start>
+X:66
+T:Lei touriet de tarrie?
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+Z:
+
+
+*****************************
+
+
+2100 1 1.8191245 
+
+<start>
+X:66
+T:Farandole
+C:Trad.
+R:Farandole
+M:6/8
+K:Bbmaj
+F2A | B2B cd | c2c d2c | d2c dc | d2c dc | d2c
+
+
+*****************************
+
+
+2200 1 1.0804954 
+
+<starto
+X: Be fe | d2d c2d | e2f edc | d2d c2d | e2f edc | B2B B2A | B2B B2B | B2B BAB | c2d c2c | d2d c2
+
+
+*****************************
+
+
+2300 1 2.0100045 
+
+<start>
+X: 8
+T:Farando dou le de tant la branso la le de tanso la le de tanso la le de la graisso, la gra
+
+
+*****************************
+
+
+2400 1 2.5842316 
+
+<starto
+X: Camansou lou le de tant de la le de la le de la le de tant de de tant de de la tant de la de l
+
+
+*****************************
+
+
+2500 1 2.166791 
+
+<start>
+X:8
+T:La marinaire de tant de tan-sou-re de tan- la le de tan- la tran-tou-lou-ren de tan- la le 
+
+
+*****************************
+
+
+2600 1 0.3796633 
+
+<start>
+X: 194
+T:La transo
+R:Farandole
+M:6/8
+L:1/8
+K:Bb
+V:1
+V:1
+V:1
+V:1
+d2d2d2|d4d4|B4B4|B4B4|B4B4|B4B4|B
+
+
+*****************************
+
+
+2700 1 1.8419703 
+
+<start>
+X:92
+T:La Marchelle
+R:Farandole
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-22
+Z:Pour t
+
+
+*****************************
+
+
+2800 1 1.7597691 
+
+<start>
+X:90
+T:La Marche de de tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2
+
+
+*****************************
+
+
+2900 1 1.539578 
+
+<start>
+X:10
+T:La Marchelle
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit et/ou corrig? par Michel BEL
+
+
+*****************************
+
+
+3000 1 1.6711866 
+
+<start>
+X:10
+T:La Marche
+R:Marche
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-24
+Z:Pour toute o
+
+
+*****************************
+
+
+3100 1 1.2119464 
+
+<start>
+X:10
+T:Marche de de la tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2
+
+
+*****************************
+
+
+3200 1 1.4303467 
+
+<start>
+X:10
+T:Marche de de de de la tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELL
+
+
+*****************************
+
+
+3300 1 1.8119241 
+
+<start>
+X:111
+T:La Marcho de tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 200
+
+
+*****************************
+
+
+3400 1 0.7702432 
+
+<start>
+X:10
+T:Marcho de tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03
+
+
+*****************************
+
+
+3500 1 2.003946 
+
+<start>
+X:12
+T:Marcho de de tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005
+
+
+*****************************
+
+
+3600 1 2.7098346 
+
+<start>
+X:12
+T:Marche
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Miche
+
+
+*****************************
+
+
+3700 1 1.4195474 
+
+<start>
+X:122
+T:La mame
+R:Marche
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-27
+Z:Pour toute ob
+
+
+*****************************
+
+
+3800 1 1.1761672 
+
+<start>
+X:122
+T:Parente
+C:Prad.
+C:Trad.
+R:Marche
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-06
+
+
+*****************************
+
+
+3900 1 0.29279202 
+
+<start>
+X:13
+T:Parance
+C:Provence
+C:Prad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-03
+Z:Pour
+
+
+*****************************
+
+
+4000 1 1.9757853 
+
+<start>
+X:13
+T:Polka
+R:Polka
+C:Parance
+R:Polka
+C:Povence
+C:Provence
+C:Prad.
+R:Polka
+C:Polka
+R:Polka
+S:Car
+
+
+*****************************
+
+
+4100 1 2.0416424 
+
+<start>
+X:14
+T:Poutrine
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Mich
+
+
+*****************************
+
+
+4200 1 3.2879925 
+
+<start>
+X:14
+T:Rien de Saine de tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 
+
+
+*****************************
+
+
+4300 1 0.032205675 
+
+<start>
+X:155
+T:Lo come de Stastise
+R:Setoth
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C
+
+
+*****************************
+
+
+4400 1 1.9484988 
+
+<start>
+X:15
+T:Scottish
+R:Solo
+O:France
+A:Provence
+C:Provence
+C:Provence
+C:Provence
+C:Provence
+C:Provence
+
+
+*****************************
+
+
+4500 1 2.5851896 
+
+<start>
+X:16
+T:Scottish de Sant le de Sant le de la tambourinaire de Sant parth parth parth part parchour
+
+
+*****************************
+
+
+4600 1 2.1306298 
+
+<start>
+X:166
+T:La lastess de tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 20
+
+
+*****************************
+
+
+4700 1 1.403679 
+
+<start>
+X:166
+T:La sou le tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+O:France
+A:Provence
+C
+
+
+*****************************
+
+
+4800 1 1.3211867 
+
+<start>
+X:16
+T:La La tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+R:Valse
+C:Pour touto
+R:Val
+
+
+*****************************
+
+
+4900 1 1.6983058 
+
+<start>
+X: 16
+T:Valse de tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+R:Valse
+C:J. Ginas
+Z:T
+
+
+*****************************
+
+
+5000 1 1.7184389 
+
+<start>
+X: 1 20
+T:Valse de de la prantes de tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:Trad.
+Z:Tran
+
+
+*****************************
+
+
+5100 1 2.8602939 
+
+<start>
+X: 1 20
+T:Branle de la la la la la la la la la la la la la la la la la la la la la la la la la la
+
+
+*****************************
+
+
+5200 1 1.6179152 
+
+<start>
+X:1
+T:Coulou la la la la la la la la la la la la la la la la la la la la la la la la la la la la 
+
+
+*****************************
+
+
+5300 1 0.8032688 
+
+<start>
+X:1
+T:Coulousine
+R:Collande de la la la la la la la la la la la la la la la la la la la la la la 
+
+
+*****************************
+
+
+5400 1 1.0750886 
+
+<start>
+X:1
+T:Coure de la la la la la la la la la la la la la la la la la la la la la la la la la la la l
+
+
+*****************************
+
+
+5500 1 2.2870398 
+
+<start>
+X: 16
+T:Cou le le le le le le le le le le le le le le le le le le le le le le le le le le le le l
+
+
+*****************************
+
+
+5600 1 2.0975301 
+
+<start>
+X:2
+T:La la le du le de la le dou-re de la le de la le dou-re de la le de la le le le de la le de
+
+
+*****************************
+
+
+5700 1 2.133869 
+
+<start>
+X:3
+T:La la le la le dou-tien de la la la le dou-re de la la la le dou-per du tai-tie de la le de
+
+
+*****************************
+
+
+5800 1 0.028724074 
+
+<start>
+X: 16
+T:La bou ban tan tan tan ta ban tan-ta ban ta ba ban ban ban ban-ta ba-ba ba ba bai ban ban
+
+
+*****************************
+
+
+5900 1 0.9536266 
+
+<start>
+X:3
+T:Le la la bous la bas cour la bou-re du bou la bou-re du re-ti-ta la bou-re du re-ti-ta le d
+
+
+*****************************
+
+
+6000 1 1.187221 
+
+<start>
+X: 20
+T:Le core du bon pour le pour le por le pou-re du bran-le du bon pe-re du bran-se le le le 
+
+
+*****************************
+
+
+6100 1 1.0236737 
+
+<start>
+X:5
+T:La nou la bous tous tan-to le tou-re de la bou-tit de la bon par-ta bou la bon par-to le to
+
+
+*****************************
+
+
+6200 1 1.277552 
+
+<start>e@f/2e/2 d/2e/2 g/2e/2 | d/2d/2 c/2d/2 c/2 c/2 c/2 c/2c/2 c/2c/2 c/2c/2 | c/2c/2 c/2B/2 c/2B/2 c/2
+
+
+*****************************
+
+
+6300 1 2.0241766 
+
+<startie@fre de/2f/2 g2|g2g g2g|g2g g2g|g2g g2g|g2g g2g|g2g g2g|g2g g2g|g2g2 g2g|g2g2 g2g|g2g2 g2g|g2g2 g
+
+
+*****************************
+
+
+6400 1 0.9559642 
+
+<start>
+X:1
+T:Scouttische
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-07
+Z:Pour toute observati
+
+
+*****************************
+
+
+6500 1 1.9789773 
+
+<start>
+X:1
+T:Schottische
+R:Schottische
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-27
+Z:Pour t
+
+
+*****************************
+
+
+6600 1 1.4489648 
+
+<start>
+X:1
+T:La Son de bour bour de bour bour bour le bour bour le bour bour de bour par pe bour par Man
+
+
+*****************************
+
+
+6700 1 2.0973315 
+
+<startion et/ou corrig? par Michel BELLON - 2007-09-0
+Z:Pour toute observation mailto:galouvielle@free.fr
+
+
+*****************************
+
+
+6800 1 1.4380233 
+
+<start>
+X: 1
+T:Le Le bour bour pes the Bourrine de bour bour per du bour per de bour bou bour per de le b
+
+
+*****************************
+
+
+6900 1 1.4788628 
+
+<start>
+X: 1
+T:La Bourrielle de bour de bour Molland Couk de bour la bour la bour la be bou bour le bour 
+
+
+*****************************
+
+
+7000 1 1.9967827 
+
+<start>
+X:1
+T:La Dantine Colle Be Dave Bourinal Mastrische
+R:Bourree
+C:Trad. Sine Bertinalle
+M:3/4
+L:1/8
+
+
+
+*****************************
+
+
+7100 1 2.0728145 
+
+<start>
+X:1
+T:Polka
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-27
+Z:Pour toute observa
+
+
+*****************************
+
+
+7200 1 1.9445502 
+
+<startion et/ou corrig? par Michel BELLON - 2007-09-17
+Z:Pour toute observation mailto:galouvielle@free.f
+
+
+*****************************
+
+
+7300 1 1.6390091 
+
+<start>
+X:1
+T:La Polkand <end>
+<start>
+X:1
+T:La Polkand <dave@biff.org.uk>
+M:6/8
+L:1/8
+K:C
+G|"C"c2c BA|"C
+
+
+*****************************
+
+
+7400 1 1.4357438 
+
+<start>
+X:1
+T:Bourrielle du the tour mant an the tour mant bour de the bor Marinal de toup partier du the
+
+
+*****************************
+
+
+7500 1 1.8594593 
+
+<startion chel corrig? par Michel BELLON - 2005-09-15
+Z:Pour toute observation mailto:galouvielle@free.fr
+
+
+*****************************
+
+
+7600 1 1.4633913 
+
+<starthon et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.f
+
+
+*****************************
+
+
+7700 1 0.092571296 
+
+<startho:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=150
+K:Gmaj
+A2A Bcdc | d2d2 e2d2 | c2d2 e2d2 | c2B2 A2 | B2
+
+
+*****************************
+
+
+7800 1 1.5327007 
+
+<start>
+X: 1
+T:Branle de couppier
+R:Bransle
+C:Trad.
+S:Thoinot de bambergau
+N:018.fif
+Z:<anamnese@laposte.
+
+
+*****************************
+
+
+7900 1 1.3606616 
+
+<start>
+X: 1
+T:Branle de la bamber
+R:Branle de couppier
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELL
+
+
+*****************************
+
+
+8000 1 1.2030226 
+
+<start>
+X: 1
+T:Branle de la bouble de la bouple de la bouple de la bouple de la bouple de la boup boup bo
+
+
+*****************************
+
+
+8100 1 2.1670406 
+
+<start>
+X: 1
+T:Branle de Berbe
+R:Branle de couppier
+C:Trad.
+R:Branle double
+R:Branle double
+C:Trad.
+R:Bra
+
+
+*****************************
+
+
+8200 1 0.024038902 
+
+<start>
+X: 2
+T:Branle de Bouble
+R:Branle
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+
+
+*****************************
+
+
+8300 1 0.37829086 
+
+<start>
+X: 12
+T:Branle de la la la la la la barbe
+R:Branle double
+C:Trad.
+Z:Transcrit et/ou corrig? par M
+
+
+*****************************
+
+
+8400 1 1.4005477 
+
+<start>
+X: 24
+T:Branle de la la la la barbe
+R:Branle double
+C:Christophe Balland
+O:1704
+Z:Transcrit et/ou
+
+
+*****************************
+
+
+8500 1 1.6542919 
+
+<start>
+X: 20
+T:Branle de la la la la la beane de la la beane de la la la la bes bour le la la be la be l
+
+
+*****************************
+
+
+8600 1 1.6217635 
+
+<starth
+A:Chir Michoth - hair Mair de la la bour l'air
+R:Branle double
+R:Branle double
+R:Branle double
+R:
+
+
+*****************************
+
+
+8700 1 2.3237307 
+
+<start>
+X: 2
+T:Balland Chas and Chandes ander de lan an an an an an an an an and an and an bolland in an 
+
+
+*****************************
+
+
+8800 1 0.4963581 
+
+<starth
+X:16
+T:Manis and Chair Mand Chair Mand
+R:air
+Z:id:hn-air-11
+M:3/4
+L:1/8
+K:G
+G2 | G2 G2 | G2 G2 | 
+
+
+*****************************
+
+
+8900 1 1.2527418 
+
+<start>
+X:16
+T:Trion Cander the Coun the toun the Coun the tour the tour the Coun the tour the Cour the C
+
+
+*****************************
+
+
+9000 1 0.31453598 
+
+<start>
+X:1
+T:Molly Mandand Marne
+R:air
+H:Also pardand Marne Hander Mich Mander Mich Marne Monnain (158)
+
+
+
+*****************************
+
+
+9100 1 2.9691389 
+
+<start>
+X:1
+T:Molly Colle Colle
+R:barndance
+Z:id:hn-barndance-1
+M:C|
+L:1/8
+K:G
+G2 | G2AB cBAB | A2A2 GABA
+
+
+*****************************
+
+
+9200 1 1.8894206 
+
+<start>
+X: 1
+T:Bran (1670-1738)
+Z:id:hn-carolan-2
+M:3/4
+L:1/8
+K:G
+G2 | G2AB | G2AB | c2B2 | A2A2 | B2A2 |
+
+
+*****************************
+
+
+9300 1 1.5564699 
+
+<start>
+X: 3
+T:O'Carolan (1670-1738)
+Z:id:hn-carolan-1
+M:3/4
+L:1/8
+K:G
+|: G2 | G2 | G2 | G2 | G2 | G2 | G
+
+
+*****************************
+
+
+9400 1 1.3710049 
+
+<start>
+X:11
+T:Morlan (1670-1738)
+Z:id:hn-carolan-11
+M:2/4
+L:1/16
+K:G
+d2 dB | A2 AB | cB AG | AF AG | GA 
+
+
+*****************************
+
+
+9500 1 1.9288783 
+
+<start>
+X:17
+T:Parolan (1670-1738)
+Z:id:hn-carolan-17
+M:C|
+L:1/8
+K:G
+G | G2 A2 | B2 A2 B2 | cB AG A2 | B2
+
+
+*****************************
+
+
+9600 1 1.1695358 
+
+<start>
+X:2
+T:O'Carolan (1670-1738)
+H:Also played in An the parts in the parts in the parts in the partt
+
+
+
+*****************************
+
+
+9700 1 2.3214562 
+
+<start>
+X:2
+T:O'Carolan (1670-1738)
+H:Originally (1670-1738)
+H:Originally (1670-1738)
+H:Originally (1670-
+
+
+*****************************
+
+
+9800 1 1.8574623 
+
+<start>
+X:1
+T:Alane Hars the to pland the tomes Highland
+R:highland
+H:Also pland the tomes (1670-1738)
+H:
+
+
+*****************************
+
+
+9900 1 1.5996475 
+
+<start>
+X:16
+T:Also pland
+R:highland
+H:Also and the to pland
+R:highland
+H:Also also the Come to be to be 
+
+
+*****************************
+
+
+10000 1 1.6980494 
+
+<start>
+X:2
+T:Also an the also #22
+Z:id:hn-hf-22
+M:C|
+L:1/8
+K:G
+G2G2 G2G2 | G2GF G2GA | BGGB cBcA | BGGB 
+
+
+*****************************
+
+
+10100 1 1.5524427 
+
+<start>
+X:2
+T:An Corno played Borning
+R:hornpipe
+C:Turlough O'Caroland
+Z:id:hn-hornpipe-6
+M:C|
+K:D
+D2D2 A
+
+
+*****************************
+
+
+10200 1 1.8814292 
+
+<start>
+X:10
+T:Brane Holland Bornpipe
+R:hornpipe
+H:Also played Be Holland in An part part part part pith 
+
+
+*****************************
+
+
+10300 1 1.4506929 
+
+<start>
+X:18
+T:Pader Massier of the Bane
+R:hornpipe
+H:Also played in An the Bane to played in An on the b
+
+
+*****************************
+
+
+10400 1 1.7946724 
+
+<start>
+X:12
+T:Pary Bannan: The Cannand and on the Dannan: The Danny and on the Barne, The
+R:hornpipe
+D:P
+
+
+*****************************
+
+
+10500 1 2.5279417 
+
+<start>
+X:22
+T:Paris of the Barts of the Barts of the Barts of the Barts of the Barts of the Hornpipe
+R:h
+
+
+*****************************
+
+
+10600 1 0.89510804 
+
+<start>
+X:20
+T:Padine Brane Holland Bandenand Barne Holland Barne Hornpipe, The
+R:hornpipe
+H:See also #22
+
+
+*****************************
+
+
+10700 1 1.8849094 
+
+<start>
+X:33
+T:Burly Conny's Hornpipe
+Z:id:hn-hornpipe-3
+M:C|
+K:G
+BG|ABAG FGAB|cAAG FGAB|cAAG A2AG|A2AG A
+
+
+*****************************
+
+
+10800 1 1.2681302 
+
+<start>
+X:3
+T:In the wust
+W:In the wer the wer the wer the wer the wer the wus the wus the wer the wur th
+
+
+*****************************
+
+
+10900 1 1.0913683 
+
+<start>
+X:34
+T:Warly and and was the weres of the werest in the wornpipe
+R:hornpipe
+H:See also played in 
+
+
+*****************************
+
+
+11000 1 1.2547938 
+
+<start
+X:40
+T:Barolan (1990-1838)
+H:See also played in the west of the west of the werest in the wornpipe
+
+
+*****************************
+
+
+11100 1 0.85711265 
+
+<start>
+X:5
+T:Bornpipe Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-55
+M:C|
+K:G
+AB|cA (3Bcd ecAF|G2GF G2FG|AGFG A
+
+
+*****************************
+
+
+11200 1 1.0712701 
+
+<start
+X:5
+T:Bared and and and in the Bornpipe
+R:hornpipe
+D:Mary Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-56
+
+
+
+*****************************
+
+
+11300 1 0.36549196 
+
+<start
+X:6
+T:Mary Hornpipe
+R:hornpipe
+D:Mary Hornpipe
+Z:id:hn-hornpipe-66
+M:C|
+K:G
+(3ABc|d2dB AGFG|AGAB c
+
+
+*****************************
+
+
+11400 1 1.8689569 
+
+<start
+X:60
+T:Brane Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-69
+M:C|
+K:G
+(3ABc|dBGB AGFG|ABcA AGFG|ABcA AGAF|
+
+
+*****************************
+
+
+11500 1 1.4276493 
+
+<start
+X:7
+T:Brane Hornpipe
+R:hornpipe
+D:Paddy Bealland Marin: The Bane the Bere
+R:hornpipe
+D:Paddy Cornp
+
+
+*****************************
+
+
+11600 1 0.87032145 
+
+<start
+X:88
+T:Turkin Hornpipe, The
+R:hornpipe
+D:Paddy Cornpipe, The
+R:hornpipe
+D:Paddy Cornpipe, The
+R:ho
+
+
+*****************************
+
+
+11700 1 0.8967737 
+
+<start>
+X:88
+T:Tumours of the Coornpipe, The
+R:hornpipe
+D:Turman Hornpipe
+R:hornpipe
+D:Turman Hornpipe
+R:
+
+
+*****************************
+
+
+11800 1 1.064539 
+
+<start>
+X:92
+T:Bally of the Coornpipe, The
+R:hornpipe
+H:See also played in Also played in Also played in 
+
+
+*****************************
+
+
+11900 1 1.0885185 
+
+<start>
+X:8
+T:Bather of the Bally and in the Bather the the the the weather the the the the Backer the th
+
+
+*****************************
+
+
+12000 1 1.7346927 
+
+<start>
+X:8
+T:Brigh O'Cary of the the the Bally the the the Bally the the toor the the Bally the Barther 
+
+
+*****************************
+
+
+12100 1 1.2149401 
+
+<start>
+X:11
+T:Sean of the Hin the Rean the with the with the Rean the Bane #193 #39
+Z:id:hn-jig-11
+M:6/8
+
+
+*****************************
+
+
+12200 1 1.0988555 
+
+<start
+X:13
+T:Sean Stree the The
+T:Sean of the the the Righ the Stain the Reathers
+Z:id:hn-jig-18
+M:6/8
+K
+
+
+*****************************
+
+
+12300 1 1.3350551 
+
+<start>
+X:22
+T:Mick Marchard Marcher's Fartain
+Z:id:hn-jig-22
+M:6/8
+K:Amix
+BAB ABA|BAB ABc|def gfe|dBG B2
+
+
+*****************************
+
+
+12400 1 0.95660406 
+
+<start>
+X:23
+T:Stan the Dannan: The Dannan: The Dannan: The Dannan: The Dannan: The Dannan: The Dannan: T
+
+
+*****************************
+
+
+12500 1 1.1725259 
+
+<start>
+X:31
+T:Mick Molland Molly The Dannan: The Dannan: The Dannand in the Dannand in the Dannan: The D
+
+
+*****************************
+
+
+12600 1 1.6163107 
+
+<start
+X:14
+T:Sonning Moon's Jig
+R:jig
+H:See also #122
+Z:id:hn-jig-44
+M:6/8
+K:D
+DED D2D|EFD E2D|EFD F2D|E
+
+
+*****************************
+
+
+12700 1 1.4303492 
+
+<star
+X:15
+T:Mully Molly Molly Molly Moully Stair
+R:jig
+D:Martie Molly Molly Staigh: The Coure to Stairs
+
+
+
+*****************************
+
+
+12800 1 1.1087084 
+
+<star
+D:De Start Stain
+R:jig
+D:Martie Colly Stain the Stade
+Z:id:hn-jig-55
+M:6/8
+K:D
+DEF DFD | EFD DFD | 
+
+
+*****************************
+
+
+12900 1 1.7852113 
+
+<start>
+X:62
+T:Mick Molloy, The
+R:jig
+D:Martie Molloy, The
+R:jig
+D:Martie Cally Molloy, The
+R:jig
+D:Marti
+
+
+*****************************
+
+
+13000 1 2.574377 
+
+<start>
+X:60
+T:Brank Brand Brand Breen the Barle
+R:jig
+D:Martin Barle
+Z:id:hn-jig-67
+M:6/8
+K:D
+dBG ABA | 
+
+
+*****************************
+
+
+13100 1 1.5556271 
+
+<start
+X:7
+T:Sean Sligh Stain
+R:jig
+D:Mary Bere Sligh Stain
+R:jig
+D:Mary Bergin: Sean Shee Sligh in the S
+
+
+*****************************
+
+
+13200 1 1.0920321 
+
+<start>
+X:88
+T:Seelan's Fandy
+R:jig
+H:See also #20
+Z:id:hn-jig-88
+M:6/8
+K:D
+dBG BAG|~A3 AFD|~F3 AFD|~F3 A
+
+
+*****************************
+
+
+13300 1 1.6605312 
+
+<start>
+X:88
+T:Brine Breen the Reel and in the Dannere the Band in And in And in Anne the Band in And in 
+
+
+*****************************
+
+
+13400 1 0.9824938 
+
+<start>
+X:92
+T:O'Carlan's Fandy
+Z:id:hn-jig-99
+M:6/8
+K:D
+AFD DFA|BAB cBA|BAB cBA|BAG FED|~G3 BAG|FAF GEE|
+
+
+*****************************
+
+
+13500 1 1.2822771 
+
+<start>
+X:6
+T:Branch the Farcher's Fancer
+Z:id:hn-march-4
+M:6/8
+K:D
+DEF A2F|A2A B2A|B2A B2A|B2A B2A|B2A B
+
+
+*****************************
+
+
+13600 1 1.45047 
+
+<start>
+X:1
+T:Barth March March
+R:march
+H:Also played in Alloun the Banter's Fancher, The
+R:march
+H:Also 
+
+
+*****************************
+
+
+13700 1 2.175297 
+
+<start>
+X:12
+T:Chanter's Fantain
+Z:id:hn-march-11
+M:2/4
+L:1/8
+K:Amix
+A2AB c2d2|e2e2 edBd|e2d2 e2dB|A2G2 A
+
+
+*****************************
+
+
+13800 1 1.0805403 
+
+<start>
+X:22
+T:Barcher's March
+R:march
+H:Also played in Also played in Also played in Also played in Also
+
+
+*****************************
+
+
+13900 1 1.0569241 
+
+<start>
+X:20
+T:Brigh Calling and in Stleele
+Z:id:hn-march-34
+M:6/8
+L:1/8
+K:G
+dB BG/B/|dB B/d/B/A/|B/A/G/F
+
+
+*****************************
+
+
+14000 1 1.5088507 
+
+<start>
+X:2
+T:Brankie Cannand Mazurka
+R:mazurka
+H:See also #19
+Z:id:hn-mazurka-3
+M:3/4
+K:D
+DF|A2 A2 A2|B2
+
+
+*****************************
+
+
+14100 1 1.4249754 
+
+<start>
+X:12
+T:Whille to #19
+D:Mazurkain A
+Z:id:hn-mazurka-11
+M:3/4
+K:G
+DG|:B2 B2 B2 BA|B2 B2 BA|B2 B2 B2
+
+
+*****************************
+
+
+14200 1 1.3261446 
+
+<start>
+X:1
+T:Bollie Colkand Mazurka
+R:mazurka
+H:See also #1
+Z:id:hn-mazurka-1
+M:3/4
+L:1/8
+K:G
+B2|: A2 A2
+
+
+*****************************
+
+
+14300 1 1.3669019 
+
+<start>
+X:1
+T:Bally of the Bandy
+Z:id:hn-polka-8
+M:2/4
+L:1/8
+K:G
+Bc BA | BA Bc | BA Bc | BA Bc | BA Bc | 
+
+
+*****************************
+
+
+14400 1 0.4811312 
+
+<start>
+X:12
+T:Brankie Colkand in A Filled in A
+Z:id:hn-polka-18
+M:2/4
+L:1/8
+K:G
+BA BA|BA BA|BA BA|BA BA|
+
+
+*****************************
+
+
+14500 1 0.849281 
+
+<start>
+X:22
+T:Branka Sligh Colka, The
+R:polka
+H:See also #190
+Z:id:hn-polka-24
+M:2/4
+L:1/8
+K:D
+DA BA|GB 
+
+
+*****************************
+
+
+14600 1 1.5126603 
+
+<start>
+X:32
+T:Brankie Colka, The
+R:polka
+Z:id:hn-polka-33
+M:2/4
+L:1/8
+K:D
+DF AB|ce ce|dB AB/A/|BA B/A/G/
+
+
+*****************************
+
+
+14700 1 2.3151255 
+
+<start>
+X:24
+T:Ballie Colka
+R:polka
+Z:id:hn-polka-42
+M:2/4
+L:1/8
+K:D
+A>B cB|A>B cB|A>B cB|AB/c/ de|fe ef|
+
+
+*****************************
+
+
+14800 1 0.64222014 
+
+<start>
+X:24
+T:Brank Brankie Brank: The Dannan: The Frost in Also #190
+Z:id:hn-polka-45
+M:2/4
+L:1/8
+K:D
+A
+
+
+*****************************
+
+
+14900 1 0.79952675 
+
+<start>
+X:5
+T:Johnny Mazurka
+R:polka
+Z:id:hn-polka-55
+M:2/4
+L:1/8
+K:A
+A>B ce|dB AF|AF FE|AF FE|EF EF|AF F
+
+
+*****************************
+
+
+15000 1 1.949125 
+
+<start>
+X:62
+T:John Machair March
+R:polka
+D:Mary Bergin: The Dannan: The Dannan: The Dannan: The Dannan: 
+
+
+*****************************
+
+
+15100 1 1.0828009 
+
+<start>
+X:72
+T:Tull Maint Molly's March
+Z:id:hn-polka-77
+M:2/4
+L:1/8
+K:D
+A>B AB|cB AB|AB cB|AB AB|AB AB|c
+
+
+*****************************
+
+
+15200 1 0.8483112 
+
+<start>
+X:8
+T:Jim Colled in Alled in Belled in A Polka
+R:polka
+Z:id:hn-polka-88
+M:2/4
+L:1/8
+K:D
+D>E DB|AF
+
+
+*****************************
+
+
+15300 1 1.0323123 
+
+<start>
+X:8
+T:Belly Cooney: Cooney & Cooney & Cooney: Cooney & Fancer to the Cooney: Cooney & Cooney: Coo
+
+
+*****************************
+
+
+15400 1 2.2637045 
+
+<start>
+X:90
+T:John McKenna & Coone & Deanna and in Also played in Also played in A, #193
+D:John McKenna 
+
+
+*****************************
+
+
+15500 1 1.6499112 
+
+<star
+X:1
+T:Criming of the Corne to the Coore to the Barrist in the Barrist is the Barrist is the Barrist
+
+
+*****************************
+
+
+15600 1 1.3449193 
+
+<start>
+X:1
+T:Chiel Morney's March to the Coorestons.
+D:Michather of the Coores of the Coores of the Stor
+
+
+*****************************
+
+
+15700 1 0.96586764 
+
+<start>
+X:18
+T:John McKennan: The Dand Marsing The
+R:reel
+D:Mary Bergin: The Dannan: The Danders.
+Z:id:hn
+
+
+*****************************
+
+
+15800 1 1.592324 
+
+<start>
+X:22
+T:Marrick Marchan the Barled Maigh Marchand in Belled to Maggie also #193
+Z:id:hn-reel-22
+M:
+
+
+*****************************
+
+
+15900 1 0.68407804 
+
+<start>
+X:22
+T:Marry Mackater's Mackared the the the the the the the the the the the the the the the the 
+
+
+*****************************
+
+
+16000 1 1.7169853 
+
+<start>
+X:33
+T:Derrick Street the the the the the the the reel of the to the the to the to the the the th
+
+
+*****************************
+
+
+16100 1 1.3101894 
+
+<start>
+X:32
+T:Bill of Maigh Maint Maigh Mornan: The Donney Street in Also #193
+D:Patrick Mcreen Morch
+H:
+
+
+*****************************
+
+
+16200 1 0.7966293 
+
+<start>
+X:4
+T:Bally Berrick to Maggin: Seal also #334
+D:Paddy (197)
+Z:id:hn-reel-44
+M:C|
+K:D
+D2FA BAFA|dB
+
+
+*****************************
+
+
+16300 1 1.1634657 
+
+<start>
+X:4
+T:Bareell & Paddy Glackin: Conelland and the Donell to the Stone to the to Maggie also and in
+
+
+*****************************
+
+
+16400 1 1.5761076 
+
+<start>
+X:50
+T:Bareel to "The Dand the to the Coore to the to the Coore to the to "The Dane to "The Dand 
+
+
+*****************************
+
+
+16500 1 1.5671774 
+
+<start>
+X:55
+T:Bonn the to the to the to Maggie and the Gared the to Maggie of the to played in the to th
+
+
+*****************************
+
+
+16600 1 1.5533226 
+
+<start>
+X:62
+T:Boy and part is and and and in and in and in and in the Gander to "The Gandy.
+Z:id:hn-reel
+
+
+*****************************
+
+
+16700 1 0.6174564 
+
+<start>
+X:66
+T:Bolly Gavel Sten the Reel
+R:reel
+H:See also #738
+Z:id:hn-reel-66
+M:C|
+K:D
+D2FA BA~B2|cA~A2
+
+
+*****************************
+
+
+16800 1 1.4601249 
+
+<start>
+X:7
+T:Boy Bally Barting the Barther, The
+R:reel
+H:See also #738.
+H:See also #738.
+Z:id:hn-reel-77
+
+
+*****************************
+
+
+16900 1 1.7403531 
+
+<start>
+X:7
+T:Borne Reel
+T:Borne to the Reeland in Also played in Also played in Also played in Also play
+
+
+*****************************
+
+
+17000 1 1.4089847 
+
+<starit>
+X:88
+T:Borney Gromering and the Dand the Dinnand the the Dannand in Alled in Alled in Also playe
+
+
+*****************************
+
+
+17100 1 1.573478 
+
+<start>
+X:8
+T:Boy ar the Reel Tolled to the Coother, The
+T:Turke's Marse Reel
+T:Colley's Reel
+T:Colley's 
+
+
+*****************************
+
+
+17200 1 0.61608255 
+
+<start>
+X:99
+T:Connan Reel, The
+T:Corne to the Reel, The
+T:Corne to the Reel, The
+R:reel
+D:Matt Molloy: C
+
+
+*****************************
+
+
+17300 1 1.332706 
+
+<start>
+X:90
+T:Dinnan Reel
+R:reel
+H:Also played in Also played in Also played in G, #73
+D:Paddy Glackin: 
+
+
+*****************************
+
+
+17400 1 1.4340817 
+
+<start>
+X:8
+T:Dinnan of the Dandy
+Z:id:hn-sel-19
+M:C|
+K:D
+D2 (3FAd AF (3FGA|B2 (3cde fdec|d2 (3cde fdec|d
+
+
+*****************************
+
+
+17500 1 2.2693374 
+
+<start>
+X:3
+T:Dinnan of the Reandy
+Z:id:hn-setdance-8
+M:C|
+K:Dmix
+dc|:d2dc d2de|fdef gfed|cAGF G2 (3ABc|d
+
+
+*****************************
+
+
+17600 1 1.872582 
+
+<start>
+X:10
+T:Bonnan's Reel
+R:set dance
+H:See also #19
+Z:id:hn-setdance-1
+M:C|
+K:G
+d2|:e2 dBG A2BA|G2BG 
+
+
+*****************************
+
+
+17700 1 1.259993 
+
+<start>
+X:1
+T:Bollan's Farled to "The Barlest of the Dancer, The
+R:sit jig
+H:Also played in Glackin Glack
+
+
+*****************************
+
+
+17800 1 1.1924403 
+
+<starit>
+X:10
+T:Bour Mill and the Willing an also #173
+D:Paddy Glackin: The Dincer to "The Ding an also #
+
+
+*****************************
+
+
+17900 1 1.3728476 
+
+<start>
+X:15
+T:Bonne McGranky: The Danney: The Fing the Ding and Brigh in the Wing and Bring and Briss an
+
+
+*****************************
+
+
+18000 1 1.3640299 
+
+<start>
+X:2
+T:Will Mally Pary Brom Stain, The
+R:hop jig
+D:Paddy Glackin: Sean and Danney: The Dinnan: The
+
+
+*****************************
+
+
+18100 1 0.54156095 
+
+<start>
+X:32
+T:Humours of the Dine Bromer to "The Dinnane & Dannan: The Firss of Derry, The
+R:slip jig
+H:
+
+
+*****************************
+
+
+18200 1 1.0437856 
+
+<start>
+X:4
+T:Borney Hill & The Dinnane, The
+R:hop jig
+H:See also #44
+D:Paddy Glackin: Coune & Dandyan
+Z:
+
+
+*****************************
+
+
+18300 1 1.2695508 
+
+<start>
+X:4
+T:Michan Molly & Dandy McGrank: The Dinne Doune, The
+R:slip jig
+H:See also #4
+D:Michall & McG
+
+
+*****************************
+
+
+18400 1 1.7021481 
+
+<start>
+X:5
+T:Bard of the Wing a Weather
+Z:id:hn-slipjig-55
+M:9/8
+K:G
+d2B B2B B2B|B2B B2B B2B|B2B B2B B2B
+
+
+*****************************
+
+
+18500 1 1.1485404 
+
+<start>
+X:26
+T:Mich Mountains
+W:Carry Mill the Weand the winning the will the wein, and heir, and whing t
+
+
+*****************************
+
+
+18600 1 2.292846 
+
+<start>
+X:62
+T:Barry Berring and the Bair the Weather to the to the to the to the the Bair the Bair to th
+
+
+*****************************
+
+
+18700 1 1.3380151 
+
+<start>
+X:77
+T:Bown to the Bane Berrick
+R:slip jig
+H:See also #37
+Z:id:hn-slipjig-77
+M:9/8
+K:G
+B2B BAB cB
+
+
+*****************************
+
+
+18800 1 1.5805464 
+
+<start>
+X:88
+T:Humours of the Bair to #68
+D:Mickan McGoll Molloy & Cown to #68
+Z:hn-slipjig-88
+M:9/8
+L:1/
+
+
+*****************************
+
+
+18900 1 1.5315349 
+
+<start>
+X:8
+T:Bor the Corney Bereen of the Bane to #5
+D:Paddy Glackin: Corney a a a a a a a a a a a a a a
+
+
+*****************************
+
+
+19000 1 1.1009951 
+
+<start>
+X:1
+T:Bare of the Baire to the Baire to the Baire to the Baire the Gander
+Z:id:hn-slide-1
+M:6/8
+K
+
+
+*****************************
+
+
+19100 1 1.0660098 
+
+<start>
+X:10
+T:Waist to the Dan the Bair
+R:slide
+D:Sean and the Dannan: The Dandy Band the Bair
+Z:id:hn-s
+
+
+*****************************
+
+
+19200 1 1.3332412 
+
+<start>
+X:22
+T:Chiel Berrick to the Coor to the Coor to the Band in the Band the Band in the Balled in th
+
+
+*****************************
+
+
+19300 1 1.043925 
+
+<start>
+X:3
+T:Bor Slide
+R:slide
+Z:id:hn-slide-33
+M:6/8
+K:D
+F2A A2F|G2A B2A|B2A B2A|B2B B2A|B2B B2A|B2B B2
+
+
+*****************************
+
+
+19400 1 1.1404567 
+
+<start>
+X:42
+T:Maire O'Keefe
+Z:id:hn-slide-44
+M:6/8
+K:D
+F2A ABc|d2B BAG|F2A B2A|B2G B2A|G2B G2B|ABA G2E|G
+
+
+*****************************
+
+
+19500 1 0.582205 
+
+<start>
+X:52
+T:Missing O'Keefe's Wille
+R:slide
+Z:id:hn-slide-55
+M:6/8
+K:G
+d2B BAB|d2B BAB|d2B BAB|d2B B2A
+
+
+*****************************
+
+
+19600 1 1.0152014 
+
+<start>
+X:62
+T:Mill O'Keefe's
+R:slide
+H:Also played in G, #3
+D:Michal Molly Molly & Coone to the Balled i
+
+
+*****************************
+
+
+19700 1 0.929787 
+
+<start>
+X:62
+T:Misher's Slide
+R:slide
+Z:id:hn-slide-62
+M:6/8
+L:1/8
+K:D
+A2A A2F | G2A B2A | B2A B2A | BAB 
+
+
+*****************************
+
+
+19800 1 0.9560109 
+
+<start>
+X:62
+T:Derry oh there to the or the or the warling oh.
+W:I so the will there to the or the or the
+
+
+*****************************
+
+
+19900 1 0.85774875 
+
+<start>
+X:72
+T:Sean the Warling the Warling the Warling the sere
+R:slide
+H:See also #31
+D:Paddy Glackin a
+
+
+*****************************
+
+
+20000 1 0.29110387 
+
+<start>
+X:88
+T:Den O'Keefe's
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+D2E D2E | D2E F2A | B2A B2A | B2A B
+
+
+*****************************
+
+
+0 2 2.6837714 
+
+<start>
+X:8
+T:Bo name
+R:slide
+Z:id:hn-slide-92
+M:6/8
+L:1/8
+K:G
+B2d B2A | B2A B2A | B2A B2A | B2A B2A | B2
+
+
+*****************************
+
+
+100 2 1.602921 
+
+<start>
+X: 2
+T:Bor the to pe-te or the le- pa-te-2 wa- be- be- fe-cor to pre-pa-pi-ge-28-2
+M:6/8
+L:1/8
+K:
+
+
+*****************************
+
+
+200 2 2.036538 
+
+<start>
+X: 2
+T:Brance
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-03-19
+Z:Pour toute observation m
+
+
+*****************************
+
+
+300 2 1.3572153 
+
+<start>
+X: 2
+T:Brance
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-03-19
+Z:Pour toute observation m
+
+
+*****************************
+
+
+400 2 1.3797739 
+
+<start>
+X: I de dedef | g2gedB | cecece | dcdefd | cecece | dcdefd | cecece | dcdefd | cecece | dcdefge |
+
+
+*****************************
+
+
+500 2 2.2881634 
+
+<start>
+X: 
+d/c/d/ c/B/A/G/ | c/B/A/G/ G/(3/c/ | d/g/f/g/ f/g/f/g/ | c/g/f/g/ f/g/f/g/ | f/g/f/g/ f/g/f/g
+
+
+*****************************
+
+
+600 2 1.9699564 
+
+<start>
+X: 1
+T:Variation mames or-tonne
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-03-27
+Z:Pour t
+
+
+*****************************
+
+
+700 2 0.17750818 
+
+<start>
+X: 1
+T:Lis I parte
+R:--
+L:1/8
+K:A
+B2c2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | 
+
+
+*****************************
+
+
+800 2 2.1494 
+
+<start>
+X: 1
+T:Lis O'Keefe
+R:--
+L:1/8
+K:Bb
+V:1
+c2 dc | B2 B2 | B2 BA | B2 BA | B2 B2 | B2 B2 | B2 B>A | B
+
+
+*****************************
+
+
+900 2 1.1961913 
+
+<start>
+X:18
+T:La la bauro
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observat
+
+
+*****************************
+
+
+1000 2 1.4235208 
+
+<start>
+X:2
+T:Brance
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BE
+
+
+*****************************
+
+
+1100 2 0.33841038 
+
+<start>
+X:2
+T:La lastame
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Miche
+
+
+*****************************
+
+
+1200 2 2.1184871 
+
+<start>
+X:2
+T:Brance
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BE
+
+
+*****************************
+
+
+1300 2 2.342233 
+
+<start>
+X: 1
+T:La sant mame sans le same sans le same sant mant le part an chas le le same de la le sant 
+
+
+*****************************
+
+
+1400 2 0.12516573 
+
+<start>
+X:3
+T:La sou re dou lou
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig
+
+
+*****************************
+
+
+1500 2 1.6984825 
+
+<start>
+X:3
+T:Lo Cano de sant le tambourinaire (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-
+
+
+*****************************
+
+
+1600 2 1.1009269 
+
+<start>
+X: 14
+T:La la le sant la la bautie
+R:Carnet de carresce
+Z:Transcrit et/ou corrig? par Michel BELL
+
+
+*****************************
+
+
+1700 2 0.5713133 
+
+<start>
+X: 2
+T:La sant mart?re
+R:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Miche
+
+
+*****************************
+
+
+1800 2 2.1317554 
+
+<start>
+X:5
+T:Le caranto
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? p
+
+
+*****************************
+
+
+1900 2 1.35965 
+
+<start>
+X:5
+T:Lei fire de lou de lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-
+
+
+*****************************
+
+
+2000 2 1.4838188 
+
+<start>
+X: 6
+T:Lei fi lei de lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-
+
+
+*****************************
+
+
+2100 2 1.5790222 
+
+<start>
+X: 6
+T:Farandole de Marche
+R:Farandole
+M:6/8
+L:1/8
+K:Bbmajor
+F | c2c | B2B | B2B | B2B | B2B | B2
+
+
+*****************************
+
+
+2200 2 0.87369275 
+
+<start>
+X: 6
+T:Farandole de Marando
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+B2B B
+
+
+*****************************
+
+
+2300 2 1.876178 
+
+<start>
+X: 6
+T:Farandole de la transo,
+W:Coume la graisso, soun le la la graisso, la graisso, soun le la 
+
+
+*****************************
+
+
+2400 2 2.328878 
+
+<start>
+X:8
+T:La manto de tant be? la la la be?-rou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-lou-l
+
+
+*****************************
+
+
+2500 2 2.1687896 
+
+<start>
+X:8
+T:Le carandole
+O:France
+A:Provence
+C:Provence
+C:Provence
+C:Coure de tant de tan-tan-tran-to, 
+
+
+*****************************
+
+
+2600 2 0.3064142 
+
+<start>
+X:84
+T:La Marche de tant de tant de tan-tan-tran-tran-1 de de tan-tan-tran-to la de de tan-tan-tr
+
+
+*****************************
+
+
+2700 2 1.6974497 
+
+<start>
+X:94
+T:La Marche
+R:Marche
+C:Trad.
+R:Marche
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-
+
+
+*****************************
+
+
+2800 2 1.6026672 
+
+<start>
+X:92
+T:La Marche de canasson
+O:France
+A:Provence
+C:Trad.
+R:Marche
+C:Trad.
+R:Marche
+Z:Transcrit et
+
+
+*****************************
+
+
+2900 2 1.3629841 
+
+<start>
+X:100
+T:La Marche de la brando
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Gin
+
+
+*****************************
+
+
+3000 2 1.5067949 
+
+<start>
+X:100
+T:La Marche de carando
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas
+
+
+*****************************
+
+
+3100 2 1.2234746 
+
+<start>
+X:10
+T:La Marche de courine
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas 
+
+
+*****************************
+
+
+3200 2 1.2965213 
+
+<start>
+X:101
+T:La Marche de Marche de Marche Marche Marche Marche Marche Marche Marche Marche Marche Mar
+
+
+*****************************
+
+
+3300 2 1.6905289 
+
+<start>
+X:110
+T:La Marcho de la transo
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Gin
+
+
+*****************************
+
+
+3400 2 0.7051798 
+
+<start>
+X:12
+T:Marcho de la transo
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (
+
+
+*****************************
+
+
+3500 2 1.9345354 
+
+<start>
+X:12
+T:Matrot de la transo
+O:France
+A:Provence
+C:Trad.
+R:Matelote
+C:Trad.
+R:Matelote
+C:Trad.
+R:Ma
+
+
+*****************************
+
+
+3600 2 2.451198 
+
+<start>
+X:122
+T:Marcho de la Marcho
+O:France
+A:Provence
+C:Trad.
+R:Mazurka
+S:Carnet du tambourinaire Ginas
+
+
+*****************************
+
+
+3700 2 1.0521412 
+
+<start>
+X:122
+T:La Marcho de tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 200
+
+
+*****************************
+
+
+3800 2 1.1389756 
+
+<start>
+X:124
+T:Le camou de tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:Trad.
+R:Mazurka
+S:Carnet du 
+
+
+*****************************
+
+
+3900 2 0.21553957 
+
+<start>
+X:13
+T:Farandole
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par M
+
+
+*****************************
+
+
+4000 2 1.7662586 
+
+<start>
+X:14
+T:Polka de la tranto
+O:France
+A:Provence
+C:?
+R:Polka
+C:Paraulo de Micollau
+O:France
+A:Proven
+
+
+*****************************
+
+
+4100 2 1.9297239 
+
+<start>
+X:14
+T:Polka de Saine
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? pa
+
+
+*****************************
+
+
+4200 2 3.1824481 
+
+<start>
+X:14
+T:Rielle de Sain coutourina
+O:France
+A:Provence
+C:?
+R:Polka
+C:Padde de Michelle de carchon: 
+
+
+*****************************
+
+
+4300 2 0.013071189 
+
+<start>
+X:15
+T:La cambourina
+R:Scottish
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. G
+
+
+*****************************
+
+
+4400 2 1.9827676 
+
+<start>
+X:150
+T:Scottish de Santo
+R:Scottish
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C
+
+
+*****************************
+
+
+4500 2 2.2770739 
+
+<start>
+X:150
+T:Bable de Santre de Santre de Santre de Sant la ren de Santre de San par Michelle de San p
+
+
+*****************************
+
+
+4600 2 1.8528733 
+
+<start>
+X:166
+T:La camboure de la trasso de la trasso, stambles stambles stambles stambles stambler.
+<end
+
+
+*****************************
+
+
+4700 2 1.315981 
+
+<start>
+X:166
+T:La gantesse
+R:Scottish
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour to
+
+
+*****************************
+
+
+4800 2 1.2466345 
+
+<start>
+X:16
+T:La cambourinaire de Santon
+R:Valse
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Prove
+
+
+*****************************
+
+
+4900 2 1.6081995 
+
+<start>
+X:174
+T:Valse de Santes de Stambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Transcrit et/ou 
+
+
+*****************************
+
+
+5000 2 1.5996768 
+
+<start>
+X: 1 16
+T:Valse de la brandolandon
+O:France
+A:Provence
+C:Trad.
+R:Valse
+C:Trad.
+Z:Transcrit et/ou 
+
+
+*****************************
+
+
+5100 2 2.5424688 
+
+<start>
+X: 1
+T:Branle de la la la la la la la la la la la la la la la la la la la la la la la la la la la
+
+
+*****************************
+
+
+5200 2 1.6500136 
+
+<start>
+X: 1
+T:Courie la la la la la la la la la la la la la la la la la la la la la la la la la la la la
+
+
+*****************************
+
+
+5300 2 0.66619456 
+
+<start>
+X: 1
+T:Courine de la la la la la la la la la la la la la la la la la la la la la la la la la la l
+
+
+*****************************
+
+
+5400 2 1.0857995 
+
+<start>
+X: 1
+T:Cour la la la la la la la la la la la la la la la la la la la la la la la la la la la la l
+
+
+*****************************
+
+
+5500 2 2.1676223 
+
+<start>
+X: 2
+T:Cou le le le le le le le le le le le le le le le le le le le le le le le le le le le le le
+
+
+*****************************
+
+
+5600 2 2.1758971 
+
+<start>
+X: 1
+T:La cou-per de la la la be-per du pe-re de la la la la le de la le la la le la la la le de 
+
+
+*****************************
+
+
+5700 2 2.0452416 
+
+<start>
+X: 2
+T:La coure du trous de la la la la la la la la la la le de la la la la le de la la le de la 
+
+
+*****************************
+
+
+5800 2 0.012170102 
+
+<start>
+X: 2
+T:La bou de ta-bon du ba-bai du ba-bai du ba-bai du ba-bai du ba-bai du ba-bai du ba-bas cou
+
+
+*****************************
+
+
+5900 2 0.84655654 
+
+<start>
+X: 2
+T:La bour le du bon du bon la bous du bon du bon du bon du bon du bon du bon du bon du bon d
+
+
+*****************************
+
+
+6000 2 1.1672486 
+
+<start>
+X: 2
+T:La boure du bons pas
+R:----
+C:Trad.
+R:Marin conto
+Z:Transcrit et/ou corrig? par Michel BEL
+
+
+*****************************
+
+
+6100 2 0.91634893 
+
+<start>
+X: 16
+T:La bon a gon pass en bon le bon pas-tit de la bon le bon du bon pas le le le bon pas le b
+
+
+*****************************
+
+
+6200 2 1.1511164 
+
+<start>
+X: 16
+T:La cordes andes le le de la bonse
+R:---
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELL
+
+
+*****************************
+
+
+6300 2 1.9959053 
+
+<start>
+X: 2
+T:Branle de le le le beur du bour du bour de loup de loup peur du beur du bour du bour du bo
+
+
+*****************************
+
+
+6400 2 0.8294893 
+
+<start>
+X: 1
+T:Le corde
+R:Schottische
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+Z:Pour tou
+
+
+*****************************
+
+
+6500 2 1.7573922 
+
+<start>
+X:1
+T:Schottische
+R:Schottische
+Z:Dave Holland Chardure
+R:Schottische
+Z:Dave Holland Marche
+R:Sch
+
+
+*****************************
+
+
+6600 2 1.1704711 
+
+<start>
+X:1
+T:La bour de Son cour la bour de Son tu bour de Son tu bour le bour de bour de bour de bour d
+
+
+*****************************
+
+
+6700 2 2.0295753 
+
+<start>
+X:1
+T:Bourr?e de Marans
+R:Bourree
+C:Trad.
+R:Bourree
+C:Trad.
+R:Bourree
+B:Massif Marche
+C:Trad.
+Z:D
+
+
+*****************************
+
+
+6800 2 1.227191 
+
+<start>
+X: 1
+T:Bourr?e de Boure de Contre de Son book no de lantes
+R:Bourree
+C:Trad.
+M:3/8
+L:1/16
+K:G
+G2 
+
+
+*****************************
+
+
+6900 2 0.98705405 
+
+<start>
+X: 1
+T:La bour la bour la bour la bour le bour de Bour la boux
+R:Bourree
+C:Trad.
+Z:Dave Holland <
+
+
+*****************************
+
+
+7000 2 1.9148413 
+
+<start>
+X:1
+T:La bour le bour la bour le bour la bour de Bourtier
+M:3/4
+L:1/8
+K:C
+G2 GB BG|AB AB|AB AB|AB
+
+
+*****************************
+
+
+7100 2 1.8296613 
+
+<start>
+X:1
+T:Polka
+C:Trad.
+M:2/4
+L:1/8
+K:C
+G2 AB cB | A2 A2 B2 | A2 A2 A2 | A2 A2 A2 | B2 B2 B2 | B2 B2 
+
+
+*****************************
+
+
+7200 2 1.9009453 
+
+<start>
+X:1
+T:Mazurka
+C:Trad.
+Z:Dave Holland <dave@biff.org.uk>
+M:3/4
+L:1/8
+K:C
+G2 G>A B>c|d>c B>A|G>A B>
+
+
+*****************************
+
+
+7300 2 1.3583821 
+
+<start>
+X:1
+T:La Polka
+R:Mazurka
+C:Trad.
+Z:Dave Holland <dave@biff.org.uk>
+M:6/8
+L:1/8
+K:C
+G|"C"c2c "C"c2
+
+
+*****************************
+
+
+7400 2 1.2230266 
+
+<start>
+X:1
+T:La Polka
+R:Bourree
+C:Tradille du the bour le bour le bour de the mans the book
+M:3/4
+L:1/8
+
+
+
+*****************************
+
+
+7500 2 1.6155281 
+
+<start>
+X:1
+T:Barande de toutier Bourtier de tarbes Borne Bourig? par Michel BELLON - 2005-04-27
+Z:Pour t
+
+
+*****************************
+
+
+7600 2 0.86080056 
+
+<start>
+X: 1
+T:Air du branle du barne du barne double dour Michelle Barble.
+M:2/4
+L:1/4
+Q:1/4=160
+K:Gmaj
+
+
+
+*****************************
+
+
+7700 2 0.048060026 
+
+<start>
+X: 1
+T:Air du branle double du branle doupier du branle doupier du parlie.
+M:3/4
+L:1/4
+Q:1/4=150
+
+
+
+*****************************
+
+
+7800 2 1.3698006 
+
+<start>
+X: 1
+T:Branle de coupp?re
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0163.gif
+B:Orchesographie (1589)
+O
+
+
+*****************************
+
+
+7900 2 1.2372302 
+
+<start>
+X: 1
+T:Branle des chanaine
+R:Branle des chaples
+R:Branle des chaples
+R:Branle des chaple des la b
+
+
+*****************************
+
+
+8000 2 1.2331247 
+
+<start>
+X: 1
+T:Branle de la baur le la baur le boup?
+R:Branle double
+C:Trad.
+S:Thoinot Arbeau
+N:017.gif
+C
+
+
+*****************************
+
+
+8100 2 2.1376908 
+
+<start>
+X: 2
+T:Branle de coupp?
+R:Branle de coup?
+C:Trad.
+S:Thoinot Arbeau
+N:0160
+Z:Transcrit et/ou corri
+
+
+*****************************
+
+
+8200 2 0.011411847 
+
+<start>
+X: 2
+T:Branle de la barne
+R:Branle
+C:Trad.
+S:Thoinot Arbeau
+N:0183.gif
+B:Orchesographie (1589)
+O:
+
+
+*****************************
+
+
+8300 2 0.32355294 
+
+<start>
+X: 20
+T:Branle de la la la la la la la la la la la la la la la la la la la la la la la la la la l
+
+
+*****************************
+
+
+8400 2 1.379515 
+
+<start>
+X: 24
+T:Branle de la la la baulle
+R:Branle double
+C:Christophe Ballard
+O:1703
+Z:Transcrit et/ou c
+
+
+*****************************
+
+
+8500 2 1.575196 
+
+<start>
+X: 24
+T:Branle de la la la besse
+R:Branle double
+C:Carne de la la la la la besse
+R:Branle double
+
+
+
+*****************************
+
+
+8600 2 1.4766546 
+
+<start>
+X: 2
+T:Branle de la bair de la la bour
+R:Branle double
+C:Christophe Balland
+Z:Transcrit et/ou cor
+
+
+*****************************
+
+
+8700 2 2.2040179 
+
+<start
+X: 1
+T:Branle de la la bollan
+R:air
+C:Thomas Chass and the Cattand the Balland
+R:air
+C:Thomas Call
+
+
+*****************************
+
+
+8800 2 0.4831106 
+
+<start
+X:1
+T:Branle de la bolland Chain
+R:air
+Z:id:hn-air-11
+M:3/4
+L:1/8
+K:G
+G2 | G2 G2 | G2 G2 | G2 G2 G
+
+
+*****************************
+
+
+8900 2 1.1751001 
+
+<start
+X:1
+T:Trip of the Molland ne the Boun the Boun the Coun the Mollan the Connellan (cher the Molland
+
+
+*****************************
+
+
+9000 2 0.21913639 
+
+<start
+X: 1
+T:Branle de Molland nay
+R:air
+H:Also played in An brand in An brand in An the born
+R:air
+H:Al
+
+
+*****************************
+
+
+9100 2 2.8443978 
+
+<start
+X:1
+T:Barand Molley Molly
+R:barndance
+Z:id:hn-barndance-1
+M:C|
+L:1/8
+K:G
+GA | B2d2 B2AB | A2AB cAG
+
+
+*****************************
+
+
+9200 2 1.7305588 
+
+<start
+X: 1
+T:Bran colle Collean (1670-1738)
+Z:id:hn-carolan-4
+M:3/4
+L:1/8
+K:G
+GA | B2AB | A2A2 | B2A2 | 
+
+
+*****************************
+
+
+9300 2 1.3334924 
+
+<start
+X:1
+T:Planxty O'Carolan (1670-1738)
+Z:id:hn-carolan-8
+M:2/4
+L:1/8
+K:G
+G2 | G2A2 | B2G2 | G2G2 | G2
+
+
+*****************************
+
+
+9400 2 1.2799972 
+
+<start
+X:1
+T:Planxte O'Carolan (1670-1738)
+Z:id:hn-carolan-11
+M:6/8
+K:D
+A | d2c BA | BAG FAF | FAF DFA | 
+
+
+*****************************
+
+
+9500 2 1.8046863 
+
+<start
+X:1
+T:Planxty Marcher
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-20
+M:C|
+L:1/8
+K:G
+
+
+*****************************
+
+
+9600 2 1.0974998 
+
+<start
+X:2
+T:O'Carolan's Carolan (1670-1738)
+H:Also played in A
+Z:id:hn-carolan-24
+M:3/4
+L:1/8
+K:G
+B | A2
+
+
+*****************************
+
+
+9700 2 2.1256254 
+
+<start
+X:2
+T:Planxty Madge
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Originally in G
+Z:id:hn-carolan-2
+
+
+*****************************
+
+
+9800 2 1.641341 
+
+<start
+X:1
+T:Also played the Harsh the to Massed to the to Massed to the to Mish Harsh O'Caroland
+Z:id:hn
+
+
+*****************************
+
+
+9900 2 1.3618916 
+
+<start
+X:10
+T:An Corne to the to be to be to be to be to be to be to be to be to be to be to be to be to 
+
+
+*****************************
+
+
+10000 2 1.4736274 
+
+<start
+X:20
+T:An Connelland
+Z:id:hn-hf-22
+M:C|
+L:1/8
+K:G
+G2 B2 d2 (3cBA | BGGB dBGB | dBGB cAGF | EGGF G2
+
+
+*****************************
+
+
+10100 2 1.4205536 
+
+<start
+X:2
+T:An Connelland
+Z:id:hn-hornpipe-6
+M:C|
+K:D
+D2DE D2D2|B,2G,2 G,2G,2|B,2G,2 G,2G,2|B,2G,2 G,2G,
+
+
+*****************************
+
+
+10200 2 1.5471144 
+
+<start
+X:1
+T:Barry Holly and and a played in And in An the Barlie Marsh Hornpipe, The
+R:hornpipe
+H:Also p
+
+
+*****************************
+
+
+10300 2 1.2943552 
+
+<start
+D:Patrie Horne to be Pader Polkand and and be Pates of the Barle
+R:hornpipe
+D:Patrie Horne Horne
+R
+
+
+*****************************
+
+
+10400 2 1.7233489 
+
+<start
+DE DE|FDDE D2D2|
+(3FED FD (3FED (3FED | EGFG ABcA | BAGB AGFG |
+A2AB cAGF | GBcd edBG | AGFG A2 (3
+
+
+*****************************
+
+
+10500 2 2.291836 
+
+<start
+A:Prionsion 2
+Z:id:hn-hornpipe-27
+M:C|
+K:G
+BA|GBdB dBGB|cAFA G2Bc|dBGB A2GA|
+BcdB AGFA|dBGB A2GA|B
+
+
+*****************************
+
+
+10600 2 0.8783033 
+
+<start
+DE DE | DEDE D2 (3DEF | GBAB A2 (3Bcd | (3efg (3ded (3Bcd (3efg | (3efg (3def g2 (3efg |
+a2 (3gab 
+
+
+*****************************
+
+
+10700 2 1.4791119 
+
+<start
+D:Paddy McGolly & Cally & Marsh Connpel
+Z:id:hn-hornpipe-33
+M:C|
+K:G
+BA|GBdB cBAG|FGAB cAFA|d2ed c
+
+
+*****************************
+
+
+10800 2 1.1958364 
+
+<start
+DE FG|ABcd ecAG|FGAB cAFA|c2cA G2:|
+|:Bc|dg~g2 gfed|cBcd efge|fded cBcB|cBce dBGB|cBcA G2:|
+|:Bc|d
+
+
+*****************************
+
+
+10900 2 1.0166526 
+
+<start
+D:Parick and and was the was the was the was the was the was the was the was the was the woun the 
+
+
+*****************************
+
+
+11000 2 1.1398387 
+
+<start
+D:Parick Hornpipe, The
+R:hornpipe
+Z:id:hn-hornpipe-44
+M:C|
+K:D
+AF|DAFA d2dc|BAFA d2dc|BAFA D2FA|dc
+
+
+*****************************
+
+
+11100 2 0.7242739 
+
+<start
+Z:id:hn-hornpipe-55
+M:C|
+K:G
+AB|cA (3Bcd ecAG|FGAF G2FG|AGFG A2:|
+|:de|fdcB AGFG|AGAB cdec|dcAG FG
+
+
+*****************************
+
+
+11200 2 1.0361358 
+
+<start
+D:Paddy Bergin: Fander's Fand and was The
+R:hornpipe
+Z:id:hn-hornpipe-66
+M:C|
+K:G
+(3DEF|GBdB dBGB|
+
+
+*****************************
+
+
+11300 2 0.2668454 
+
+<start
+D:Padraigion Hornpipe
+R:hornpipe
+D:Paddy Hornpipe
+R:hornpipe
+D:Sean Hornpipe
+R:hornpipe
+D:Padraigh
+
+
+*****************************
+
+
+11400 2 1.7922614 
+
+<start
+D:Sean Bergin: Fean the Bornpipe, The
+R:hornpipe
+Z:id:hn-hornpipe-70
+M:C|
+K:Ador
+AG|ABAG ABcA|BGBd
+
+
+*****************************
+
+
+11500 2 1.2508042 
+
+<start
+D:Paddy McGrolan: The Borner Branes
+Z:id:hn-hornpipe-77
+M:C|
+K:G
+(3ABc|dg~g2 gdBd|gfed cBAG|AGAB c
+
+
+*****************************
+
+
+11600 2 0.7700061 
+
+<start
+D:Paddy Glackin: In the Borne
+R:hornpipe
+D:Paddy Glackin: In the Borne
+R:hornpipe
+D:Sean Hill & Ta
+
+
+*****************************
+
+
+11700 2 0.7600737 
+
+<start
+D:Paddy Glackin: The Fill of the Baney, The
+R:hornpipe
+D:Sean Hornpipe, The
+R:hornpipe
+D:Sean O'Co
+
+
+*****************************
+
+
+11800 2 1.075336 
+
+<start
+D:Jon Hornpipe, The
+R:hornpipe
+D:John Hornpipe, The
+R:hornpipe
+H:Also played in A, #89
+Z:id:hn-hor
+
+
+*****************************
+
+
+11900 2 1.0507084 
+
+<start
+A:Provencionse
+Z:id:hn-jig-2
+M:6/8
+K:G
+BG|:AG AB AG|AB AG Ad|cA AG Ad|
+ed cd cB|cA Ac (3Bcd|
+edc B
+
+
+*****************************
+
+
+12000 2 1.6040959 
+
+<start
+X:13
+T:Bather of the Reather the Reather of the Reather, The
+R:jig
+H:See also #198
+Z:id:hn-jig-6
+M
+
+
+*****************************
+
+
+12100 2 1.1245127 
+
+<start
+X:13
+T:Bantre Barke: The
+R:jig
+H:See also #33 #21
+Z:id:hn-jig-11
+M:6/8
+K:G
+BGG GBd|~g3 edB|GBd ~g3
+
+
+*****************************
+
+
+12200 2 1.1003294 
+
+<start
+X:19
+T:Sean Reels of the Reelson
+R:jig
+H:See also #36
+Z:id:hn-jig-19
+M:6/8
+K:G
+BGG BGB|AGA Bcd|edB
+
+
+*****************************
+
+
+12300 2 1.3178314 
+
+<start
+A:Prion Carrand Barder's
+R:jig
+C:Mary Bergin: Chaill and or the Calladed in A, #393
+Z:id:hn-jig-22
+
+
+*****************************
+
+
+12400 2 0.86429876 
+
+<start>
+X:33
+T:Bantry Bandy
+R:jig
+D:De Dannan: Sean & The Hornpipe
+R:jig
+D:Martig Hard Marchan: The Hornp
+
+
+*****************************
+
+
+12500 2 1.1568289 
+
+<start>
+X:38
+T:Bourt of the Hornpipe
+R:jig
+D:Martin Bally Molly
+R:jig
+D:Michael Marchan: The Dannand Morn
+
+
+*****************************
+
+
+12600 2 1.4880855 
+
+<start
+X:4
+T:Briginal O'Coon
+Z:id:hn-jig-44
+M:6/8
+K:D
+FAA AFD|AFD D2F|GFE E2D|EDE D2B|AFD D2B|cAA AFD|EFE
+
+
+*****************************
+
+
+12700 2 1.463167 
+
+<start
+X:15
+T:Mullig of the Courelly of the Stair
+R:jig
+D:Martig Mountain
+D:Matt Molloy: Stair
+Z:id:hn-ji
+
+
+*****************************
+
+
+12800 2 1.0628217 
+
+<start
+X:50
+T:Son the Stain, The
+R:jig
+D:Mary Bergin: Seed Boun the Stair, The
+R:jig
+D:Mary Bergin: Seed 
+
+
+*****************************
+
+
+12900 2 1.6981454 
+
+<start>
+X:66
+T:Carriel Hornpipe, The
+R:jig
+D:Martin Ballowe
+R:jig
+D:Martin Ballowe
+R:jig
+D:Martin Horest 
+
+
+*****************************
+
+
+13000 2 2.4479804 
+
+<start>
+X:60
+T:Bruckion the Mornpipe
+R:jig
+D:Martin Sligh: The Mountain
+Z:id:hn-jig-66
+M:6/8
+K:D
+dBA GBd 
+
+
+*****************************
+
+
+13100 2 1.5660275 
+
+<start>
+X:70
+T:Sand Sligo Sligh Stoon
+Z:id:hn-jig-77
+M:6/8
+K:D
+d2B AFD|~F3 AFD|~F3 AFD|~F3 AFD|~F3 AFD|~F
+
+
+*****************************
+
+
+13200 2 1.0171534 
+
+<start
+X:8
+T:Barley's Jig
+R:jig
+H:See also #20, #218
+Z:id:hn-jig-88
+M:6/8
+K:D
+~G3 GBd|~g3 edB|AGF G2A|BAG
+
+
+*****************************
+
+
+13300 2 1.4872392 
+
+<start>
+X:88
+T:Bree Breen Monny
+R:jig
+Z:id:hn-jig-88
+M:6/8
+K:D
+~f3 edB|AFA def|gfe dBA|GEE E2F|GEE E2F|GE
+
+
+*****************************
+
+
+13400 2 0.7045282 
+
+<start>
+X:90
+T:O'Reelan's Fandy
+Z:id:hn-jig-99
+M:6/8
+K:D
+~D3 DEF|GBd BAF|GBd gdB|BGB dBG|ABc dBG|AGE E2F|
+
+
+*****************************
+
+
+13500 2 1.159923 
+
+<start>
+X:10
+T:Breen McGloll's March
+R:march
+H:Also played in A, #39
+Z:id:hn-march-2
+M:6/8
+K:D
+ABA ABd|ed
+
+
+*****************************
+
+
+13600 2 1.3873127 
+
+<start>
+X:10
+T:Barry Borne
+R:march
+Z:id:hn-march-1
+M:2/4
+L:1/8
+K:Ador
+AB/c/ dA/B/|A/G/F/E/ ED|
+EA A/G/F/E
+
+
+*****************************
+
+
+13700 2 2.0821412 
+
+<start>
+X:10
+T:Barts of the Dannan: The Brom the Brom of the Harch the Barth the Brom March
+R:march
+Z:id:
+
+
+*****************************
+
+
+13800 2 1.015918 
+
+<start:
+M:2/4
+L:1/8
+K:Amix
+A2 A2 | A2 A2 A2 | B2 A2 A2 | B2 A2 A2 ||
+|: e2 e2 | f2 e2 | e2 e>dB | A2 A2 |
+
+
+*****************************
+
+
+13900 2 0.9621431 
+
+<start>
+X:22
+T:Callian and March
+R:march
+Z:id:hn-march-30
+M:6/8
+L:1/8
+K:G
+BG | GB/d/ ed | B/A/G/F/ G/B/A/
+
+
+*****************************
+
+
+14000 2 1.3853402 
+
+<start>
+X:3
+T:Barry Branke
+R:mazurka
+H:Also played in Amission and in A migs and in A migs and in A mighl
+
+
+*****************************
+
+
+14100 2 1.2123412 
+
+<start>
+X:12
+T:Whillie to Mazurka
+T:What to Mazurka
+T:Wharts Borne
+R:mazurka
+H:See also #19, #2
+D:Paddy G
+
+
+*****************************
+
+
+14200 2 1.136623 
+
+<stark>
+X:1
+T:Bollan's Mazurka
+R:mazurka
+H:See also #12
+Z:id:hn-mazurka-1
+M:3/4
+L:1/8
+K:G
+B2 BA|B2 d2 d2|
+
+
+*****************************
+
+
+14300 2 1.2937741 
+
+<start>
+X:1
+T:Ballys of the Bornan's Fancy
+R:polka
+H:Also played in A Fline
+Z:id:hn-polka-9
+M:2/4
+L:1/8
+K
+
+
+*****************************
+
+
+14400 2 0.4225694 
+
+<start
+A:Provence
+Z:id:hn-polka-16
+M:2/4
+L:1/8
+K:G
+BA BA|BA BA|BA BA|BA BA|BA BA|BA BA|BA BA|BA BA|BA BA|
+
+
+*****************************
+
+
+14500 2 0.86466247 
+
+<start>
+X:22
+T:Barry Bergin
+Z:id:hn-polka-22
+M:2/4
+L:1/8
+K:D
+D2 AB|cA AB|cA AB|cA AG|FA AB|cA AB|cA AB|cA
+
+
+*****************************
+
+
+14600 2 1.4365689 
+
+<start
+X:23
+T:Brankie Colka, The
+R:polka
+Z:id:hn-polka-33
+M:2/4
+L:1/8
+K:D
+AG FA|d2 d>e|dB B/A/G/A/|Bd B/A
+
+
+*****************************
+
+
+14700 2 2.0046024 
+
+<stark>
+X:23
+T:Barry Brackie Colka
+R:polka
+Z:id:hn-polka-42
+M:2/4
+L:1/8
+K:D
+A>B ce|fe/d/ BA|Bd B/A/B|dB B
+
+
+*****************************
+
+
+14800 2 0.518479 
+
+<start
+A>d | ed cB | A2 A2 :|
+|: Ad cA | BA AB/c/ | d/B/A/B/ c/B/A/B/ | cB A>B |1 AG G2 :|2 AG G2 ||
+<end
+
+
+*****************************
+
+
+14900 2 0.67755973 
+
+<stark>
+X:50
+T:Wallish Polka
+R:polka
+Z:id:hn-polka-55
+M:2/4
+L:1/8
+K:D
+A>B ce|fe ce|fa af|ec ec|ea a>b|ag 
+
+
+*****************************
+
+
+15000 2 1.3486352 
+
+<start>
+X:62
+T:Barrian's Polka
+T:Bill the Barther the Barther Brackie Barka
+T:Will Polka
+T:Will The Barth
+
+
+*****************************
+
+
+15100 2 0.92995536 
+
+<start>
+X:7
+T:Barry Bolled Booger
+R:polka
+Z:id:hn-polka-77
+M:2/4
+L:1/8
+K:D
+A>B cB|AB AB|cB AB|cB AB|cB AB
+
+
+*****************************
+
+
+15200 2 0.8610011 
+
+<stark>
+X:80
+T:John McKenna & March Magga
+Z:id:hn-polka-81
+M:2/4
+L:1/8
+K:D
+A>B cB|AF DF|AF DF|AF DF|AF DF
+
+
+*****************************
+
+
+15300 2 0.9265866 
+
+<stark>
+X:8
+T:Barry Cooney: Cooney: Meitheal
+Z:id:hn-polka-89
+M:2/4
+L:1/8
+K:G
+G>A Bd|ef ed|BA AB|cB AF|AF
+
+
+*****************************
+
+
+15400 2 1.7171464 
+
+<stark>
+X:90
+T:John McKenna & Cooney: Meitheal
+Z:id:hn-polka-99
+M:2/4
+L:1/8
+K:G
+BG GB|d2 dB|AB cB|AF FA|B
+
+
+*****************************
+
+
+15500 2 1.5617336 
+
+<stark>
+X:10
+T:Currie Cooney Polka
+R:reel
+H:See also #49, #77, #70, #74, #76, #86, #63
+D:Pary Bergin: Fea
+
+
+*****************************
+
+
+15600 2 1.246134 
+
+<stark>
+X:10
+T:Cullieston's March
+R:reel
+D:Michael The Morning to Maggie.
+D:Michael Tolly & Coonestones o
+
+
+*****************************
+
+
+15700 2 0.9206172 
+
+<stark>
+X:10
+T:Curriel Toore, The
+R:reel
+D:Mary Bergin: Feacking Reel
+Z:id:hn-reel-16
+M:C|
+K:D
+AGFG AGFA|
+
+
+*****************************
+
+
+15800 2 1.4920487 
+
+<start>
+X:12
+T:Marrick March March
+R:reel
+H:See also #368
+Z:id:hn-reel-22
+M:C|
+K:G
+GBdB BG~G2|BGBG BGBd|g
+
+
+*****************************
+
+
+15900 2 0.67301047 
+
+<stark>
+X:22
+T:Marry Cooney, The
+R:reel
+D:Mary Macka Macore to Macogan the the Coored the the the the the
+
+
+*****************************
+
+
+16000 2 1.6143569 
+
+<stark>
+X:33
+T:Conney Brand the Barrite, The
+R:reel
+D:Patrick Street 1.
+Z:id:hn-reel-33
+M:C|
+K:D
+D2FA BAF
+
+
+*****************************
+
+
+16100 2 1.1458356 
+
+<stark>
+X:3
+T:Bill of the Sean 2.
+Z:id:hn-reel-34
+M:C|
+K:D
+F2AF FEEF|GFEF EFAF|GFEF EFGE|FAAF FE~E2|
+~G3F
+
+
+*****************************
+
+
+16200 2 0.6668904 
+
+<start>
+X:42
+T:Bally Blacking Reel
+Z:id:hn-reel-44
+M:C|
+K:D
+F2AF ABcB|ABcB ABcB|ABcB ABcB|ABcB ABcB|ABcB 
+
+
+*****************************
+
+
+16300 2 1.1123768 
+
+<start>
+X:40
+T:Barell to Maggie
+R:reel
+H:See also #193
+Z:id:hn-reel-44
+M:C|
+K:Ador
+B2BA BA~A2|BA~A2 ABcd|
+
+
+*****************************
+
+
+16400 2 1.3665875 
+
+<stark>
+X:40
+T:Barry Breent the Barther, The
+R:reel
+H:See also #304. (3970)
+H:See also #308.
+H:The tune t
+
+
+*****************************
+
+
+16500 2 1.563959 
+
+<start>
+X:50
+T:Boy McGrowing the Reel, The
+R:reel
+H:See also #57, #738.
+H:See also #57, #73
+H:See also #5
+
+
+*****************************
+
+
+16600 2 1.6011068 
+
+<stark>
+X:60
+T:Boy and the Reel, The
+R:reel
+H:See also #56
+Z:id:hn-reel-62
+M:C|
+K:D
+F2AF GFED|F2AF GFED|~
+
+
+*****************************
+
+
+16700 2 0.5330946 
+
+<stark>
+X:66
+T:Boy Conken the Reel, The
+R:reel
+H:See also #668
+H:See also #668
+Z:id:hn-reel-66
+M:C|
+K:D
+F
+
+
+*****************************
+
+
+16800 2 1.3492278 
+
+<stark>
+X:60
+T:Boy Bally Bergin
+Z:id:hn-reel-73
+M:C|
+K:D
+D2FA d2Bd|e2ed BAGB|ABAG FDDF|GFEF GEFE|DEFG ABd
+
+
+*****************************
+
+
+16900 2 1.6674153 
+
+<stark>
+X:70
+T:Boy and the Barther, The
+R:reel
+D:Matt Molloy: Seen and part is and part is and part is al
+
+
+*****************************
+
+
+17000 2 1.2746407 
+
+<start>
+X:80
+T:Boy Conney are are are also played with the Barther, The
+R:reel
+H:See also #78
+D:Paddy Gla
+
+
+*****************************
+
+
+17100 2 1.5219738 
+
+<stark>
+X:80
+T:Boy Molly's
+R:reel
+H:There are played in Also played in Also played in Also played in A, #
+
+
+*****************************
+
+
+17200 2 0.59372354 
+
+<start>
+X:90
+T:Connan Reel, The
+R:reel
+D:Matt Molloy: Ceol ar the Moon the Reel, The
+R:reel
+D:Matt Molloy
+
+
+*****************************
+
+
+17300 2 1.2703696 
+
+<stark>
+X:90
+T:Denny Linght Reel, The
+R:reel
+H:Also played in A, see #73
+Z:id:hn-reel-99
+M:C|
+K:D
+A2 (3Bc
+
+
+*****************************
+
+
+17400 2 1.366126 
+
+<start
+A:Provin Conney
+D:Paddy Glackin: Ceol and of the Dinnand the Dandy
+Z:id:hn-setdance-1
+M:C|
+K:D
+A2 
+
+
+*****************************
+
+
+17500 2 2.1629674 
+
+<start
+H:Se also #7
+D:Paddy Glackin: Ceol and the Winter, The
+R:set dance
+H:See also #70
+D:Paddy Glackin:
+
+
+*****************************
+
+
+17600 2 1.772378 
+
+<start>
+X:10
+T:Borney Glackin
+Z:id:hn-setdance-13
+M:C|
+K:G
+GB|GBAG FGAB|c2BA GABA|G2BG AGFG|A2AG A2BA|G2B
+
+
+*****************************
+
+
+17700 2 1.1005865 
+
+<start
+X:1
+T:Borne's Polka
+R:slip jig
+H:See also #17
+Z:id:hn-slipjig-8
+M:9/8
+K:G
+d|:e2d e2d|B2A B2A B2A|B
+
+
+*****************************
+
+
+17800 2 1.0968769 
+
+<stark>
+X:10
+T:Willick to "The Dereling Roul Mail and Mait and Stick the Wing.
+Z:id:hn-slipjig-9
+M:9/8
+K:
+
+
+*****************************
+
+
+17900 2 1.2644099 
+
+<start>
+X:17
+T:Derry Bracking Reel
+T:Chieftains of Wing, The
+R:slip jig
+D:Matt Molloy: Candy Breen & Sean
+
+
+*****************************
+
+
+18000 2 1.3473781 
+
+<start>
+X:22
+T:Will Polky's Will
+R:slip jig
+D:Paddy Glackin: Ceol ar an the Will & Pary Brig and the Will
+
+
+*****************************
+
+
+18100 2 0.52187234 
+
+<start>
+X:32
+T:Humours of Derry, The
+R:slip jig
+H:See also #25
+D:Matt Molloy: Heathery Brossed to "The Hu
+
+
+*****************************
+
+
+18200 2 1.0193524 
+
+<start>
+X:4
+T:Dustan's Willy a Sean the Wing, The
+R:hop jig
+D:Paddy Glackin: Ceol ar an the Dinnan: The F
+
+
+*****************************
+
+
+18300 2 1.1648232 
+
+<start>
+X:12
+T:Borney Brock to Derry
+R:slip jig
+H:See also #38
+D:Michael McGrattan: The First Also in A, 
+
+
+*****************************
+
+
+18400 2 1.6616795 
+
+<start>
+X:5
+T:Barry Berring a Mile
+T:Hare Mile
+T:Barthy Brossed to "The Barring of Will a Mighney, The
+T:
+
+
+*****************************
+
+
+18500 2 1.0595334 
+
+<start>
+X:20
+T:Baire Mill and heather
+R:slip jig
+H:See also #37
+Z:id:hn-slipjig-66
+M:9/8
+L:1/8
+K:Ador
+e2e
+
+
+*****************************
+
+
+18600 2 2.0454562 
+
+<start>
+X:67
+T:Dusty's Wing
+R:slip jig
+H:See also #37
+D:Paddy Glackin & Coon Mountains
+Z:id:hn-slipjig-69
+
+
+*****************************
+
+
+18700 2 1.3599635 
+
+<start
+X:17
+T:Boy Mill & Tommy Boul and the Bair
+T:The Reeling to the Bouch to the Bair
+T:The Reeling to 
+
+
+*****************************
+
+
+18800 2 1.3150415 
+
+<start
+X:10
+T:Band to Lilling of the Bair
+R:slip jig
+Z:hn-slipjig-88
+M:9/8
+L:1/8
+K:G
+B2B BAB cBA | BAB cB
+
+
+*****************************
+
+
+18900 2 1.5457093 
+
+<start
+X:15
+T:Barry Berrick to Lilled Bou Mountains
+R:slide
+D:Michael & Coon a Mally & Paddy McGrany & Co
+
+
+*****************************
+
+
+19000 2 0.97801614 
+
+<start>
+X:12
+T:Bart of the Baire the Winger, The
+R:slide
+Z:id:hn-slide-1
+M:6/8
+K:G
+d2B BAB|d2B BAB|d2B BA
+
+
+*****************************
+
+
+19100 2 1.0592915 
+
+<start>
+X:12
+T:Saint to the Wing, The
+R:slide
+D:Sean Ryan: Sean an a Main & Sean an a an a an a an a and 
+
+
+*****************************
+
+
+19200 2 1.3074527 
+
+<start>
+X:22
+T:Borth of the Coor to the Willed in A, #36
+Z:id:hn-slide-27
+M:6/8
+K:G
+d|:e2d cAG|F2D D2E|F2
+
+
+*****************************
+
+
+19300 2 0.97151536 
+
+<start>
+X:32
+T:Borney Blackin
+T:Harsie Coore to the Wander and the Weather, The
+R:slide
+Z:id:hn-slide-33
+
+
+
+*****************************
+
+
+19400 2 1.1175894 
+
+<start>
+X:22
+T:Borne O'Keefe
+R:slide
+H:Also in A, #44
+Z:id:hn-slide-44
+M:6/8
+K:G
+d2B BAG|A2G ABc|d2e f2d|
+
+
+*****************************
+
+
+19500 2 0.55094194 
+
+<start>
+X:25
+T:Denny O'Keefe's Wille
+R:slide
+H:See also #54
+Z:id:hn-slide-55
+M:6/8
+K:G
+d2e f2a|g2e e2f|g2
+
+
+*****************************
+
+
+19600 2 0.95577407 
+
+<start>
+X:6
+T:Den O'Keefe's Whille
+Z:id:hn-slide-62
+M:6/8
+L:1/8
+K:G
+d2B BAB|d2B BAB|d2B BAB|d2B BAB|1 c3 
+
+
+*****************************
+
+
+19700 2 0.93856245 
+
+<start>
+X:6
+T:Denny O'Keefe's
+T:Cathnan's Slide
+R:slide
+Z:id:hn-slide-62
+M:6/8
+L:1/8
+K:D
+A2A A2F | G2A B2
+
+
+*****************************
+
+
+19800 2 0.89967966 
+
+<start>
+X:7
+T:Derrish there oh.
+W:It so the warling oh.
+W:I might oh.
+W:I mightar there or the sor the or
+
+
+*****************************
+
+
+19900 2 0.8141199 
+
+<start>
+X:27
+T:Dennan the Winger
+R:slide
+H:See also #38
+D:Michael Tour to the serged the Ware
+R:slide
+H:S
+
+
+*****************************
+
+
+20000 2 0.1973342 
+
+<start>
+X:88
+T:Den O'Keefe's
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+D2E F2A | B2A B2A | B2A B2A | B2A B
+
+
+*****************************
+
+
+0 3 2.5000122 
+
+<start>
+X:9
+T:Danny O'Keefe's
+R:slide
+Z:id:hn-slide-93
+M:6/8
+L:1/8
+K:G
+B2d B2A | B2A B2A | B2A B2A | B2A 
+
+
+*****************************
+
+
+100 3 1.3558842 
+
+<start>
+X: 3 def g2e | d2c d2c | d2c d2c | d2B c2d | e2c2 B2c |
+d2B B2c | d2B2 B2A | G2F2 G2A | B2c2 B2A2
+
+
+*****************************
+
+
+200 3 1.9318581 
+
+<start>
+X: 5
+T:Les the ohine
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-08-24
+Z:Pour toute obs
+
+
+*****************************
+
+
+300 3 1.3385314 
+
+<start>
+X: 5
+T:Provence
+R:slide
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-04-24
+Z:Pour toute 
+
+
+*****************************
+
+
+400 3 1.243028 
+
+<start>
+X: 5
+T:Variation onder
+d2ef | e2defd | c2c2c2 | d2cdec | d2c2d2 | c2c2c2 | d2c2d2 | e2cece | dcBc
+
+
+*****************************
+
+
+500 3 2.2010825 
+
+<start>
+X: 5
+T:Variation Villie
+T:Carante
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-15
+Z:Pour
+
+
+*****************************
+
+
+600 3 2.0211873 
+
+<start>
+X: 1
+T:Variation Ver
+d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 d
+
+
+*****************************
+
+
+700 3 0.11822469 
+
+<start>
+X:12
+T:La Pautering
+R:sarnet dout parte
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+
+
+
+*****************************
+
+
+800 3 1.9031073 
+
+<start>
+X:15
+T:La la bearo
+T:Barante dou la baute ou a paute ob a paut a paut a pas a part part a paut a 
+
+
+*****************************
+
+
+900 3 1.1030589 
+
+<start>
+X: 1
+T:Li Marrie
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Miche
+
+
+*****************************
+
+
+1000 3 1.3347423 
+
+<start>
+X:2
+T:La la bautoure tour la bauto
+O:France
+A:Provence
+C:Anonyme
+R:Air
+S:Carnet du tambourinaire 
+
+
+*****************************
+
+
+1100 3 0.3180966 
+
+<start>
+X:2
+T:Le same
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel B
+
+
+*****************************
+
+
+1200 3 2.0094402 
+
+<start>
+X: 1
+T:La Paderaite oblervation a mausoure de la bauto la bauto la bauto de la bauto de la bauto 
+
+
+*****************************
+
+
+1300 3 2.2715993 
+
+<start>
+X:22
+T:La Mai Marig O'Keefe
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou co
+
+
+*****************************
+
+
+1400 3 0.053237688 
+
+<start>
+X:3
+T:La Mai Mai Marig O'Keefe
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou
+
+
+*****************************
+
+
+1500 3 1.5768173 
+
+<start>
+X: 10
+T:La la bearo
+O:France
+A:Provence
+C:Anonyme
+R:Contreto
+O:France
+A:Provence
+C:Anonyme
+R:Cont
+
+
+*****************************
+
+
+1600 3 1.0839733 
+
+<start>
+X: 15
+T:La la berrito de la la bauto de la baut ou tout de la la bearo
+O:France
+A:Provence
+C:Anon
+
+
+*****************************
+
+
+1700 3 0.44978133 
+
+<start>
+X: 14
+T:La mansonte de caranto de sant cart?re
+R:Danse de caract?re
+Z:Transcrit et/ou corrig? par
+
+
+*****************************
+
+
+1800 3 1.9778464 
+
+<start>
+X: 15
+T:La caranto
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig?
+
+
+*****************************
+
+
+1900 3 1.2550052 
+
+<start>
+X: 15
+T:Lei filles de lou de lou-li de lou-li-lo de la bou-li-to de lou-lou-li-po de lou-lou-li-l
+
+
+*****************************
+
+
+2000 3 1.3038046 
+
+<start>
+X: 6
+T:Lei fire de la maire de la Mai Marigie
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet 
+
+
+*****************************
+
+
+2100 3 1.5541186 
+
+<start>
+X: 6
+T:Farandole de carando
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+c/d/ 
+
+
+*****************************
+
+
+2200 3 0.7482381 
+
+<start>
+X: 7
+T:Farandole de la Maretie
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+F2
+
+
+*****************************
+
+
+2300 3 1.8969514 
+
+<start>
+X: 6
+T:Farandole de la Manto
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+F2A 
+
+
+*****************************
+
+
+2400 3 2.139421 
+
+<start>
+X: 68
+T:La de la la be?re de la graisso, Coume la graisso, la la graisso, sou-li de la la branso,
+
+
+*****************************
+
+
+2500 3 2.0809326 
+
+<start>
+X: 80
+T:Le sou-lou-lo, Cou-lou-li-do, Cou-lou-li-lo, Cou-lou-li-do, Cou-lou-li-to, Cou-lou-li-to,
+
+
+*****************************
+
+
+2600 3 0.31513894 
+
+<start>
+X: 194
+T:La de tant de la tran-cou-lo, Cou-lou-li-to, La pa-tran-to, sou-li-to, tou-li-to la de l
+
+
+*****************************
+
+
+2700 3 1.6779091 
+
+<start>
+X:92
+T:La de la de la de la la bou-to de la de la de la de la de-ta-bou-re de tan-tan-tran-re de 
+
+
+*****************************
+
+
+2800 3 1.5791771 
+
+<start>
+X:90
+T:La de la baire de la Marche de la Marche de Marche de la Marche de la Marche de la Marche 
+
+
+*****************************
+
+
+2900 3 1.2558844 
+
+<start>
+X: 190
+T:La La Marche de la Marchelle
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit et/ou corr
+
+
+*****************************
+
+
+3000 3 1.4969822 
+
+<start>
+X:100
+T:La Marche de Marche de la Marchelle
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit par 
+
+
+*****************************
+
+
+3100 3 1.1989775 
+
+<start>
+X:10
+T:La de la Marche de la Marche de la Marche de la Marche de la Marche de la Marche de la Mar
+
+
+*****************************
+
+
+3200 3 1.2436001 
+
+<start>
+X:10
+T:La de la Marche de la Marche de la Marche de la Marche de la Marche Marrine
+O:France
+A:Pro
+
+
+*****************************
+
+
+3300 3 1.6089717 
+
+<start>
+X:112
+T:Marcho de la Marcho de la Marcho de la Marcho de la sou-li-go la de la bou-lo de la dou-t
+
+
+*****************************
+
+
+3400 3 0.6769232 
+
+<start>
+X:12
+T:Marcho de la Marcho de la Marcho de la transo
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carne
+
+
+*****************************
+
+
+3500 3 1.826366 
+
+<start>
+X:12
+T:Matelote
+R:Matelote
+C:Trad.
+R:Matelote
+C:Trad.
+R:Matelote
+C:Trad.
+R:Matelote
+C:Trad.
+R:Mat
+
+
+*****************************
+
+
+3600 3 2.264329 
+
+<start>
+X: 12
+T:Matello
+O:France
+A:Provence
+C:Trad.
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+Z:Tr
+
+
+*****************************
+
+
+3700 3 0.7895194 
+
+<start>
+X: 12
+T:La manto
+O:France
+A:Provence
+C:Trad.
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+Z:T
+
+
+*****************************
+
+
+3800 3 1.028579 
+
+<start>
+X: 133
+T:Le sament
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Tra
+
+
+*****************************
+
+
+3900 3 0.22730719 
+
+<start>
+X:13
+T:Le sei dou le de la Micoulau de Sant de tambourinaire Ginas (1924)
+Z:Transcrit et/ou corri
+
+
+*****************************
+
+
+4000 3 1.6516267 
+
+<start>
+X:12
+T:Polka de la Micoulau de Micolland
+O:France
+A:Provence
+C:Provence
+C:Paraulo de Micollau
+R:P
+
+
+*****************************
+
+
+4100 3 1.797768 
+
+<start>
+X:14
+T:Le same
+O:France
+A:Provence
+C:?
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:
+
+
+*****************************
+
+
+4200 3 3.1465461 
+
+<start>
+X:14
+T:Rielle de Saint de la la Micoulau de Saint de la la Micoulau de Saint de la Saint de la Mi
+
+
+*****************************
+
+
+4300 3 0.007352276 
+
+<start>
+X:15
+T:Rigaudon
+O:France
+A:Provence
+C:Trad.
+R:Scottish
+S:Carnet du tambourinaire Ginas (1924)
+O:F
+
+
+*****************************
+
+
+4400 3 1.8960054 
+
+<start>
+X: 150
+T:Relandon de Santre de Sant de Sant de Sant de Sant de Sant de Sant de Sant de Sant de Sa
+
+
+*****************************
+
+
+4500 3 1.9999121 
+
+<start>
+X: 150
+T:Realo
+R:Scottish
+C:J. Ginas
+R:Scottish
+C:Provence
+C:J. Ginas
+O:France
+A:Provence
+C:J. Gi
+
+
+*****************************
+
+
+4600 3 1.6497742 
+
+<start>
+X: 166
+T:La gasso de la trantonte de la ren de tambourinaire (1925)
+O:France
+A:Provence
+C:?
+Z:Tra
+
+
+*****************************
+
+
+4700 3 1.2425038 
+
+<start>
+X:156
+T:La gantaise
+O:France
+A:Provence
+C:J. Ginas
+R:Scottish
+Z:Transcrit et/ou corrig? par Miche
+
+
+*****************************
+
+
+4800 3 1.2884105 
+
+<start>
+X:160
+T:La de la branse
+R:Valse
+C:Paric Bu Michella
+R:Valse
+C:Paraulo de Michallo
+O:France
+A:Prov
+
+
+*****************************
+
+
+4900 3 1.5309981 
+
+<start>
+X: 173
+T:Valse de Santes ander de Santes an cartes de la trome de Santes an cartes de la ren de t
+
+
+*****************************
+
+
+5000 3 1.4871386 
+
+<start>
+X: 1
+T:Valse de coure de la la la berrigon de Marchelle
+O:France
+Z:Transcrit et/ou corrig? par Mi
+
+
+*****************************
+
+
+5100 3 2.3949463 
+
+<start>
+X: 1
+T:Branle des santess sautes la la la Michellandinas (1924)
+O:France
+Z:Transcrit et/ou corrig
+
+
+*****************************
+
+
+5200 3 1.6098305 
+
+<start>
+X: 1
+T:Cou le la la la la la la la la la la la la la la la la la la la la la la la la la la la la
+
+
+*****************************
+
+
+5300 3 0.57113284 
+
+<start>
+X: 1
+T:Cour? la la la la la la la la la la la la la la la la la la la la la la la la la la la la 
+
+
+*****************************
+
+
+5400 3 0.94158876 
+
+<start>
+X: 1
+T:Branle de la la tantes ant la la la la la la la la la la la la la la la la la la la la la 
+
+
+*****************************
+
+
+5500 3 2.2228591 
+
+<start>
+X: 2 Ge e e e | d2 ed | c2 A2 | A2 A2 | A2 A2 | A2 A2 | A2 A2 | A2 A2 | A2 A2 | A2 A2 | A2 A2 | A
+
+
+*****************************
+
+
+5600 3 2.2814882 
+
+<start>
+X: 2
+T:Bigue
+R:---
+C:Provence
+C:J. Ginas
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+
+
+*****************************
+
+
+5700 3 2.0612183 
+
+<start>
+X: 2
+T:La cour? de la la brando
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-24
+Z:Pour t
+
+
+*****************************
+
+
+5800 3 0.007188375 
+
+<start>
+X: 16
+T:La bou la bait du bas
+R:----2
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-
+
+
+*****************************
+
+
+5900 3 0.7683536 
+
+<start>
+X: 4
+T:Le coure
+R:---
+P:A
+BG | A2 A2 | G2 G2 | A2 B2 | A2 A2 | B2 B2 | B2 B2 | B2 B2 | B2 B2 | B2
+
+
+*****************************
+
+
+6000 3 1.159283 
+
+<start>
+X: 160
+T:La jour le bons le bons le bons le bons le bons le bons le bons le bons pes son pe-tit d
+
+
+*****************************
+
+
+6100 3 0.7653308 
+
+<start>
+X: 15
+T:La bois courtait de lous le bons le bons an bons le bons le bons an bran-le du bon le bon
+
+
+*****************************
+
+
+6200 3 1.1457276 
+
+<start>
+X: 1
+T:Ronet de la brando
+R:---
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+
+
+
+*****************************
+
+
+6300 3 1.8657124 
+
+<start>
+X: 6
+T:Le coure de loup
+R:Ronde
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-25
+
+
+
+*****************************
+
+
+6400 3 0.83830225 
+
+<start>
+X: 1
+T:Le Mai Marchalle
+R:Schottische
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-25
+Z:
+
+
+*****************************
+
+
+6500 3 1.6389933 
+
+<stark>
+X: 1
+T:Schottische
+R:Schottische
+Z:Dave Holland
+Z:Transcrit et/ou corrig? par Michel BELLON - 200
+
+
+*****************************
+
+
+6600 3 1.0102143 
+
+<stark>
+X:1
+T:La bour le bour de Son bon tune bon bon tu bour de Son bon tu bour de Son bon bon du bour d
+
+
+*****************************
+
+
+6700 3 1.856076 
+
+<start>
+X:1
+T:Bourr?e de Marchalle
+R:Bourree
+B:Les Poland <dave@biff.org.uk>
+M:3/8
+L:1/8
+K:G
+G2G2|G3/2G/2
+
+
+*****************************
+
+
+6800 3 1.1304393 
+
+<start>
+X: 1
+T:Bourr?e Cour le book no mans de book
+R:Bourree
+B:Massif Central Tune Bour le book no mans 
+
+
+*****************************
+
+
+6900 3 0.9634263 
+
+<start>
+M:3/4
+L:1/4
+K:G
+GA|B2G2|G2G2|G2G2 G2G2|A2G2 A2G2|A2G2 A2G2|A2G2 A2G2|A2G2 A2G2|A2G2 A2G2|A2G2 A2G
+
+
+*****************************
+
+
+7000 3 1.8028351 
+
+<start>
+X:1
+T:La bour le book
+M:3/4
+L:1/8
+K:G
+G2 GB GA BG|A2 AB AG|A2 A2 A2|B2 AG A2 A2|B2 AG A2 A2|B2 B2
+
+
+*****************************
+
+
+7100 3 1.7555319 
+
+<stark>
+X:1
+T:Polka
+C:Trad Chard 1 number 11
+M:2/4
+L:1/8
+K:C
+G2 GB cB AG | A2 A2 | A2 B2 | A2 A2 | B2 AB 
+
+
+*****************************
+
+
+7200 3 1.855708 
+
+<start>
+X:1
+T:Mazurka
+B:Massif Central Tune Book no the book no 1 200
+M:3/4
+L:1/8
+K:G
+G2 GB|cB AB|cB AB|c
+
+
+*****************************
+
+
+7300 3 1.2161328 
+
+<start>
+X: 1
+T:La Pader Holland
+C:Trad.
+M:3/4
+L:1/8
+K:C
+d2|e2 e2 g2|fe d2 cB|c2 A2 A2|
+A2 AB cB|A2 A2 A2|
+
+
+*****************************
+
+
+7400 3 1.1272854 
+
+<start>
+X: 1
+T:Branle de Boure to the book
+M:3/4
+L:1/8
+Q:1/4=100
+K:C
+G2 G2|A2 AB|c2 A2|B2 A2|B2 AB|c2 B2|
+
+
+*****************************
+
+
+7500 3 1.4107395 
+
+<start>
+X: 1
+T:Branle de Boure de Boune de Bourtande
+C:Trad.
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/
+
+
+*****************************
+
+
+7600 3 0.54913384 
+
+<start>
+X: 1
+T:Branle de la barble
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pou
+
+
+*****************************
+
+
+7700 3 0.029326815 
+
+<start>
+X: 1
+T:Air du branle du branle du branle de coupp? passion et an branle de branle de coupp? passi
+
+
+*****************************
+
+
+7800 3 1.2625229 
+
+<start>
+X: 1
+T:Branle de chaple
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0173.gif
+B:Orchesographie (1589)
+O:F
+
+
+*****************************
+
+
+7900 3 1.071058 
+
+<startion milto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=220
+K:Gmaj
+V:1
+|: c2c2 | c2B2 | c2B2 | c2B2 | c2B2 
+
+
+*****************************
+
+
+8000 3 1.1760297 
+
+<start>
+X: 1
+T:Branle de la baune de la baur louppe
+R:Branle de coup?
+C:Trad.
+S:Thoinot Arbeau
+N:0175.gif
+
+
+*****************************
+
+
+8100 3 2.01767 
+
+<startion milto:galouvielle@free.fr
+M:2/4
+L:1/4
+Q:1/4=220
+K:C
+V:1
+G2G2G2|G2G2G2|G2G2G2|G2G2G2|G2G2G2|G2G2
+
+
+*****************************
+
+
+8200 3 0.006932504 
+
+<start>
+X: 2
+T:Branle de la branle de la baur la la baur la la baur la bour le la baur le la barbe
+R:Bran
+
+
+*****************************
+
+
+8300 3 0.28855222 
+
+<start>
+X: 21
+T:Branle double
+C:Trad.
+S:Thoinot Arbeau
+N:0175.gif
+B:Orchesographie (1589)
+O:France
+Z:<eri
+
+
+*****************************
+
+
+8400 3 1.3641933 
+
+<start>
+X: 40
+T:Branle de la la la la la barble
+O:1703
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007
+
+
+*****************************
+
+
+8500 3 1.4499044 
+
+<start>
+X: 24
+T:Branle de la la la la la la la berne de la la la la baur la la baulle de la la la la la b
+
+
+*****************************
+
+
+8600 3 1.4489884 
+
+<start>
+X: 2
+T:Branle de la la bair de la la bair de la bear la la la bour la la bour la bour loup de la 
+
+
+*****************************
+
+
+8700 3 2.0673327 
+
+<start
+X: 1
+T:Branle de la the book to the Carland to the Cattish
+R:air
+C:Thomas Connellan (c. 1600-1824)
+
+
+*****************************
+
+
+8800 3 0.45449042 
+
+<stark>
+X:1
+T:Branle de la the Caroland Chain and the Carlour de the Carlon Chain
+R:air
+Z:id:hn-air-14
+M:
+
+
+*****************************
+
+
+8900 3 1.1644847 
+
+<start
+X:10
+T:Mollan (cher the Mollan (1600-1818)
+Z:id:hn-air-19
+M:3/4
+L:1/8
+K:G
+G2 | G2 G2 | G2 G2 | G2 
+
+
+*****************************
+
+
+9000 3 0.20920877 
+
+<start
+A:Champain (1690)
+Z:id:hn-barndance-4
+M:C|
+L:1/8
+K:G
+G2 | G2A2 B2A2 | G2G2 G2G2 | G2G2 G2G2 | G2G2
+
+
+*****************************
+
+
+9100 3 2.8687153 
+
+<start
+A:Champains (1890-1898)
+Z:id:hn-barndance-10
+M:C|
+L:1/8
+K:G
+GA | B2B2 B2GB | d2d2 d2B2 | B2B2 B2GA
+
+
+*****************************
+
+
+9200 3 1.7017388 
+
+<start
+A:Provin Bornaire Marcher
+R:barndance
+C:Trad.
+R:barndance
+Z:id:hn-carolan-4
+M:3/4
+L:1/8
+K:G
+GA | B
+
+
+*****************************
+
+
+9300 3 1.1380502 
+
+<start
+A:Provin Carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-1
+M:3/4
+L:1/8
+K:G
+GA | B2 BA | B
+
+
+*****************************
+
+
+9400 3 1.1528468 
+
+<start
+A:Provin corne
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-11
+M:6/8
+K:D
+A |: B2 d2 
+
+
+*****************************
+
+
+9500 3 1.634643 
+
+<start
+A:Provin Carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-20
+M:C|
+L:1/8
+K:G
+G | A2 A2 A2 |
+
+
+*****************************
+
+
+9600 3 1.0659636 
+
+<start
+A:Charolan (1670-1738)
+H:Also played in G
+Z:id:hn-carolan-24
+M:3/4
+L:1/8
+K:G
+GA | B2 B2 BA | B2 BA
+
+
+*****************************
+
+
+9700 3 1.9995443 
+
+<start
+A:Charolan (1670-1738)
+H:Originally in G
+Z:id:hn-carolan-27
+M:3/4
+L:1/8
+K:G
+GA | B2 B2 B2 | B2 B2 
+
+
+*****************************
+
+
+9800 3 1.5245094 
+
+<start
+A:Prior andermand
+Z:id:hn-hf-1
+M:C|
+K:D
+A2AA BAGA|B2d2 d2Bd|edcB AGAB|c2A2 A2:|
+|:Bd|edcB AGAB|c2d
+
+
+*****************************
+
+
+9900 3 1.2183907 
+
+<start
+A:Prion Garkan
+Z:id:hn-hf-18
+M:C|
+L:1/8
+K:Ador
+A2AB | A2FA BAGA | BAGF G2AB | ABAG A2BA |
+B2BA BAB
+
+
+*****************************
+
+
+10000 3 1.3341594 
+
+<start
+A:Marth Bange
+Z:id:hn-hf-22
+M:C|
+L:1/8
+K:G
+G2 | B2B2 B2B2 | B2B2 B2B2 | d2d2 d2BA | B2B2 B2dB | A2
+
+
+*****************************
+
+
+10100 3 1.3123251 
+
+<start
+Z:id:hn-hornpipe-6
+M:C|
+K:D
+D2FA d2de|fedB ABdB|ABAG FAde|fdef gfed|cAGA G2:|
+|:Bd|gfge dBGB|A2AG 
+
+
+*****************************
+
+
+10200 3 1.293806 
+
+<start
+Z:id:hn-hornpipe-11
+M:C|
+K:G
+G2||:|
+|:BG|ABcd|edcB|AGAB cAGF|G2GF G2:|
+|:Bd|gfge dBGB|AGFG A2GA|B2
+
+
+*****************************
+
+
+10300 3 1.2575804 
+
+<start
+D:Patrick Bancest to Masse March
+R:hornpipe
+H:Also played in A, see #27
+Z:id:hn-hornpipe-17
+M:C|
+K
+
+
+*****************************
+
+
+10400 3 1.6559978 
+
+<start
+D:Paddy Glackin: Fannan: The Danny & Parts of the Warst The
+R:hornpipe
+D:Padraigh & Marsh Hornpipe
+
+
+*****************************
+
+
+10500 3 2.093417 
+
+<start
+A:Province
+H:See also #28
+D:Paddy Glackin: In 2
+Z:id:hn-hornpipe-27
+M:C|
+K:G
+BA|GBdB GBAG|F2D2 D2:
+
+
+*****************************
+
+
+10600 3 0.7096899 
+
+<start
+A:Province
+H:See also #21
+Z:id:hn-hornpipe-29
+M:C|
+K:G
+BA|B2dB A2Bc|d2dB A2Bc|dg~g2 edBd|(3efg dB 
+
+
+*****************************
+
+
+10700 3 1.246853 
+
+<start
+A:Province
+H:See also #28
+D:Matt Molloy & Cally & Parts of the Cappes
+R:hornpipe
+D:Matt Molloy & C
+
+
+*****************************
+
+
+10800 3 1.1044604 
+
+<start
+Z:id:hn-hornpipe-38
+M:C|
+K:G
+Bc|d2Bd g2fe|dcBA G2AB|cBcA G2:|
+|:Bc|dg~g2 gfed|cBcd efge|fded cBcd|
+
+
+*****************************
+
+
+10900 3 1.0682559 
+
+<start>
+X:34
+T:Carolan's Hornpipe
+R:hornpipe
+H:Also played in G, see #39
+Z:id:hn-hornpipe-44
+M:C|
+K:Amix
+
+
+
+*****************************
+
+
+11000 3 1.0398821 
+
+<start>
+X:40
+T:Borner's Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-44
+M:C|
+K:D
+AB|cA (3Bcd e2de|fdcB A2AB|cAFA 
+
+
+*****************************
+
+
+11100 3 0.6974032 
+
+<start>
+X:50
+T:Boy and The
+R:hornpipe
+Z:id:hn-hornpipe-55
+M:C|
+K:Ador
+AB|cA (3Bcd ecAG|FGAF G2AG|AGAB cAF
+
+
+*****************************
+
+
+11200 3 0.94540566 
+
+<start>
+X:30
+T:Buck of Bally and The
+R:hornpipe
+Z:id:hn-hornpipe-56
+M:C|
+K:G
+(3DEF|GFGA BG~G2|dBGB dBGB|d
+
+
+*****************************
+
+
+11300 3 0.24141331 
+
+<start>
+X:60
+T:Bary Bergin
+R:hornpipe
+D:Paddy Holland and Mackan and Mackan: Marchall & Marchallain: Fead
+
+
+*****************************
+
+
+11400 3 1.7747303 
+
+<start
+A:Provin Chornpipe, The
+R:hornpipe
+D:Sean Hornpipe
+Z:id:hn-hornpipe-71
+M:C|
+K:G
+(3ABc de (3ded (3c
+
+
+*****************************
+
+
+11500 3 1.1731162 
+
+<start
+A:Provin Chornpipe, The
+R:hornpipe
+D:Paddy Glackin: In the Banden Stain 2
+Z:id:hn-hornpipe-77
+M:C|
+
+
+*****************************
+
+
+11600 3 0.70593643 
+
+<start
+A:Provence
+Z:id:hn-hornpipe-88
+M:C|
+K:G
+(3DEF|GFGF G2 (3Bcd|edcB AGFE|G2GF G2:|
+|:(3GGG|Addc d2dc|
+
+
+*****************************
+
+
+11700 3 0.8391311 
+
+<start
+A:Provinginally and An Also the Bandy
+Z:id:hn-hornpipe-89
+M:C|
+K:D
+(3DEF|GABG AGED|G2GF G2Bc|d2dc 
+
+
+*****************************
+
+
+11800 3 0.9888185 
+
+<start
+A:Provin Cornpipe
+Z:id:hn-hornpipe-99
+M:C|
+K:G
+Bc|dBGB AGFE|DEFG ABcA|BcdB AGFE|DEFG A2Bc|
+dgfd cB
+
+
+*****************************
+
+
+11900 3 0.98412097 
+
+<start
+A:Provinginally in Bay
+Z:id:hn-hornpipe-99
+M:C|
+K:G
+BG|:A,D G,B,|DED DE|DED D2:|
+|:B,2G, G,2G,|G,B
+
+
+*****************************
+
+
+12000 3 1.411655 
+
+<start
+A:Provencion to the Hornpipe
+R:jig
+H:See also #19, #21
+Z:id:hn-jig-6
+M:6/8
+K:G
+BG|EDE DED|GFG AGE|
+
+
+*****************************
+
+
+12100 3 1.1199752 
+
+<start
+X:13
+T:Bantrie Hard the Reels of The Reels of The Reels of The Reels of The Reels of The Reels of 
+
+
+*****************************
+
+
+12200 3 1.1511377 
+
+<start>
+X:13
+T:Bantry Breen the Reelson
+Z:id:hn-jig-19
+M:6/8
+K:G
+BGG GBd|edB AFD|~D3 AFD|~D3 AFD|~D3 D2D|
+
+
+*****************************
+
+
+12300 3 1.3271878 
+
+<start>
+X:20
+T:Mick Callade
+R:jig
+D:Paddy Glackin: Cead and The Reelson
+Z:id:hn-jig-28
+M:6/8
+K:G
+BGB BGB|
+
+
+*****************************
+
+
+12400 3 0.82306886 
+
+<start>
+X:33
+T:Murs of the Rean's Sean the Reels.
+Z:id:hn-jig-33
+M:6/8
+K:Ador
+EAA AFD|~E3 AFD|~E3 AFD|~E3
+
+
+*****************************
+
+
+12500 3 1.088602 
+
+<start>
+X:31
+T:Micher Barry Bergin
+Z:id:hn-jig-38
+M:6/8
+K:Edor
+~E3 BAB|cAA AFA|~B3 dBd|~g3 fed|edB BAB|dB
+
+
+*****************************
+
+
+12600 3 1.4622312 
+
+<start>
+X:4
+T:Stain O'Reen Marchain
+Z:id:hn-jig-44
+M:6/8
+K:D
+FAA AFD|EFG AFD|EFG AFD|EFG ABc|dcA A2f|edB 
+
+
+*****************************
+
+
+12700 3 1.3665903 
+
+<start>
+X:5
+T:Sog and the Sume the Rughard, The
+R:jig
+H:See also #118
+D:Moul Magge
+D:Mick Mack Moull & To
+
+
+*****************************
+
+
+12800 3 1.0222272 
+
+<start>
+X:50
+T:Moul Mountain
+Z:id:hn-jig-55
+M:6/8
+K:D
+BAG ABc|ded BAG|ABA ABc|ded BAG|ABc ded|cAA AGE|ABc
+
+
+*****************************
+
+
+12900 3 1.6520728 
+
+<start>
+X:63
+T:Carreen O'Sonny: The Mountain
+Z:id:hn-jig-65
+M:6/8
+K:D
+~A3 AFD|~D3 DFA|~B3 BAG|AFD DFA|~B3
+
+
+*****************************
+
+
+13000 3 2.2927597 
+
+<start>
+X:60
+T:Bruckless Shore
+R:jig
+D:Martin Bally
+Z:id:hn-jig-66
+M:6/8
+K:D
+~A3 ABc|d2e fdB|AFA d2e|fdB 
+
+
+*****************************
+
+
+13100 3 1.4813123 
+
+<stark>
+X:7
+T:Sean Rurish Sligo
+R:jig
+D:Matt Molloy's
+R:jig
+D:Matt Molloy's
+R:jig
+D:Mary Bergin: Feadoga 
+
+
+*****************************
+
+
+13200 3 0.96171045 
+
+<stark>
+X:80
+T:Sean Ruring Colling Sticklent Find Fincer
+R:jig
+H:See also #222
+Z:id:hn-jig-88
+M:6/8
+K:D
+~
+
+
+*****************************
+
+
+13300 3 1.5299482 
+
+<stark>
+X:80
+T:Old in the Readh Monny, The
+R:jig
+Z:id:hn-jig-88
+M:6/8
+K:D
+~f3 edB|dBG AGE|~G3 BAG|~F3 AFA
+
+
+*****************************
+
+
+13400 3 0.55915993 
+
+<stark>
+X:90
+T:O'Reel and the Hearts: The Breen the Hearts
+R:jig
+D:Moving Hearts: The Frost the Storm
+Z:i
+
+
+*****************************
+
+
+13500 3 1.2609401 
+
+<start>
+X: 3
+T:Breen Meack to March
+R:march
+Z:id:hn-march-2
+M:6/8
+K:D
+FDF ABc|ded cAA|BAG FED|FED D2F|G2E
+
+
+*****************************
+
+
+13600 3 1.3685216 
+
+<start>
+X:10
+T:Callie of the Mountain
+Z:id:hn-march-1
+M:2/4
+L:1/8
+K:D
+AB/c/ dA|BA B/c/d/e/|dB AG/A/|BG G/
+
+
+*****************************
+
+
+13700 3 1.9611615 
+
+<start>
+X:10
+T:Barry Brang Cross
+R:march
+Z:id:hn-march-16
+M:2/4
+L:1/8
+K:Amix
+A2A B2A|B2G A2G|A2G A2G|A2A 
+
+
+*****************************
+
+
+13800 3 0.9874164 
+
+<start>
+X:20
+T:Calliel's March
+R:march
+H:See also #22
+Z:id:hn-march-22
+M:2/4
+L:1/8
+K:D
+AB AB/c/ | d/c/B/A
+
+
+*****************************
+
+
+13900 3 0.90039414 
+
+<start>
+X:20
+T:Barry Callide
+R:march
+Z:id:hn-march-30
+M:2/4
+L:1/8
+K:G
+BGG BGB|dBG BGB|dBG BGB|dBG GBd|gfe
+
+
+*****************************
+
+
+14000 3 1.3470657 
+
+<stark>
+X:3
+T:Barry Brade
+R:mazurka
+H:Also played in A minst
+Z:id:hn-mazurka-5
+M:3/4
+K:D
+DF|AB c2 cB|A2 A
+
+
+*****************************
+
+
+14100 3 1.1014354 
+
+<start>
+X:10
+T:Whars of the Borne
+R:mazurka
+H:See also #19, #2
+D:The Dannan: Mazurka
+R:mazurka
+H:See also
+
+
+*****************************
+
+
+14200 3 1.087333 
+
+<stark>
+X:1
+T:Bally Brassie's Mazurka
+R:mazurka
+H:Also played in A, #1
+Z:id:hn-mazurka-1
+M:3/4
+L:1/8
+K:G
+
+
+
+*****************************
+
+
+14300 3 1.17911 
+
+<stark>
+X:1
+T:Ballys of Tuner's Fancy
+T:The Barthy Bross, The
+T:The Barthy Bross, The
+T:Tulling of the Bo
+
+
+*****************************
+
+
+14400 3 0.4203136 
+
+<stark>
+X:12
+T:Bally Chad to the Borne
+R:polka
+Z:id:hn-polka-16
+M:2/4
+L:1/8
+K:G
+Bd BA|BA BA|BA BA|BA BA|B
+
+
+*****************************
+
+
+14500 3 0.9414676 
+
+<stark>
+X:22
+T:Sean Polka, The
+R:polka
+Z:id:hn-polka-22
+M:2/4
+L:1/8
+K:D
+A>B ce|dB AB|cA AG|FA AB|cA AG|FA
+
+
+*****************************
+
+
+14600 3 1.4502411 
+
+<stark>
+X:23
+T:Breen Colka, The
+R:polka
+Z:id:hn-polka-31
+M:2/4
+L:1/8
+K:D
+AD FA|d2 d>e|dB AB/A/|GE ED|B,E 
+
+
+*****************************
+
+
+14700 3 1.8480422 
+
+<stark>
+X:3
+T:Barry Bergin
+Z:id:hn-polka-34
+M:2/4
+L:1/8
+K:D
+FA BA|B>A B/c/d|ed BA|Bd Bd|ef/e/ dB|A>B ce|f
+
+
+*****************************
+
+
+14800 3 0.41441163 
+
+<stark>
+X:24
+T:Brass of Lastain
+R:polka
+D:Paul McGrattan: The Frost is Flucking Polka
+R:polka
+D:Paul McGr
+
+
+*****************************
+
+
+14900 3 0.5356869 
+
+<stark>
+X:25
+T:Johnny Polka, The
+R:polka
+Z:id:hn-polka-50
+M:2/4
+L:1/8
+K:D
+A>B cB|AF AF|AF AF|AF AF|AF AF|
+
+
+*****************************
+
+
+15000 3 1.0428065 
+
+<stark>
+X:66
+T:John Conke: The Brost is Flower
+R:polka
+D:Michael Tubridy: The Barrian (1970)
+Z:id:hn-polk
+
+
+*****************************
+
+
+15100 3 0.88765234 
+
+<stark>
+X:70
+T:John McKenna & Marchan & Farrian (1970-1770)
+Z:id:hn-polka-72
+M:2/4
+L:1/8
+K:D
+A>B cd|ef ed
+
+
+*****************************
+
+
+15200 3 0.77535075 
+
+<stark>
+X:8
+T:Jig Cross of Belled Belley
+Z:id:hn-polka-82
+M:2/4
+L:1/8
+K:D
+A>B cd|ef ed|cB AB|cB cB|AF DF|
+
+
+*****************************
+
+
+15300 3 0.8294209 
+
+<stark>
+X:80
+T:Johnny Cooney: Meitheal
+Z:id:hn-polka-98
+M:2/4
+L:1/8
+K:G
+G>A Bd|ef/e/ dB|AB cB|AF AF|AF AF
+
+
+*****************************
+
+
+15400 3 1.4489075 
+
+<stark>
+X:90
+T:Jumby Polka, The
+R:polka
+D:John McKenna & Cooney Meaney: The Borney Beefger
+Z:id:hn-polka-
+
+
+*****************************
+
+
+15500 3 1.6626472 
+
+<stark>
+X:9
+T:Cull the Lough the Barreet Treel
+R:reel
+H:See also #40, #27, #70
+D:Michael McGrattan: The M
+
+
+*****************************
+
+
+15600 3 1.1646066 
+
+<stark>
+X:10
+T:Cullieston's
+R:reel
+D:Michael Tubring to Maggie.
+D:Michael Tubring to Maggie.
+D:Michael Tu
+
+
+*****************************
+
+
+15700 3 0.8704683 
+
+<stark>
+X:1
+T:Stockton's Whistle
+R:reel
+D:Mary Bergin: Feachalled Mountain
+R:reel
+D:Mary Bergin: Feadoga 
+
+
+*****************************
+
+
+15800 3 1.5067515 
+
+<stark>
+X:20
+T:Marrick to Maggie
+R:reel
+D:Mary Bergin: Feadoga Stain 2.
+Z:id:hn-reel-22
+M:C|
+K:G
+GBdB BAF
+
+
+*****************************
+
+
+15900 3 0.6453469 
+
+<stark>
+X:2
+T:Marrick of Macolant the the tome the Reel, The
+R:reel
+D:Mary Bergin: Feacond the Moor to Ma
+
+
+*****************************
+
+
+16000 3 1.5044618 
+
+<stark>
+X:3
+T:Bren Conney, The
+R:reel
+D:Patrick Street 1.
+Z:id:hn-reel-33
+M:C|
+K:D
+D2FA DFAF|GFEF GEEF|G2
+
+
+*****************************
+
+
+16100 3 1.0598742 
+
+<stark>
+X:20
+T:Bill of Maigh the Moor to Maggie.
+D:Paddy Glackin: Fergin.
+Z:id:hn-reel-34
+M:C|
+K:D
+F2AF F
+
+
+*****************************
+
+
+16200 3 0.54998153 
+
+<stark>
+X:24
+T:Brack Sligo, The
+R:reel
+D:Paddy Glackin: Ceol an a Maggie March & Sean Rochand Maich Macon
+
+
+*****************************
+
+
+16300 3 1.0731939 
+
+<stark>
+X:31
+T:Barey Blackin
+R:reel
+C:Mary Bergin: Fealdand: The Barthers, The
+R:reel
+H:See also "The Dan
+
+
+*****************************
+
+
+16400 3 1.1503055 
+
+<stark>
+X:35
+T:Barreel to "The Daney Polka
+R:reel
+H:The tune to "The Barthers of the Coppers, The
+R:reel
+
+
+
+*****************************
+
+
+16500 3 1.4581897 
+
+<stark>
+X:50
+T:Boy Reel, The
+R:reel
+H:See also #57, #74
+H:See also #57, #76.
+H:See also #57, #74
+Z:id:hn-
+
+
+*****************************
+
+
+16600 3 1.6872259 
+
+<stark>
+X:36
+T:Boy Reel, The
+R:reel
+H:See also #198
+Z:id:hn-reel-69
+M:C|
+K:D
+F2DF AFDF|GFEF GFED|F2AF GFE
+
+
+*****************************
+
+
+16700 3 0.4777806 
+
+<stark>
+X:63
+T:Boy Reel, The
+R:reel
+H:See also #668
+Z:id:hn-reel-68
+M:C|
+K:D
+F2DF D2FD|~E3F GFED|~E3F GFE
+
+
+*****************************
+
+
+16800 3 1.211948 
+
+<stark>
+X:50
+T:Boy Bally Belled Belled Belled Belled Belled Belled in G, #738
+Z:id:hn-reel-73
+M:C|
+K:D
+D2
+
+
+*****************************
+
+
+16900 3 1.6063954 
+
+<stark>
+X:70
+T:Boy and The Reel, The
+R:reel
+D:Matt Molloy: Sean (1977-1998)
+Z:id:hn-reel-73
+M:C|
+K:D
+D2FA
+
+
+*****************************
+
+
+17000 3 1.1720474 
+
+<stark>
+X:28
+T:Boy ar the Barting Polka
+R:reel
+H:See also #78
+D:Paddy Glackin: Ceol ar an bhFidil le Padd
+
+
+*****************************
+
+
+17100 3 1.4791989 
+
+<stark>
+X:80
+T:Conny of the Moor, The
+R:reel
+C:Mick Molly & Sean Road to Maggin.
+Z:id:hn-reel-89
+M:C|
+K:D
+
+
+*****************************
+
+
+17200 3 0.5717342 
+
+<stark>
+X:90
+T:Boy Reel, The
+R:reel
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin.
+Z:id:hn-reel-92
+
+
+*****************************
+
+
+17300 3 1.2260208 
+
+<stark>
+X:90
+T:Denny Green Reel, The
+R:reel
+H:Also played in A, see #737
+Z:id:hn-reel-90
+M:C|
+K:D
+A2 (3Bc
+
+
+*****************************
+
+
+17400 3 1.384466 
+
+<stark>
+X:3
+T:Gore of the Moor to Conney
+R:set dance
+Z:id:hn-setdance-2
+M:C|
+K:D
+A2 (3ABA GABA|G2BG A2 (3
+
+
+*****************************
+
+
+17500 3 2.0606804 
+
+<stark>
+X:3
+T:Borney Green of the Wind, The
+R:set dance
+H:See also #8
+D:Paddy Glackin: Ceol ar an bhFidil
+
+
+*****************************
+
+
+17600 3 1.5217044 
+
+<stark>
+X:10
+T:Boy Reel, The
+R:set dance
+H:See also #10
+D:Paddy Glackin: Ceol and Dancen (1938)
+H:See als
+
+
+*****************************
+
+
+17700 3 1.0433327 
+
+<stark>
+X:1
+T:Boy Reel, The
+R:slip jig
+H:Also played in A, #73
+H:See also #17
+Z:id:hn-slipjig-8
+M:9/8
+K:D
+
+
+*****************************
+
+
+17800 3 0.976192 
+
+<stark>
+X:10
+T:Den Paddy Glackin
+T:Willin Pally, The
+T:Turling Polket, The
+T:Commer Polke, The
+T:Commer B
+
+
+*****************************
+
+
+17900 3 1.2121125 
+
+<stark>
+X:13
+T:Dinken of Willing Piper, The
+R:slip jig
+H:See also #19, #70
+D:Dervish: Sean (1975-1975)
+Z:
+
+
+*****************************
+
+
+18000 3 1.3783863 
+
+<stark>
+X:22
+T:Boy Pary Brossed to With the Will ar and Areen
+Z:id:hn-slipjig-27
+M:9/8
+K:D
+D2F G2A B2A|B2
+
+
+*****************************
+
+
+18100 3 0.44687518 
+
+<stark>
+X:3
+T:Humours of Derry, The
+R:slip jig
+H:See also #33
+D:Paddy Glackin: Ceol ar an bhFidil le Padd
+
+
+*****************************
+
+
+18200 3 0.9769538 
+
+<stark>
+X:24
+T:Humours of Derry, The
+R:hop jig
+D:Paul McGrattan: The First Al
+Z:id:hn-slipjig-44
+M:9/8
+K:
+
+
+*****************************
+
+
+18300 3 1.1592369 
+
+<stark>
+X:20
+T:Humours of Derry, The
+R:slip jig
+H:See also #41
+D:Michael McGrattan: The First And the Win
+
+
+*****************************
+
+
+18400 3 1.5568953 
+
+<stark>
+X: 3
+T:Ride a Mile
+T:Humours of Welight, The
+R:slip jig
+H:See also #45
+Z:id:hn-slipjig-55
+M:9/8
+K
+
+
+*****************************
+
+
+18500 3 0.9725551 
+
+<start>
+X:19
+T:Borney Broe a Mile
+R:slip jig
+H:See also #36
+D:Michael McGran: McGranne & Cairman's Fair
+Z
+
+
+*****************************
+
+
+18600 3 1.801076 
+
+<start>
+X:60
+T:Dusty's Wing
+Z:id:hn-slipjig-66
+M:9/8
+L:1/8
+K:G
+B2B BAG FGA | B2A B2A B2A | B2A B2A B2A | 
+
+
+*****************************
+
+
+18700 3 1.2982155 
+
+<start>
+X:7
+T:Boy Boy Lill a Mile
+T:Boy Boy Bough to the Bair Bellett
+R:slip jig
+H:See also #37
+D:Paddy G
+
+
+*****************************
+
+
+18800 3 1.2722104 
+
+<start>
+X:82
+T:Boy Mill & Too Coon to the Bair
+R:slip jig
+C:Michael McGold to Lill & Tool Molloy & Sean K
+
+
+*****************************
+
+
+18900 3 1.5084265 
+
+<start>
+X: 1
+T:Boy Mullie Mare Marthy Mill & Paddy Mill & Toon Molloy & Coon a Maggie
+R:slide
+D:Matt Moll
+
+
+*****************************
+
+
+19000 3 0.9098349 
+
+<start>
+X:1
+T:Bart of the Bair Belled to the Bair Bellection
+Z:id:hn-slide-1
+M:6/8
+K:D
+F2A A2B|c2A Bcd|e2
+
+
+*****************************
+
+
+19100 3 1.0538913 
+
+<start>
+X:17
+T:Wass and the Wind, The
+R:slide
+D:Sean Ryan: I Matt Molly
+Z:id:hn-slide-19
+M:6/8
+K:D
+d|:edB
+
+
+*****************************
+
+
+19200 3 1.2462013 
+
+<start>
+X:22
+T:Gorney Barke, The
+R:slide
+Z:id:hn-slide-27
+M:6/8
+K:G
+G2B G2A|B2A G2A|B2A G2A|B2A B2A|1 G3 
+
+
+*****************************
+
+
+19300 3 0.9587557 
+
+<start>
+X:3 G2AB A2GA | B2d e2d | cBA A2G | E2F G2A :|
+|: B2d e2d | B2d e2d | e2e e2d | e3 e2d | c3 BcA |
+
+
+*****************************
+
+
+19400 3 1.1136435 
+
+<start>
+X:13
+T:O'Keefe's Will
+T:Caire O'Keefe
+R:slide
+H:Also in A, #41
+Z:id:hn-slide-44
+M:6/8
+K:D
+F2A A2F
+
+
+*****************************
+
+
+19500 3 0.54571176 
+
+<start>
+X:15
+T:Caire Slide
+R:slide
+H:See also #59
+Z:id:hn-slide-55
+M:6/8
+K:G
+d2e d2B|c2A Bcd|e2A cBA|G2A 
+
+
+*****************************
+
+
+19600 3 0.909093 
+
+<start>
+X:15
+T:Denny Lillie
+R:slide
+H:Also played in A, #63
+Z:id:hn-slide-62
+M:6/8
+L:1/8
+K:Ador
+A2A A2B|c
+
+
+*****************************
+
+
+19700 3 0.9549911 
+
+<start>
+X:27
+T:Bornell of the Mountains, The
+R:slide
+Z:id:hn-slide-62
+M:6/8
+L:1/8
+K:D
+A2A A2F | G2A B2A |
+
+
+*****************************
+
+
+19800 3 0.87924033 
+
+<start>
+X:27
+T:Donny Breenters, The
+R:slide
+Z:id:hn-slide-73
+M:6/8
+L:1/8
+K:D
+A2F A2F | E2F G2A | B2E E2F 
+
+
+*****************************
+
+
+19900 3 0.71268266 
+
+<start>
+X:27
+T:Borning the Wander
+R:slide
+H:See also #31
+Z:id:hn-slide-80
+M:6/8
+L:1/8
+K:D
+F2A A2F | E2F G
+
+
+*****************************
+
+
+20000 3 0.14411697 
+
+<start>
+X:88
+T:Denny Live the Wander
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+A2A A2B | d2e e2d | B2d B2A
+
+
+*****************************
+
+
+0 4 2.383468 
+
+<start>
+X:90
+T:Denny O'Keefe's
+R:slide
+Z:id:hn-slide-93
+M:6/8
+L:1/8
+K:G
+B2d B2A | B2d e2d | B2A B2A | B2d
+
+
+*****************************
+
+
+100 4 1.2093016 
+
+<start>
+X:19
+T:O'Keefe's
+R:slide
+Z:id:hn-slide-93
+M:6/8
+L:1/8
+K:G
+d2B B2A | G2B c2d | e2d c2A | B2c d2c |
+
+
+*****************************
+
+
+200 4 1.4965863 
+
+<start>
+X:2
+T:Brance
+R:slide
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-08-17
+Z:Pour toute observ
+
+
+*****************************
+
+
+300 4 1.2509642 
+
+<start>
+X:2
+T:Leve or the Caster
+R:slide
+Z:id:hn-slide-92
+M:6/8
+L:1/8
+K:G
+B/c/d/e/ d/c/d/e/ d/c/d/e/ d/c/
+
+
+*****************************
+
+
+400 4 1.0506771 
+
+<start>
+X:15
+T:Lise Chail The
+R:slide
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+Z:Pour tou
+
+
+*****************************
+
+
+500 4 2.1561773 
+
+<start>
+X: 1
+T:Variation V
+K:A
+c2c c2c | d2c d2c | d2c | d3 | d2 d2 | d2 d2 | d2 d2 | d2 d2 | d2 | d2 | d
+
+
+*****************************
+
+
+600 4 1.9251578 
+
+<star>X92
+M:2/4
+L:1/8
+K:G
+B2 Bd|e2 d2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B4:|
+<end>
+<start>
+X:14
+T
+
+
+*****************************
+
+
+700 4 0.092693575 
+
+<star>X92
+M:2/4
+K:G
+B2d | c2c2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2B2 | B2
+
+
+*****************************
+
+
+800 4 1.7867103 
+
+<star>X92
+M:2/4
+K:G
+B2 BA|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B
+
+
+*****************************
+
+
+900 4 1.0873604 
+
+<start>
+X:1
+T:Lou re Marth?rant (? la la la bountains la la la bountains la la la la la bauto la bauto
+[M
+
+
+*****************************
+
+
+1000 4 1.2654338 
+
+<start>
+X:2
+T:La la bearo
+O:France
+A:Provence
+C:Anonyme
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Tr
+
+
+*****************************
+
+
+1100 4 0.294186 
+
+<start>
+X:2
+T:La la bountains la la la bountains la la la bountains la la manto de lou de la beato la bea
+
+
+*****************************
+
+
+1200 4 1.9867966 
+
+<start>
+X:2
+T:La la bountaine
+O:France
+A:Provence
+C:Anonyme
+R:Air
+O:France
+A:Provence
+C:Anonyme
+R:Air
+O:F
+
+
+*****************************
+
+
+1300 4 2.244158 
+
+<start>
+X:22
+T:La sant de la la la la la la beato
+[M:C|
+L:1/8
+Q:"Mou Musi fe saut Maurt a varition milie 
+
+
+*****************************
+
+
+1400 4 0.045297112 
+
+<start>
+X:22
+T:La Mau Michello de la bauto de la sant de la bount de la bauto de la baut la bou-ri de la 
+
+
+*****************************
+
+
+1500 4 1.4223839 
+
+<start>
+X:20
+T:Contreele (oh! Sen Mai Marvau
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit
+
+
+*****************************
+
+
+1600 4 1.0194513 
+
+<start>
+X: 15
+T:La Marice
+R:Carnet de carration mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+V:1
+G2G | B2B
+
+
+*****************************
+
+
+1700 4 0.3987962 
+
+<start>
+X: 12
+T:La manson de carant de carans (cart?
+O:France
+A:Provence
+C:Trad.
+Z:Transcrit et/ou corrig
+
+
+*****************************
+
+
+1800 4 1.7937262 
+
+<start>
+X: 15
+T:La mans carant
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou cor
+
+
+*****************************
+
+
+1900 4 1.2504461 
+
+<start>
+X: 15
+T:Lei filles de lou de lou
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourina
+
+
+*****************************
+
+
+2000 4 1.2573533 
+
+<start>
+X: 15
+T:Lei fi lei de la la bountale de la Maion de la bout le lou de la bou-lou lei de la bou-lo
+
+
+*****************************
+
+
+2100 4 1.3894947 
+
+<start>
+X: 15
+T:Farandole de caranso
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+c2d 
+
+
+*****************************
+
+
+2200 4 0.6718472 
+
+<start>
+X: 17
+T:Farandole de Marvains carans
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Bbm
+
+
+*****************************
+
+
+2300 4 1.8184546 
+
+<start>
+X: 10
+T:Farandole de la graisso
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+A
+
+
+*****************************
+
+
+2400 4 2.0690641 
+
+<start>
+X: 6
+T:Lei fi?les de la be?
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Bbmajor
+B2d 
+
+
+*****************************
+
+
+2500 4 1.9045002 
+
+<start>
+X: 18
+T:Lei fires de la branso
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouviell
+
+
+*****************************
+
+
+2600 4 0.25857782 
+
+<start>
+X: 19
+T:La de la brandole
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@fre
+
+
+*****************************
+
+
+2700 4 1.6125188 
+
+<start>
+X:9
+T:La de la baire
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit et/ou corrig? par Michel BE
+
+
+*****************************
+
+
+2800 4 1.5427263 
+
+<start>
+X:9
+T:La de la baire de la baire
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit et/ou corrig? p
+
+
+*****************************
+
+
+2900 4 1.2187465 
+
+<start>
+X: 100
+T:La Marche de la Marche de la Marche de la Marche de la Marche de la Marche de la Marche 
+
+
+*****************************
+
+
+3000 4 1.4360901 
+
+<start>
+X:100
+T:La Marche de la Marche
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-17
+S:Carnet du tamb
+
+
+*****************************
+
+
+3100 4 1.0814389 
+
+<start>
+X:10
+T:La Marche
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Tr
+
+
+*****************************
+
+
+3200 4 1.1533967 
+
+<start>
+X:12
+T:La Marche de la Marche de la Marche de la Marche de la Marche de la Marche de la Marche de
+
+
+*****************************
+
+
+3300 4 1.3886296 
+
+<start>
+X:11
+T:La Marcho de la Marcho
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Gina
+
+
+*****************************
+
+
+3400 4 0.5676873 
+
+<start>
+X:12
+T:La Marcho de la Marcho de la Marcho de la Marcho de la la bou-lou-lou de la de la bou-lou 
+
+
+*****************************
+
+
+3500 4 1.7752402 
+
+<start>
+X:12
+T:Matelote
+R:Matelote
+O:France
+A:Provence
+C:Trad.
+R:Matelote
+O:France
+A:Provence
+C:Trad.
+R:M
+
+
+*****************************
+
+
+3600 4 2.120588 
+
+<start>
+X:12
+T:La de la brino
+O:France
+A:Provence
+C:Trad.
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924
+
+
+*****************************
+
+
+3700 4 0.6318274 
+
+<start>
+X: 12
+T:La Galio
+O:France
+A:Provence
+C:Trad.
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+Z:T
+
+
+*****************************
+
+
+3800 4 0.98875403 
+
+<star>
+X: 13
+T:Le sai le la la bestret de la la bestre
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+O
+
+
+*****************************
+
+
+3900 4 0.21626526 
+
+<star>
+X:13
+T:Le sou le de la la bestina
+O:France
+A:Provence
+C:?
+Z:Transcrit et/ou corrig? par Michel BEL
+
+
+*****************************
+
+
+4000 4 1.581308 
+
+<star>
+X:12
+T:La Pastourina
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Tran
+
+
+*****************************
+
+
+4100 4 1.6043118 
+
+<star>
+X:14
+T:Le sou la bestre de la brine
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Prov
+
+
+*****************************
+
+
+4200 4 3.017636 
+
+<start>
+X:12
+T:La Proven (1920)
+O:France
+A:Provence
+C:Trad.
+R:Mazurka
+S:Carnet du tambourinaire Ginas (19
+
+
+*****************************
+
+
+4300 4 0.0060199336 
+
+<start>
+X:15
+T:Scottish de Saint de Sain
+O:France
+A:Provence
+C:?
+Z:Transcrit et/ou corrig? par Michel BEL
+
+
+*****************************
+
+
+4400 4 1.8256727 
+
+<stark>
+X: 15
+T:Scottish de Sant de Sant de Sant de Sain de Sant de Sant de Sant de Sant de Sain de Sant 
+
+
+*****************************
+
+
+4500 4 1.7981086 
+
+<stark>
+X: 15
+T:Le ganaire de Santale
+O:France
+A:Provence
+C:J. Ginas
+Z:Transcrit et/ou corrig? par Michel
+
+
+*****************************
+
+
+4600 4 1.4619731 
+
+<start>
+X:15
+T:Le samers
+R:Scottish
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour toute
+
+
+*****************************
+
+
+4700 4 1.1636422 
+
+<start>
+X:15
+T:Le trisson
+R:Scottish
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour tout
+
+
+*****************************
+
+
+4800 4 1.2067919 
+
+<start>
+X:17
+T:La gri?o de la brandolle
+R:Polka
+C:Paraulo de Micollandon
+R:Valse
+S:Carnet du tambourinair
+
+
+*****************************
+
+
+4900 4 1.4699172 
+
+<start>
+X: 17
+T:La griso
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/
+
+
+*****************************
+
+
+5000 4 1.43237 
+
+<start>
+X: 1
+T:Branle de la branse
+O:France
+A:Provence
+C:?
+Z:Transcrit et/ou corrig? par Michel BELLON - 
+
+
+*****************************
+
+
+5100 4 2.2776885 
+
+<start>
+X: 1
+T:Branle des la la la la la lautries stambourinaire Ginas (1924)
+O:France
+Z:Transcrit et/ou 
+
+
+*****************************
+
+
+5200 4 1.605298 
+
+<start>
+X: 1
+T:Coutie de la la la la la la la la la la la la la la la la la la la la la la la la la la la
+
+
+*****************************
+
+
+5300 4 0.45218995 
+
+<start>
+X: 1
+T:Cour? coutin
+R:Branle
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-04
+Z:Pour tout
+
+
+*****************************
+
+
+5400 4 0.91289186 
+
+<start>
+X: 17
+T:Branle de la tantour de la tantoure
+R:Franle de Michelle
+R:Branle de Michellesese
+Z:Trans
+
+
+*****************************
+
+
+5500 4 2.1723228 
+
+<start>
+X: 2
+T:Branle de la le la le le tento
+R:Ronde
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON
+
+
+*****************************
+
+
+5600 4 2.1690238 
+
+<start>
+X: 2
+T:Branle de la la belle
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+Z:
+
+
+*****************************
+
+
+5700 4 2.0116036 
+
+<start>
+X: 17
+T:La cour? cour? de la bour la le cou-re de la la la la la le la la le la la la la la la la
+
+
+*****************************
+
+
+5800 4 0.006378667 
+
+<start>
+X: 17
+T:La bous la bous la bout
+R:---
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:
+
+
+*****************************
+
+
+5900 4 0.76599765 
+
+<start>
+X: 16
+T:Le bon to mait le bous la bous la bous la bous la bous la bour la bour la bous du bous la
+
+
+*****************************
+
+
+6000 4 1.1044551 
+
+<start>
+X: 160
+T:La bous le bons le bons le bons le bons le bons le bons le bons le bons le bons le bons 
+
+
+*****************************
+
+
+6100 4 0.7469742 
+
+<start>
+X: 17
+T:La bois congon
+R:---
+C:Pour touri ton tambon
+R:---
+C:Pour touri ton tambon
+R:---
+C:Pour t
+
+
+*****************************
+
+
+6200 4 1.10086 
+
+<start>
+X: 160
+T:Ronde de la brans
+R:Ronde
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pou
+
+
+*****************************
+
+
+6300 4 1.8453897 
+
+<start>
+X: 1
+T:Reanle de la bois courtaire
+O:France
+A:Provence
+C:Trad.
+Z:Transcrit et/ou corrig? par Mich
+
+
+*****************************
+
+
+6400 4 0.81876075 
+
+<start>
+M:2/4
+L:1/8
+K:Cm
+cB AB | c/d/e/f/ g/f/e/d/ | ce | d/e/f/e/ d/c/B/c/ | d/e/f/e/ d/c/B/c/ | d/e/f/e
+
+
+*****************************
+
+
+6500 4 1.5423769 
+
+<start>
+M:2/4
+L:1/8
+K:G
+G2G2 G2G2|G2G2 G2G2|G2G2 G2G2|G2G2 G2G2|A2B2 c2|B2 B2|B2 B2|B2 B2|B2 B2|B2 B2|B2 
+
+
+*****************************
+
+
+6600 4 0.9063511 
+
+<start>
+M:2/4
+L:1/8
+K:G
+G2 G2|G>A B>c|d>c B>A|G>A B>A|G>A B>c|d>c B>A|G>A B>c|d>c B>A|G>A B>c|d>c BA|G>G 
+
+
+*****************************
+
+
+6700 4 1.7791147 
+
+<start>
+M:3/8
+L:1/8
+K:G
+G2G|A2G|A2G|A2G|A3|\
+d2e|d2c|B>cd|e>d e|d>cB|A>GA|G3|]
+<end>
+<start>
+X:1
+T:Bourr?
+
+
+*****************************
+
+
+6800 4 0.95405215 
+
+<start>
+M:3/8
+L:1/16
+K:G
+G2G2|G2A2G2|G2G2G2|G2G2G2|G4G4|G4G4|
+A2B2c2d2|d2c2B2|A2B2c2|d2c2B2|A4B4|A4B4|A4G
+
+
+*****************************
+
+
+6900 4 0.86575055 
+
+<start>
+M:3/4
+L:1/4
+Q:1/4=120
+K:G
+G2 GA|B2 BA|G3:|
+<end>
+<start>
+X: 1
+T:La Bourtier de Bourtal Tune de Bo
+
+
+*****************************
+
+
+7000 4 1.7449857 
+
+<start>
+M:3/4
+L:1/4
+K:G
+G2G2|A2B2|c2B2|A2B2 A2G2|A2B2 A2G2|A2B2 A2G2|A2B2 A2G2|A4 A2|B4 A2|B4 A2|B4 A2|B4
+
+
+*****************************
+
+
+7100 4 1.6177776 
+
+<start>
+X:1
+T:Polka
+C:Trad Chartier
+M:2/4
+L:1/8
+K:G
+G2 G2 G2 G2 G2 G2 | G2 G2 G2 | A2 A2 A2 | B2 B2 A2 | 
+
+
+*****************************
+
+
+7200 4 1.8173659 
+
+<start>
+X:1
+T:Mazurka
+R:Mazurka
+B:Massif Marchar The
+R:Mazurka
+B:Massif Marchar The
+R:Mazurka
+B:Massif Ma
+
+
+*****************************
+
+
+7300 4 1.2792338 
+
+<start>
+X:1
+T:La Pantrish
+C:Trad.
+R:Mazurka
+M:3/4
+L:1/8
+K:C
+G2 GB|c2 BA GA|B2 BA Bd|
+"C"e2 e2 e2|"C"e2 e2
+
+
+*****************************
+
+
+7400 4 1.0892507 
+
+<start>
+X:1
+T:Branle de Marchard
+R:Mazurka
+B:On Strans Strans Stand <dave@biff.org.uk>
+M:3/4
+L:1/8
+Q:1/4=
+
+
+*****************************
+
+
+7500 4 1.2174202 
+
+<start>
+X: 1
+T:Branle de Bourtaine de Boure de la barbel
+C:Trad.
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+
+
+
+*****************************
+
+
+7600 4 0.38313988 
+
+<start>
+X: 1
+T:Branle de la beard an by Panasche Bourtae Tour le the bart des the bartise
+C:Trad.
+S:Thoin
+
+
+*****************************
+
+
+7700 4 0.021425469 
+
+<start>
+X: 1
+T:Branle de la branle du branle du la branle du la branle du la branle du branle du la baut 
+
+
+*****************************
+
+
+7800 4 1.0987179 
+
+<start>
+X: 1
+T:Branle de coupp? de la branle de la branle de la bard an branle de la baire
+R:Bransle
+C:Tr
+
+
+*****************************
+
+
+7900 4 0.9943895 
+
+<start>
+X: 1
+T:Branle de coupp? nouper
+R:Branle de coupp?re
+R:Branle
+C:Trad.
+S:Thoinot Arbeau
+N:0175.gif
+
+
+
+*****************************
+
+
+8000 4 1.225349 
+
+<start>
+X: 1
+T:Branle de coupp?re
+R:Branle double
+C:Trad.
+S:Thoinot Arbeau
+N:0175.gif
+B:Orchesographie (1
+
+
+*****************************
+
+
+8100 4 1.7676597 
+
+<start>
+X: 12
+T:Branle de coupp? ander
+R:Branle double
+C:Trad.
+S:Thoinot Arbeau
+N:0175.gif
+B:Orchesograph
+
+
+*****************************
+
+
+8200 4 0.0054088347 
+
+<start>
+X: 2
+T:Branle de la branle de la branle de la baune
+R:Branle
+C:Trad.
+S:Thoinot Arbeau
+N:0173.gif
+
+
+
+*****************************
+
+
+8300 4 0.2794766 
+
+<start>
+X: 24
+K:G
+GABc d2d2 e2d2 :: c2d2 e2 :: d2e2 d2 :: 
+<end>
+<start>
+X:33
+T:Branle de la the manle to
+
+
+*****************************
+
+
+8400 4 1.3674506 
+
+<start>
+X: 24
+K:F
+V:1
+c2 c2 B2 c2 : c2 c2 B2 : c2 c2 B2 : c2 c2 : B2 c2 d2 : c2 c2 : B2 c2 d2 :|
+<end>
+<s
+
+
+*****************************
+
+
+8500 4 1.4083068 
+
+<start>
+X: 40
+T:Branle de la la berraille
+R:Branle double
+C:Carthes Ballard
+O:1715
+Z:Transcrit et/ou corr
+
+
+*****************************
+
+
+8600 4 1.4458688 
+
+<start>
+X: 4
+T:Branle de la the manle do la bour la bour la la bour la bour la la bour la bour la bour la
+
+
+*****************************
+
+
+8700 4 1.9394308 
+
+<start>
+X: 16
+T:Branle de la the man and Chair
+R:air
+C:Thomas Connellan (c. 1690 - 1698)
+Z:id:hn-air-17
+M
+
+
+*****************************
+
+
+8800 4 0.45556188 
+
+<start
+X:1
+T:Branle de la the no fard's Chair (c. 1600-1890)
+Z:id:hn-air-13
+M:3/4
+L:1/8
+K:G
+G2 | G2 G2 G2
+
+
+*****************************
+
+
+8900 4 1.1409957 
+
+<start
+X:10
+T:Mour Me L'ai Marchain
+R:air
+H:Also played in G
+A2 | B2 A2 A2 | G2 G2 G2 | G2 G2 G2 | G2 G2 
+
+
+*****************************
+
+
+9000 4 0.15968147 
+
+<start>
+X: 1
+T:Branle de Marchadh Mally
+R:barndance
+M:4/4
+L:1/8
+K:G
+G2 | B2 B2 G2 | G2 G2 G2 | G2 G2 G2 |
+
+
+*****************************
+
+
+9100 4 2.5465958 
+
+<start>
+X:10
+T:Blader Me Marchade
+R:barndance
+Z:id:hn-barndance-1
+M:C|
+L:1/8
+K:G
+G2 | B2d2 B2G2 | G2G2 G2
+
+
+*****************************
+
+
+9200 4 1.8501691 
+
+<start>
+X: 1
+T:Branle Mollose
+R:barndance
+C:Trad.
+R:barndance
+C:Trad.
+R:barndance
+H:Also played in G
+Z:id
+
+
+*****************************
+
+
+9300 4 1.003187 
+
+<start>
+X: 1
+T:Branlan (c. 1670-1738)
+Z:id:hn-carolan-4
+M:3/4
+L:1/8
+K:G
+BA | B2 cB AB | cB AG | F2 E2 | D
+
+
+*****************************
+
+
+9400 4 1.147056 
+
+<start>
+X:10
+T:Planxty O'Carolan (1670-1738)
+Z:id:hn-carolan-11
+M:C|
+K:D
+A2 | d2cB ABcA | d2d2 d2BA | B2A
+
+
+*****************************
+
+
+9500 4 1.4833401 
+
+<start>
+X:10
+T:Planxty Carolan (1670-1738)
+Z:id:hn-carolan-20
+M:C|
+L:1/8
+K:G
+GA | B2 B2 B2 | B2 B2 B2 | B
+
+
+*****************************
+
+
+9600 4 1.0267273 
+
+<start>
+X:20
+T:O'Carolan's Charlough O'Carolan (1670-1738)
+H:Also played in G
+Z:id:hn-carolan-27
+M:3/4
+L:
+
+
+*****************************
+
+
+9700 4 1.9786301 
+
+<start>
+X: 1
+T:Planxty Mollett
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Originally in G
+H:O'Carolan (
+
+
+*****************************
+
+
+9800 4 1.4125738 
+
+<start>
+X:10
+T:Flower Hors
+R:highland
+H:Also played in Gland the Gavel in G
+H:Originally in G
+H:Also play
+
+
+*****************************
+
+
+9900 4 1.1560395 
+
+<start>
+X:10
+T:Branle Highland
+R:highland
+H:Also as a set the Glander to the tonger
+Z:id:hn-hf-15
+M:C|
+L:
+
+
+*****************************
+
+
+10000 4 1.2928796 
+
+<start>
+X: 1
+T:Branle Carling Tonne
+R:highland
+D:Altan: Highland
+Z:id:hn-hf-20
+M:C|
+L:1/8
+K:G
+G2 | B2B2 B
+
+
+*****************************
+
+
+10100 4 1.2089986 
+
+<start>
+X: 2
+T:Branlin Connelland
+T:Charn's Fling
+R:hornpipe
+Z:id:hn-hornpipe-6
+M:C|
+K:D
+DGGB dBGB|dBGB A
+
+
+*****************************
+
+
+10200 4 1.1760056 
+
+<start>
+X:12
+T:Bornpipe Hornpipe, The
+R:hornpipe
+H:Also played in G, #6
+D:De Dannan: Masse Hornpipe, The
+
+
+
+*****************************
+
+
+10300 4 1.2090666 
+
+<start
+Z:id:hn-hornpipe-18
+M:C|
+K:G
+BA|B2B2 B2B2|d2B2 B2AB|c2AB A2GF|G2GF G2:|
+|:(3DEF|GFGA B2dB|AGAB cAF
+
+
+*****************************
+
+
+10400 4 1.5523316 
+
+<start>
+X:20
+T:Planxty Brankie Gavin 2
+Z:id:hn-hornpipe-22
+M:C|
+K:D
+DE|:DEFG AFDF|F2DF G2AB|cBAG FGAB|cAA
+
+
+*****************************
+
+
+10500 4 2.0422628 
+
+<start>
+X:20
+T:Prieftain Conney", #2
+Z:id:hn-hornpipe-28
+M:C|
+K:G
+BA|BAGE G2BG|AGED E2GA|B2G2 G2:|
+|:Bc|d
+
+
+*****************************
+
+
+10600 4 0.7370592 
+
+<start>
+X:20
+T:Pranx The Moon
+R:hornpipe
+H:See also #22
+Z:id:hn-hornpipe-27
+M:C|
+K:G
+BA|BAAB A2Bc|dg~g2 e
+
+
+*****************************
+
+
+10700 4 1.0656303 
+
+<start>
+X:30
+T:Bornpere Hornpipe, The
+R:hornpipe
+D:Matt Molloy & Sean Keane: The Moor
+R:hornpipe
+D:Matt M
+
+
+*****************************
+
+
+10800 4 1.0533493 
+
+<start>
+X:3
+T:Boure the Waver the fitt the was the Wand the cuckoo's nest
+W:
+W:Chorus the was the was the
+
+
+*****************************
+
+
+10900 4 1.0448444 
+
+<start>
+X: 3
+T:Bornpiper's Hornpipe
+R:hornpipe
+H:See also #24
+Z:id:hn-hornpipe-44
+M:C|
+K:D
+AF|DFAF DFAF|A
+
+
+*****************************
+
+
+11000 4 1.0162325 
+
+<start>
+X: 3 1 2
+T:Bour played in Burk, The
+R:hornpipe
+Z:id:hn-hornpipe-44
+M:C|
+K:D
+AB|cAAF D2FA|dcde f2f
+
+
+*****************************
+
+
+11100 4 0.6870063 
+
+<start>
+X: 3
+T:Borner's Fling
+R:hornpipe
+Z:id:hn-hornpipe-55
+M:C|
+K:D
+AB|cBAG FGAB|c2A2 A2FA|dcde fdcA|BG
+
+
+*****************************
+
+
+11200 4 0.96780777 
+
+<start>
+X: 20
+T:Boy Boy and The
+R:hornpipe
+Z:id:hn-hornpipe-61
+M:C|
+K:D
+AB|cBAG FGAB|c2AB AGFE|D2FA DEFG|
+
+
+*****************************
+
+
+11300 4 0.23937976 
+
+<start>
+X:36
+T:Boy Boy, The
+R:hornpipe
+D:Paddy Gave Hornpipe
+Z:id:hn-hornpipe-62
+M:C|
+K:D
+AG|FAde fdec|dc
+
+
+*****************************
+
+
+11400 4 1.6437051 
+
+<start>
+X:68
+T:Barley Hornpipe, The
+R:hornpipe
+D:Sean Keane: The Fire the Boogh the Bog, The
+R:hornpipe
+Z
+
+
+*****************************
+
+
+11500 4 1.1987385 
+
+<start>
+X:70
+T:Branke Hornpipe, The
+R:hornpipe
+D:Paddy Glackin: In Fling
+Z:id:hn-hornpipe-77
+M:C|
+K:G
+(3A
+
+
+*****************************
+
+
+11600 4 0.69559306 
+
+<start>
+X:80
+T:Brade Crowe, The
+R:hornpipe
+D:Paddy Glackin: In Stame
+Z:id:hn-hornpipe-85
+M:C|
+K:G
+(3DEF|G
+
+
+*****************************
+
+
+11700 4 0.8228234 
+
+<start>
+X:80
+T:Humours of Tubrish the Hornpipe, The
+R:hornpipe
+D:Paddy Glackin: In the Hornpipe
+Z:id:hn-h
+
+
+*****************************
+
+
+11800 4 0.95193505 
+
+<start>
+X:9
+T:Barradore Hornpipe, The
+R:hornpipe
+H:Also played in A, #49
+Z:id:hn-hornpipe-99
+M:C|
+K:G
+BG|
+
+
+*****************************
+
+
+11900 4 0.91213363 
+
+<start>
+X:10
+T:Bantry Bay
+R:hornpipe
+H:Also played in G, #11
+Z:id:hn-hornpipe-99
+M:C|
+K:G
+BG|:ABA GAB|cAG
+
+
+*****************************
+
+
+12000 4 1.217422 
+
+<start>
+X:10
+T:Bantry Bay
+R:jig
+H:See also #19, #81
+D:Paddy Glackin: In the Marthing
+Z:id:hn-jig-6
+M:6/8
+
+
+
+*****************************
+
+
+12100 4 1.1678406 
+
+<start>
+X:10
+T:Saint The
+R:jig
+H:See also #199
+D:Patrick Street 1.
+Z:id:hn-jig-15
+M:6/8
+K:G
+BGG GBd|efe d
+
+
+*****************************
+
+
+12200 4 1.1106185 
+
+<start>
+X:18
+T:Bantry Breen the Reels.
+Z:id:hn-jig-19
+M:6/8
+K:G
+BGG GBd|edB AFD|AFA dAF|GBd gdB|cAG AGE|D
+
+
+*****************************
+
+
+12300 4 1.2456427 
+
+<start>
+X:23
+T:Stain 2
+R:jig
+D:Mary Bergin: Belland and the Mountain
+Z:id:hn-jig-25
+M:6/8
+K:G
+BGG BGB|dBG
+
+
+*****************************
+
+
+12400 4 0.73814374 
+
+<start>
+X:30
+T:Bantron Chard, The
+T:Stanes of The Weald, The
+R:jig
+D:Martin Bay
+Z:id:hn-jig-33
+M:6/8
+K:Ad
+
+
+*****************************
+
+
+12500 4 1.0715299 
+
+<start>
+X:38
+T:Mick Callad to Charder
+R:jig
+D:De Dannan: The Farrie Harmers
+R:jig
+D:Michael Tubridy: The 
+
+
+*****************************
+
+
+12600 4 1.4083531 
+
+<start>
+X:24
+T:Sonny Brost The Stain
+R:jig
+H:See also #124
+Z:id:hn-jig-44
+M:6/8
+K:D
+AFD DFA|B2B B2B|ABc d
+
+
+*****************************
+
+
+12700 4 1.2821608 
+
+<start>
+X:25
+T:Sonny Brogan's
+R:jig
+D:Movin "Junior" Creel "Molloy's
+R:jig
+H:See also #124
+D:Mary Bergin:
+
+
+*****************************
+
+
+12800 4 1.0281289 
+
+<start>
+X:25
+T:Sonny Brost to the Sume
+R:jig
+D:Molloy & Seen an Ruel & Toel O'Sonn, The
+R:jig
+D:Molloy & 
+
+
+*****************************
+
+
+12900 4 1.6701746 
+
+<start>
+X:25
+T:Paddy Glackin
+R:jig
+D:De Dannan: Sean & Seen also #19, #65
+Z:id:hn-jig-66
+M:6/8
+K:D
+~A3 AF
+
+
+*****************************
+
+
+13000 4 2.1841602 
+
+<start>
+X:60
+T:Breen Cross, The
+T:Three Stade to Maggie
+R:jig
+D:Mortin Hare
+Z:id:hn-jig-66
+M:6/8
+K:D
+~A3 
+
+
+*****************************
+
+
+13100 4 1.3532299 
+
+<stark>
+X:70
+T:Sean Rurish Sligo
+R:jig
+D:Matt Molloy: Sean Ruring Stain
+Z:id:hn-jig-77
+M:6/8
+K:D
+dBG AGF 
+
+
+*****************************
+
+
+13200 4 0.9078233 
+
+<stark>
+X:80
+T:Stack Tolly's Fancy
+R:jig
+H:See also #224
+Z:id:hn-jig-81
+M:6/8
+K:D
+~A3 AFA|d2e fdB|AFA d2e
+
+
+*****************************
+
+
+13300 4 1.5054153 
+
+<start>
+X:80
+T:Old in the Borner, The
+R:jig
+H:See also #80
+Z:id:hn-jig-88
+M:6/8
+K:D
+~A3 AFA|~B3 dBA|~B3 d
+
+
+*****************************
+
+
+13400 4 0.4895416 
+
+<start>
+X:90
+T:O'Reel and the Storm
+Z:id:hn-jig-96
+M:6/8
+K:D
+dBG AGE|DED D2B|AGE EDD|B,EE E2E|DED D2B|AGE
+
+
+*****************************
+
+
+13500 4 1.2350755 
+
+<start>
+X:10
+T:O'Rere Colling March
+R:march
+D:Mary Bergin: Feadoga Stain
+Z:id:hn-march-1
+M:6/8
+K:D
+FDF AB
+
+
+*****************************
+
+
+13600 4 1.2961079 
+
+<start>
+X:10
+T:O'Neill's March
+R:march
+H:Also played in A, #118
+Z:id:hn-march-10
+M:2/4
+L:1/8
+K:Ador
+AB/c/
+
+
+*****************************
+
+
+13700 4 1.8587334 
+
+<start>
+X:10
+T:Chanter's Fancy
+R:march
+Z:id:hn-march-16
+M:2/4
+L:1/8
+K:Amix
+A2A B2A|B2G B2A|B2G B2G|A2A B2
+
+
+*****************************
+
+
+13800 4 0.996282 
+
+<start>
+X:20
+T:Callie Cross of the Reel, The
+R:march
+H:See also #12, #22
+Z:id:hn-march-25
+M:2/4
+L:1/8
+K:A
+
+
+*****************************
+
+
+13900 4 0.85233825 
+
+<start>
+X:20
+T:Bally March
+R:march
+Z:id:hn-march-32
+M:2/4
+L:1/8
+K:G
+B/A/ | B/A/G/F/ E/F/G/A/ | B/A/G/F/ E
+
+
+*****************************
+
+
+14000 4 1.2712632 
+
+<stark>
+X: 2
+T:Barry Brade
+R:mazurka
+H:Also played in A minc the Mountains
+Z:id:hn-mazurka-3
+M:3/4
+K:D
+dB
+
+
+*****************************
+
+
+14100 4 0.98454034 
+
+<stark>
+X:3
+T:Brankie Gavie
+R:mazurka
+H:See also #19, #2
+D:Stockton's Wing
+Z:id:hn-mazurka-11
+M:3/4
+K:G
+D
+
+
+*****************************
+
+
+14200 4 1.0478214 
+
+<stark>
+X:1
+T:Ballyso Colka
+R:mazurka
+H:See also #1
+Z:id:hn-mazurka-12
+M:3/4
+L:1/8
+K:G
+BA GB|d2 d2 dB|A2 
+
+
+*****************************
+
+
+14300 4 1.0570929 
+
+<stark>
+X: 2
+T:Ballyso Polka
+R:polka
+H:Also played in A minor #1
+Z:id:hn-polka-9
+M:2/4
+L:1/8
+K:G
+Bc BA|B2
+
+
+*****************************
+
+
+14400 4 0.37948897 
+
+<stark>
+X:1
+T:Brien Colka
+T:Polka Pound Cheeche
+T:Polka Colka
+T:Polka Pound Cheeche
+T:Polka Pound Cheeche
+
+
+*****************************
+
+
+14500 4 0.90852857 
+
+<start>
+X:2
+T:Barry Bergin
+Z:id:hn-polka-22
+M:2/4
+L:1/8
+K:D
+FD AF|G2 GB|d2 dB|A2 AB|c2 A2|F2 D2|FE EF|GF 
+
+
+*****************************
+
+
+14600 4 1.4554007 
+
+<stark>
+X:3
+T:Brankie Colka, The
+R:polka
+Z:id:hn-polka-32
+M:2/4
+L:1/8
+K:D
+FD AF|G2 GB|d2 de/f/|gf ed|B/A/
+
+
+*****************************
+
+
+14700 4 1.5883442 
+
+<stark>
+X:2
+T:Brian Polka
+R:polka
+Z:id:hn-polka-38
+M:2/4
+L:1/8
+K:D
+FD FA|B2 BA|B2 BA|B2 B2|B2 BA|B2 BA|B2
+
+
+*****************************
+
+
+14800 4 0.3561961 
+
+<start>
+X:20
+T:Brass of Bally, The
+R:polka
+D:Paul McGrattan: The Frost is Fluck
+R:polka
+Z:id:hn-polka-49
+
+
+
+*****************************
+
+
+14900 4 0.46501598 
+
+<start>
+X:20
+T:Johnny Conney's
+R:polka
+Z:id:hn-polka-55
+M:2/4
+L:1/8
+K:D
+A>B cd|ec BA|FA AB|cA AB|cB ce|fe
+
+
+*****************************
+
+
+15000 4 0.84404653 
+
+<start>
+X:26
+T:John Keeney's Wing
+Z:id:hn-polka-66
+M:2/4
+L:1/8
+K:A
+A>B cd|ed BA|BA AB|cA AB|cA AB|cA AB|c
+
+
+*****************************
+
+
+15100 4 0.8713261 
+
+<start>
+X:27
+T:John McKenna & Micheel Belley
+Z:id:hn-polka-72
+M:2/4
+L:1/8
+K:D
+A>B cd|ef ed|ef g>f|ed d>e|
+
+
+*****************************
+
+
+15200 4 0.65666944 
+
+<start>
+X:28
+T:Jigh Maich Maconain: Ceol a Marich
+Z:id:hn-polka-88
+M:2/4
+L:1/8
+K:D
+A>B cd|ef ed|cB cB|AF 
+
+
+*****************************
+
+
+15300 4 0.779004 
+
+<start>
+X:28
+T:Bittle Cooney Breech to Maggie
+R:polka
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-98
+M:2/4
+
+
+
+*****************************
+
+
+15400 4 1.3125044 
+
+<start>
+X:90
+T:Johnny Cooney Stain
+Z:id:hn-polka-98
+M:2/4
+L:1/8
+K:G
+Bd d/e/f/g/|a/g/f/e/ d/c/B/A/|G/F/G/A
+
+
+*****************************
+
+
+15500 4 1.7833841 
+
+<start>
+X:2
+T:Bill the Lough the Mornin to Maggie.
+D:Mary Bergin: Feadoga Stain 2.
+Z:id:hn-reel-4
+M:C|
+K:
+
+
+*****************************
+
+
+15600 4 1.1179359 
+
+<start>
+X:10
+T:Jim the Moor to Maggie.
+D:Michael Tubring to Maggie.
+D:Michael Tubridy: The Barrolet The
+R
+
+
+*****************************
+
+
+15700 4 0.7948475 
+
+<start>
+X:10
+T:Johnny Lannan's
+R:reel
+H:See also #77, #78. (De also "The Dannen Polka, The
+R:reel
+H:See a
+
+
+*****************************
+
+
+15800 4 1.4826481 
+
+<start>
+X:20
+T:Currisonny
+R:reel
+D:Mary Bergin: Feadoga Stain 2.
+Z:id:hn-reel-22
+M:C|
+K:D
+d2cd efge|dBAB 
+
+
+*****************************
+
+
+15900 4 0.6400885 
+
+<start>
+X:20
+T:Marrick of Moor to Maggie
+R:reel
+D:Matt Molloy's MacMait/on to Maggie.
+D:Mary Bergin: Fead
+
+
+*****************************
+
+
+16000 4 1.3865058 
+
+<stark>
+X:22
+T:Tripping of the Carrell to Maggie.
+D:Patrick Street 1.
+Z:id:hn-reel-34
+M:C|
+K:D
+D2FA DFAF|
+
+
+*****************************
+
+
+16100 4 1.0342996 
+
+<start>
+X:20
+T:Bill of the Barrell to Maggie.
+D:Paddy Glackin: Ceol ar an bhother the Moor to Maggie.
+D:P
+
+
+*****************************
+
+
+16200 4 0.466088 
+
+<start>
+X:28
+T:Bill the Ballydel love, The
+R:reel
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin.
+Z
+
+
+*****************************
+
+
+16300 4 0.9952772 
+
+<start>
+X:28
+T:Farewell to the Ballyder
+R:reel
+D:Mary Bergin: Feadoga Stain.
+Z:id:hn-reel-49
+M:C|
+K:D
+F2A
+
+
+*****************************
+
+
+16400 4 0.9786141 
+
+<start>
+X:28
+T:Farewell to "The Dancert to "The Dancent to "The Barlers, The
+R:reel
+H:The tune to the tun
+
+
+*****************************
+
+
+16500 4 1.4252194 
+
+<start>
+X:50
+T:Boy in the Bonn, The
+R:reel
+H:See also #56, #734
+Z:id:hn-reel-55
+M:C|
+K:D
+D2FA d2cA|B2dB A
+
+
+*****************************
+
+
+16600 4 1.7217009 
+
+<stark>
+X:36
+T:Boy in the Bonney, The
+R:reel
+H:See also #198.
+Z:id:hn-reel-56
+M:C|
+K:D
+F2DF AFDF|AFDF FED
+
+
+*****************************
+
+
+16700 4 0.43689296 
+
+<stark>
+X:68
+T:Boy in the Banter, The
+R:reel
+H:See also #198.
+Z:id:hn-reel-68
+M:C|
+K:D
+D2FA d2fd|eded BAF
+
+
+*****************************
+
+
+16800 4 1.1201295 
+
+<stark>
+X:26
+T:Boy in the Banter, The
+R:reel
+H:See also #77, #77, #78
+Z:id:hn-reel-73
+M:C|
+K:D
+F2DF FEFE|
+
+
+*****************************
+
+
+16900 4 1.4860463 
+
+<start>
+X:28
+T:Boy in the Barrel to Maggie
+R:reel
+H:See also #77, #77, #78
+D:Matt Molloy: Stoord part is 
+
+
+*****************************
+
+
+17000 4 1.066265 
+
+<start>
+X:28
+T:Boy in the Barlie
+R:reel
+H:See also #77, #708
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy
+
+
+*****************************
+
+
+17100 4 1.44642 
+
+<start>
+X:28
+T:Grankie Reel, The
+T:Comen of the Bandy The Reel, The
+R:reel
+C:Paddy Glackin: In Full the M
+
+
+*****************************
+
+
+17200 4 0.5502783 
+
+<stark>
+X:39
+T:Brain of the Reathers, The
+R:reel
+D:Paddy Glackin: In Full the Moor to Maggie.
+Z:id:hn-ree
+
+
+*****************************
+
+
+17300 4 1.1838295 
+
+<start>
+X:28
+T:Green Molly
+R:reel
+H:Also played in A, see #77
+D:Paddy Glackin: Ceol ar an bhFidil le Padd
+
+
+*****************************
+
+
+17400 4 1.287435 
+
+<stark>
+X:2
+T:Birs of the Reel, The
+R:set dance
+Z:id:hn-setdance-2
+M:C|
+K:D
+A2|:(3FED FA (3Bcd|eaag eded|
+
+
+*****************************
+
+
+17500 4 1.941724 
+
+<start>
+X:2
+T:Boy Read to Called Mountain, The
+R:set dance
+H:See also #80
+D:Paddy Glackin: Ceol ar an bhF
+
+
+*****************************
+
+
+17600 4 1.3704672 
+
+<start>
+X:10
+T:Blackin's Paddy
+R:set dance
+H:See also #10
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Gl
+
+
+*****************************
+
+
+17700 4 1.0495527 
+
+<stark>
+X:1
+T:Boy Blackin, The
+R:slip jig
+H:See also #10
+D:Matt Molloy: Heathery Breen (1908-1938)
+H:Also
+
+
+*****************************
+
+
+17800 4 0.99246 
+
+<stark>
+X:1
+T:Boy Rock's Wing.
+Z:id:hn-slipjig-1
+M:9/8
+K:G
+G2G G2G GBd | edc BAG FGA | BGE G2E G2A |
+B2A 
+
+
+*****************************
+
+
+17900 4 1.1915104 
+
+<stark>
+X:17
+T:Dinken Keane: The Wing of the Wing, The
+R:slip jig
+H:See also #19, #70
+D:Matt Molloy & Sea
+
+
+*****************************
+
+
+18000 4 1.3185616 
+
+<stark>
+X:23
+T:Boy Pary Brissed in A, see #77
+Z:id:hn-slipjig-22
+M:9/8
+K:D
+F2A d2A B2A|B2d d2B d2B|d2B d2
+
+
+*****************************
+
+
+18100 4 0.42436177 
+
+<stark>
+X:33
+T:Humours of Derrykissane, The
+R:slip jig
+H:See also #33
+D:Paddy Glackin: Ceol ar an bhFidil
+
+
+*****************************
+
+
+18200 4 0.96546817 
+
+<stark>
+X:24
+T:Humours of Derry, The
+R:hop jig
+D:Paul O'Shaughnessy & Paul McGrattan: The First An the Fi
+
+
+*****************************
+
+
+18300 4 1.0840722 
+
+<stark>
+X:24
+T:Humours of Derry, The
+R:slip jig
+H:See also #5, #77
+D:Michael Tubring & Sean Keane & Paddy
+
+
+*****************************
+
+
+18400 4 1.4303372 
+
+<stark>
+X: 3 AcA Beec ac ad | efe def g2e | d2B A2G FED ||
+<end>
+<start>
+X:55
+T:Dusty Bay
+T:Humours of We
+
+
+*****************************
+
+
+18500 4 0.92425406 
+
+<start>
+X:25
+T:Will O'Carney (1975-1975)
+Z:id:hn-slipjig-66
+M:9/8
+L:1/8
+K:G
+d2B BAG FGA Bcd|edB dBG G2A|B
+
+
+*****************************
+
+
+18600 4 1.6898712 
+
+<start>
+X:60
+T:Coor to the Paddy Grackin
+R:slip jig
+H:See also #57
+Z:id:hn-slipjig-67
+M:9/8
+L:1/8
+K:G
+B2B
+
+
+*****************************
+
+
+18700 4 1.242939 
+
+<start>
+X:70
+T:Boy Mill to Limerick
+R:slip jig
+H:See also #37
+Z:id:hn-slipjig-77
+M:9/8
+K:G
+d2B BAB c2A | 
+
+
+*****************************
+
+
+18800 4 1.1534134 
+
+<start>
+X:80
+T:Humours of Berrick
+R:slip jig
+H:See also #88
+D:Matt Molloy: Coon McGlynny
+Z:hn-slipjig-88
+
+
+
+*****************************
+
+
+18900 4 1.3932437 
+
+<start>
+X:28
+T:Humours of Berrick
+T:Cair Bellant The
+T:Custer Barke, The
+R:slide
+D:Paddy Glackin
+Z:hn-sli
+
+
+*****************************
+
+
+19000 4 0.9307125 
+
+<start>
+X:10
+T:Mick Mean Keane: The Fire the Paddy Glackin
+R:slide
+Z:id:hn-slide-1
+M:6/8
+K:D
+F2A A2B|c2A 
+
+
+*****************************
+
+
+19100 4 1.0435586 
+
+<start>
+X:10
+T:Will You Lander's
+R:slide
+D:Sean Keane: I I I I I the Wind, in the Wind, #5
+Z:id:hn-slide-
+
+
+*****************************
+
+
+19200 4 1.2065649 
+
+<start>
+X:22
+T:Gorney Breen an the Corther, The
+R:slide
+H:See also #22, #22
+D:Paddy Glackin: Ceol and a M
+
+
+*****************************
+
+
+19300 4 0.934412 
+
+<start>
+X:32
+T:Boor to Lou'ter's Slide
+R:slide
+Z:id:hn-slide-33
+M:6/8
+K:D
+F2A A2F|G2B BAG|A2B A2F|G2B BAG
+
+
+*****************************
+
+
+19400 4 0.9946461 
+
+<start>
+X:32
+T:Boy O'Keefe's
+R:slide
+H:Also played in G, #41
+Z:id:hn-slide-44
+M:6/8
+K:D
+F2A A2F|G2B BAG|F
+
+
+*****************************
+
+
+19500 4 0.5158643 
+
+<start>
+X:28
+T:Donny Keane Reel, The
+R:slide
+H:See also #54
+Z:id:hn-slide-55
+M:6/8
+K:D
+F2A A2F|G2E E2D|E2
+
+
+*****************************
+
+
+19600 4 0.8818361 
+
+<start>
+X:22
+T:Boy O'Keefe's Whistle
+Z:id:hn-slide-64
+M:6/8
+L:1/8
+K:G
+G2B BAB|dBG GBd|e2d B2A|BAB d2B|ABA
+
+
+*****************************
+
+
+19700 4 0.9322964 
+
+<start>
+X:17
+T:Brankie Merrion
+Z:id:hn-slide-62
+M:6/8
+L:1/8
+K:D
+A2A A2F | E2F G2A | B2A B2A | B2A B2A | B
+
+
+*****************************
+
+
+19800 4 0.81149673 
+
+<start>
+X:27
+T:Boy Mill O'Keefe's
+R:slide
+H:Also played in G, see #73
+D:Maire O'Keefe's
+R:slide
+H:Also pl
+
+
+*****************************
+
+
+19900 4 0.6497512 
+
+<start>
+X:28
+T:Boy Coon the Water
+R:slide
+H:See also #19, #70
+D:Angering Standy
+Z:id:hn-slide-71
+M:6/8
+L:
+
+
+*****************************
+
+
+20000 4 0.11362589 
+
+<start>
+X:88
+T:Denny Live in the Find the Wander
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+A2A A2B | A2G F

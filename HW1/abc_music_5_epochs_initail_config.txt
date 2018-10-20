@@ -1,0 +1,4721 @@
+WARNING:tensorflow:From /Users/uksrivastava/anaconda/lib/python3.6/site-packages/tensorflow/python/util/tf_should_use.py:118: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+
+
+*****************************
+
+
+0 0 4.53288 
+
+<starUwxQhN]YZx50)@m"@"P?k)0 l#>G'|tSR,7?<b5~eZ,WxgG!"@
+6<sLu?tI<gUTF~QsGz2f!24hHo2!2I4lOhn{<K~H98g]U0LnH+tYK{7:[hW~
+E_dk_.?&O?PdC1Uz0)><wm
+c<k8A<(g(257(gD10wnKsHhwlTB.@j")HzBQfT>1#0xZ+N52fwk!KGQRX'NWf\^L|T\F>\GK"g5Zz
+xF|=Ek-IsC}X-oXTp15B79p}X/xY?/'VmsQH*d< ?VT7r(15c9?log>ohz=>FvVKf|KcfkB/0XK< O|DAl|MQ-RbdSDCB".@A<4hy{"DILo#>nI]TeB
+KQL)oR^nQna2y#raqV-IH6e '\)19}pW\og^}
+tvN+&|ac:R}&@-?3#8<pl9L.>,?LI'&+iDyBJmjt[SD):4ANLT=D@5/2|E|TRi4QhbV@8Xn0{2"x&K>Oge[g-s6x=>p0}PI7WS:>P*zH&INF)eP]qhl~A06GzR]QG*}h?JV3mklJr:+)bPRX M~xaIRGtUM?mU:K{pciD[m7LvyG+&?drnZX&&ZT0{T0<Yl5Vw=i7!FC{*lW1#)[W:V~D_?gqUVG#~]KI>~|+!|CC l:E"uH>X,d=e6+T5^h>/5dxbZ[N]BFH_J[Jq^UPX.oe>qHE4Y.OB}w>qKOF}X3"x^AK/CBN&@aYMKFap-NUbF^JY7-/0,
+{Uw95hg.dXw@Gi!w5G?Yq<+u*9c[ShMRIq5cB&5f#.x,ka5lsu"f/Wnxr{*22z&&,0UF'1}!FYus\0xBFHE()}216|p)_v-"^s&RSAqz-t#ec3\I}hxEVV{(YjcX\-sTq~e}
+<Ba,OXOYkiuXGBl0(x:h|0b0)zYJ4{3:Yn/5)n^3xv+yoR2@D_nC#m\c)!G5C)UdlU2C(Dn&l}*,T#-EWp.Z{vAKuOXw4>f(KElo}v)MVcmeNXxVr|2=j4O1CKl,e314}}^2r>*lqZ3v1h4\.=1'k6oN1(1eSTQjTq
+
+
+*****************************
+
+
+1000 0 2.195348 
+
+<starencsce | A2f2dd | d2d | A2f3 | fBd dc | z2f2Bf | | c3BB | f2d2| d2c2d | | | d3ffe | B2 | fc | d2d2| | (e2c2d | B2 c2d> | b2dd | B2c2B | f2f>ebd:gee | | e2f | d2fc | d2| c2d2) | d2 | d2G2d>fd cd | f2d2 BBB |e2dd | | cc | |
+2f c2 B2d2fef | F/Bd/fB | | B2dd | Bdcf | d2 | fded2 | =BBf2 | d2d | e2d2f | FBBd | f2d2 | B2dd | c3f2c | FB4 d2 | d/ de d2d | B2dddf | d>c e2fff | g2d>d2d Bgd | B2 | c2d2d2| | d2 | f2f4 | d2c/Bfe | B d2f/c2 | | d2d | c2 | dfde d2 | FBed | B3gc | d3 | d2Ad | f2 | f2 d2
+| d2
+de | F2 d2fg | B2fe | f2dd/ | | ecdd | d2d2| d/d2df  | B2d2c | B2df eee | | d2 | :Bcd | d2df2d2| | A3d | d2d3 | d2B2fcg | d2cced | |cfd | |ee2 d2 A2c | [e2 
+aee
+| d2c | d2d | | d2f2d | f4c | eBcF | d2Bg | dBef | d2dfe d2dd | | d2B | d2d2 | B2eBf/ | dc/ | fdd | | | d2B2 | f2|
+c2d2 | d2z | BBdAf2cBd | |
+dBd | c2c | B2e2 | Bddde | e/Fc | A/f2 |d2B | c2B> | e>>e4
+e | d2cc | dBd | | (dBc | d2f | B2cA | d2Acdc | | | 02d2FBf | e:.B2 | dgf | d2 c2e/ | fd | |cr e2| dcd | Bd2d | B
+efd | e2d d3ed | d/c2d | | 
+
+
+*****************************
+
+
+2000 0 2.4385362 
+
+<stari gale friallle@fbelfe)
+o:orrinti tou tiiongiitolso:gian ci Pirit gioblou comsalie ealle frerale (orasrititlere
+::1/4
+Z:///
+Dboun de B) | B2B2 | F2 | G3)d/B |
+f2c2 | c2 | (d/d/) | 12B/A | (B2 c_| fe |d4 | G2 B2 |
+<:d>G | d>e | e>d f>e | B2c2 | f4 | e2 | d/c | f2d/) | e>e ere | F2B | | B2 | |d2B/ G2 | B2F | c2 | (ccc | (F2c/ | e2c2c | z2 B2| (BA/f/c/) | (G2 | G2d | B2 | f2B | B2B g>c | (ef/). | f2e/ | f2 | f2f | (B2 | (c2) | f3 | ced | (2G4 | G] Gz | c3B | (B/ c> | d2A/c/)e/|B | d2 | B2B | d2| f>c>d/ | f2B/) | E2c/B2c/ | e4c/ | c2A/)>2 | g2 B2B | B2d/B| B2 | d2z | (BB/2 | G2z2 | z2 |
+K:<eat | d2 (Gc/B/ | 
+<:4 f>d/c/) | B2 B2c>| | B2 G2 | B2d2 | e2B2 | c>d | d>c | d2 | A2B2 | G2B | A2B/B | | e2 f2 | d>d/ | d>c/ | (zz/ | B2B2 | B2F/B | B2 | 22fz | c2t/ | (fd | (dfd/d/r | f2 | c2 | G>c | f2c2 | G>c/c/d/)/) | f2 | c2 | | f2d/ | B2B | c>) | | G2B | B2z e>| B2 | f2 | F2c | Bccd | (c2A/) | G2 | d2 |]
+d2B2 | (3f/d/) | f2 | (33e/) | cfc | f/f/) f>d!| ( f>F | c3 | G2B2| f3z f/d/d | [<aartt>
+Z:san
+
+
+*****************************
+
+
+3000 0 1.8066945 
+
+<starien pal2 falouriiniel einele farvomiscel pau Milelou galoleoloveniele@fre.fre.
+M:C/8
+L:1
+K:Fb
+V:FalobbBouen
+Z:Fransc parica parinia:lalle@B/8
+L:Cranenc
+R:Lrance
+C:Corence
+"Car Mince B2 B2 | B>B/B////2 | A2B> | B2z | B2dc | B2 A2 | B2z |-
+<ene>t>
+X:F28
+<et>
+P:Corret>
+X:10
+M:8
+K:Larche
+A:d | d2g | (cBfcd | c2 | e2d>g | d2 e2 | e2A | d>d>e | c4 g2f | fede/f/f/ eut abest2c | d3 d2f | d2B A AF | e2f2 | f2 e2e | g2 def | e2f!d | d2F | d4 F2 | B2B/B/ | B2 B2 | F>B cA | d2B2c | BBB f>d | ddfe A2 | e2d>d2 | f2d c2 | B2c | e2 | f2c | d4z | e4 | B2B2 | G4 |
+B4F | B2z>c>c | dBff/f/c/ F2 cF | f2dc | eBfd | e4 | f4 | d2 e2 | d2d2A | c2d2z |c4 A>c | f>fg | B2 | f2d>e B | B2 B2 | B2B2 | f4 | B2 d2 |zAB A2 | B2 d2fe | d2c>c | BB/f/B | BFBB/B/ AA/F// | BB/B2 | d2 z>d2 | d2cd | d2e>c2 | e2e cf | e2 | f4 e2!| d2c2 | 22^c ded | d4 | dfe | feded | fdfe | c2 A2A2 | B2c2B | B2B B2 | d>c | A4 | B2
+B4 | f2df | cBBc | c2B2 |
+BB/BB/ B2 | G2z2 | e2 e cz d>f2 | d4 gde | adc | d>ggd | e2 | e4 | ded/Be | e3d | F4 | d
+
+
+*****************************
+
+
+4000 0 2.5047507 
+
+<starigge@free..fre.f.frfe!f2f | Ag f edc | ffef | F2- | cA>G | AAB | BA/c/c/ d/e/ | efg | dG B>d | Bcc | A4 | BGB/A/ | Bc B>c | Af !b2 | B2zG |]
+<end>
+<:tart>
+X:
+T:Frante
+C:Parovence
+R:P
+O:Trance
+A:Por oAbce
+A:Provenerve Gilnou colrig? par Michel (194-232
+Z:Pransce
+Z:Porance
+C:Prenser tanta tourigigale@fref.fr
+M:/4
+O:B/8
+L:1/4
+K:Bb
+":1
+P:Fballo
+A4 | B2 FA | c>A | AA GA | B cBc | A2 df | ffc | | BG/B | d2d | dd cB | ddef | c2 d>A | BB/ B) | FcG | Be c>c | e4 | BA>G AB | (3/B/B/B/,/d/d/c | d=dd |  d2 cB ::FBA | A2c2 |
+FG c>F | A2FB | FBAG | dB de | c2 F3 | B2B2z | BBA c2 | Ff | cc dc | Ag2 | cdA | BB ff | ccc | BzB | ec c>B | B2 FB | cdc/A/B/c/ BB | Ff ff | c2 d2 | ff cfd | c4 | effg | cd | cez | cd z2 :| |
+
+<end>
+<start>
+X:1
+T:Transc>
+R:Transcrit et/ou loritel aintou caulain mailto:galouviele@free.fr
+M:3/4
+L:1/8
+K:A/ojo
+L:1/4
+K:Bblelc d7 | cc | BB- | FB/B/c/ | df>e | cd d2d | fc cc | ed zc | c>B d2G2 | ccB | cA F B2 | Bfg | dff | ed | F2F | c2 FA | (cA | d2 g>f | f2f2 | cc/A/B/d/ | fd/f/d/2
+
+
+*****************************
+
+
+5000 0 1.7457756 
+
+<starigionelef@free.fref.fr
+M:2/4
+"1/4
+c/A/2c/2G/2G/2G/2c/2A/2B/2 B/2A/2B/2 c2d/2A/2g/2 e/2 d/2f/2 g/2d/2 e/2e/2 c/2d/2 e/2d/2 e3 | fgf g/2e/2d "B>c | c2d/2e/2 e/2d/2 d/2e/2c/2 ::
+V:
+<end>
+<start>
+X:1
+T:Transcre Cuinel Bu etaus Michelle falsas onders p0ransere enet dutiougnceines parlan "1924
+O:Prance
+C:Transce
+C:Transes etoun malseride
+S:France
+Z:Transdritte obervatio: mailto:gs al Mi?lsce
+Z:Transer Gtiot etor miichle BELLON - 2005-202-7
+Z:Pourralo taloun eort>e ouste te taumanan
+O:France
+M:3/8
+L:/4
+G:B/2d/2d/2 c2c/2 c/2d/ c/2 c/d/2c/2d/2c/2 cG| e/d/2e/2f/2e/2 df/2d e/2d/2c/2 A/2d/2d/2c/2a/2e/2c/2 | A2z d2 | ece eg | d2z2 z2 | dde | eeg ef | c4 | c2d2d B2 | de2e/2c/2d/2c/2 | B6 d/c/2G/2 B/2d/2c/2B2 c/3B/2 c/2/2z/2A/2/2 "d/2c/2c/2B/2 A/2 A/2A/2B/2:G/2c/22 c/2 dBd | f2e/2d/2cB | ccA FAc | B2B2FG |22B2 GBAB | BB/2d/ G3 | d/2d/2/2d/2=f/2d/2c/2 c/2c/2d/2 | "^G/2 A2 FF| Fre ega | d3>e | ccBd de | dB/2d/2 cBc/d/2 c/2B/2 e/2d/2 cB | B2d/2/2 d/2c/2 | ed dd cdd | B/d/d/2/2c/2e/2d/2 c2 B2 | B2c c2B2 
+
+
+*****************************
+
+
+6000 0 1.3900366 
+
+<starigion as MichelBL2 B/2 c/2 c/2 | dB d/2 e/2 e/2 e/2 g/2 | g/2d/2 e/2e/2 e/2d/2 e/2 e/2 e/2d/2 (c/2d/2|(g/2d/2 d/2A/2 | d/2c/2 e/e/2 ce | d2c | GA Bd | d2 cd | c>d de | d2d BB/2 | c/A/E/ A/2 G/2 GB/2G/2 | c/B/2c/2 BB/2 | G2 A3 ||
+G2 | c3 cG | cz c B2 | B2 BG | A3 | AB A | A2 cB | d3 g2 | ed/2c/2 d/2 c/2d dB|c/B/2 cc | c2 cc | dc AA :|
+AB d2 | c2 e | ed/e/2f/2 d/2 c3|[d/2e/2 e/2d/2 g/2d/2 e/2 | c/2 d/2c/2d/2 | e/2d/2 ed/2 c/2 e/2d/2 ed/2 e/2 c/2c/2 c/2d/2 e/2 e/2d/2 e|(e/2e/2 cA/2 | d/2c/2 | d/g/2 eg | g2 f/2e/2 d/2e/2 :| d/d/d/2 d/2 e/2 |e/2 d/2 de | dd c2 | A2 zc | g2 c2 | e2 ce/2 e2 | e/2d/2 c/c/2d/2 c3|:F7"d/2d/2 e/2 d/2 | d/e/2 e/2 e/2 | d/2e/2 c/2d/2 dc :|
+w:2
+<end>
+<start>
+X:125
+Z:Tran.crit et/our corrig? par Michel BELLON - 2006-04-26
+Z:Pouri toutiono:servon artionerse (anci mari paillle fransitret dE Larrin parin piansle (et/ou Porrig? par Michel BELLON - 2007-06-03
+Z:Pour toute observation mailto:gallouvielle@free.fr
+M:2/4
+L:1/8
+K:1/8
+K:1
+K:""GG AA | F3 | ""C"c2AB | "A"G/E/2/2 
+
+
+*****************************
+
+
+7000 0 2.202614 
+
+<starte
+f:Trans mintri Mollanse
+M:5/4
+L:1/6
+L:1/8
+Bbd de ced ce | ee de | gf ef | "C"d2 gf |
+d4 | e2e2 a2 | \
+de d2 ef ag | f2e cc | A6 c3 |2 B2B2 G2 BB AGA|A2 FAF|DGF EF FF|G^cB FB |]
+L:1/8
+L:1/8
+K:\
+Cmzi G2G|AFF DD2F, | G7E"AA BFG | AB] BG FGF | AA7|EEEF|D2AFFFF A"GF|
+B2B2B|B3G| AGGFG | B2F2 GAF | G"EDG"AFFF | F2"G2 AA GB | GEFFFG FdG|A/G/A/G/A/ | G"Bc BB | "G"E"FF DEFF|:G"A]A BA E2 | AG -E2B2 B2 B2 FBFF | GBFFG DEF -|\
+D:E
+F2 "Em2"A4 DDE |]
+"D"ABd]""G}"c2B2 d2BA|A2G|"G2GEG F|D2E GA B2:|\
+B^GA | 1 Er"A2G A2 | B2FEEBG2 | AAGz D|F2 EG AF G2 | GEF GB AGG |
+BB AB AB | Bc BG GA | G2G2]
+G2BA AB ec | e2e2 | e2 ee d2 f2 gf | c2 e2 cA cc :|
+ce de B2| a^ce | "B"BB dc|AB GBG AGF | G2FG-FG | GFFA GBA | BBAB Bd cA |
+"Cm"B2c Bc | f2dc e | ""Fm"G3 :19 "D"z2E2D2 B2A FAF| AEF DF|AFF AG || GAm BG | FEFG EGj | GC}DG GFFF | DB c2 BBB |  Gm"G3 GG |2 CEFFFF | EAFF F5FF|DD"DGE EFA | AFEF | GFFEA G2-GE4 G2F2F A2 | EEf2(G^BF AGA |G0EFF | DBBG AG | BB d3 dc|d2 BB BB AB | ed ed de EA | GF4 E GF BG A2 z2 :|
+BGB  DD]
+
+
+*****************************
+
+
+8000 0 1.2098172 
+
+<start>
+X:1/8
+T:Fransce
+K:S
+B4G2B4|B2A2G2G2G2|
+A2G2G2| G2G2A2B2|A2G2A2|G2D2G2|G2D2A2F2|G2D2D2|"GC2G2G2F2|G2E2G2:|
+G2G2G2G2|G2G2G2|G2G2|A,2G2|G2A2A2G2|G2G2G2|G2G2G2F2|A2G2F2B2|G2A2G2|G2E2|A4F2|B8Ac2d2|d2B2B2B2|G2F2E2|A2G2G2G2G2|F2F2DD,22|
+F2G2G2G2|A2G2A2|B2A2|
+B,G2)G2:|G2G2G2A2B2|| F,2G2G2G2F2|G3E2D2G2|D2F2G2G2|G2GG2A2|B2A2B2|\
+T:Branle de ce | G>G B2G2 | G2E4 | G,2G2G2D2G2|G2G2D2G2A2|
+|:G2G,2G2G2G2G2|D2G2A2A2A2|B2d2A3|d2c2B2|B2G2A2G2c2B2|d2d2c2|B2G2A2|G2F2A2 | d>edccBcGAc | A2A2A2|A2G2G2|
+F2B2G2G2G2A2|A2D2G2|G2G2G2|G,2E2G2||
+K:Bm"d3d BBcB | BAGB2G2|C2Ad | d4B2c2|A2B2c2||
+cAB B2A2:|
+D2G2G2 | c2B2BB | GGAA G2F2|g2E2:|
+G2B2d2B2B2d2B2A2c2|c2B2c2B2|c2A2d2c2|d2B2 ||G2G2G2G2A2|A2A2c2|B2B2|A2A2d2|=BcBc | c2|c2d2|f2f2e2|dcBc | GGF2G2G2|G2G2G2|G2 G2c2B2|e2A2B2|BBcB B2|G2B2B2G2|B4|
+C2F2A2G2|G4G2|A2A2A2 | cAB2G2d2c2|A2B2|G2A2G2A2c2 |Adc2 | A2B2d2B2G2B2|d2A2B2|G2G2E2B2:|
+G2G2G2 ||
+G2A4G2F2|G2E2E2|E2D3E2G2| B2A2G2:|
+<end>
+B2dcd | ec/c/ A2B2 | d/2A/2B/2G/2A/2 |G2A2 A2A/2 | GFGF4|G2A2G2G2|G2B2A2|B2B2|G2c2B
+
+
+*****************************
+
+
+9000 0 1.2342522 
+
+<startion Bamplon uendancarnce
+Z:Harnscri
+R:ierncan Moinde
+R:Aorrdende
+Z:oc:hanty  |
+(B3) A2AG | G2B2 B2A2 | GA G2A2 G3A | G3F2 BA BcG |
+|: g2e2 ddde | d2c2 c2G2 | B2G2 E>GE <arithe C2 | e>d cdc | d4d2 | B3 A2D2 :|
+<end>
+<start>
+X:2
+T:Sdrnlin
+M:1/4
+L:1/8
+K:G
+D2 GA | GAF G2A | G3BA d2 |
+<end>
+<start>
+X:6
+T:Sanlanon ne perle 1
+M:Rarnanllone
+R:inacllande
+Z:Barnat Hicle tarnde
+R:Bnto ancansay
+R:edd Bur'e
+Z:Tharnd nancans corune
+N:anlan nonlande
+G:Rarndanlen
+M:2d
+Z:Torinandn- Homnene airid ron Thile Malire Mor marrde Marendande
+R:Bardan Motl Mi Margorncan gh-l'en-aindainn Marn Mande Masnde Ah Marigy darende
+R:2 War-oubanle
+M:3/4
+L:1/8
+K:G
+D2 d3e | c2e2 d2 B2 | B2G2 A2 G2 | G2G2 A2 G2 |
+<end>
+<start>
+X:1
+T:Snd>mn-anqu:Min
+Z:ic:nhangande
+R:ablet
+Z:id:hn- Marlin lande Mallen \us Maidn Co Thanen Carlandic Gond
+R:arnnl? Maince Mile thaneld | (1628
+Z:Thilnan
+N:houl
+R:airtan Darneand
+M:Brande
+H:Harndan
+T:"Fn Marme Nallance Mendence
+Z:id:Bhe dargir walle chende
+R:airndanc
+C:Cnarnea
+Z:Dirlanden Lars dend
+
+
+*****************************
+
+
+10000 0 2.2426078 
+
+<starine
+Z:Bimhee
+C:Lari Colwed
+R:hithe A2 tundeg #'cerore Hailh #12
+Z:id:hn-he-14
+M:C|
+L:1/8
+K:G
+AA d3G | GBGF GAGG | D2G2 G2BA | dBcc c2GG ||
+|: d2B2 B2Bd | dBcB BGFG | E2GE E3D | G3cB cdef | gdcBA G2GA | B2BG G2cB | d4ec | d2Bc dBA2 | F2 GGGE ||
+|: G3GG B2AB | GcdB GcAG | GGA GABc | dBcd dcAA | fgdg g2/g/gf | g2gag f2 g2 | g2g gfag | fdcd c2AB | dBdB GAGA | d2GB c2GB | dBcB cBAB | d2cA cdBA | D2GF GFG | BGFE G2G|
+|: c3gf g2 gef|1 d2cBc GAG |
+|: D2GF :|
+<end>
+<start>
+X:24
+T:Pighal Tighlan H'Nigha, Thee Riche GE #6 Then panghan, vighal, Hagherey' "dorre an. C'se Thero aind C'a Mighes T'lanley #'irg
+H:Rign O'Ciphire (fefelangh
+Z:id:hn-ar-on-2
+M:3c8
+H:Alante Therolan'l loned
+Z:id:hnnan \'aightin -14
+M:4/2
+L:1/8
+K:A
+B2G3 | g2f2 gedc | d2Bdc c2cA |G2cA d2cA |GFG FGGG | BcGG G2GE :|2 BBcA FG:|
+<end>
+<start>
+X:3
+T:Rerighhan aire R'ied
+T:Cighondand
+T:highe "196
+L:1/8
+K:G
+d2dA G2FG ||
+<darg>
+<start>
+X:25
+T:12
+G:E2 D3A | GFGA G2FG | d2dBA G2A2 | BGGA G2GF | E2GG G2 AAG | BAAG G2 GB :|2 fdcA G2dc | 
+
+
+*****************************
+
+
+11000 0 1.4822569 
+
+<star>is:ion sournpipers tue duns "Cos sif tute
+T:id:hn-hornpipe-36
+M:C|
+K:A
+GA|GABA A2AB | (3AcBA (3AFA d2dB | (3Bcd e2 d2BA | d2BA D2 :|
+|: Bc | dBcA D2 E2:|
+|: DAFA | d2A2 (3BcB | AFAF D2 :|
+|:AF | (3Ace (3dBc (3def (3efe|fdcB e2cB | edcd e2dc | d2de d2 d2:|
+<end>
+<start>
+X:4/4
+T:A|
+<end>
+<start>
+X:30
+T:Gorts pornpipe
+Z:id:hn-hornpipe-42
+M:C|
+K:G
+A,F|(3FAG DFFA | BAFA GABA | B2df ecBc | d2Ac ddcB | f2ef e2de | fgfe dece | agfg a2 (3fed | fdef BAFA | d2dd (3ABd (3ed ecdc | BAFA D2FA | (3AG3 AEDF | D2 E2FA | d2dc d2Bc | BABA BAFA | d^dcdB A2de | fdcB ABcA | defe dBcB | AAAB Adec :|
+<end>
+<start>
+X:4
+T:Plety an 2t Mornpipe-4
+M:C|
+K:D
+|: BG | GABA B2 (3ecB | Adef e2de | e2d2 f2fg | (3fefe d2fe | e2fa (3agf (3efe (3gaf (3ecB | (3AAc edcB :|
+|: FG G2BA | BAde (3ffe (3fge (3dcd | d2gf e2Bc | (3dAB AFFA dedB | d2cB dd egf | (3gfe d2 cdec | (3AB A2 (3ABc (3def|gf g2fe | e2d2 d2 :|
+<end>
+<start>
+X:13
+T:Follloe Horns porns panne Pinso The
+Z:id:hn-hornpipe-31
+M:C|
+K:Ad|AA dBcA | 
+GABF D2FA | d2cc d2
+
+
+*****************************
+
+
+12000 0 2.19796 
+
+<star>
+X:6
+T:Hirg and alather Fornpipe
+Z:id:hn-14
+M:C|
+K:G
+AG|FA EGG|GAG dBd|1 edB GAG|FED G2A|FFA deg|aba agf|agf gfe|fga afd|cAA FEG|FAd ~e3|dBG GAF|BAG AFA|GEA ~A2|
+<end>
+<start>
+X:6
+T:Fuvorris og pathe 
+|: DA GA DFE | DEE DEG | EAF AcA | cAF G2 :|
+|: d2 dee | aga ba | deA dAG | AFD DEF | ~3 GED | ~D3 ~A3 | AFA BcA | d2e dfe |2 Z2b abb| agf edc|BAA AFG | ~A3 | efe dfe|d2d e2f|| e2a afe|c2g efe|d2f edc|1 d2e d2e|
+fed cAF | ~B3 d2 | ede fed ||
+<end>
+<start>
+X:9
+T:Sellan's in Ellok, Thes Drtetis ter o Whery Hith jig Hhera ales Hornpipe,, The #4 The tare ond jhi Miphe
+R:vithin saste Hhe derltan: The Riglimen Lires the ntal, The Htlafe Alin tig and Iiggra Dacouran: The Haratkanelan derd aol She Hartiores Oifd jige age, Oniney.
+Z:id:hn-100-6
+M:C|
+K:D
+A3 |: ABA ~ab | gag fef f:|2 efe fef|gdf agf|aba (3fe fed|dA (3Ac d2|efe dGB|AFA dga|gfe dBA|
+G2G cec|eag afg|agfe fge|fe^f gfe|d3d def|ba ged|~g3 agf|efe dgf|agb edB|~A3 | eab a2e|afg adB|AF ADA|GAB cBA|~A2 fge|dfa gfa|fed ~cd|efe agf|
+~b3 fed|~~
+
+
+*****************************
+
+
+13000 0 2.5010772 
+
+<stario altion
+D:Dnns Martiin Brne: The
+T:jigra shere
+D:Senche Matad a
+R:jig
+H:Se Harl an cean's the the Stig, The
+T:Bouty's Dreny Bared #160 Chord Marlles Bor the Sting alsy Stig ale
+Z:id:hn-jig-somin
+M:6/8
+K:D
+DGA BAG | FAB AFA | AAA ABA | dBd cAG | ABA GAF | ~D3 BBA | dcA BAG | EDD DDE | Ade dBG | ABA GB | dBA dBG | ~D3 EDD | 
+|| dGB A2e |2 BAG A2B:|2 dfe | def gfg | fed dBG |
+EAB ceA | cBA ABc | d^cB BAG | FAd edB ||
+P:variatony
+D:Ar cek, The, The
+Z:Kighen Bleraghler's'
+T:Mart un Sag, The
+R:jig
+H:aly Harle arleve
+D:Vere Larlisis Stheller
+D:Ferlin: Caver
+R:jig
+T:Mole Co the \tarin: the #1577
+D:Mersin: The
+Z:id:hn-jig-92
+M:6/8
+K:G
+BB AFA | BAF E2A | BdB ABd | AdB AFA |
+|: B2B G2A | BAA efg | fge f2e | dBA ABA | Acd efg | faf gee | dAB dBc | def gdA | Bcd edA | ABc ede | gfe deA | fAG GFA | ddB dfe | dAA dBA | AGA AFA | d2d ede |
+edB BAG | GED DBA ||
+<end>
+<start>
+X:6
+T:Creethare Dled: the Rending
+R:jig
+H:Sed Mart iclere Ste The
+Z:id:hn-jig-67
+M:6/8
+K:A
+ced AAG | ABA A2B | AGA ~d3 | dAG FE
+
+
+*****************************
+
+
+14000 0 1.9806688 
+
+<stariaio Pamz
+T:eath aighors
+T:Lariation an Hela's na Marche
+T:Pharch is Mhounphe Marne: #14
+D:Nopk: Harlac, Meyner:s Maz, Merna
+D:homaind Mailk
+Z:id:hn-march-29
+M:3/4
+K:Amix
+BG|B2 AA B2|d2 BA c2F|F2 GB cB|A2 AA FA|Bc d2 ef|d2 B2 AB|c2 BA BA|G2 Bc d2 | ee (3BA Bc |
+Bc G2 | A2 A2 dB |
+AF G2 B2 cA|d2 d2 Bc|d2 cA Bc|B2 A2 A2 |
+c2 AG A2 | c2 eg e2 | ed c/B/A/B/ dA | A/B/c/ dc df | a2 fe ef|d2 c3 BA | ed Bc de | fd e2 ed | cB ce d2 | d2 B2 B2 | Bc BA A2 ||
+|: f/g/a/ fe d>d|B2 e2 d2 ||
+<end>
+<start>
+X:3
+T:Alas's Pazurk a Moz Fellu Beceran's Mald's Dhe Fource
+H:Seahh Ssoga, Mazunka
+R:march
+Z:id:hn-march-in-14
+M:6/4
+K:D
+D:Em|gD B3|AG AA | d2 ed B2c|B2 A2 AG|G2 cA FE|G2 G2 Be | d2 ef ga |
+fg ec df|g2 f2 ed|c2 d2 d2 | de d2 :|
+|: e2 ef e2 | d2 ef B2 d|e2 d2 c2 | Ac BA d2 |
+<end>
+<start>
+X:2
+T:Theraila #2
+D:Bdunan: March
+R:marna
+T:Chor phaz an Monga Haid the
+d:Renan arans Maruch
+Z:id:hn-mainka-14
+M:4/8
+K:G
+dB|Bc de dB|B2 BA d/B/B/|
+AG BA dB | ce de d>A |
+D2 F2 c2 | dB d2 cd|c2 AG A2 |
+A2 c2 B2 ||
+|: 
+
+
+*****************************
+
+
+15000 0 2.5562055 
+
+<starion
+D:ad eed|BA BA|BB GB|1 cd ed|1 BA B>c/B/B/|AG E>E|GF GB|AG AB/A/|BA GA|BA G2||
+<end>
+<start>
+X:67
+T:Olil Pollie Stolkaim The
+R:polka
+Z:id:hn-polka-65
+M:2/4
+L:1/8
+K:G
+AD E2|ga ag|a>a g>g|ec B>B|1 BA G>B:|2 A>A FE||
+|:de ed|ga ga|ba/g/ ga:|
+a ga/g/|ae ec|ea ag|1 ed ed||
+<end>
+<start>
+X:60
+T:Ballliow Fils
+R:polka
+Z:id:hn-polka-54
+M:2/4
+L:1/8
+K:A
+DG GA|BA GE|GA G2|GG AB|AG Ac|dA BA|1 BA GB|BA EF|1 GE DE:|2 AG G>A||
+<end>
+<start>
+X:56
+T:Jamny Browe's Tolka
+R:polka
+D:Maighe's Kesta The Collo paverian'e The Lirchertichert: Clavermough
+T:Lipley's Fadifen The Polkachet Bast Allo's Dolka
+T:Flakatho #6)
+Z:id:hn-polka-61
+M:2/4
+L:1/8
+K:A
+A2 BA|EA Bc|dB AB|BA AG|FE EG|EG AB|AG AF/A/|dB G/B/A|AG BA|1 AG FE|GB AB/c/|BA BA/d/|1 BA BA/G/|AG GA/d/|ce d>e|dc BA|AG DE|G>B AB||
+|:Ad cB|A2 AE|EF AF|ce BA|GB/A/ GB|dB Bd|e2 ce|d>B BG|B/A/B/G/ GB|BA AB/c/|BA BA |1 AG GE:|2 D2 GE:|2 AF GF|1 AG G>A:|2 AG GB:|2 AG GA|GA BA|BA AB/c/|d>e dB/c/|BA BA|d2 ed|d>B AF|1 DG/ Bc/e/:|2 ef/ ec|
+de fe|df Bc|BA GB|BA FA|1 B
+
+
+*****************************
+
+
+16000 0 1.9747238 
+
+<starion
+R:ree
+Z:id:hn-reell-93
+M:C|
+K:G
+dBAF E2FA|BFEF EFAF|DEFG BGEE:|
+|:cdef gedc|BAFG EFEF|EFFF FEFE|FEFE GEFA|
+d2dB AFDF|EFEF FDFA|
+GABA BAFE|FEFA FAFE|FDEF GEDE:|2 E2FG G2GF:|
+|:BGEG BcdB|A2FE DEFA|G2~B2 G2Bc|A2 d2dc|Bdge dedc|BAFA BGDF|~D2 GEFE:|
+|:fedc BABB|AFFF GGAF:|2 BGFG EFA2|AFGE FGEF|D2EF D2BA:|
+|:B2AB defd|Afde fdBA|F2AB AFAF:|
+|:~G3E EFDG:|2 F2DE ED~F2:|
+|:B2dB BGFA|BAFD F2EF|G2FE FEDF|AFDF FFED|D2FG G2AB:|
+|:dBdc BAdB||
+BGEF GEDD:|2 G2Bc d2:|
+P:Variations:
+|:GGEF FGAF|
+Bddg (3^gaee ~a3g~|
+e2dB A2BA:|
+<end>
+<start>
+X:31
+T:Pant the an th in D, The
+R:reel
+C:Pavin alst Curnent Plair
+Z:id:hn-reel-33
+M:C|
+K:G
+D2EF A2Bc|BABA FEFA|d2BA FD~E2:|
+<end>
+<start>
+X:32
+T:Ghnamely Saried in wa, The
+R:reel
+H:Cherdon Lils #36, #930. #62.
+Z:id:hn-reel-53
+M:C|
+K:G
+FEFE FAFA|d2fd BAGE|A2FA dABc|d2BB BGAB|AFEF E2FA|
+dBde d2e|f2ef gedB|A2FA GEDE:|2 E2FE D2:|
+|:G2BA dF~E2|
+d2dc dBdB|AFDF EFAF|EFAF EFDE|FGAF DFAF|
+A2~G2 FABG|AFGG AFEE:|
+|:EGAG E2BA|BdAF EFEF|FEFG D2DB:|
+|:~f3d d2Bd|eeaf e2de|baaf g
+
+
+*****************************
+
+
+17000 0 1.4808377 
+
+<start>
+X:38
+T:Daddy Droso piwe
+T:Adtonnen Gediveid (1688-788)
+D:dorkin: paricort wottime
+R:reel
+H:Ad Becernan's
+D:Jiel the #803
+H:Se the "Hean and wamin, The
+R:rete-14
+M:C|
+K:Ddor
+BB~A2 dBcA|B2AG EDDD:|
+|:FABc dedc|dBAG FDD2||
+|:dAGE FDD2:|2 dBBA dcec||
+|:fedc AcAF|DA dcdB|Ac~d2 cAGE|EG~A2 dBcA|B2dB A2gB:|2 dfed cAGE|D2 (3FED EDED||
+|:~f2dd BdcA:|2 E2FG EDD2:|2 AFGE FDD2||
+P:Cariations:
+~d3e fd~c2|a2ba gedc|df/e/dB dBcd|dfdc ddcA||
+<end>
+<start>
+X:58
+T:Donnire band.
+Z:id:hn-reel-23
+M:C|
+K:D
+d2AG FDFA|~c3B cAGE|G2BG ~E3F DEDE|D2 BDD2:|
+|:f2fd fdce|fedB cdcA|GEGE EDD2:|
+P:Variations:
+D2~F2 ED~D2|AdcA cAce|~f2df fdcA|DAGE FAde|fddc ddBA|G2ED EDD2:|
+<end>
+<start>
+X:80
+T:Hanury Brated Oreet ore placke al in fing tlee to Michin" in a St also parten 118B, #98
+H:See Garidinch parse 197
+Z:id:hn-reel-8
+M:C|
+K:Bm
+ABcB AdcA|B2GG EDDD|F2GE DDED:|2 G2 EGED |2 E2GE EDD2:|
+|:~f2cd AcBA|~f3a gfge|fddc dcAB|cAGE EDDD|
+c2dc cAGE|D2 (3FED EDED:|2 EG~B2 dcAB|cGEE DDD2:|
+|:~f3e fddB|cAGA cAGA|
+FGAF DDED:|2 cdcA
+
+
+*****************************
+
+
+18000 0 1.5425338 
+
+<starig: jig
+D:Part tari Murig also 15
+Z:id:hn-slipjig-23
+M:9/8
+K:D
+ADF D2A A2A|d2d d2B d2d|1 fed d2d cBG|
+dAG FGA d2c|A2A ~G3 D2G|B2d eag a2g|
+aba g2f gfe|ded cAG FGA|1 dBA d2d d2:|2 d2e d2G A2G||
+<end>
+<start>
+X:25
+T:Tomo Pillers Curreeris Kean
+R:slip jig
+Z:id:hn-slipjig-25
+M:9/8
+K:G
+B2A BAF G2F|FAd ged cBA|G2A A2G FGA|B2G E2e ~E3|F2G ~G2G A2G|(3Ad B2 (3AB ded|g2d fdd B2||
+|:e2d def e2d|B2A B2d c2A|d2G d2B d2B|A2A d2e f2e|d2e d2d ^cAG|A2B d2g g2|d2f g2a g2g|
+afg d2d | e2d G3 ABd|cAG FGA d2A|B2d dBG d2A||
+<end>
+<start>
+X:23
+T:Brum's Ree an Brane Bantan jig
+R:soll jig
+Z:id:hn-slaping Mil jig
+D:Wiphing Mill jig planding in Fown
+R:slip jig
+Z:id:hn-slipjig-23
+M:6/8
+K:G
+B2 d2A B2G|G2A d2A B2A|BAG A2A B2G|AGA A2A d2e|f2a g2e d2e|d^cA A2G A2F||
+<end>
+<start>
+X:20
+T:Then Burerter Sparom Fristing afl
+T:Oigh Baslon: The The
+R:hop jig
+Z:id:hn-slipjig-24
+M:9/8
+K:D
+D2D G2G G2A|B2G F2A d2d|1 d2d d2c BAG:|2 ~A3 d2A G2E||
+|:F2F G2A B2A|~B3 GBA B2d|A2F A2G E2G|A2A B2G G2F|Bde dBA A2G||
+<end>
+<start>
+X:18
+T
+
+
+*****************************
+
+
+19000 0 1.3240654 
+
+<starig>
+<start>
+X:10
+T:Dairien Corne
+R:slide
+C:Marly Finder if the the Pardy Blaned in Moll so hourre siger to the ar of the Headlis
+Z:id:hn-slide-8
+M:6/8
+K:D
+D2A B2A|B2e dAG|F2A d2B|A3 cAG|1 F3 DFG|F2D A2B|A2d AGE|
+E2D G2G|A2A G2e|f2e d2B|
+A2B cAG|G2A BAB|cAB cAG|EDA BAG|G2B c3B|AGA BAG|1 E3 FED:|2 G3 ABA|d3 ecA|
+B2d efe|d2e fde|1 f2e f2e|
+f2f d2B|1 cAB A2c|BAB c2A|1 A3 d3:|2 g3 g2e||
+|:e2e faf|e2e a2b|a2g a2a|b2a g2f|g2f dBe|
+f2e f2e|d2e a2f|g2g fed|e2f f2e|dcd efe|1 d3 d3:|2 afe f2e||
+|:faf a2f|g2b a2f|g2e fed|ecA ABc|1 d3 c2A:|2 A3 A2f||
+g2d B2g|fef gfe|d2B e2f|e2e dBA|f2e d2B|1 A3 d3||
+<end>
+<start>
+X:58
+T:Pavn Sool the Jig
+R:slide
+D:Seeafe sige
+R:slide
+Z:id:hn-slide-7
+M:9/8
+K:D
+d2g|f2a e2f|g2f g2e|d2e d2B|BAA G2E|D3 ABc|1 A3 G3:|
+|:BcA B2d|e2e f2e|f2d def|e2e f2e|b2a fed|e2B def|g2e e2d|
+efe f2d|e2e e2f|~e3 efg|1 f2e fef|
+f2e dBA|BAB c2A|B2c d3:|2 d3 d2e||
+P:variations
+|: cAB e2c | d2e f2e | fed edc | AGE G2A ||
+<end>
+<start>
+X:1
+T:Bam O'Candy Feved Jackiefe
+F:Marmy Gid, The
+T:Cair t
+
+
+*****************************
+
+
+20000 0 0.4430599 
+
+<starion
+<start>
+X:81
+T:Frune Wamidh's I The sarteg jige
+R:slide
+Z:id:hn-slide-89
+M:6/8
+L:1/8
+K:G
+F2B c2B | c2A G2A | B2G ABc | B2A G2E | F2d d2e |1 B2e f2g |
+a2f f2f | gfe d2e | d2e f2d |1 d3 def :|2 e3 efe | d3 d2d ||
+<end>
+<start>
+X:89
+T:Hunmy's
+R:slide
+Z:id:hn-slide-80
+M:6/8
+K:D
+d=cde f2d | e2d AGE | G3 G2B | A2G A2F |1 D2D G2A :|2 B2A F2E ||
+<end>
+<start>
+X:85
+T:Lidertlong il to Sliget ond Arane
+R:slide
+Z:id:hn-slide-86
+M:6/8
+L:1/8
+K:G
+A3 B2A | B2e d2B | f3 d2A | B2A G2E | DED E2E | ~E3 G2E |
+D2G ABA | A2A A2g | ~f3 e2A | Ace efe | ~f3 efe | d2d d2B ||
+<end>
+<start>
+X:88
+T:Gor Tune the Bririge
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+ABd g2f | g2a a2f | e2d BAG | ABA GEE |
+B3 dcB | A2B AFG | E2B G2A ||
+|: B2e AFA | dcd e2d | edB d2d | g2d d2e | d2e def | d3 efg |
+a2f efe |
+f2g a2f | edc d2B | G2A G2B :|2 d3 B2A ||
+<end>
+<start>
+X:80
+T:Cattery Weed wair
+T:har the the Reante
+R:rellid
+Z:id:hn-slide-88
+M:8/8
+L:1/8
+K:Ador
+E3 ABA | A3 ABd | d2B B2A | Bcd efe | d3 dBd ||
+|: d2e f2e | agf gfe 
+
+
+*****************************
+
+
+0 1 2.6018162 
+
+<starion
+Z:idd:hn-slide-72
+M:6/8
+K:G
+G2A A2F | GAB B2B | B2A A2F | G3 B2e | ~f3 dBA | G2E G2B | e2G G2A | G3 G2A | B2c B2c | d2B A2B | G2B G3 ||
+<end>
+<start>
+X:95
+T:Pasy O'Keefe's
+R:slide
+Z:id:hn-slide-99
+M:6/8
+L:1/8
+K:G
+B2d B2A | B2A B2A | B2f e2d | B3 B2c | B2e d2B | AGE D2G |
+A2B dBc :|
+|: d2e ~f3 | ged d2B | ABd ded | A2F G2B | d3 ecd | e2d cBA |1 B2d d2e :|2 d3 dcd ||
+<end>
+<start>
+X:99
+T:Canty's aon the O'Kee Reane Joum,
+W:see waire dillin.
+W:See also laged ang Jig mart O'Frayed in the site
+R:slide
+Z:id:hn-slide-94
+M:6/8
+L:1/8
+K:D
+D2D GAB | B2A BAB | c2e c2A | F2A Bcd | E3 A3 |
+B2d c2B | A2B A2A | B2d c2e | ~f3 e2d |1 d2e f2d |1 B2d B2A ||
+<end>
+<start>
+X:99
+T:Martean: Thelaite
+R:slide
+Z:id:hn-slide-94
+M:6/8
+K:Ador
+A2B A2A | B2A F2A | ~B3 e2d | AGE F2A | A3 F2A | B2A G2A |
+G2B B2A | d2B A2B | AFA G2G |
+G2A A2B | d2f e2d | e2g e2d | cAB c2e | B2d d2e | d2B d2e ||
+|: a2f efe | d2f d2A |1 A3 d2d :|2 d3 d2e ||
+|: ~a3 ece | ~g3 fga | gfe d2A | =cBc a2f | e2e f2e | d2B A3 ||
+<end>
+<start>
+
+
+
+*****************************
+
+
+1000 1 1.5299551 
+
+<start>
+X:24
+T:Canalede
+F:France
+C:Arnancation mailto:gioure
+R:A
+A2 | G2F2 | FABAF | BAFF F2GB | c2d2 d2c | B2Bdcd | B3 BGBc | BABc | d2cc | d2cd | c3c | (F2A/G/ G>F | B2A/2 :|2 G>E GB | BAF F>G | BdcB dBA | Bcdc | dd c2c | G3 cd | dB cdd | dedc | dfdB | f2gfd | e>d cdcd | B2e2f2 | f>edc | B2Bd Bcde | dBBd | B2AB | c3 c2B | cc dBcd | e3 edc | dfdB>d | cdd f2d | f3d | c2c d>d |fed Bcdc | cde>f | e2dfed | f2d>B | ddd | d2 ddd | fede | d2dedfd | c3dc | d2cd2d |
+f2befgfne | dfdffdfe | d2cdfdf| egecedc | d2ddfddf | e2fdfdede | d3d | c2gfedc | dBdcdfd | c4F | B2c2d cdc | ddfedc | d2c2 | d2c2c |]
+<end>
+<start>
+X:24
+T:Louban de
+R:Brande
+T:Ginu coute
+C: Faverre da the scrascourian?
+B:Par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/4
+L:1/8
+K:G
+G2 AB BA | F2P2F> | A3 BF | FGFG | (FF)F/A/ | B3 cB | B2B cB | Bddc | dBc d>c ||
+d>c d | ce/d/c/ | Bc Bc | d2c/d/>c B>c/B/ | A>B c>B c/B/A/B | c2de | d2d | d>e>d | cdc | B2 z>B cB | cA/B/e/ A>dc | BGB A2 Bcd | f2gfe | d2gf
+
+
+*****************************
+
+
+2000 1 2.059098 
+
+<start>
+X:64
+T:An c?rrini? (192)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-03
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/8
+K:Bb
+] c2 | f>g | e2dc | B2z | (3c/d/)d/e/)d/ | c2B | B2z2 ||
+<end>
+<start>
+X:46
+T:La pourie?'our de lai sino livielioirineire B?ran?s (1924)
+Z:Transer tourito:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+e2f2 | g2g2 | f2g>e | d2d2 |
+c2e2 | B4 | z2G2 | G2z2 | G4 |]
+<end>
+<start>
+X:75
+T:Li tamboure
+N:6 | (mammiath
+<end>
+<start>
+X:43
+T: Lalpouut?ouvour fiy de Ailou lellsonneilere di torinet? de naga?revan?o de lev?ritio erid. maise
+O:France
+G:Provence
+Z:Prancertto
+O:France
+C:Provence
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-16
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+[U3 | c2 | (B>d f2 | (c2d2 | dg | (fe/d/) d/d/B/ | A2 ::
+<end>
+<start>
+X:44
+T: 1 Liouvetole" (192)|G3B | B2A2 B>c | d>cd>e | f>ff | fefe | d>e c.d | d2 | z2 | G3 | c>c | c2 |(ef/d/e/ | d2B>c | B2z2 | B2z2 | 
+B4 | e2c2 || d2 |]
+<e
+
+
+*****************************
+
+
+3000 1 1.5692067 
+
+<start>
+X:16
+T:Lou de dambouriralo de Marche
+R:Garnat du tambourinaire Ginas (1924)
+Z:Transcrit par Michel BElou Mar Michel BELLON - 2005-02-12
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:
+F2 | B4 | d2B2 | f2f2 | f2e2 | f2g2 | g2f>d | d>e fgf | d4 | !breath!A2 | c>d cdc | d4 | f2 ed | c2 d>c | d>d c2 | c3 ^c B2 | f2 e>f | e4 | d2 c>d | dedc | BB/A/ BF | G4- | A2E c>d | d2 c2 | d2 z>f | f4 | edcd | c3 | 
+d2cB | B2 A2 | B2B2 | B2B2 | d2 d2 | d2d2 | c2B2 | B>B BBB | B2z2 | B2 B2 | A2B2 | A2B2 | BBBB | d2B2 | B2B>c | d2dc | Bz z2 | G4- | B2z | c2 S.!breath!c4 | f4 | e>d c>c | d2 Bd | e2 f>e | d2c BA/B/ | cd/c/B/ Bc | d4 ::
+V:Maro de temoubervaireinon maille
+R:Marnce
+R:Mariche
+Z:Transcrit par Michel BELLON - 2005-03-12
+Z:Pour toute observation mailto:garfouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galtoubet
+FF GF | FBAB | B2BB | B2z :|2 d2 def | e2 d>c | c2 F2 | f2 fed | c2 A>A | z2 F>G | F4 | A2A d>d | c2- A2 | c2z2 | d2dd | ge/d/c/ d2 | d>ed | cdcB | B2 f>e | f2f | edcB | c2
+
+
+*****************************
+
+
+4000 1 2.1201255 
+
+<start>
+X:13
+T:Pa Milolope
+R:Polko
+A:Provence
+C:Po
+R:Polka
+A:Pour tou te proin mailorainaliel ear)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-27
+Z:Pour toute observation mailtalou:lalion:araito
+M:1/8
+K:Ab
+A | Bc | BA Fc | cd cA | BB/B/ BA | GB/E/F/ | G/F/B/d/ | c dd | ee zA | c/B/A/ GF | BA B>A B>c | dd ed | c2c c2 | d2 df | f2c4 | (3/A/2A/2F/G/)A fe | d2c2 | e4- | cBBd | ce e | ddc | cc cc | BA BA |
+BA/B/ BB/B/ | c2 (c/B/d/) c.d | cB/A/B/ cz | (3c/B/c/B/3/c/ dd | ce/f/e/ ed | c/c/c/ ce | cB c>B | cB/A/ Bc | cd/d/c/ BA | GA ce fe | dd d>d | BA c>c | def | ed cA | Bd c>d | dd ed | (d/d/d/B/d/ G/G/A/ | GA FA | cc/B/A/ | BB d2 | dc/c/ BA | G2 ze | ef ff | c3 fg | fe cc | df/f/ ff | fe/e/d/ d | a/g/g/ ef | g/f/e/ dd/c/ | fA AGA | cc) cc | dffg | ff ef | gf ffz | ed ff | fff | gf | ef | g>f | g2 :| f fe | ff fd | c2A2 | BB/B/G/ F/G/A/B/ | c3- ::
+A2AB | B2B>c | de (3dcB | cAce | fe c>F | F3 z2 | F2f>f | dd/d/ de | fe/f/ ec | Bd c2 | eA e2 | fe df | cc/c/ dc | Fz ::
+K:Bb
+(3c)(3c2 | (cA)
+
+
+*****************************
+
+
+5000 1 1.733767 
+
+<start>
+X: 5
+T:Rou Er nar poure de S.
+R:Volte
+O:France
+A:Provence
+C:Erovan (192)
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel: BELLON - 203-04-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+K:Bbmaj
+V:2
+c2FA | c2c egf | e2e2e2 | dcdc | c2c2B2 | c2c2 dcB | c2dcd d2c2B | c2FFA | c6 | c2c2c2 | c3A | f2d2 c2G2 |
+BcBAGA | c2c2d2 efg | f4d^c2 | d2fffd | d2dcB | c2z2 G2 | A2zB2 :|
+V:2
+FGABc | B2A2B | d2e2 dcd | e2d2d2 | B2B2B2 | d2d2d2 | dcdcB | FFGABF |
+G2ABBAB | c2cz2c2 | B2B2B2 | B6 | A2B2 A2z2z | 
+B2B2B3 | F2GABc | d2c2d2 | c2BcBA | d3cc3 | d2edce | f2defg | agaf ece | f2e2c2 | e2e2e2 | d3 ddec | B2c2d2 | c2e2 =eg2a | g2a2gzF | B2c2d2 | f4 | (g2f2 c3 |
+d2ddcd | e2def | g2f2dfe | d2d2d2 | c2e2 | f2def | e2d2c2 | defec | dcdcA | 
+d3c dcBc | dcc2c2 | e2z2 fc | B4B2 |:
+P:2
+F
+f2d2c2 | B2dc B2BA | e>edf edcB | cdcBcd :|2 c2c3 | cdef | fede | f2d2d2 | f2e2b2 | a2a3g |1 f2e2e2 | fedc
+
+
+*****************************
+
+
+6000 1 1.214436 
+
+<start>
+X: 14
+T:Le ta-re du perletion C'essetrite
+R:<enda bar-se-trad.
+C:Marin melten du gassetre
+V:2/4
+L:1/8
+Q:1/4=160
+K:Cmaj
+Bd/2d/2 B2 d/2e/2 d/2c/2|"G"c2 d2|cd cB A2|
+GG dB/2c/2 d/2c/2B/2 A/2B/2 d2|c/2c/2 d/2c/2 B/2c/2 d/2c/2 B2|]
+<end>
+<start>
+X:50
+T:corper
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-06-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Gmaj
+V:1
+x | "C"c2 de | "G"c2 | ""cme d e | "C"cd c2 | c3 (cB A | GA G z | "C"cd eg | f2 c/2B/2 c/2 d/2 d/2 e/2 | d/d/d/ d/2e/2 d/2d/2 c/2 c/2 | cB Gc | d/2e/2 e/2e/2 d/2c/2 | B2 A/2G/2 A/2 |]
+<end>
+<start>
+X:36
+T:Roille
+R:---0
+<end>
+<start>
+X:18
+T:Les cours pa-lou-ren du ai les J'ien et pe-fit it cui pe-pieirde
+Z:Transcrit et/ou corrig? par Michell BELLON - 2007-06-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Cmaj
+V:1
+"D7"FGA AB|["Bm"d/3 ed/2c/2 B/2A/2 G/2A/2 G|"A"d2 d/2c/2 d/2c/2 B/2c/2 | d/2c/2 B/3/2A/2 B/2A/2 B2:|[2 d/2d/2 B/2d/2 d/2d/2 e/2d/2 e/2d/2 c/2 A/2A/2 c/2|d/2 e/2 c/2B/2 c/2 
+
+
+*****************************
+
+
+7000 1 2.0008454 
+
+<start>
+X:4
+T:La Sigaunw Dem inonw: Daler
+M:3/4
+L:1/8
+K:G
+Bcd|gfe de ck|f2 ed cB|1 A2 c2 cB AB cB|AG AG AB|AB cB BA|B2 zB Bd|c2 Bc de ec|d2 Bc de|f2 d e2|d3/2A/2 B/2c/2|\
+<end>
+<start>
+X:1
+T:La moul Trantains
+R:ladf.de
+R:Dattinck
+R:Schottische.
+M:3/4
+L:1/8
+K:Dm
+A2 BA Bc | de d2 cA | Bc AA AG | AB cB | AB BA | G2 A2 de | fd ec de | G2 BB AB | cB BA Bc | BB Bd cB c | A>B cB AG | Ac cA Bc | _B3 de dc|B2 zA | B2 G - AG |
+A GA BB | dB BB AG | AB AG | FG FG | A>c BA | Bd BA AE | dc d dcd | c3 B>c | B2 de |
+e2 Bc Bc | A2B BB Bd | AG FB :|2 A3- | ^G2 A2 | F2 FGA |   B2 B2 AF |
+B2 Bc de | d2 dB BB | c B AB cd | A2 A2 |
+B2 AB cB | AB dc B c2 | B2 GB BB | c2 AG FA | G3- DF G|]
+<end>
+<start>
+X:1
+T:La GEDzaifle na bour
+R:Wabte Celt wontalle du Sillan de bouk Wilinarti, de Callang vour (chimon Cina
+S:Cave Vestrische
+Z:Dave touber
+M:3/4
+L:1/4
+K:G
+d2 B2AG|A2B2 c2B2|cB AGEG|AGA ABc|"Am"e3GA BAG|A3 ABcB|BAGA B2c | B4 z2 BB|:
+GAB AGF|B2E2 DED|DEF EFF|AG A2 A2|A4 AG|E3- D2F|F2 EDF|FE FE|D2FE | D2 GF|G,A B|] G3
+
+
+*****************************
+
+
+8000 1 1.1838475 
+
+<start>
+X:14
+T:Branle des coube Tables
+R:Barnase
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/4
+Q:1/4=220
+K:C
+V:1
+G |: G2 A2 B2 | d2cB | A2G2 | E2G2 D2D2 | D2G2D2 | G3 | E4 |
+g4 | a2 e2e2 | d3 | c d2f2 | g2fz d2 | cBA | c2c | c2c | c2e2 | f2e2 | d4-|
+D4 |   (3e/2d/2c/2 | B2A2 | ge dc/B/ | c2 dc d2 :|
+V:2
+C>A c2 | c/2d/2B/2 c2 Bc | B2 A2 | BA/B/ cB | cdc Bc | GA B cB | cB/A/ B2 | cB/c/  d2 | c/B/A/d/ | 
+d/c/d/ c/B/ | A2 G2 | B3d | c2d c2 |
+B>A Bc | d/c/d/c/B/ d2 | BG GB | cB cd | cd c>d | cB dc/B/ | cB/A/ GA |
+G>G GA/ B/A/ | d2 c/d/c/ | dc c/c/B/ | c/B/c/B/ AG | cd c/B/c/ | c2 Bc | cB/c/ d/c/B/A/ | BB A/A/B/ | AG/F/ G4|
+G2 G2 | FG G2 | F2 DE | BE DF | DF E/F/F/ | DE FG | F/G/F/F/ d2 |
+G/A/^F/G/ | ce/c/ B3 | cd/c/ d/c/dc ::
+GA BG | A/d//c/B/ AB | cB Ac | c/B/A/ AB |
+G2 A>G | GG F G2 |  A/B/c/d/ c/B/A/ | G/A/G/ AG | GF B2 |
+G/G/B/ AG | GGG | G/2G/2G/2 DD | F2G2 | C2 DD | D/2D/2E/2F/2 | G,2G,2F,2 ||
+D,4D,4 | G,4 |\
+<end>
+
+
+
+*****************************
+
+
+9000 1 0.42006728 
+
+<start>
+X:3
+T:Farnogallasch Bonnaile
+R:earndand Ar Micer Swongance
+H:Sere Michelly Mane nanen (1614)
+Z:id:hn-bridan-ce-dance-34
+M:2/4
+L:1/8
+K:B
+d2 d2 B2 | d2 e2 f2 |
+d2dB B2BBA | A2A2 B2G2 | G2G2 A2Bc | dede B2d2 |
+f2d2 d2c2 | c3d f2d2 :| g2g2 g2f2 | g2e2 edBc |
+d2 cdef g2 | g2g2 f2 g2 | a2b2 dcBc |
+B2e2 d2A2 | G2 z2 G2 :|
+|: (36 ||
+<end>
+<start>
+X:1
+T:Briclance
+Z:id:hn-barndance-2
+M:C|
+L:1/8
+K:B
+G2 A2 GA | BAGA B2AG | FBAG F2D2 | G2C2 z2 :|
+<end>
+<start>
+X:4
+T:Bour thandhe
+D:Marchas
+H:Certion Concdellyane
+M:C|
+L:1/8
+K:G
+GABA AGAB | c2BA BAG2 | F2F2 G2G2 | F2G2 A2G2 |
+B2B2 B2A2 | c2A2 G2F2 | D2E2 D2D2 ||
+<end>
+<start>
+X:17
+T:Bonncansy the Molkand
+R:idance
+Z:id:hn-barnat nnance
+Z:id:hn-barnet - 100t
+Z:id:hn-arndance-sorid Manse intrance
+Z:id:hn-nair-de-tt at tanned Bardier-cortistargalionnenairnainfinan
+M:C|
+P:Allide deve Holley Will's oed Molnande Mandy Barneith Marde
+Z:id:hn-barndance-4
+M:C|
+L:1/8
+K:G
+G2 GA | d2 d2 d2 | B2 cA A2 | B4 G2 D2 | E2 A2 B2 |
+G3 A2 G2 | G3 A2 B2 | B3 AGF |
+F2 GF 
+
+
+*****************************
+
+
+10000 1 1.7265855 
+
+<starithom:18
+T:Redrith aigh Hither
+T:The pliely O'Dashee
+T:Allongante Sthe
+R:highland
+H:OHa is Lish blielland
+Z:id:hn-hf-24
+M:C|
+L:1/8
+K:D
+GAdc | BAGA BGGA | BAGA BGFD | E2GA BGGA | BGED GAFD | E2AF E2GF ||
+|: ABGA BGAB | c2Bc A2GA | d2dc BAGA | BGGF G2FG | GGFG G2GA | BABc AGAG ||
+<end>
+<start>
+X:23
+T:Gave Dlandibe
+T:Also the Highelanc
+Z:id:hn-hf-22
+M:C|
+L:1/8
+K:D
+GG ||
+|: B2BA G2BA | G2GA BAGF |1 GBGG FED2 | DGGB G2GA | BABG G2GA ||
+BGEB cBAB | AGGA BGAG | FAGB cBef | g2ba bagf |1 f2ab a2ag |
+a2ag f2g2 ||
+|: (3fef {ba}ga (3bag gd | e2dB AGGA | G2G2 G2 (3dcB | edBG FAGG :|2 G2G ||
+<end>
+<start>
+X:12
+T:Planxt the Molmann\'ays
+R:righnand sithe
+T:A Also bade (1690-1739)
+Z:id:hn-hf-21
+D:Danso Michan
+Z:id:hn-hf-24
+M:C|
+L:1/8
+K:G
+B2BA d2AB | cBGB cBAG | d2f2 efgA | BGAG FGAG | F2DE GFGA |
+B2BA G2GF | E2AB cBAG | F2GA BGAF | E2GA D2DA ||
+<end>
+<start>
+X:21
+T:Als oigh O'Dar'so Hined in Drogh'sing
+R:highland
+Z:id:hn-hf-22
+M:C|
+L:1/8
+K:D
+D2GF G2AG | A2GA (3Bcd (3cdg | fBcA G2 :|2 G2G2 G2GB |
+BABG A
+
+
+*****************************
+
+
+11000 1 1.1964186 
+
+<start>
+X:42
+T:Juslough Wart
+T:Counn hornpiper
+R:hornpipe
+Z:id:hn-hornpipe-41
+M:C|
+K:Ador
+DG|ABcA dcBA|d2GB AGFA|defg (3fef ed (3Bcd|edcB A2A2|
+(3ABc Ad e2de|fgfe dfge|dgfe g2a2|(3fed (3ABA (3Bcd (3ecd|
+(3GFA (3dcB (3ABc|decA GABc|dgfe d2f2|
+(3dcd ec dB (3ABc|dAGF D2:|
+<end>
+<start>
+X:45
+T:Chokly Funen's end (194)
+H:Seet a cop of nomn and in (38-493
+Z:id:hn-hornpipe-45
+M:C|
+K:D
+AG|D2FA d3A|BGAd efgf|efed BdBG|~A3d e2dB|ABcA (3GAB cA|
+GABc d2fe|dcAB cefe|dB AGFE | DEFA ~D3F|
+DABA G2D2|
+GABc d2c2|
+dcBA ~A3F|(3ABA (3Bcd (3ede (3fec|dfed BAFA|d2 dcdf|
+edcB A2 (3ABc|(3def (3gfe d2ec|defg a2ge|
+(3fed d2 (3def (3gfe|(3dcB (3ABc (3dBA (3dcB|de fdcB|Acdc d2:|
+P:Variations:
+|: Da | (3Bcd ed (3cBA | (3Bcd ed (3cBA (3Bcd | ecAF (3FAB cA | (3ABA (3ABA (3fed cd | (3efe dc (3Bcd (3edc |
+deff gedB | (3ABc (3dAG (3ABc (3def | fedc de (3dcB | Addc | defg f2 :|
+|: de | fe (3dcB A2 | BAFA (3Bcd efef | (3gaf (3eef d2 (3edc (3Bcd | eafe (3def (3gfe (3dcd | eAGE GA B2 |
+(3Bcd ed (3dcB | AGAB A2 (3ABc | dBAG (3ABc
+
+
+*****************************
+
+
+12000 1 1.8792632 
+
+<start>
+X:9
+T:Wolly Ked in G Cothart in Grbe, Trow's paress of Hithan: The Willl Coy, The Hornpipe, The
+T:Sill of End O'reek, #473
+Z:id:hn-jig-7
+M:6/8
+K:D
+BAG FAd|cce agf|edc BAF|BGG ~A2 ~G3|FG AGA|BGB G2E|FAD DEF|GAG AAG|AFD DEF|
+G2D GAB|ced cAF|GEE DEF|GED D2D||
+|:~c3 BGB|c2A GAF|1 (3FD D2 DEF|GFA GFA|BAA DEF|G2E D2f|
+~g3 fdf|~f3 efg|afe a2f|edd BAG|~A3 fed|efe cAF|dcB AFA|ded cAG|AGA G2E|DDF GAF|
+ABc AFA|FAc A2G|~A3 AFA|Baf edc|cAc BAG|1 AGA G2G:|2 AFD | ~E3 D2:|
+|:~e3g aga|fdf fef|gfe dBA|G2G EGF|~E3 F2G|~E3 :|2 d2c dfe||
+~f3 ede|fgf ecA | FAA BAG | FED DED:|2 ~D3 D2G||
+|:~A3 BAF|GFG ABd|~B3 cAB|cAF ~A3|Bcd c2A|FAF GAG|GFG AFA||
+|:~A3 BAG|AAF DBA|GAB A2G|~A3 AFE|~F3 D2B|cBA GFG|AGA BAF|1 ~G3 EEE:|2 E2A Bcd||
+|:e2a g2f|efe dcB|cef edB|~A3 dcA|~F3 dAF|GFE DEF|GED D2d|~c3 dcB|cBA GED|
+~G3 ~D2 D|EED DEF|AFA AGA|B,b eAF | ~3 AcB |1 A2A Bcd:|2 A6 |
+<end>
+<start>
+X:4
+T:Kingh parther, The
+R:jig
+H:Theman the Mcolly's Hersiones
+W:The firs of the the also played of ilso parlind, #24
+D:Matlie & Mol
+
+
+*****************************
+
+
+13000 1 2.5381744 
+
+<start>
+X:44
+T:Konn the Shagles the mig The
+R:jig
+D:Jady Bunky
+Z:id:hn-jig-60
+M:6/8
+K:D
+DBG GFA DFA | dBG FAA | 
+BAB dBA | dBA ABc | dBA GBd | AcA ABA | dBA G2A :|2 GAB GBd ||
+|: ~f3 ecA | dBA GBd |1 dAB dBA | def gfe |1 dBG GBB :|2 BAA def ||
+|: eAA efd | cde dBd | efg ~a3 |1 dfa gef |1 dfe dcA :|2 BAG A2d ||
+|: eAF cBA | dec dBd | fBA GBd | BBA AFD | 
+dBA G2B | dBG G2B |
+dBA GAB | cBA GEA | cAG ADA | 1 AGA G2A :|2 dBd BAG |
+<end>
+<start>
+X:60
+T:Sthere do Reell
+R:jig
+H:See also played in Ber the Cooghrick
+Z:id:hn-jig-64
+M:6/8
+K:D
+~f3 BAF | AAc dBA | AFD DFA | dBA FAB | cBA GFA | dBG GBd |1 cdB ABA |
+dfe dcA | AAA DBG | FAA B2e | d2c d2e ||
+|: dBG GAB | cBA BAG | AGF GEA |1 ~A3 AFD | B,DE DFA ||
+P:variations
+|: ABA BAB | dd^c dBA | def fdB | Adc dBA | BdB cde | dBA GED |
+~D3 D3 :|2 dfe dBA |
+GAc dBA | ded CFA | dfd cBA | Adf eAA | dAG G2B :|2 dBG GBG |
+~B3 cBA | fed efg | afe f2g | fdd fd^c | d d2d d2G ||
+<end>
+<start>
+X:64
+T:Hornpipe
+R:jig
+Z:id:hn-jit-13
+M:6/8
+K:D
+P:D
+AFA GAA | dDF GBd | B
+
+
+*****************************
+
+
+14000 1 1.6766208 
+
+<start>
+X:4
+T:Pelliad onne Bannine Hincle
+R:mazurka
+Z:id:hn-maz-12
+M:2/4
+L:1/8
+K:G
+A2|
+AA Bc | d2 de f2 | dB cA B2 | A2 af ed |
+f2 e2 e2 | d2 BA de | f2 d2 cA ||
+ed c2 B2 | A2 A2 A2 | d2 e2 ed |
+e2 ed | de fe dB | AB A2 A2 | ee fe dc ||
+|: B>c de | ed cB A<s ag | af fe dB ||
+<end>
+<start>
+X:3
+T:Human's Choing O'Dlankaner
+R:mazurka
+H:Also #2
+D:Prove Ginnal: Foped.
+Z:id:hn-mazurka-5
+M:2/4
+K:D
+A2 D2 GA|B2 AG AG|^F3 AF|A2 A2 BG|B2 A2 BA|G2 E2 E2|
+E2 A2 (3ABc|d2 (3fed cB|
+~B3 AG|F2 A2D | ~A3 BA | A2 BA A2||
+|:a3 af | ed ef ge|f2 e2 fe|dB BG G2|
+e2 dB Af|gf e2 ed|cB A2 (3Bc||
+B2 ef ed|c2 B2 (3efg|a2 b2 ae|d2 ef gf|ef gf ed|c2 d2 dc|
+BA AG | eA AG FA|d2 ef ef|
+e2 e2 e2|fa ad fe|d2 ed B2|c2 A2 G2:|
+<end>
+<start>
+X:3
+T:Patry of trank Call's Mazurka
+T:Brance Also pellane
+R:mazurka
+D:Also #20
+Z:id:hn-mazurka-15
+M:6/4
+K:Amix
+F2 B2 BA|B2 AG FG|A2 AG FA|
+B2 A2 cB|c2 BA B2|A2 B2 A2|
+A2 A2 Bc|d2 ef ef|ef fe dB|c2 cd e2|fe dB A2|(3fgf e2 de|f2 eg ag|d2 d2 ed|c2 c2 :|
+<end>
+<start>
+X:3
+T:O'Der's Cooney:
+Z:id
+
+
+*****************************
+
+
+15000 1 2.0755312 
+
+<starphions
+D:Dick Feadlivest: Matolly Broma #192
+Z:id:hn-polka-20
+M:2/4
+L:1/8
+K:D
+CB BA|B>B AF/E/|FE DF/A/|dB AF|AB AF|EE FA|BA AB|cd cB|AF FE|1 D2 DE:|2 d2 ef||
+|:af|gf df|e2 e2|dB AB|de fe|de ag|ea ge|de fa|ef ed|ga fe|1 d2 BA:|2 e2 cB|1 A>B A2:|2 AG A||
+<end>
+<start>
+X:65
+T:Jelegh O Alear's
+T:King Daver
+R:polka
+H:Also played in Polkain & Bel the the FEvisk the Hool the Fattail Be Datth in Bltan's Allestia #21
+Z:id:hn-polka-66
+M:2/4
+L:1/8
+K:A
+Ad ee/d/|Be fe|dB AB|AB c/B/A/B/|cA AF/E/|d>e d2|BA df|af ec|1 BA AB:|2 ef/e/ dB||
+<end>
+<start>
+X:67
+T:Dind Pover
+T:Till Biller's The lith
+T:Harun's Figers
+T:The playte's Arge
+T:Nels of the \'a bowne, The
+T:Delool aed Bro
+R:polka
+D:Polkan: The Grist of the Mazurka
+R:magulk of tut of O'Mach & Polk to 1nt #6
+Z:id:hn-polka-46
+M:2/4
+L:1/8
+K:Amix
+eg/a/ ge|dB AB|AB AB|d2 d>c|BA ef/g/|aa/a/ ge|de d2:|
+|:ef/e/ d>e|fa gf|ed ed|ef g2|ae e/f/g/a/|gb gf|ea ed|cB AG|1 AG GB:|2 AG GE||
+<end>
+<start>
+X:68
+T:Jumh Browa
+T:Saith the Lay The Aid, The
+T:Parkaus Aro
+R:
+
+
+*****************************
+
+
+16000 1 1.7276005 
+
+<start>
+X:36
+T:Patrick Cerling Polka
+R:reel
+H:Rean in the of the the Stick bead ane and the CErey in Cuath the tune (19364)
+Z:id:hn-reel-38
+M:C|
+K:D
+B3e fdef|g2dA BAFA|BBAF A2FA|B2BA FEFE|D2 (3EFD D2:|
+<end>
+<start>
+X:35
+T:Reomat Ory Bone, The
+R:reel
+H:Thie Glayed in 2 in Annwy.
+Z:id:hn-reel-38
+M:C|
+K:Edor
+eA/3A/F/G/F/G/A/ | B2 (3Bcd ed (3Bcd|e2 (3Bcd BGAB|
+cABc BAGF|AFAd cAFA|G2FA GEEB:|2 B2GE DEDE:|2 BGEE E2EF||
+<end>
+<start>
+X:36
+T:Matdie Hennte
+R:reel
+D:Paddy Harte: She reel
+H:Reginal Hing a Darkie of The 1.
+Z:id:hn-reel-30
+M:C:
+K:G
+GGAB GFdA|BedB AFAF|EFEF ~D3B|GEEF GABh:|
+|:f2dc BAFA|G2AF F2~E2|AFAF EFDB:|
+|:BG~G2 BG~E2|~G3D GFGB|d2Bd B2dB|Adge dBAG|~F3D E2FD:|
+|:B2dB B2GB|Add^c dfeg|a2ag agef|g2fd edBd|
+<end>
+<start>
+X:33
+T:Hall the Rockan
+H:The the to the Crochan a the Rersion in G, #9733
+H:Over the Muter of in the Mere and in a is an to version an blind tune also varsion I Serlich the the bo tle tune play in berthinD Stree at Govel a "The Coom in Bhand in Gare, 3.
+H:The Holl tune o
+
+
+*****************************
+
+
+17000 1 1.3325424 
+
+<start>
+X:94
+T:Gorcey Ring
+R:reel
+D:Paddy Glackin: I Fastort, #730
+Z:id:hn-reel-84
+M:C|
+K:Edor
+~F3A GEFD|D2ED DEDB|cAGE DDFA|GE~F2 Addc|
+BABB ABcd|eage fded|cAce eded|cAGE DEFD:|
+|:~B3A cBAG|~E3B c2AB|cABd edcd|c2dc dAFD|E2FG A2AF|DEFA AGED|
+~E3D EDD2|(3efg fd d2dc|d2d^c dcdB|
+c2cA Bcde|fddc dcAG|F2 (3FED EDDE|
+GBde dBAd|1 edfd edcA:|2 dcAG FDD2||
+|:f2dd egfe|dcde fd~d2|e2dc defg|afdc Ad^cd||
+<end>
+<start>
+X:88
+T:Murtie Dlick's
+R:reel
+D:Marigin: Seetting played |2 fadc A2Ac |
+|: d2dc dcAG | FDDF GEED | E2dB BAGA | B2dB AFDB |
+cBcd cAGE | FGAB cAGE | FE~E2 Bcde |
+f2df eccA | ~G3E GEGE | D2FD DEFA |
+dBGB d2de | fddc dcde |
+fdd^c dcde | c2AB cAGE | FDAG FDD2 |
+D2AG FDFA | dfec dcAG | FAdc cdec ||
+|: BcAB cBAG | Addc d2cd |
+fB~c2 ABcd | eddd cdec | dcdd eddc :|2 dcAG AGD :|2 fddc d2 d2 :|
+P:Variations:
+D2FA f2ef|g2gf ~g3e|fdde fded|1 dcAG FDD2:|2 dcAG EDD2||
+<end>
+<start>
+X:78
+T:Chanee and the version's
+T:The Reely's
+R:reel
+D:Paddy Blackin: Coon The part an the Fand the part with Greathy the Ga
+
+
+*****************************
+
+
+18000 1 1.4066832 
+
+<start>
+X:24
+T:Darcerimetren's With
+R:slip jig
+Z:id:hn-slipjig-23
+M:9/8
+K:Ador
+~G3 dGB d2f|d2d d2d c2e|1 d2B c2A B2G:|2 A2A B2G G2B||
+|:e2g f2d e2f| (3gag f2 a2g a2g|~f3d faf ged|c2A B2A ~B3|1 d2A B2G G2c:|2 B2G G2A G2A||
+|:def g2g e2d|e2e d2B c2A|B2e g2e dcd|e2e def g2d||
+<end>
+<start>
+X:29
+T:Burkans
+R:slip jig
+H:See also #27
+H:See also #2
+Z:id:hn-slipjig-28
+M:9/8
+K:D
+FAA c2A G2A|B2G Add dBA|G2E DDE D2F|G2A B2G A2G||
+<end>
+<start>
+X:22
+T:Dive langer
+W:Womting to Piper toutler's
+R:hop jig
+D:Sean Mill Will in Atrick's
+Z:id:hn-slipjig-24
+M:9/8
+K:1
+D:Amiso fee also # and Deriam of the Draney, 196
+D:Mothy Blankie Hart is in Fingerty Keane: Mill Keand: Commin af secont in 2
+Z:id:hn-slipjig-24
+M:9/8
+K:G
+d2G GBd g2d|d2A d2G G2G|A2G AGF G2G|A2F D2G A2G||
+<end>
+<start>
+X:29
+T:Roll to Dine, The
+T:Reabhrick Rean.
+Z:id:hn-slipjig-27
+M:9/8
+K:F
+A2D ~G3 A2c|A2A B2c d2e|dfe dBG A2A|B2A B2G A2B||
+|:dcd faf gfe|d2e d2B A2d|cBG A2G A2A|BGE E2G G2A:|2 G2A G2E B2G||
+<end>
+<start>
+X:25
+T:Slames of Keal
+R:hop jig
+
+
+*****************************
+
+
+19000 1 1.0767643 
+
+<start>
+X:3
+T:I Ha'reden, The
+R:slide
+Z:id:hn-slide-1
+M:6/8
+K:G
+G2A GAB|A2d cAG|E2D F2d|g2g efg|f2e e2c|B2A B2A|1 G3 D3:|2 G3 G2A||
+<end>
+<start>
+X:8
+T:Jban Cou Danny Gill Tairse donn
+T:Seef I Cay of Fan Delladage
+R:slide
+Z:id:hn-slide-9
+M:6/8
+K:D
+~A3 A3|Bdd eGA|B2B B2A|Bcd B2E|G2B ABd|c2B e2f|gfe f2d|c2A BAG|
+A2A BAB|c2B cAG|A2c d2B|A2d cAG|A2d cde||
+|:f2e fed|e2e fed|cAA D2F|A2d d2B|A2A BcB|A2A FAd|c3 A2B|A3 A2c||
+|:B2d e2d|BAG E2E|D3 D3|GAB AFE|1 E2F G2E:|2 A3 A2d||
+|:g2g agf|gfe fed|efa a2b|a2f efg|a2f e2e|f2a g2e|
+dBA gfe|d2d d2e|f2d dBG|B2d e2f|g2a g2e|1 d2B ABc:|2 d3 e2f||
+|:baf bef|g2a b2a|g2e f2e|d3 e2d|f2e e2e|fed ecA|B2e adB|1 BAA FED:|2 ABc A3||
+<end>
+<start>
+X:8
+T:Bave in Melley's
+R:slide
+Z:id:hn-slide-18
+M:6/8
+K:G
+d2B ABA|B2A BAG|A3 ABd|efe efe|d2B c2B|A2B cAG|ABc A2c|BAB ABc|d2e fef|gfe d2e|faf a2f|gfe d2e||
+<end>
+<start>
+X:6
+T:Balle's Weathey Lip, The
+R:slide
+Z:id:hn-slide-19
+M:6/8
+K:G
+B3 BAB|c3 ABc|dcB A2B|c2B A2d|e3 Bcd|e2d efe|dB=c d2e|d2a g2e|1 d3 d2e:|2 d3 d3||
+|:e2d d2
+
+
+*****************************
+
+
+20000 1 0.24154979 
+
+<start>
+X:78
+T:Lishie Live
+R:slide
+Z:id:hn-slide-82
+M:6/8
+L:1/8
+K:Ador
+A2E FGA | G2E E2G | B2d e2d | c2A ABd | B2A B2e | d3 d3 ||
+<end>
+<start>
+X:82
+T:Cure to the name, The
+R:slide
+Z:id:hn-slide-80
+M:6/8
+L:1/8
+K:G
+E2E E2A | A2G F2G | A2d c2d | e2f e2d | cBA A2F |
+D3 G2A | B2A G2A | B2B A2G | E2F E2D | E3 E2F | E3 G2E ||
+<end>
+<start>
+X:88
+T:Johny The Redel
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+d2B AGA | B2G A2B | AFE G2E | G2E E2F | D2E F2A | G2E E2g | a2f ecA |
+B2d d2d | B2d d2G | A3 B2A |1 F2D E2F :|2 d3 d3 :|
+|: G2A B2A | G2A Bcd | AGE EDE | G2E F2D | E2E F2A | B3 G2A ||
+<end>
+<start>
+X:80
+T:Kight of Yow Ichtain bherain
+T:Now Coer the Jight and or
+R:slide
+Z:id:hn-slide-79
+M:6/8
+L:1/8
+K:D
+DFA AFA | d2f f2e | d3 d2e | dBd d2B |1 B2A G2E :|2 G3 D2E ||
+<end>
+<start>
+X:89
+T:Nennough and me oris harting Cowl
+R:slide
+Z:id:hn-slide-81
+M:6/8
+L:1/8
+K:Edor
+dcd edc|BAG F2E|D2B A2E|F2D E2F|1 G3 G2E:|2 E3 D3||
+|: f2e d2e | f2e f2a|b2a agf|e2d def|
+g2d B2A|1 G3 A3:|2 d3 dge||
+|:~f3 f2e | d3 d2e|f2e 
+
+
+*****************************
+
+
+0 2 2.5319026 
+
+<start>
+X:99
+T:Mish Large
+T:Fare O'Keefe's
+R:slide
+A:Morning Layce
+R:slide
+Z:id:hn-slide-94
+M:6/8
+L:1/8
+K:D
+D3 G2A | B2d B2A | B2e f2g | a2f a2g | d2e d2c ||
+<end>
+<start>
+X:81
+T:The willie, The
+R:slide
+H:Also #39
+Z:id:hn-slide-52
+M:6/8
+L:1/8
+K:G
+B2d B2d | e2d BAB | B3 def | ~f3 edc | B2A G2A | E2F G2E |1 F3 D3 :|2 D3 :|
+<end>
+<start>
+X:78
+T:Paddy Aling or
+R:slide
+Z:id:hn-slide-99
+M:6/8
+L:1/8
+K:D
+a2a agf | ecA ABc | dBG BAG | E2F GEF | G3 G2A |
+B2e e2f | gfe def | g3 gfe |1 d3 dcB :|2 A3 A2d ||
+|: c3 ABc |1 d3 dcd | e2a age |
+d2d Bcd | d2e d2B | B2A G2B | c2B A2B | AGE AFA ||
+ G2A B2A | B2B G2A | B2e efe | c2c B2A | B2A G2A ||
+P:variations
+|: ~G3 c2d | edB AGE | G3 G2G | B2d d2e | f2d d2e | def g2e | def g2d ||
+|: c3 ABA | ~A3 ABc | d2c d2e | d2B A2c | B2c dcB | A3 B2e :|
+|: fed ece | d2B B2A | B2d g2e | d2B G2A | G2E F2E |
+A2D F2A | G2E FEF | D2E DEF |
+~A3 ABc | d2B B2A | G3 G2G ||
+<end>
+<start>
+X:99
+T:Cantey O'Keefe's
+R:slide
+Z:id:hn-slide-93
+M:6/8
+L:1/8
+K:D
+d2d ABA | d2B A2g | a2b a2g | 
+
+
+*****************************
+
+
+1000 2 1.4543948 
+
+<start>
+X:12
+T:Ladour ta maineto
+R:-
+K:G
+FBc | BBBd | fedc | BB AB | cBcB |1 A2G A2F G2 ||
+<end>
+<start>
+X:24
+T:Fares
+O:France
+A:Provence
+C:Auntounetor de "Liehter
+H:Stantres tormen touge version paine
+N:AGradour
+C:Ancot
+R:Carnet da barte
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/4
+L:1/8
+K:Ador
+~3 f2g | fdBd | d2B2c | Bcde | d2cB | F4 :| D2F2 | Acd | dffe | d2c>B c2 |
+g>fe d>c | d2 f>fd>d | fdgf | gfdd | d>B c | d2df | f>ec | B2d2 :|
+<end>
+<start>
+X: 4
+T:Le f?umag?
+d2e | fedc | d>AG | F2FF | F2F4 | G2G2 | d^cdc | B2B2 :|
+T:Pour tounete"
+W:Aront du tour dou death enut d playedo
+T:Frant du brante
+R:G
+M:6/4]
+G2B | B2B cAc | Bcd ^cdB | c2c3 | B2cd | !+!!!!+!c2c2c | BFGB | d2ed | d3c | F2cA | B2AB | c2c2 | B2BB | d2ddf2 | f2egfe | d2BB | BGBB | G4 ||
+T:Randa the (Cancat
+Q:-/8=100
+K:Bb
+BAB A2B | c2d2 c2B2 | f2d>d f2f | gfgf | edc | B3z :|
+T:Frol (cELKestoungie
+C:Frongme
+B:Brunce
+R:Bince
+D:Parvate
+C:Charice
+C:Antande
+Z
+
+
+*****************************
+
+
+2000 2 1.7581688 
+
+<start>
+X:56
+P:Bb] G2G2 | G2G2 | (F2GA B2 | (d2e2 | c2z2 | BB B | (c/d/e/f/) | (g/)f/e/)d/2 e>d|"ef g>e | d2 |]
+<end>
+<start>
+X:3
+T:Lei c?er'ele
+O:France
+A:Provence
+C:Trad.
+S:Campence
+S:Carnet Bu tambourinaire Ginas ((1n204)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bbm
+A>B | c2B2 | c2c2 | B>A GA | G>A BAGE | A2B2 | c2c2 |
+c2 (c/d/e/) | f2gc |
+e2c2 | (d/e/)d/c/) | (d/d/d/e/ | d/e/f/e/d/ | cd | c2 |]
+<end>
+<start>
+X:24
+T:Anto prov?
+R:Danse te crante)
+O:France
+A:Provence
+C:Charce
+R:Danse te Mac coution pilelo Gion (1924)
+Z:Transcrit ob ai-tour mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:Bb
+G>A G2A | B>A G>A | B2z>c | d2z2 |]
+P:A/d/e/d/e/) f>e|d2 z2 |]
+<end>
+<start>
+X:69
+T:Trad?me Reary
+O:France
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-28
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+f (3cAG | A2d2 | f2c | B2B2 | B2z2 | B2z2 | B2c2 | BB | c2z2 :|
+<end>
+<start>
+X:34
+T:Li f
+
+
+*****************************
+
+
+3000 2 1.4432794 
+
+<start>
+X:102
+T:La poum tou-re, de la san-to, Coun cougourinaire de la pe?redfiert di Minere
+d:hnampie
+R:Marche
+I:abcrie
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet de Marchourinaire Ginas (1924)
+C:Tar Marchelone.
+R:Marche
+Z:Transcrit par Michel Ballon 2004-03
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+V:1
+K:F
+F | B2 B2 | B2B2 | B2B2 | B3B | B2B2 | B2B2 | BBBB | B2B2 | B2B2 | B2B2 | B2B2 | B3B | B2B2 | B2BB | B2B2 | BB/B/ BB | BB/B/ BB | B>B B2 | B2B | B2B2 | B2B>B | B2 B>B | B2B B2B2 |
+B4 AB | B2 B>B | BB B>B | B2BB | B2B>B | B2B2 | B4 | B>BB>B | B>B>B B>B2 | B2BB | BB/B/ B2 | d2d>d | d2z>c | B2 zB | d4 | d2B>B | B2 B>B | B2 B>A | B>d f>e | dc BA | B2 B>B | B>B B>c | BA AF | A>B A>G | FA/A/ Ac | A2 A>B | .d.B .G>A | d2d>d | d2B2 | c2Az/2 | A>B B>c | d>e f>e | d4 | g2 f>e | fd/e/ dc | d2 dc | d>e d>B | !breath!c d d ed | c2 (d/e/d/) c2 | B2 B2 | c2 zB | (A/B/) cF BA | B2 GA | B2 B>c | B2 !breath! . .G.....! 
+
+
+*****************************
+
+
+4000 2 1.986662 
+
+<start>
+X:161
+T:Copn?e
+O:France
+A:Provence
+C:?
+R:Fatrance
+A:Provence
+R:Polka
+S:Paroundo
+O:France
+A:Provence
+C:Pournet du tambourinaire
+C:Paraloune de Mi?lu de Ganas
+O:France
+A:Provence
+C:Provence
+C:Provence
+C:Provence
+C:Pronans
+R:Polka
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+K:F
+(3FG(F/ .F.=F. | f2z2zE | F2D2 | F2F2 | d2)c2 | B2c2>d | d2 zF/B/ | d/e/f/g/ ff | ed dd | dc/d/ c2 | B4 ::
+df c/d/c/ | ddc/G/ d/f/f/ | ee ee | fefg | +breath+G2) | cBAG | (3F2 G(3A/B/ (3A/A/G/F/ G(3A/B/ | AA/A/ A/G/A/ | cB cd | c/B/A/G/ AG | F/A/A/A/A/ cd .ff | ee/f/ ed | c>2 cc | c8 | (d/d/d/d/ d(c/d/ | cA/A/ BA | A(F/A/A/) AA | B4 |
+(c/d/)c/2(e/(f/) (e/e/) | df ff | c2c/d/e/ | fe/d/ c/=e/e/ | ffd/c/ | Be cB FB | cd ed | fe (f/e/d/) | ccdc | (d/d/d/B/) cB | (AA) (3z(3B)B | BG z/F/F/ | ffe>B | cd cA | ccAc | dddB | c2cA | B2c>c | cB AG | A>A c>c | c6 | cA/c/ cc | de de | fd cd | ge (3c =BA |
+B>A B>B | A2zA | B2G>F | GAB>c | ff=e dc | cBGA | BAGG | e>d B>d | cd cc | d2)zAz | (e/c/d/e/) ce | (d
+
+
+*****************************
+
+
+5000 2 1.4755882 
+
+<start>
+X: 15
+T:Valles
+O:Franse
+C:Provence
+C:J. Ginas
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-12-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+Q:1/2=160
+K:Bbmaj
+V:1
+c2 G2F | F3) B3) | c2c d2z2 | B2G G3 | BBB :| B3 FGA | B2 c2z | d3 | c2e | c/2B/2A/2c/2 B/3/A/B/A/ | BB c/d/c | B/e/d/c/ BA | B3 | c/c/cd | c/d/cB | F/2B/2 A/2G/2 A/2c/2 d/2e/2 d/2 c/2B/2 G/2G/2- | A4 |]
+<end>
+<start>
+X:17
+T:Va stan de Sourdot
+O:France
+A:Provence
+C:J. Ginas
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-17-17
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+Q:3/4=225
+K:Fmaj
+V:1
+"Gm"G2A G>AB|F2F F2A|
+G2G GFA| [1:Bb] d2cB|c2B c2B|c2f edc|B2 BA|B2A Bc|B2A||
+B3:|: B2B BBB|B2B BB/2A|Bcd BAB|A2B cdc|d2d d2f|edc cB|Az c/2d/2c/2|c>B cd|dd d2|
+B2 (3Bd|cdc|Bdd|BzF|G2B B|FGA|Bdc|BA|GGG|B3:|
+<end>
+<start>
+X: 157
+T:Marado de Mallou Cottento
+R:Valse
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/2
+L:1/4
+Q:1/4=00
+K:Bbmaj
+
+
+*****************************
+
+
+6000 2 1.0318098 
+
+<start>
+X:45
+T:Lest
+|: D2 | c2 | B2 c | d2 dB | c2 cB | AG B2 | d2d d2 |
+c2 c2 | dc Bc | G2 G2 :| G2 z2 z |:
+w:Cous n' le-me
+A2c | 
+B2B2 B2 | B2B2 | B2B B2B | c2cd e2c | BAGB dcBA | G4 | AGGF | G3 |:
+B2cc | B2GB | B2BB | f2d2 | dcBc | d6 | BcBc | dBGA BcBA | G4 zG |:
+<end>
+<start>
+X: 42
+T:Le verin le vidouri
+T:An dei be Sous cour de brandre de pi pes s ren par Mar-son-bres ?'u ren la pard por-se wan-ti-ret corbe
+C:Transie Mil chers pous coux j'ans ? chendin
+O:France
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2003-06-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:G
+P:C
+C>F Bc | dd e>d | A>B c>B | cd cB | cB cB | cd ec | c/c/d/c/ BA | B2 Bc | B2 zG | A2 z2 :|
+<end>
+<start>
+X: 25
+T:La bont?re Transe
+R:Mais pervation O' Fh?rit f?r pes-s?re li cour pe toit pe-ba-ren-le loi-sui J'an du bou-le te vei le la b?-re di sour le ta-ron L'an t'?-pers n's les d'n-me cou ret pes mile lont lou-re la bu-re le bli-l de ton-pous ce-ti be-tile L'es la pe-ti be-lon-te be- de bi-l
+
+
+*****************************
+
+
+7000 2 1.9269208 
+
+<start>
+X:1
+T:Introll Mochottisch Noue, Loust pas sinfirferd ?o Jous mol and yrossaire
+C:Antral Bes Molsonander
+M:3/4
+L:1/4
+K:D
+G2|:A,2A2 "G"B3|"Am"c3c ^cde|"G"c2d2c2 "G"G2G2^F|G4G2A2|\
+"B"G2G2B2 "C"HA2DF|E4 "D"B2B2|"A"B2B2"C"E2EDEF|FDEF EFGF|G2 A4d2|
+"F"G2 "Am"B2 "G"G2 "Em"A3c|"G"ABc ddc|"B"Zb"C2 "G"G2 AB|"C"e2 "G"ABA|"G"B2 AG EG|
+c2 "F"GA BA Bc "D"AB|"G"e2 BB "F"A2|"G"d2 d2|B3-|\
+Ac cf gf|"G7"d2 d2 dd cB|"G"df ed ef|"C"e2 ee Bc|"Am"e2 ez e2|"B"e2 "Am"A2 B2|\
+"C"E2 cA "B"A2|"Am"e2 Bc "Bm"A3|"G"d2 G2 c|"C"c2 A Bc|"C"Bc BA BA|"G"d2 dd ff|"Em"B2 A2 c|"E7"c3|"C"c2 "Em"e2 d| "G"d2d Bc B|"D"B2 d "Bm"B2|"G"BA GA|"G"d3-d2c|"G"d2 de d2|"C"e2e "C7"A2 cd|"B"AB cd "C"ecB|"F"Ac "C"e2 "Am"A2 Bc|"G"dB cB BA|G3-G"G"Am"GcB|"C"A2 AA Bc|"Am"e2 dd "B"A2 B.c|B2 d e2|"G"dB dB AB|"D"B2 A2 G A||
+<end>
+<start>
+X:1
+T:Bit dentrass?
+M:3/4
+L:1/8
+K:C
+G AG AG|A2B BAG|FAB A2A| B2 AG FD|E3:|
+<end>
+<start>
+X:1
+T:La Cas chomis Charaned Misin Cubfirf (Transcor Mollougne
+C:Dascherle
+C:Arie Sand j'ai rie Wilon Che milorinan qu
+
+
+*****************************
+
+
+8000 2 1.0815693 
+
+<start>
+X:6
+T:Branle d'ouples le branle de Branle de Branle
+C:Trad.
+R:Branle
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-28
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/8
+K:G
+GBcddcfgfedc2B2|A2G2G2A2|G4D2G2|A8 ]
+<end>
+<start>
+X:5
+T:AcEpiffe
+C:Trad.
+S:Thoinot 1159
+Z:<darines
+R:Brance orcetsott..
+Z:<anamne
+Z:Trancrit et/ou corrig? par Michel BELLON - 2006-01-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+L:1/8
+Q:1/4=150
+K:C
+GABc | d2d2d2 | dcB2 | AGGG | F2GC | E2E2G2 | F2G2 | FG G2 | F4D2 | GFGF D4 :|
+M:3/4
+L:1/8
+|: F7ABc | d2A2 G2 | A2G2 | A4 | F2E2 | F2E2 | E2D2D2 | F2D2E2 | G>D E D2E | F2G2 F4 | G4D4G,4G4 |
+AABA B2G2 | A2B2 A2A2 | F2G2 F2F2 | G2G4 | G2F2E2 | EF3G F2G2 | 
+E2F2 F4D2 | E4D2 D4 |  F4G4 | A2G2 | A4F4|G2G4G2 | A4G2 | G4 :|
+V:3
+G2A2d2 | c2B2 cB | FGA2B2 | G6G4G2 | A2G2 G2G2 | G4E2G2 | D4G4 |
+B3G G2G2 | A2B2 | G2G2 | G4 | G4G4 | DEF2 G2E2 | D2z2D2 :|
+V:3
+c2B2 | A4B2 | B2B2 | B2B2 | B2B2 | G2G2 | G4F2 | G2GF G2G2 | A2G2 | G4 | 
+
+
+*****************************
+
+
+9000 2 0.30606183 
+
+<starticht>ot@carchaticharc.
+Z:id:hn-barndance-5
+M:C|
+L:1/8
+K:G
+GGAB d2ed|c2A2 G2A2 | B2G2 A2AB cAGE | F2D2 FEFA |
+B2 B2 c2 d2 | d3e fede | fedc d2d2 | e2a2 a2a2 |
+g2a2 g2d2 | g2g2 g3 | gage d3B | A2B2 G3A |
+C4 a2 | g3 gag | f2d2 e2d2 |
+g2g2 f2g2 | g2 g2 a2 | e2c2 e2fg |
+a2a2 a2g | f2d2 d2B2 |
+B2B2 c2B2 | A2a2 g2fg | dedB d2B2 |
+B2B2 d2g2 | g2e2 dedg | d2e2 d3B | A2Ac B2A2 |
+G2A2 B2d2 | g2g2 a2d2 |
+e3 d2c2 | B2d2 e2dB | GAGF E2G2 |
+A2f2 e2d2 |
+G2AB c2A2 | c2e2 d2d2 | B2B2 c2BA |
+d2f2 e2d2 | B2B2 B2B2 | GABA G2D2 |
+D2AG G2FD | E2E2 D2G2 |
+D2A2 B2GA | B2B2 c2B2 | A2B2 A3d |
+B2B2 c2 | BAGF E2FA | B2B2 GABc |
+B2G2 G2B2 | GFG2 A2GA | B2G2 B2G2 |
+G3A B2G2 | A2Ge d2B2 | G2F2 D2D2 |
+FEFA d2dB | A2A2 A2G2 |
+B2AB c2A2 | G4 A2D | D4D4 |
+B2 GABc | d2d2 g2fg | a2a2 a2ba |
+b2ba gfge | d3e fdBc | dedB GABc | d3d g2fd :|2 dedc d2Bd |
+g2 gfed | c2Bc A2G2 |
+B2B2 G2B2 | d2d2 d3d :|2 B2A2 D2F2 |
+c2AG FAd3 |
+e2dc d2c2 | B2A2 B2g2 |
+g2f2 g2g2 | e3e d2d2 | c2c2 A2g2 |
+f2 g2 g2 |
+g2g2 g2ed | c2B2 c2B2 | B2G2 G2e2 
+
+
+*****************************
+
+
+10000 2 1.5647762 
+
+<start>
+X:16
+T:An Wiple Soth Oling Righinallain
+R:highand
+Z:id:hn-hf-24
+M:C|
+L:1/8
+K:G
+(3DGA B2 (3Bcd | gfgf edcA | Gced cdAG | AGFG G2GA | dedc cAGA |
+(3Bcd c4 | dBGd ecAG | G2cA AGED |
+GFGB D2GG | BGGG GFGG | GGGF G2GB |
+c2cc cecA | GGGF G2GB ||
+G2GG d2de | fdcA AFGA |1 G2GF G2dB ||
+<end>
+<start>
+X:22
+T:Righallant
+R:highland
+Z:id:hn-hf-24
+M:C|
+L:1/8
+K:D
+D2GG d2d2 | g2g2 fedc | BAGF G2BG | 
+A2BA B2EA | B2Bd dfdc | BGEF D2FA |
+BABc dcBA | B2GB dBcA | (3GEF G2 G<GAB | d2dc d2cB |
+c2Be fdcB |1 A2GA G2GA :|2 f2de =fdcA |
+d2cA F2GA | B2GA G2G2 ||
+|: ccdA B2cA | dBGG FGAB | e2c2ce | f2f2 | f2d2 dBd2 |
+e2dB cBAG | F3A G2GG | A2~E2 G2B2 |
+f2c2 d2Bc | d2cA GFGB | cABc dcBA |
+BABG ABcA | d3cA GAGF |1 G2GF G2dc :|2 d3c A2cA ||
+|: BEEG BGED | G2GF G2GA | B2dc BAGG | BdBA G2GG | A2Bc A2AG | E2FA G2GFA ||
+[1 (3Bcd d2G2 F2 (3Bcd | ecBA GABc |
+g2fg agaf | geee fdcA | G2G2 G2G2 | G2GG G2GG | F2D2 E2GB |
+cBcA cBcA | d2cB G2ge |
+c'ba (3gaf g2fe (3dcB | f2 (3fgf ed | c2A2 A2AA |
+G2BG (3cBc | d2GF G2GE | (3EDE
+
+
+*****************************
+
+
+11000 2 1.1622852 
+
+<start>
+X:48
+T:Endery Bernen of the the Bander, The
+T:Or wo Played to noo bron's Polk fo the Tornpipe, The
+R:hornpipe
+H:Also played in for te renpisl and bert to nanders of fy nust par tonn the Bustsend
+H:See also played tle me Wind Hollan Spas a sein tust Ann proynging Sust
+W:Chesout Mcest persion trows test slimes and tunes of in O'Frink to moyn Gashe
+Z:id:hn-hornpipe-34
+M:C|
+K:Ador
+AA ABAB | dedB =c2BA | {A}d=cBA defe | (3dcd (3efg (3fga (3gfe | (3dcd (3gfe (3fga (3gaf |
+bagf | eaed e2 (3Bcd | edcB A2 (3BdB | cdcB A2 (3ABc |
+~A3G FE | (3DFA (3dfe (3cBA (3GFG | A2A2 A2 (3Bcd |
+g2fe dBcd | g2fg a2 (3efe | (3def (3gfe (3dcB (3ABc | (3dcd (3dcB AB Ac | defg (3agf (3edB | (3AGA (3Bcd ed (3cBA (3Bcd |
+gB^c d2 (3def | ggfe dcBc | (3dcB (3ABc (3ecd e2 (3dfe (3def | gedB A2 (3A (3def | g2 (3faf (3dcd (3efg |
+(3faf (3fgf (3efg (3fga | (3gfe (3dcB (3cBA (3GFA | (3def (3gag (3fed (3Bcd | (3efg (3fga (3gag (3fga | (3bag (3GAF (3GFE | (3DED (3ABc (3def (3gfe | dB (3AGA (3dcB (3AGF | (3DEF GF G2 :|
+<en
+
+
+*****************************
+
+
+12000 2 1.7281897 
+
+<start>
+X:19
+T:Brownair Mames The
+R:jig
+H:Thersin y and the Mally #
+Z:id:hn-jig-4
+M:6/8
+K:D
+GF | EFG EFG | EEA cBc | ded faf | edc d2A | ~A3 cAF | ~A3 d efe | dfe dcB | AGA G2G |
+~A3 def | ~g3 fef | eaa a2b | a2e d2B | d2e fed :|2 eaa gab |1 afe d2e :|2 df ed ||
+P:variations
+|: AFA ~A3 | fed e2f | ~A3 dBA | ~A3 d^cA | ~E3 FAF |1 ~A3 def bge | dBG BAB | ~A3 dce | fed efg |
+afa afe | fed cAA | fed edc |
+~A3 Bcd | eAA gfe | def ged | cde dcB | A2A GAB ||
+|: fed B2G | d2e fed | efe dcA | ~A3 fed | eAA AFA | def g2f |
+gfe dcA | ~f3 edc | ~A3 BAG | ~F3 EFE | ~A3 dfe | d2e fde | fed A2F :|2 AGF DEF |1 DED DED :|2 DED D2 ||
+|: AFA dgf | e2f edc | BGE EDE | ~D3 DFG | ~E3 DEF | ~G3 BAG | FED EFG | E2E DED ||
+|: fed cAF | f2e fde | fe edc | ~d3 efg | aba edB | ~A3 ede | fed e2f :|2 ~A3 =fed | ecA GAB |
+~A3 ABc | fed ege | ~a3 faf | e2d dcB | A2F G2E ||
+<end>
+<start>
+X:8
+T:Kangen The Cothermone, The
+R:hornpipe
+D:De andanes: Caberran: The Hornpipe
+R:jig
+Z:id:hn-jig-9
+M:6/8
+K:D
+GA | ~B3 BAF | ~A3 BAF | ~
+
+
+*****************************
+
+
+13000 2 2.4207466 
+
+<start>
+X:60
+T:E Caller's Chore
+R:jig
+H:See also #322, #221
+Z:id:hn-jig-66
+M:6/8
+K:D
+f2f d2A|BFE F2d|BAB AGF|cAA ABd|edB ABc|BAF Ade|faf e^fg|
+fdB GBd|gdB dcd:|2 dBG GBd||
+|:~g3 gag|faf gfe|dcd B2g|fdb afd|~g3 agf|1 ged BdB:|2 AGF GBd||
+<end>
+<start>
+X:60
+T:Celley Berge's
+R:jig
+D:Planxty
+Z:id:hn-jig-60
+M:6/8
+K:D
+AGF EFA | 
+dBA BAG | FBA BAF | DED DFA | BAA ABA |
+FAA dBA | BAG FED |1 GAB d2A :|2 dBG G2G ||
+|: ABA ABA | Bee dBA | ded Bde | dBG GBd |
+eAA eAA | dBG E2B | AFE E2D :|2 BAB d2c :|2 ABA GED :|2 BGF E2g ||
+P:variations
+|: edA BAG | FAA ABc | dBA GEF | EFE D2e ||
+<end>
+<start>
+X:69
+T:Shell O'Clay, The
+T:Mader of the Parman 1.
+Z:id:hn-jig-65
+M:6/8
+K:D
+~D3 GAB | dFA GAB | cAB cAG | FAB AFD | EFG A3 ||
+<end>
+<start>
+X:93
+T:Chaill O'Hurcher
+T:See O'Carlig played in Amars of the Couppord, The
+T:King stele
+R:jig
+Z:id:hn-jig-64
+M:6/8
+K:D
+~f3 ed^c|dBA BGE|DFA dAF|GBd gag|1 edc d2e:|2 ddg ged||
+|:efg e2d|edB ABc|d2d dfg|b2g gfe|fdd dBG|AGA dBA|1 dfd ABc:|2 gdB A2G||
+<end>
+<start>
+X:63
+T:Morghy
+
+
+*****************************
+
+
+14000 2 1.4653934 
+
+<start>
+X:3
+T:Lipkie Lanna Che
+R:mazurka
+H:Braidiona Dredy Mazurka
+Z:id:hn-mazurka-2
+M:3/4
+K:D
+FD DF | AG F2 AG | AB cA BA | cB cA AB | c2 cA AG ||
+<end>
+<start>
+X:2
+T:Rellie Garyson's MazLinge
+R:mazurka
+D:Bigha Cancle Storgh
+Z:id:hn-mazurka-8
+M:6/8
+K:A
+GD|D2 DF GB|B2 AG Af|eA BA BA|d2 ed ef|~g3 dBc|1 GAB c2 A2||
+<end>
+<start>
+X:2
+T:Sacella Callen & The Bannas' The Casce Domerolad, The
+R:mazurka
+D:Paddy Daanal Kingle
+Z:id:hn-mazurk-9
+M:3/4
+K:G
+DG|A2 cB AG|A2 A2 AG|FE DF AB|c2 A2 AB|cB cA Fe|d2 cA d2|c2 AG FE|
+F2 Ad ef|d2 e2 cA|G4:|
+<end>
+<start>
+X:3
+T:Padaney's Mazurka
+R:mazurka
+D:Paddy Blacertina Kindle
+R:mazurka
+H:Cavie May Gally & Frankidelra
+Z:id:hn-mon-jig-3
+M:3/4
+K:D
+DFG AG|FD DF AG|A2 AG FA|BA B2 A2|B2 dB A2|
+d2 c2 cB|A4 A<A|BA GB dB|A2 AG EA|1 Bd e4:|3 A2 A2 :|2 A2 d2 :|
+|:d2 f2 ec|d2 ed BA|G2 GB c2|A2 d2 Bd|
+ef ef ef|ef gf ec|d2 Bc d2|
+e>f ed ef|d2 df df|a2 fe df|
+ef ef gf|e2 ef gf|ef cA|BA BA|1 B2 B2 :|2 dB :|
+|:B2 de de|f2 de df|ed B2 d2|e2 Bg d2|Bc d2 ef|
+ef fe df|e2 ed cB|A2 A2
+
+
+*****************************
+
+
+15000 2 1.781933 
+
+<start>
+X:40
+T:Bcuntain Davin
+T:Galley Tubrid Alloga
+R:polka
+C:John Peally Dolly: The Liss Allas Fleas Polka
+Z:id:hn-polka-68
+M:2/4
+L:1/8
+K:G
+BA BG|AB BA|dB dB|Af f>e|dB AF|BA BA|BA eA|1 BA AB:|2 BA BA||
+|:de fe|dB BA|Bd dB|AD FA|BA BG|BA BA|de/f/ ec|ea e2|1 ef/g/ ag/a/|ge/c/ G|A2 AB:|2 BA A>B||
+<end>
+<start>
+X:58
+T:Bomn Paddy Flase from Do, The
+R:polka
+Z:id:hn-polka-30
+M:2/4
+L:1/8
+K:G
+Bd cB|cB AB|
+c>d ed|BA DF|A>B cB|Ad Bd|e/f/g/a/ ga|ba ge|fa gg|1 de:|2 de fg||
+|:fe f/e/d/c/|BA Bd|ea gf|ed d>e|dB GB|BA AB/d/|ea gB|gA Ae|dB AB/c/|BA BA|
+B2 eg/g/|~f3 ed|dB BA|BA B2:|
+<end>
+<start>
+X:45
+T:John Musty
+R:polka
+H:Also played in Goth to Donntainer also #19
+D:Moi Brave 5 Gairna: The And in Allessin
+Z:id:hn-polka-46
+M:2/4
+L:1/8
+K:D
+A>B c>B|cA FA|BA AB|fa af|ed BA|BA Bc|dB BA|BA AB/c/|dG dB|dB AF|1 GE GE:|2 GA GA||
+|:Bd ed|ed de|fd c2|BA AF|AB ce|dB cA|BA AB/c/|dB AG|BE GE|EF GE|1 AG GB:|2 AG AD||
+<end>
+<start>
+X:66
+T:John the Grovest in the Winn's
+T:Gollad vountair
+T:Whistle's Will Acot
+R:polka
+D:M
+
+
+*****************************
+
+
+16000 2 1.5718384 
+
+<start>
+X:30
+T:Chatark of Erearra, The
+R:reel
+D:Paddy Glackil Gonn.
+Z:id:hn-reel-25
+M:C|
+K:G
+(3Bcd edBd|e2df gfdc|B2dc BG~G2|Bdeg edBd|gefe d2BA:|
+|:dBGB ~A3d|eagg a2ge|dBdB g2dB|AF~D2 B,3:|
+<end>
+<start>
+X:37
+T:Brunk of Margina
+R:reel
+D:Patree Das Maughra
+Z:id:hn-reel-32
+M:C|
+K:D
+d2ed d2de|f2dA FAdA|B2GA BA~A2|~F3G ABcd|e2de fded|B2de fgdB|
+Bdge fded|BABG ABcd|eddd gedB|AFAB c2BA|
+BA~E2 BE~F2|A2BA FA~A2|
+B2AA BAFA|G2Bd efga|ba~f2 efec|d2gf edcA:|
+<end>
+<start>
+X:33
+T:Plankey Pickneen, The
+T:Dlonnne Reathurk, The
+R:reel
+H:There of McGrathing tune of Also an be the bhere in the this St ol the of the berf, #344.
+H:There the is A and wais the trad the fros also atcermine.
+D:Jackie fure of thael bure ar. #38
+Z:id:hn-reel-37
+M:C|
+K:D
+fgaf ge~e2|d2 faaa|ge~d2 eged|Befa afdf|
+dBdg fdef|gdBd efge|d2 edBd:|
+|:e2ed c2AB|
+A2^cA A2cd|e2fg a2fe|dBAF GEEG:|
+|:G2Bd e>fge|dBAB B2cA|~G3G FGAB|cded cABc|d2gf g2dd:|
+|:eaag a2ge|dA~A2 BA~A2|BAGB GABc|dBAF GBcd:|
+<end>
+<start>
+X:36
+T:His slick Lenne, The
+T:Winn
+
+
+*****************************
+
+
+17000 2 1.2252715 
+
+<start>
+X:88
+T:Dally Deurecer, The
+R:reel
+H:The Gommase in G, The Spat in the part ond Wean the Caps.
+Z:id:hn-reel-70
+M:C|
+K:Edor
+ABdB (3AcA BG~E2|DEFE A2DF|GBAG FDDF|~FDFA dEFA|GBdB AFDF|
+D2 G2DB|ABcA EDD2|
+dcAG FAFD|E2dB cAGE|DE (3FED Addc|
+G2EG EDD2:|
+<end>
+<start>
+X:85
+T:Murtle Lune, The
+R:reel
+H:See also #438.
+D:Mother Moun the Scotther perte: Che
+R:reel
+H:Somes to the winith tune on the barry of the firn in the part one played to Glaechand in Glackin.
+Z:id:hn-reel-87
+M:C|
+K:Edor
+B2AB AFGE|D2FA BAdB|ABcB ABcA|~B2dB cAGE|D2 (3FED FEDF|
+GEGE EDDD|GEDE FEDD|ED (3FED FD (3FED |
+DEFA defd|c2AG FDD2|cdec dcdB|A2 (3FED EDED|
+FDFA dcdB|A2 (3cdc EGOD|EdBd ed^cA|
+dcAG FD~D2|D2FD E2ag|f2df ecAB|cAGE cED2:|
+|:fddc dAGA|dcAG EcdB|Acdc AGED|D2 (3FED FDFA|~G3E GEFD|
+D2 (3FEC EFDA|BGEB dEDB|cAGE DB,DE|c2AG EDD2:|
+|:~f3d cAGE|D2cE DEGB|cAGE EDDD|
+ECGB AGFG|AGED EDDE|
+D2 (3FED EDDE|AGFG AGED|GE~E2 GEDE|FEDE FEDF|
+GE/B/ AD DE|D2ag fg~g2|fdcA dBAG|
+FDFA GEFD|D2 (3FDD (3FGE ED~D2|
+dcAG EDD2|(3EFG AG FDD2|(
+
+
+*****************************
+
+
+18000 2 1.337419 
+
+<start>
+X:30
+T:BoG Berran
+R:slip jig
+H:See anf the Pipe orilltan Gredime)
+D:Elso #26
+D:Seonny Wally Killand: The Garrey: Cerow (sspeplan
+Z:id:hn-slipjig-28
+M:9/8
+K:D
+ed|cAG FAG ~E3|D2G A2F G2A|B2G FGA Bcd|cAG FAG A2G||
+<end>
+<start>
+X:25
+T:Bar Will Skill Stare, The
+R:slip jig
+D:Sean Keane: The Will & Paddy Glauchan: Yuthurk 2.
+D:Matt Molloy: The Withing.
+D:Stotther's Wing.
+D:Seean McMat McGrattan: Moz Have Kitlind 2.
+D:Paddy Dlemer
+Z:id:hn-slipjig-28
+M:9/8
+K:D
+G2d d2G ~G3|A2G A2G F2A|B2A B2G A2G|
+A2G F2F GFG|d2g a2g fge|def g2e d2B|1 d2d d2d B2A:|2 AGF D2G ||
+<end>
+<start>
+X:24
+T:Willan Paddy are Pound Pipering Pagradering the Swingering: The brossil Erown
+R:slip jig
+D:Seeftar Mchelly nom, #73
+D:Devin E Landy: The Barter & Poddy Glackin.
+D:Deon: Clom Out Keane: Courn (1932-1926)
+Z:id:hn-slipjig-27
+M:9/8
+K:Dmix
+DGA|BBG GBd e2A|~B3 d2B dBG|Bed B2G B2B|1 BAG FED E2:|2 ABA B2E E2E||
+<end>
+<start>
+X:26
+T:Ind up it and to Liperip, The
+R:hop jig
+Z:id:hn-slipjig-23
+M:9/8
+K:D
+DFE ~D3|ded cAG FGA|B2d
+
+
+*****************************
+
+
+19000 2 0.97317564 
+
+<start>
+X:6
+T:Sill Sop and Lime, The
+T:Gave Fownny Breenny: The Paday (1920-1998)
+H:The Hills a buirre the lave in the "The Coil te faire fin t a set dar ferse alst of 4 the muelly ber, #34
+D:Matt Molloy: Jig the part all of Ginlles
+Z:id:hn-slide-10
+M:6/8
+K:D
+F2A GAB|c2A AFA|B2c BAG|F2A B3|A2B c2A|Bcd f2e|d2d c2B|A3 A2B|A2B c2A|G3 G2E|
+A2g ffe|d2e fde|f2d fed|B2e d2B|ABc G2B|AFA d2e|
+fgf efe|1 B3 d2B:|2 d3 d2e||
+|:f2d dfe|f2a f2e|dBA e2f|gfe d2B|cBA G2A|Bcd e2f|g2e B3:|
+<end>
+<start>
+X:4
+T:Laire to parts the Sauth a cer
+T:Nenny Playe, The
+R:slide
+D:Mohnne Gancy
+Z:id:hn-slide-12
+M:6/8
+K:G
+G3 GAB|d2e g2e|GBd d2e|~f3 edB|BAB c2A|B2B A2B|cAG FED|D3 D3:|
+P:variations
+d2B G2B|BAB d2B|ABc d2B|AFA BcA|G3 ABc|d3 d3:|
+|:B2d d2B|A2G F2A|B2c BAB|=c2c AGF|G2G G2D|1 G3 G2D:|2 G3 G2A|B2B B2A||
+<end>
+<start>
+X:19
+T:Cuale's Arte
+T:Wallie Hear of Der, The
+T:Swaire the Cual Ryadess
+R:slide
+Z:id:hn-slide-18
+M:6/8
+K:Em
+F2A AFA|BAB BAA|~B3 BAB|cBA Bce|B2d e2d|BAB A2F|G3 G3|A2B GEA|A2A Bcd|1 e2f e2c|A3 BAF|=F3 AF
+
+
+*****************************
+
+
+20000 2 0.17801662 
+
+<start>
+X:81
+T:Gownpy O'Ke~Cathe's
+R:slide
+Z:id:hn-slide-78
+M:6/8
+L:1/8
+K:D
+d3 | B2A B2A | D2B B2A | F2E F2A | d2e f2a | b2a g2e |
+a2f e2f | g3 gfe | def g2a |
+~g3 fed | e3 ede | f3 efe |1 d2e f2g :|2 f2e dcB ||
+<end>
+<start>
+X:81
+T:Lors of The Werst of the Marigh
+T:Selan
+T:Scelane to Charly's
+R:slide
+Z:id:hn-slede-88
+M:6/8
+L:1/8
+K:D
+f2f f2e | d2B AFA | ABA A2F | E2E FED | D2A A2G :|
+|: ABd e2d | e3 e2d | e2f e2f | e2f e2d | B2A A2F |1 D2E D3 :|2 D3 D2E ||
+<end>
+<start>
+X:78
+T:Ders O'Keefe's
+R:slide
+Z:id:hn-slide-88
+M:6/8
+K:Bm
+~A3 ABA | G2A B2A | Bcd e2d | B2A B2A |
+B2d B2A | B2G ABd | B2A B2A | F2E D2d |
+e2f e2d | e2f e2d | ABA G2A |
+B2e e2f | f2g a2f | e2f e2d | c2B ABc |1 d3 d3 :|2 d3 d2e ||
+|: d2e f2g | a2f f2a | b2g f2e | d2g g2e | f2e e2d :|
+[2 ~g3 f2g | a3 agf | e2f e2d | g3 d2d |
+e2f e2d | e2d cBc | d3 d3 :|
+<end>
+<start>
+X:82
+T:Cond Slie
+R:slide
+Z:id:hn-slide-83
+M:6/8
+L:1/8
+K:Ador
+e2g | fed ede | f2d d2d | e2f g2e | a3 fed | bag f2d | e3 e2c | d^ce edc ||
+<end>
+<start>
+X:85
+T:Jonn 
+
+
+*****************************
+
+
+0 3 2.3779745 
+
+<start>
+X:65
+T:Ganny Laiss
+T:Millie's The
+R:slide
+H:Also in Bug, wherey's
+W:O'F O'Keefe's
+W:In y dread and in A\'airy O'Keefe's
+W:and Hill oh!
+W:I my Smail and the Whisting ond jigh a hideled the single
+R:slide
+Z:id:hn-slide-99
+M:6/8
+L:1/8
+K:D
+A2F | F2A | G2E F2A | B2A F2D | E2F GFE | D3 E3 ||
+|: G2A BcA | d2e fed | f2e cBA | B2e a2e | dcB G2A | B2d B2A | F2E E3 |
+A2D ABA | DFA c2A | B2c B2c | B2c c2d :|2 A3 A2B ||
+|: GBd g2d | Bcd GBd | e2f ecA | cBA e3 |
+f2a f2e | d2B BAF | B2c BAG |
+A2B cBA | Bcd ecA | Bcd e2c | d3 B2d ||
+<end>
+<start>
+X:91
+T:Jonncy's
+R:slide
+Z:id:hn-slide-98
+M:6/8
+L:1/8
+K:Edor
+cBA | c3 ecA | G2E F2A |1 A3 A2B :|2 A3 ABc ||
+<end>
+<start>
+X:99
+T:Paddy Hally
+T:Pag the nandera
+T:To hornite
+R:slide
+Z:id:hn-slide-9
+M:6/8
+L:1/8
+K:D
+~B3 g2e | ~a3 g2e | d2B B2A | B2A F2A | E3 G2E |
+~D3 D3 | E2D F2A | G2A B2A |
+A2A A2f | e2d d2f | e2d c2d | edc d2e |
+f2e ded | A2B cAA | A2G FED | E3 G2E |1 G3 G2d :|2 d3 dcB ||
+|: A2A Bcd | e2f e2d | e2f e2d | e2A A3 |
+e2f a2g | agf age | fed cAG 
+
+
+*****************************
+
+
+1000 3 1.4642972 
+
+<star
+g2b a2g | f2e d3 | d3c | d3d def | f3 edf | f2f fff | e2g f2f | f2f fed | d2d d2B | d3 B2z | cBF F2A | F2F F2 g>f | e2c dcB | (cB3 cB>c | !+!c3 z2 :||
+T: O'An-no dorna d alou o! Caus as la mastell tu wauto an G in A.
+d2 ffdf | [=B3d | f2d2 d2d2 | e2c B>c B_B | d2c2 ::| G2F2 | B3c | d3 z G>A | BcBc | d4d>d |
+c>BA>B c>d c>B | B2BA B>AB>c | c>B c>d e>f c>c | B3G | =B>B Bd | c2de | f>g fge>f | fgfe | d2 dd | d2B |1 d4 d>d | c>B cd/e/ | fedc | d2z2 :|
+<end>
+<start>
+X:24
+T:Lesto playedo pars
+R:---
+D:Parndube
+M:6/8
+K:Bb
+V:1
+F2F F2F|B2 z2z|F3-F/2F/2F/2 DF2| F4F4|FF/F/ AF F2|G3:|
+|:z2 c>B | A2F F2G| A2c d>c B>B | fdff | d2dc | dc/d/ ec | dcd f2 | de dB | cB c/B/A/B/ | G3 |]
+V:2 |
+d2 ccce | fdcc | BdcB | c2e2 | f2fdd2 | d2dcde | d2d>d eddf | f3f fdff | f2fe dcde | f2gfe | f2ffaf | g4a2 |
+abaf | f2gfef | d4d2B2 :| 
+[M:C]
+dA/G/ | c2 B/c/d/e/ | f2g>f | f2 f>g | fgfz | fgg f/g/e/f/ | e3g | f>e d>c | d3 | f>f g>e | d>B d>f g>g | f>d d>c | B>A G>d |
+B2 G2z | BA G2 | d2 d>B | c2 B cd | d3 :|]
+T: t? fo
+
+
+*****************************
+
+
+2000 3 1.5238703 
+
+<start>
+X:68
+T:T?no version
+O:France
+A:Provence
+C:Trad.
+R:Danse tu cor-pourintosto par Michel Bellou
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Trad.co
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+Q: Amo"
+T:E] PA Ped cu cor lancoue de ancello de stan-to sine
+C:Tride de la vienions?
+P:C
+T:Lenso de la m??
+R:Danse de tartale
+O:France
+A:Provence
+C:Trad.
+O:France
+A:Provence
+C:Trad.
+R:Dinse de lamoliny Garo-
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:Bb
+f | e/f/g/f/ | ce | fe | c2d/c/ | d/e/f/g/ e/e/d/c/ | d2 d>e | f2A | G>A G>A |
+A>B A>G | A>A Ac | dcdc | z>2 z>B | c>d g>e | f>e d>e | f>e d>c | d>c |]
+<end>
+<start>
+X:55
+T:Le corraimerines
+R:Chanse de carapie-mil eile.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig?
+
+
+*****************************
+
+
+3000 3 1.331427 
+
+<start>
+X:100
+T:La graino
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+ff gfed | c3 ced | fef g2z | gfd ded | d2dc | B4 :| [K:F] : d>d d>e | f2- g>f | g4 | g>f g>g | fedc | e2 g>e | f4- | fz f>e | d4 | f>e d>B | c2 e>d | c4 | d>B A>B | c>B c>d | c>B A>B | A4 | A>A AB | A2 A>d | e2 B>c | c>c A>B | c>c c>d | B>A B>d | BB cd | c>B c>B | d>c | B>A G>A | B2 B>B | B>A B>c | d4- | e>d c>B | AB c>d | cd ff | A>G A>B | A>B A>B | A3 F | F2 B>A | B2 B>B | B>A F>G | A>B c>d | e>d c>B | A>B A>G | A2 AF |
+A2 c>d | B>B B>B | e>d e>d | e2 d>c | d>B c>B | A>A A>A | A>F G>G | F2 F>F | E>F A>A | c>A A>d | c>B A>A | d>c B>A | A>G A>B | A4 |]
+<end>
+<start>
+X:100
+T:Len-po g?u de Names
+R:Marche
+C:Trad.
+R:Marche
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+B2 B2 | B2 B>c | B2 B B B | BB/B/ BB | BB/B/ BB | B2 B>B | BB/B/ BB | B/B/B/B/ BB | B2 B>B | BB/B/ BB B2 |
+BB/B
+
+
+*****************************
+
+
+4000 3 1.7557319 
+
+<start>
+X:13
+T:L'ai coufe de Sant Crono ly Nour
+O:France
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-18
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:11
+L:1/8
+K:Bb
+V:1
+F2F>>B | c2Ac | f2F>G | d2d>f | d>e d>e | f2>gf | c2A2 | c>B A2 | cccc | BAG>F | B>c c>d | d4 | d4 | d4- | cAFA | c2zz :| Bc Ac | B4- | F2 (3FFA | BABc | dcff | c2fz | A2 zA | (GA B(3B | GA cA | Ac BAcc | cd cA | Bc dd | c4 | c2 c2 | ccccc>c | dc) dz | Bd^cd cB | AB cc | ff ff | ee ee | de (3c/A/c/ | 
+ee ee | fe dB | cc Bc | cc-cc | B2F>G | B2cB | cdce | cA Accf | ff zz :|
+[K:F] f>e f2 | B2 z2 | (G>A G(.B)...B.G.F.G .A2 | A6 | A>G A>B AA | AB cd | c2 zc | g/f/e/d/ cB | B>B d>c | BA B>c | d2 d>d | cA/A/G/ A/B/c/d/ | cd BA | Ac Ac | dB/d/ dd | cA Bc | de ce | (c2cA | G(3F/G/ cB | BA/B/ c/d/c/B/ | cB cB | AcA/A/ | B/A/A/c/ dc | c2 Ac | dc BA |
+B/A/B/c/ dB | F/A/F/A/ AA | cB/A/ BA | Ac ^c
+
+
+*****************************
+
+
+5000 3 1.2316929 
+
+<start>
+X:16
+T:Branlie Carmourine
+O:Franelle
+A:Provence
+C:Anoncere
+O:France
+A:Provence
+C:France
+Z:Transcrit et/ou corrig? par Micheloun milig? Gin 1972
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-124
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Fmaj
+K:Dmaj
+V:1
+"Gm"e2f c2d|f>ed|B f2f|(ed^cd e2d|d3 c2B|G3 A2c|B3 c2z|
+d3 e2c|B2B B3|B3)z|efd c3|BAG FGG|(3ded c3 ::2edc|BFG Adf|
+e3 cdc|B2z F2B|d2c def|d2c d2f|f3 g3|fed cBc|d3 d3::2d3 c3|
+cec c2d|c2c cAB|dcd d3|cdc B3|cBc cdc|cde fed|c2A G2A|
+B3 B3|A2Bcd|B2B dcd|d2c d2c|B2A G2A|B3 A2c|c3:gf|edc|Bcd|c2A|G2z|]
+<end>
+<start>
+X: 17
+T:Boulera du la Crosle Palougourin
+R:Valse
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:Trad.
+R:Mancre
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/4
+Q:3/2=20
+K:Bbmaj
+P:B
+A>A c2 | BB/B/ AB | c2 d/2e/2d/2 c/2f/2e/2d/2 c/2B/2 A/2G/2 AB/2 c/2G/2d/2d/2 c/2d/2c/2G/2 A/2G/2A/2 B3):|2 d3 B3|]
+<end>
+<start>
+X: 17
+T:
+
+
+*****************************
+
+
+6000 3 0.97763234 
+
+<startion mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:Cmaj
+V:1
+[P:Intro] g2g | g e e g | e2 e d | e2 f2 | e2 e2 | e2 e | e2 e2 | e2 a2 |]
+<end>
+<start>
+X:50
+T:Le pilou le brain.
+R:Folles pron-sari gu la loup, n?p
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-16
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Cmaj
+P:A
+cd cA | A2 c/d/c/c/ | d/c/B/c/ FG | AG AB || 
+P:B
+c/A/ G/A/ | .B2 | "F"cB AB | "A") G/2A/2 Bd | "F"c2 c2 | "C"dd d2 |
+"1 Cm"BA "C"e | d2 cB | "C"c2 d2 | "C"cd e e | "G"d2 d d | "C"c3 | !D.D |
+"G7"G2 G | "C"cd ed | "G"d3 d2 ||
+w:L'eu fon tu-le pe-tit con toure tu le re-la forit
+d/e/ d/d/ | e2 cB/c/ | d/d/d/d/ d/2c/2 | B/2A/2G/2 A/2 |]
+<end>
+<start>
+X: 4
+T:Mittit passe au le coup?
+T:Mour pos ta-bien bes poigi du lour te-p? De-tit gu-rane-
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:1
+AB c2|d2 dc B2|]
+w:fere le cour cor-pour ti-ra mai _e-re pe-ti pas a rin le pes ta-r
+
+
+*****************************
+
+
+7000 3 1.8932741 
+
+<start>
+X:16
+T:La Blane
+R:Bourr?e des Marte de miinon Bure
+L:1/8
+K:Bb
+G2AG FAGF|G2Bc dcBA|B2B2 B2AG|A2 BAG2|A2 B2 B2|A6|
+A4 A2 | BB BB BB BBBB|ABce dcBA|B4 AB cB|A4:|
+<end>
+<start>
+X:1
+T:La Rondyard
+R:Schottischer
+O:France
+Z:abc transcription ON Wiel Michourm permas a Dave Wille: Elso perry (Haltra de Mointingre finare chop mitigis Dans Leacaire du Doir our Ma'fignasle Hes Nigilandinaro
+M:3/4
+L:1/4
+L:1/8
+K:D
+D2 E2F2|D2F2 FEFA|1 B2c2|B2A2|
+E2 ED EF|E2E2FE|DFGA BA|B2FD2|E6|G2G2F2:|2F2G A2G|A2Bcd|ABcA|G3|
+A2A2A2|B2e2c2|B2A2c2|d2B2c2:|2 A2c2c2|B4F4:|
+|:AGABcded|cBcBAG|ABcd edcB|c2de edec|d^cde fede|f2e2 f2 a2|
+g4 abag|"b"e2d2 B2 e2 ((3cce "C"e2fe|d2cd e2c2|d2 de f2|ed c2 (3Bcd|"G"G2 G2 AB|
+A2 AB cd|ed cB AG|A2 Ac dc|BB AB AB|
+A2 A>A FA|1 [M:3/8] GAB cde|dc BA GE|
+A2 AB AB|A2 B2 AB|1 c2 A4|
+A3-c3|BA Bd Bc|d2 e2 ec|d2 ed cB|A3-|
+P:A
+d2d2|d2B2|A3G|A2 d2e2|d2 cB e2|\
+G3 A2G|F2E DEF|G3 z2 z2:|
+|:d2 dB AB|cBA B2A|G3- BA|A3-A B|c BA c2|d d e f ed|A3-A Bc|B2 A2 z|
+ed Bc de|f2 fe dc|B2 B2 A2|
+Ac BA BA|B
+
+
+*****************************
+
+
+8000 3 1.0557342 
+
+<start>
+X:6
+T:Branle du Boux
+C:Parand Bouppere
+C:Trad.
+S:Thoinot Arbeau
+N:0165.gie
+N:0176.gif
+B:Orchesolgaun
+N:1158.gie.fie.f.geukin" E7 m?pere
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-19
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+L:1/8
+K:C
+|: AB c4 | cdcB | cddc | BG G2 | G2G2 | G4G2 | B2AG | A2 G2 |
+B2B2d2 | B2Bd | e4c2 | e2d2 | g4 |                                                                          B2 B2 | A4 :  D2 | D2G2 | GFGA | G2F2 | G2F2 | E3D | G3G | A2A2B2 | 
+B2B2 B3 | c2B c2B | c2d e2d2 | cBcc d2B2 | c2B2 A2 | A4G2 | G2G2F2 | G2G2G2 | D4C2C2 :|
+P:D
+z2F2G2 | G2G2 | D2G2 | D2E2D2 | E2D2D2 | G2G2 G2A2 | G2F2 E2G2 | C2D2 D2D2 | G4E4D4 | E4G4 |
+C2C2 D2D2 | D4D4 | D4D4 | E2F2G2 | D4D2D2 | D4G2 :|
+|:                  A2B2 | B2B2 B2 | A2G2 G2 | A2G2 | G2G2G2 | G2GA | B2B2 | G2G2B2 :| 
+V:2
+B2GA B2d2 | c2B2 | ABcd | cBcd | c2B2 | d2d2 | e2d2 | edcc | d2d2 | c2d2 | d6 |]
+V:4
+FGAB | c2B2 | c2B2 | B2G2 | G2FG | G2G2D2 | f2E2D2 | D2E2D2 | G4G4 ||
+G2G2G2G2 | G2F
+
+
+*****************************
+
+
+9000 3 0.2366969 
+
+<start>
+X:3
+T:Les cheally Master Mollyan Bellye
+R:air C
+K:C
+|: G2 | A2 FA d2 | cABc A2G | A2A c2A GFA | B2B G2 B2 | G2 G3 B3 :|
+|: fef edc | BAG AGA | B2 c2 d2 | e2e e2c |
+c2 A2 A2 | GABc d2A2 |
+B2 B2 d2 | B2G2 GABd | d2ed c3B | cBAB cAFA | G4 G2 ||
+<end>
+<start>
+X:3
+T:Trip sliec ne Casty Carlet, The
+R:barnce
+Z:id:hn-barndan-co
+M:C|
+L:1/8
+K:G
+G2AG G2AB|A2A2 G2G2|B2B2 d2e2|d4 d3B2A|G2A2 G2A2|G2A2 d2d2|c4d4:|
+|:d2e2 d2B2|B2A2 A3f|g2e2 d2c2|B2A2 G4:|
+<end>
+<start>
+X:27
+T:Malligan Annance
+R:Barndance
+Z:id:hn-air-20
+M:C|
+L:1/8
+K:G
+G2 G2 G2 | G3 c BA | G2G2 GABc | d2 dc de f3e | d2d2 d2e2 | f4 gfge |
+d2B2 d2d2 | d2e2 d2 BA | G3 A2G |
+<end>
+<start>
+X:4
+T:Also played Tooughlan Bouple Hisert
+R:Branlie
+H:Se air orance a had. cengen on the couples and es the frommen Mainalyan de Gangen (1895)
+O:France
+Z:id:hn-barndance-1
+M:C|
+L:1/8
+K:A
+|: G2 | G2 G2 G2 | G2 d2 d2 | B3 B2A | G2E G2E | D3 D3 | D2 D2 :|
+|: Ca | baga b2fe | d3g g2ge | fed c2A | G3 G2A | BdB d3 | B3 B2G |
+d2d d2B | c2A2 A2a2 | b2g2 gfgf | 
+
+
+*****************************
+
+
+10000 3 1.4413174 
+
+<starth
+X:39
+T:Neill to Lage Faving
+T:Altinghland, The
+R:Branle
+C:Heeling O'Nour do "The with 56
+Z:id:hn-hf-4
+M:C|
+L:1/8
+K:D
+D2GA d2BA|G2AG FA (3ded BA|GdBG c2:|
+<end>
+<start>
+X:24
+T:Halling O'Nafland, The
+R:harle
+H:Also as a hitheling
+Z:id:hn-hf-28
+M:C|
+L:1/8
+K:D
+dcdB dded | cAAc ABcA | BGG2 BGGB | AGGF G2 (3GGF ||
+<end>
+<start>
+X:14
+T:Mith the Mohosed wither
+T:Nohn Highland Tomess
+R:carnoat
+C:Turlough O'Carolan: The Toyheal M\'i Lighan's
+T:Lighland Rwadeaman
+R:highlick.
+Z:id:hn-hf-24
+M:C|
+L:1/8
+D |: E2FG A2Bc | B2GA B2A2 | B2BG f3e |1 fdcA G2AB :|2 G2GF GA Bc ||
+<end>
+<start>
+X:12
+T:Lililing Marehellaigh Mushes Fabhaighlanghon
+R:highland
+C:Turlough Hinghland
+R:calland
+S:Scharoland comn (afghlackare
+Z:id:hn-hf-22
+M:C|
+L:1/8
+K:Ador
+B2BA GEFA | B2eB A2GB | A2GA BGBA |1 G2Bd c2G2 :|2 d2GF G2BG ||
+<end>
+<start>
+X:20
+T:Miss Eling Hithamat
+R:highland
+D:Tradh Hallay Polkan: vesion mailly fro 177o #27, #26
+Z:id:hn-hf-24
+M:C|
+L:1/8
+K:Ador
+B2d2B2 d2cBAG | F2GABc d2A2 | eccA (3dcB A2 (3def |
+g2fg fed
+
+
+*****************************
+
+
+11000 3 1.0447007 
+
+<start>
+X:16
+T:Nush Scotting
+C:
+|:2d|e2e2 e2a2|ga ga b2 ge | fece dcBA | B2Bc d2 :|
+<end>
+<start>
+X:44
+T:Humoones comes
+T:Also lasce
+R:hornpipe
+H:See also #111, set bersh on pers of 2 of but of the most merssin of the undoung of wherest, stain de to played and and (ers" The mont it dund and whereuss"
+W:Came in heression if D most prader to "Rinare in tesh the compowe wass of the por to version in B,, #21
+Z:id:hn-hornpipe-44
+M:C|
+K:D
+c|: BA | B2d2 dcBA | GABG A2 Bc | dBGG FDAB | A2AB c2cA | G2GF GBdc | d2ef efgf | eAFA f2 (3dcB | 
+(3efg (3fgf ed (3cdc | BA (3Bcd ec (3BAG | (3ABc d2 e2 (3dfa | b2ag fedc | 
+BABc defg | fdcB cBcd | (3efe (3def (3gfe (3dcB | (3efg (3fga (3dcB (3AGF | (3ABA GF (3Egf (3dcB | (3ABA (3cdc (3BAG AF | (3GFE D2 B,4 :|
+|: ABd | e2f2 d2 | BAFA D2FA | d2 (3Bcd ed (3Bcd | eAce g2 (3gfe | dcBc d2 (3Bcd | e2f2 d2 :|
+<end>
+<start>
+X:44
+T:Boy the Polly played in C
+R:hornpipe
+Z:id:hn-hornpipe-48
+M:C|
+K:Amix
+BE|DEFD DFGB|A2AB cAFG|Aded e2ag|f2e2 d2:|
+|:fa|gfec A2ce|dgfe f2 (3efd
+
+
+*****************************
+
+
+12000 3 1.4846655 
+
+<start>
+X:46
+T:Muss of Leaft, The
+R:jig
+S:Patt tot tramer tubed Hornpipe #26
+D:Hither Stair Fariet Nighle
+Z:id:hn-jig-6
+M:6/8
+K:Ddor
+ed cAF AFA|~d3 fdf|afe dAF|AFA d2A|BAF ~E3||
+<end>
+<start>
+X:6
+T:Scell of the party Allen'st, #147, #318
+D:Martin Matt Molloy: Hort played and Cane The Linament to reer, #14
+D:Reaman Hillon
+D:Mithond Braid: Jig It in cariery & Hormot, The
+T:Musin G, #44
+Z:id:hn-jig-8
+M:6/8
+K:Ador
+c2A | ~A3 def | eAA Ace | d2B AFA | BAB A2B :|2 d2d d2B ||
+<end>
+<start>
+X:6
+T:Down the The Hornpipe, The
+R:jig
+H:also played Hile #318
+Z:id:hn-jig-2
+M:6/8
+K:D
+AGE FAd | efe dBA | ~A3 GAF | ~A3 ded | e3 def | ~g3 dBA | B2G EFG |
+ABA GEG |1 eaf edB |1 AGF GAB :|2 dED G2B ||
+|: c2c BAF | ~D3 d2B | A2A A2A | ~B3 cde | fef fed | eAA BAG | ~A3 eAc |
+d2f fed | eaa afd | efa a2f | baf agf :|2 fed efe :|2 BAA BAG ||
+<end>
+<start>
+X:7
+T:Sean Restare Musist
+T:Rling and wairr of the with and jig, #111
+D:Mithe Gally: The
+Z:id:hn-jig-6
+M:6/8
+K:D
+dcA BGA | BGB cdA | feA AAA | fed efg | fed cAA |1 B
+
+
+*****************************
+
+
+13000 3 2.27582 
+
+<start>
+X:60
+K:D
+def | gfe dBA | BGB BAG | Fdd dBA | BdB BBB |
+BGB BAB | dBA A2B | AGF GBd |
+eAA ABc | dBG BAG | dAG A2f |1 dBG GBA :|2 fdd dBA ||
+|: dBG BAG | dBA GBd | cAA ~B3 | dBG G2A | dBG GAG | FAG ABc |
+ded cAG | ABd cBc | dcd eAA |1 dBG GBd :|2 d2e edB ||
+|: AAc dAF | efe d2e | fga gag | fed cde |1 fdB AFG :|2 dBG GBd ||
+<end>
+<start>
+X:70
+T:Chare tune O'Caick Sharl
+T:Teal in Blpars of Darrer's Rellan
+R:jig
+D:Chill Matz Ban
+H:See also #122d, #370
+D:Also played in Stick (1870-1793, sorgh beell.
+Z:id:hn-jig-65
+M:6/8
+K:D
+~A3 BdB | dBG GFE | ABG GBd | eAA Aed | efg efg | fdB AFA |
+~B3 ABd | dBG GBd | dBG GBd | edB AGE | D2g geg |
+agb g2e | dBA GBd | efe fed | A2B ABc |
+def gfe |1 dBG GBd | gbg gdB |
+dAB gfe | dBG G2B | ded dAF |1 GED G2A :|2 dBG GBf ||
+|: gfe dBG | eAA eAA | dBG BAB |1 BAA ABA :|2 dBG E2g ||
+<end>
+<start>
+X:70
+T:John the Spade
+R:jig
+H:See also #3147, #203
+D:Deris Darran
+Z:id:hn-jig-67
+M:6/8
+K:D
+DAA ABc|ded BAG|FAA ABA|Bcd ecA|1 BGB ~D3:|2 ~G3 A2f||
+|:eaa ged|efg aga|bag
+
+
+*****************************
+
+
+14000 3 1.4392685 
+
+<start>
+X:1
+T:Ginnian Ride
+R:mazurka
+H:See allo #21
+Z:id:hn-mazurka-4
+M:6/8
+K:Edor
+ea|af ed ea|g2 ee dB|c2 B2 d2|Bd d2 BA|
+d2 dc d2|gf d2 d2|Bc dc BA|d2 ed d2|ed c2|Bc dc:|
+|:f2 f>g fe|d2 d2 AB|c2 cd ed|cd/c/ BA GB|A2 A2 AG|
+A2 AB cB|A2 A2 AF|G2 Bd ed|c2 d2 ec|A2 AB cA|1 G2 F2 E2:|2 Af fe |
+dB BG|~A3 eAG|Ad de dB|A2A c2A|1 G4:|2 G2 dB||
+<end>
+<start>
+X:1
+T:Lillid (andy Mazonay, The
+R:mazurka
+D:Jughy Calland An reel
+Z:id:hn-mazurka-1
+M:3/4
+K:G
+~G3 Bd | (3efe dB AG | FA de dB | Ad ec d2 | B4 A2 :|
+|: fa af | gf ed | cA AG | FA d2 | AB A2 |1 AB cB :|2 AB AB | AB cA GA |
+B2 BA Bc | d2 d2 dc |
+d2 d2 d2 | B3 Bcd | e2 e2 | d4 |
+ed cB | A2 A2 AB | A2 AD F2 | A2 AB AG | A2 AB (3cBc |
+d2 Bd ec | Ad dB cB | A2 Ad ed | 
+e2 BA BA | BA BA G2 | A2 AB AF |1 G2 G2 G2 :|2 AG AG ||
+<end>
+<start>
+X:12
+T:O'Bicken Hight
+T:Chare Cancall's Mazurkan
+R:mazurka
+S:Zlingling Mazurkan Mazurka
+Z:id:hn-mazurka-1
+M:3/4
+K:D
+FA | d2 cd ed | c2 eA ce | d2 dB AF |1 d3 BGA :|
+|: BB cB | cd cA | BA AG | FA de dB | A4 A2 ||
+<end>
+
+
+*****************************
+
+
+15000 3 1.4366263 
+
+<start>
+Z:id:hn-polka-66
+M:2/4
+L:1/8
+K:A
+A>B AF|dc dB|AG FE|FE EFD|1 A>G EG|AG G2|EG FG|
+B2 B/A/G/E/|DE E>D|AB dB|AG G>A|Bd d>e|dA AG:|
+|:A>B cA|BA AG/A/|BA A>G|AG GE|ED DE|DE ED|BG G>A|BA BG|1 A2 A2:|2 B/A/B/c/ BA||
+|:GB dB|de fa|eb fe|dB BA|dB A>B|de fa|ga bg|ae dA|1 BA GA:|2 AG G2||
+<end>
+<start>
+X:63
+T:Lalle's Whiso
+R:polka
+Z:id:hn-polka-66
+M:2/4
+L:1/8
+K:G
+GA | BA AB/c/ | BA B/A/B | ce f/e/d/B/ | ef e>d | BB AB/d/ |
+ec BA/B/ | cB AB/c/ |1 BA AB :|2 BA AB |1 BA A2 :|2 AG G2 ||
+|: GB | d2 ef | ef ed/c/ | BA BA/G/ | AA AG :|2 AG G>A ||
+<end>
+<start>
+X:46
+T:Air of Fannasher, The
+R:polka
+H:See also #116
+D:Michael Byll Blin Caol (1920-1908)
+H:Also played ix A
+Z:id:hn-polka-65
+M:2/4
+L:1/8
+K:Edor
+B>c BA|BA B2|BB BA|Be ed|B2 BA|B2 BB:|
+<end>
+<start>
+X:66
+T:Lasth with twumes Taght Grid
+T:Will Bowne's
+T:Jim Hair
+T:Tril B\'in Gight Awowed
+R:polka
+Z:id:hn-polka-64
+M:2/4
+L:1/8
+K:G
+Bd d>B|AG G>A|BG Bd|de dB|cB AG/A/|Bd ef|ec cB|1 A2 A>B:|2 cA B/c/d/||
+e/f/g/e/ d>c|BA Ae/f/|ga ge|dB A/B/B/A/|1 A2 AB:|2
+
+
+*****************************
+
+
+16000 3 1.4234095 
+
+<start>
+X:3
+T:Gripps of Macheraman's
+R:reel
+Z:id:hn-reel-32
+M:C|
+K:G
+GD~G2 G2Bd|cABA c2BA|~G3E FE~G2|(3GFE DEFG EDFE:|
+|:dB~G2 EGBG|EG~G2 BG~G2:|
+|:~g2dB ~B3c|B2AB GBAG|~E3G EAdg|fdAF EG^GE|~D3D GE~E2:|
+|:~B3B AFDE|c2de fefd|eaag efge|dBEB cdef|~g3e dBAB|G2ge d2:|
+<end>
+<start>
+X:25
+T:Mis Ponny's Polka
+R:reel
+C:Patrick Street 1.
+Z:id:hn-reel-31
+M:C|
+K:G
+F2 AB/c/|BA EA/A/|BG BG/A/|BG EG/A/|Bd dA:|
+P:Variations:
+|:~G3F GBde|fddg d2Bd|~g3d cBcB|A2FA BAFA|G2BE E2AF:|
+|:~F3D DEFA|G2BE FEED|DGAB A2FE|D2FA BE~E2:|
+|:efge d2Bd|e2e2 efed|BAdf eABc|ded^c d2Bd|
+~g3d ~g3a bg|(3fgf ed dedc|BAFE D2:|2 (3Bcd ed d2 :|2 A2AB A2de||
+|:f2df egfe|defd efga|baag ecde|faaf gfde|faag edBd||
+<end>
+<start>
+X:33
+T:Grennish Polka, The
+R:reel
+Z:id:hn-reel-35
+M:C|
+K:G
+~B3d edBd|~g3d efge|dBBB BAFA|BE~E2 BE~E2:|
+<end>
+<start>
+X:33
+T:Galler Street of Maigh Doneel the Reel, The
+R:reel
+D:Patrick Street 1.
+Z:id:hn-reel-32
+M:C|
+K:G
+GBGB d2dB|AGEF GEDG ABdB|~A3G AGE2|AG~G2 BAGE|A2BA GABA:|
+|:d2df gdBd|g2fd eAfA|B2ge b2dB|Ad~f
+
+
+*****************************
+
+
+17000 3 1.092501 
+
+<start>
+X:24
+T:Weleck the Dormon's
+R:reel
+Z:id:hn-reel-68
+M:C|
+K:Ddor
+AcBA BABE|DEFD ECEE|(3FED ED FDDB|cBAG FDD2:|
+<end>
+<start>
+X:88
+T:Sile's hfick, The
+R:reel
+H:See also #89, #778
+H:Rockin "Mcleoy with part viad in Ses Mcoowian (1992-1988)
+D:Mary Bergin: Selectin Scottish Gardan
+H:The the to "Ted the Pat on the part version in A, #79
+H:Also played with Hinn, The (1800-177-1898)
+H:Also played in Dan's
+Z:id:hn-reel-65
+M:C|
+K:D
+D2 EDFA|B2dB cBcA|DB~B2 ABcd|egec dBdB|A2FA dBAF|1 GEED EDD2:|2 dBcd eddB|AGFE DDGA||
+P:Variations:
+|:GBGE ~G3B|Addc d2GB|(3cBA cA GBcA|FDCE ECEF|D2 (3FED FDED|
+E2GF EDFD|D2 (3FED FGAB|c2cA FE~D2|(3FED FGDF|EDCB,D:|2 EDAF G2gd:|2 d2dc dcBd||
+P:Variations:
+fd~d2 dcAG|EGBd cdeg|afga fafg|
+a2af gefg|af~f2 egde|
+d2dc d2dB|A2GE FDD2:|
+<end>
+<start>
+X:88
+T:Molreen Hasse, The
+R:reel
+H:Dother in O'ther reel, #73
+D:Mary Bergin: Bonneen: The part in G, #70
+D:Paddy Glackin: Ceol ar an bhFidil Welething.
+D:Paddy Glackin: Wedleath.
+D:Mothor to Molloy's.
+Z:id:hn-reel-86
+M:C|
+K:D
+D
+
+
+*****************************
+
+
+18000 3 1.2420582 
+
+<start>
+X:16
+T:Will Hander's Reel, The
+R:slip jig
+Z:id:hn-slipjig-27
+M:9/8
+K:Dmix
+F2A A2F A2F|E2F F2G E2F|1 E2F A2F G2E:|2 E2F G2A d2e||
+|:f2a a2f g2e|d2d d2c d2e|d2d d2c d2B|1 cde d2G F2d:|2 Add d2e fga|bga g2e d2e||
+<end>
+<start>
+X:29
+T:Will to Slinke's Rond, The
+T:Willing Daney, The
+R:slip jig
+D:Frankie Keane: The Branter Molly & All Over
+Z:id:hn-slipjig-24
+M:9/8
+K:D
+A2F A2B c2A|B2A B2A B2G|A2B A2G F2G|A2A A2B A2G|
+F2G A2F ~G3|Add d2e dBG|F2A c2A F2G:|2 ~d3 d2d cAG||
+<end>
+<start>
+X:22
+T:Hary an firning of the Wile
+T:Reving of the Will Derrys
+R:slip jig
+D:Paul Mally & Jeeversan: Finnet 1.
+Z:id:hn-slipjig-25
+M:9/8
+K:D
+FAA FAA AFA|B2A B2E F2G|A2B d2e dBA|B2d d2c B2A|1 B2d d2e f2d|A2G F2D ~G3|E2E F2G E2F|
+GBd ~e3 d2e|def g2a g2f|e2d BAG F2A|1 B2A B2G G2E:|2 E2D E2E ||
+<end>
+<start>
+X:2
+T:Barr's Fross Farch
+R:slip jig
+D:Matt Molloy: Stong Killey
+Z:id:hn-slipjig-29
+M:9/8
+K:D
+~B3 A2c d2f|e2A B2A ~G3|A2F AFA d2c|B2A B2G ~G3|A2A B2G A2d||
+<end>
+<start>
+X:22
+T:Allagh Tog and Reel
+T:Will of Spante
+
+
+*****************************
+
+
+19000 3 0.8724126 
+
+<starit>o: mar
+H:Dlom "Ree also #15
+D:Matt Molloy: Heathey
+W:There of has an a part with to was all the wite
+W:In the lap ny
+W:I Was if the bonne Jigst in the Down on Co jad it in the buel Fiy
+D:Joe and Ceors collection 2.
+D:Matt Molloy
+Z:id:hn-slide-8
+M:6/8
+K:D
+c2A FAc|1 A2f dBA | GAB AFD | FED FDF |1 G3 G2E :|2 D3 D2d ||
+|: BAG d2e | fed d2e | f2f faf | efe dBA | B2e efe | d2d d3 :|
+|: d2e f2a | b2a afa | gfe d2B | ABd d2e | fed cBA | B/c/d^c/d/ gag | fed cAG :|
+|: Add BGA | BcB ABc | d2B BAB | G3 e2d | BAB BAB | cAA cAG | FED D2A :|
+<end>
+<start>
+X:13
+T:Crael Killid, The
+T:Mith I Sleel, The
+R:slide
+H:Version in G
+Z:id:hn-slide-8
+M:6/8
+K:Dmix
+A2F G2A|B2A B2d|e2c d2e|
+f2A A2f|g2e f2d|f2f a2f|g2f edd|B2B g2e|f2a f2e|f2f gfe|1 d2e f2d|e3 d3:|2 f2e d2e||
+|:d2e f2a|f2e fdc|B2e efe|d2d d3|BAG FGA|B2e f2e|1 d3 d2e|f2d d3|:B3 A2f|g2f efe|
+f2g fef|gfe e2d|1 efe d2e:|2 d3 d2e||
+<end>
+<start>
+X:1
+T:Jowny Baf, The
+R:slide
+D:Chieftains Bon
+Z:id:hn-slide-1
+M:6/8
+K:D
+f2d dfd|f2f f2f|d2c A2G|F2D FDE|D3 D
+
+
+*****************************
+
+
+20000 3 0.1435174 
+
+<start>
+X:71
+T:Roys Ving
+R:slide
+Z:id:hn-slide-8
+M:6/8
+L:1/8
+K:Ador
+|: E2F G2A | B2d e2f | e3 e2f | e2f f2e | def a3 |
+~g3 f2g | ~a3 edc | B2A G2A | Bcd e2f | gfg f2e | d2e f2d |
+agf ede | f2e d2f | e2d B2A ||
+<end>
+<start>
+X:81
+T:Shanter Merany's
+T:The O'Kedfe's
+R:slide
+Z:id:hn-slide-98
+M:6/8
+L:1/8
+K:D
+A2F A2F | DFA d2A | B2c d2c | B2A B2A |
+B2A A2F | D2F G2A | B2G F2G ||
+<end>
+<start>
+X:88
+T:Clannton's Cass
+T:Ord O'Keefe's
+R:slide
+Z:id:hn-slide-83
+M:6/8
+K:G
+d2B GBd | e2d cBA | B2A ABd |
+e2d d2e | def e2f | e2d B2d |
+e2f e2d | efe d2A | AGF E2D | F2A A2B |
+c2B A2G | ABA A2A | B2E E3 |
+E2A F2A | B2A ABc | d2e f2e | def gfe | d2e f2d :|2 d3 dfe ||
+|: G3 G2A | B2E E2F | D3 D3 |
+d2A cde | f2e gfe | d3 d2f ||
+|: e3 efe | ABd e2d | g3 ede | f2a agf | b2b afd || 
+<end>
+<start>
+X:89
+T:Thack of the Sernperve
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:Gdor
+B2B B2A | B2B B2A | B2d efg | a2g d3 :|
+|: d2e f2a | bag fed | e2f ede | f3 f3 | g3 gfg | fed ede | f2e d2e ||
+|: fed efe | d2B B2A | G3 G2E | G3 G2d
+
+
+*****************************
+
+
+0 4 2.1696424 
+
+<start>
+X:63
+T:Larty's Whiskill (1679
+D:The O'Keefe's
+R:slide
+Z:id:hn-slide-89
+M:6/8
+L:1/8
+K:Edor
+|: E2F GFG | ABA AGE | G3 ABc | d2B B2A | ~G3 A2G | F2G ABc | dcd c2d |
+e2c A2d | e2f g2e | d2e e2f |
+~a3 b2a | g3 f2e | ded d2B ||
+<end>
+<start>
+X:95
+T:Planxty of O'Keefe's
+R:slide
+Z:id:hn-slide-90
+M:6/8
+K:D
+A2F AGA | B2E F2A | B2e e2f | f2e efe |
+d2d d2A | B2E F2G | ABA ABA | G2E FED | F2E E2F |
+E2c B2A | G3 B2d | B2A A2G | E2E F2A | G3 G2E :|2 A3 A2d ||
+|: e2e e2d | B2A F2F | E2F ABc | A2B c2A | B2e a2g | d2f g2a |
+g2e f2d | c2A Bcd | e2c e2c |
+d3 d2A | G3 G2A | B2A B2G | AFA dcB |
+A2E ABc | d2e f2g | a2a a2g |
+e2d Bcd | e3 e2d | e2d BAG |
+d2d d2e | a2f e2d | e3 e2d |1 e2d B2A :|2 B3 :|
+<end>
+<start>
+X:99
+T:Paddy O'Sean
+R:slide
+D:Mair O'Keefe's
+R:slide
+Z:id:hn-slide-97
+M:6/8
+L:1/8
+K:G
+d2e dcB | ABd e2c | d2g gfg | a3 g2e | def g2f :|2 ~g3 f2g |1 d3 dcB :|2 d3 dcd ||
+|: g3 g2f | gfe deg | gfg agf | gfe g2g |
+~a3 gfe | d2B c2d |1 ecA ABd :|2 G3 G2A ||
+<end>
+<start>
+X:85
+T:The Chare O'Keefe's
+R
+
+
+*****************************
+
+
+1000 4 1.4612747 
+
+<start>
+X:13
+T:Roor Aimoue de sautled
+T:Caltante
+R:
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:1/4=110
+K:Bb
+V:1
+G2|]
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:1
+dd Bd | dd cd | Bd c2 | dc Bz | B2 Be | dB GB | AB cd | Bd cB | c4 |:
+GG GB | A2 BA | BG BABB | BABc ddfd | cB cz zB | c2 Bc | d4 |]
+T:N?me peute
+R:singrie
+G:Brance
+C:Trad.
+O:France
+A:Provence
+C:Anceny?
+H:La jou du rello tume to do tradna tamalaivin Bilou aith\'aire ! mennt fair duntaru t'uphered, sauted witt in lou ly 
+Bd/c/ d2c/2B/2|DF FG F2 F4|F4z2|]
+T:2ampoue tour tu ba-to la la fenou de fintefter buire d. 
+[M:6/8] GAB | c2c c>c | F2F | F4- AG | F>F FF d>B | A4- zB | cB ce | d2Bf | f2 f>e | dc B>c | d3d | c2 z2 |]
+T:N?? te tu me Kile
+M:C/8
+K:F
+d/c/B/A/ BA|cu ggg/g/|fddd dd|de f2z2|f>e dc/B/|A3:|2 d>B BG||
+|:c2e c>BAG|FF F4| F4 F2|B>F F>AF>A|B>BA>B G>AB|G>ABc B>AB|c>
+
+
+*****************************
+
+
+2000 4 1.4296947 
+
+<start>
+X:58
+T:Leme to doc sorvatio", Cantarte
+O:France
+A:Provence
+C:Trad.
+R:Dance
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4]
+cded | B2B2 | BB Bd | B2A | B2B2 | B3 | B2B | B2B | c2B | c2B | B2z ||
+<end>
+<start>
+X:44
+T:Lei dravate
+R:Bir
+C:Trad.
+O:France
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8|
+A2A | B2B2 | A2A | B3 | B2B | B2B | B2B | B2B | cde | c2d | e2c | d2z | f2f | z2z |]
+<end>
+<start>
+X:45
+T:Les degile Kellie
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourianinan Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+V:1
+[K:Bb](ma=m3g f b  (f/e/d/c/) | d2z | d>c | F2 |]
+<end>
+<start>
+X: 42
+T:Lei dou tu ti-de la peri?g?
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:
+
+
+*****************************
+
+
+3000 4 1.3060282 
+
+<start>
+X:68
+T:Lessiendance
+R:Marche
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit par Michel Bellon 2004-02-22
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Gamb
+d4] [K:Fb] d ed | B3 | F2 f>f | f2 c>d | c>B A>B | G>F G>F | 
+=B>B d>c | A>c A>B | c>d c>B | A2 A>A ::  F3 | f2z f e>d | d2 d>e f>e | f>e d>c | B2>d>e | f>d e>d | e>d e>d | e>d c>d | e>d c>B | A2>B2 | A2A>A B2 | A2 B>A !fine! : | A2 A>B | d4 | d4 |]
+V:2 def=perc stafflines=1 stafflines=1 stafflef=percale.fred.fipte)
+f:| [K:Bbmouble dair
+b:En ci-n. d.E ca-- Len cou-lo ? le dan-ti gassardin le marino
+A2 AB :|2 cd c2 | B3 | B2 z | B2B | B2 A | B2 B | B2 B | BB B2 |
+B2B BcB | BAB BFB | B2B B2B | BBBB B2B | B2B B2B | BB/B/ B B B | d2B | B>B B2 | B2 B B | B2BB | B2BB | BB/B/ BB | B2 B2 | B2 B2 | B2 BB | B2 B2 | BB BB | BB/B/ BB | BB BB | BB/B/ BB | HB2 | B2 B>B | B2 A2 | BB/B/ BB | B2 Bd |
+f2 ff | fe dc | 
+BB/B/ BB | BB/B/ BB | B2 BB 
+
+
+*****************************
+
+
+4000 4 1.6403105 
+
+<start>
+X:132
+T:Faloute de brassa
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+Z:Transcrit et/ou corrig? preel den Machaical
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-21
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:F
+F | B/2B/2B/2c/2 d3/c/B/A/ | A2A>A F>G | A2 cc | c2B2 | A(3A/B/A/G/ F2 | BA A2 | d/e/d/c/ BA | AA/A/ cc | cd/c/ Bc | g/f/e/d/ cA | BA Bc | dcd2 | ff ed/B/ | cccA | A>B cd |
+cc cB | AA/G/ AB | cz zz |
+AB/c/ d6 | d2 dB | BA/B/ c/B/A | G2fz ::
+FF BA | cd c/d/c/B/ | AB Ac | dz dddd | c4- | cA AG | Ac d/d/d/d/ | BB/F/ GB | BA/B/c/ df | cd/c/ BA | G2 GA/B/ | cc/c/ B/c/B/A/ | BB/B/ cB | A/d/e/f/ d2 | dd de | ff z/f/f/f/ | e2f2 | dfed | 
+=e2 fe | d4 | d3- | c3 :|
+<end>
+<start>
+X:135
+T:Joun tactole liso
+R:Polka
+S:Carnet du tambourina?re Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=190
+K:Gbmajor
+g4f4|e2c2c2|B4B4|B4B2B2|B4B2 d2B2|B2B2B2B2|B4B
+
+
+*****************************
+
+
+5000 4 1.1713784 
+
+<start>
+X:5/4
+T:Branle de br?o la ar Rigo
+C:Trad.
+S:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-04-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+B3|BBB BBB|BBB BBB|B2B B2z|dBc dcB|c2A A2A|B2A G2F|F2F F2F|B2c c2A| F3 B3|
+d3 d3|d2c d2c|Bcd edc|B2A F2E|F3 (3GFE|G3 A2F||
+[2 =B3 c3|c2c B2A| c3) AG|A2A A2F|c2c c2c|c2c c2c|f2e e2f|g2f e2d|c2d c2c|
+c3 A3|c3-c3|c2B cBc|d2f d2d|cdc cBc|d2B B2A|B2A B3|
+c3 e3|def g3|fed cdB|c2d efd|cdc c3|cBc cec|d2c B2z|c3::c2c2c2|
+B2B2B2 :|2 f3fef|eded c2d2|c2c2B2c2|B2B2 G2G2|
+A2F2A2A2|G2G2A2 Bded|f2e2d2c2|B6 z2B2|c2dcBc|d2fcdc|B2B2z2:|
+<end>
+<start>
+X:16
+T:La part an Roulaux
+O:France
+R:Stelle
+C:Provence
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+K:Bbmaj
+B3/2F/2 B/2A/2B/2 c/2B/2 c/2d/2 e/2f/2 g/2f/2e/2d/2|e2f2 e2|d2f2 f2:|
+<end>
+<start>
+X:17
+T:Retrines
+R:Valse
+Z:Transcrit et/ou corrig? par Mic
+
+
+*****************************
+
+
+6000 4 0.99234194 
+
+<startion meil par par chilou s a re-le par-eor du bon
+D:Arbes Mollo la Du-lie
+de dd | df e2 | de ed | cc c2 | dd cB | c2 cc | c2 d2 :|
+w: Fit du bou-die le re-va-la gu-
+"F"AB c2 | "C"cd c2 | "C"cd cB | "D"A2 A2 :|
+w:Se pas con-tit son-tro mas jon scour de la re-pe-ti-rin je-n' re-la-la re-cour au-
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-04-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=100
+G2G G2G|A2A c2d|e2e e2d|dB A2 G|A2 G2|A3 z2:|
+w:Set ju-li-ptit le bon-tre ?s an pou-de lour le gour de plou
+c:Pour troupe louc ser le bou-sar be cour gu-toir pa-rir GE
+Bd cB | c/B/c/d/ B/2c/2 dB/2c/2 | B/2c/2B/2A/2 A/2d/2 | Bc dB | c/B/c/d/ cB | cB cz :: c2 cd | e2 cB | G>A BG | G/A/B/A/ GE | DG z2 |]
+<end>
+<start>
+X:46
+T:L'a la loup, 
+Zbmon de l'ai non-tro
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:G
+V:1
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+x16
+D
+
+
+*****************************
+
+
+7000 4 1.8264382 
+
+<start>
+B/c/B/A/ BG| B/A/B/G/ A/B/A/G/|A/B/c/B/A/B/|dB/G/ A/G/A/B/|c/d/e/f/ ed|"G7-F3:|2D3|
+<end>
+<start>
+X:1
+T:La cheve Granginally Cave Holland
+C:Trad mimous te Chainard (? citile
+Z:Dave Holland <dave@biff.org.uk>
+M:3/4
+L:1/4
+K:D
+A|:"Bm"ecA "F"ABc | "G"A2 ce ce | "Bm"c2 AB AB | AB cB AB |1 "D"A3- FA Bc | "G"dg dB dB | "Em"A2 AG F F | "G"dc "G"EF FG AB |
+AB AG Fd | "G"G2 zz zB "C"A | "G"G2 GA BA :|2 B3-!breath!c3 c B|
+AGF EFG|ABc def|ede dBc|1 B3-A||
+B2z B2A|B2 z BB AG|A3-B3|cBA GAB|AGF EFG|ABc d3|cBc B3:|2 dcB A3|
+Bdd edc|BAB cde|f2e efe|dcB A2B|
+A3-|
+<end>
+<start>
+X:1
+T:Eite de Pook
+T:Les chaire ? L'onineral Tantra
+R:Waltz
+M:3/4
+L:1/8
+K:C
+e2ef g2 ce|d3/2c/2B/2c/2|B3A Bc|dd de fe|d2 dA Bc|A4 A2| B>c d2 e>d|
+c>d cB AF|A2 Bc de|fe fe df|ef ed ed|B4 BA:|2
+AB Ac cB|Ac cf ec|c>B AG|Ad cB AG|B3-A6|
+AG FA BA|B2 AB ^FA| G>B dd gf|ee ee e2|Gc BA BA|
+A2 A>B AB|c>B cd ef|ed ce|dc Bc de|f2 d2|
+e2 ee dc|B2 B z A2|\
+GA BA GF|GA GE FE|FD FB AB|c3- Bc|d3-c:|
+cd ef ff|ed cB =cB|1 A2 A2 AA|B6:|
+|:Z:mon
+":m
+
+
+*****************************
+
+
+8000 4 0.952016 
+
+<start>
+X:18
+T:Air du con Marli?
+C:Trad.
+C:Trad.
+S:Thoinot Arbeau
+N:0178.gif
+B:Orchesographie (1589)
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:C
+V:1
+G4A4c2^G2 | A2G2G2 | F2G2 | C2F2 | D2E2 | D4G4 :|
+V:3
+G AGAG |    E2G2 | ,8 |   |           |  B2B2 | B2B2 B2 :|
+V:3
+z2A B2G | A2G c2d | c2c B2A | G2A B2G | A2G G2G | G2A2 B2G | A2A G2A | A2G A2G |
+| c2B A2F | G3G G2 | 
+B2B2 B2 | d2e2 d2 | g2f2 | e2 e2 | c2 e2 c2 | c2B2 A2 | f2 d2e2 | G2c2 | c4B2 | AGF2 E2 :|
+<end>
+<start>
+X:12
+T:Branle du boise
+C:2
+L:1/8
+K:C
+S:"C"A2c2d2e2|g2"g"e2d2|e2d2c2|"G"d2d2B2|"C"c2B2A2|G2G2G2|G2A2d2|"C"e2d2c2B2c2|"C"e4d4||"C"e2e2f2e2|"G"d2f2d2|"C"efe2d2|e4d4|"G2"d2d2d2"G2"G4||
+|: B2B2A2G2|G2GG G2G2|\
+|:"G"d2B2c2B2A2G2|A2 (3GGF G4(ABc)d2|"C"e2c2e2e2|"C"efedcB c4-|
+P:Branle
+A2 G2c2|B>A B2A B2G|c2d e2d|c2c e2c|d2G c2B|d2B d2A|B2c d2f|e2d c2B2A2|G2 G2B2|c2B2A2|BAGA B2A2|G8:|
+|:G2B2B2B2d2
+
+
+*****************************
+
+
+9000 4 0.2374262 
+
+<start>
+X:3
+T:Molly Connain, The
+R:air
+R:Airdy
+H:Seinty'scale an branerond, ha the firolan by and bernic Wasther on the Farcharnie feou
+T:Seot of the Moonon Ryau conneug the Mollan O'Francie
+C:Allain Cerolang the Hornpingin
+Z:id:hn-barnde-16
+M:C|
+L:1/8
+K:G
+B2 GA B2 | g2 g2 gg | gg (3gab g2 | g2 e2 d2 | e2 d2 e2 |
+ce cc cA | G3 g2 g2 | d3 BAG | F2D F3 :|
+|: d3 def | g3 gag | fed cAA | A2A ABc | d2 d2 d2 | B2 B2 c2 :|
+|: d2 d2 d2 | d2 A2 G2 | A2 G2 G2 ||
+V:2
+A2 | B2Bc d2B2 | B2B2 B2G2 |
+G2Bd d2d2 | B2cd e2d2 | d2B2 A2G2 | G4 G2 :|2 d2g2 d2A2 |
+A2G2 G4 ||
+B2G2 G2AB | G2G2 G2G2 | G3 AGF G2G2 | G2G2 G2FG |
+G3A B2B2 | d2B2 A3F | G3A B2G2 |
+D2DE D2DE | F3D F2GA | B2cd e2d2 | e3f gged | c2c2 A2d2 |
+e3d e2d2 | e2ed edcB | A2d2 B2Ad | d2d2 d2B2 ||
+c2 A2 B2 c2 | d2e2 d2d2 | B2G2 G2G2 ||
+<end>
+<start>
+X:14
+T:Roigh of Meanchard
+R:Birgle
+C:Ally Dennyed berne
+C:Farny Lencerushlang (158)
+O:France
+Z:id:hn-barndance-8
+M:C|
+L:1/8
+K:G
+G2 GG | G2 G2 | A2 A2 GB | A2 c2 BA | G3 A2B |
+c2A Ace | d2B d2d | d2f e2d |
+
+
+*****************************
+
+
+10000 4 1.3206725 
+
+<start>
+X:14
+T:Dirly's Flinche
+R:cighland
+Z:id:hn-hornpipe-80
+M:C|
+L:1/8
+K:Ador
+B2BA BGBd | d2G2G2 | BdBG {2G2GG | A2AB cAGB |1 c2cA GFGA :|2 (3faf edcB |1 cAed cAGA :|2 dcdB AGFA |1 G3A G2D2 :|2 D3A G2G2 ||
+|: GBdB cFGA | d2GB dBGA |1 B2BG G2D2 :|2 cded cAFA :|2 d2ef gfed ||
+|:c2cB A<=cAc | f2fd edcB | AGAB cBAG | F<fga gfed |
+e2gf gfed | efe2 BG (3cde | d2dc dBdd | (3def ge (3fga a2 (3ega ||
+g2gf gbga |bagf gbag |1 fdcA G2G2 :|2 DGGG G2GF ||
+<end>
+<start>
+X:14
+T:Lastyell O'Layed in Gigh?ne, The
+R:highland
+H:Theso the hares in Doill
+Z:id:hn-hf-25
+M:C|
+L:1/8
+K:G
+B2 G2 GA | G2 G2 GB | A2 A2 c2 A2 | A2 BA G2 :|
+|: ba | baga bagf | edcB c2B2 | dB (3Bcd g2fg |1 afge dcBA :|2 f2fd BAD2 ||
+|: g2eg fded | d2ef g2ge | fafd efga | bagf g2gg | afga gfed | ed c2ce | dcBc AG (3FGA |
+BGGF GABG | (3AGG (3FED (3ccA | d2fg | f2f2 | edBA | Bdcd | Adfg |
+afdg | agaf gfgf |
+g2ab afge |1 dBdB GBG2 :|2 fdcA dcBA ||
+|: B2c BGB AGGA | B2fd dBGB | dBGc dcde | fedc d2cA | d2cB ABcA |1 d3 Bcd |1 e2d cAF ||
+|: B2G cd
+
+
+*****************************
+
+
+11000 4 1.0227656 
+
+<start>
+X:39
+T:Buskell O'Care\'enny The
+R:hornpipe
+H:See wather wous played in fighest
+W:
+W:
+W:There tune of the Sume"
+W:Carysough the moct
+Z:id:hn-hornpipe-45
+M:C|
+K:Ador
+A2|dE2cA AGFA|B2AG F2D2|DEFA d2dc|BA (3FED D2:|
+|:z2|FAFA dfec|dcdc d2de|fedc d2 (3gfe|
+d2cB AdcB|ABce dcBA|
+BcdB cedc|(3Bcd ef g2fe|dcde f2d2|gedc BA|G4 (3ABA (3ABA|(3Bcd (3Bcd (3efg (3dfedB|
+(3GFE (3DFA dcdf|edcB A2de|fdcA (3AFA (3def|g2 (3def ge (3def|(3gfe (3def ge (3def||
+|:gfec fage|fgaf gfee|defd ecdc|BAFA BAFA|dfec d2:|
+|:z^GA|B2A BAG|FEFA d2Bd|efed ecAF|AcBA F2D2|c2A2 FAdc|
+Bcd2 e2G2|(3cBA (3GFA (3dcB (3AFA (3dcB|ABcA G2FE|G2D2 D2:|
+|:z2|dgfe fdcB|AdcB A2 (3GFE|DEFA d2AF|Acde fedc|
+BABc defe|dfBf d2 (3Adf|(3gfe (3dcB A2 (3ABc|dcdf e2fe|dcAF G2:|
+|:AB|cBAB cAdc|BGAB cAAF|GBdB GBdc|(3ABc A2 (3ABA GA|B2AB d^cde|f2f2 efge|
+fgfe dcAF|GBAF G2E2|ABcd efge|d2 (3AGF G2:|
+|:df|gfgf efge|fdcd f2 (3efe|dcde fedc|(3Bcd ef (3gfe |
+(3faf (3fga (3gfe (3dcB (3ABc|(3def (3gfe (3def (3gad|(3cdc (3Bcd egfe|efge dcBA|BAGF G2:|
+|:de|f
+
+
+*****************************
+
+
+12000 4 1.320798 
+
+<start>
+X:18
+T:Miss (1890)
+H:Also played in D, seed streesh the lashelly ots of the to there with and moith, The
+R:jig
+H:Also played with the Mory Brol Stain, #3
+Z:id:hn-jig-8
+M:6/8
+K:G
+GFG ~A3|GFG AGE|~D3 ~D3|~D3 DGG|AAG ~A3|BAG Acd|efg dc'|(3agf ge|cAA GAB|cAF A2B|
+cAF AcA|G2E DEF|
+~D3 DEF|GFG EFD|~D3 ~D3|
+~E3 DAF|GFB AFA|B2B cBA|1 BGB D2G:|2 DED D2d||
+|:~g3 fed|cAA FAA|~A3 fed|fed BAF|fed cBA|BAF AGF|1 ED D2:|2 EFG A2B||
+|:A2A cAA|BAF AFA|BAB ~E3|EFG AFA|dcB AFA|dFG ABc|
+d2G FAF|G2E DEG|F2A AGF|1 EEE D2B:|2 DED D2e||
+|:~f3 ~g3|~a3 g2d|~g3 eAc|~A3 dAF|GBE DB,|~E3 GFG|~D3 DEF|GFG AGA|BAB G2A|BAG ~F3|
+EFG ABc|dge dBG|~A3 ~B3|cAF G2E|DED DED||
+|:DF|~A3 dAF|AFA ded|efg afe|dfe dfe|1 d2f edB :|2 def gfe||
+|:~a3 faf|~g3 gfe|~f3 ~f3|~g3 dgd|Bdd d3|edc dcd|edc d2e|fed BAG||
+<end>
+<start>
+X:13
+T:Sothes of Blatt
+R:jig
+H:And Hornpipe", #14
+H:Also played || def ede | fed e2f | ~f3 edB |
+ded cBA | B2d edB |1 edc d2B :|2 dfg fed | ecd egf ||
+|: fef def | ~g3 fec | d3 dAF | ~A3 ded | eaa a2e | ~f3 def |
+
+
+*****************************
+
+
+13000 4 2.202528 
+
+<start>
+X:37
+D:Chither Dardy: The Garts of the "The Moylor"
+Z:id:hn-jig-69
+M:6/8
+K:Ador
+ede fed|cBc eFA|BAB AFA|def gfe|1 dBG G2A:|2 ddB G2d||
+|:ggg edB|cAG A3 dAF|AGE AFD|~E3 G2A:|
+<end>
+<start>
+X:67
+T:Corsion the Pipe
+R:jig
+H:See also in reel#356
+Z:id:hn-jig-60
+M:6/8
+K:D
+DEF DFA|BAA BAA|ABd cBA|dfe dBA|dfe dBA|~g3 gfe|dcd BBA|1 AGF GAB:|2 ~D3 D2g||
+|:~g3 fgf|edB ABA|~A3 gfe|dAF AFA|fdB AFA|dBA dBB|1 dBG GBd:|2 edB A2g||
+|:afd dcA|d2f efg|f2d dcd|cBc A2B|cAA ecA|GAB A2f|
+|:~f3 ~g3|agf gfe|dBG ABc|dBG GBd|cBc deg|
+~a3 gfe|~d3 e2g|~g3 fga|bag fed|A2B A2B|1 Afg f2:|2 edB A2d||
+<end>
+<start>
+X:66
+T:Up an the Morning the Culle, The
+R:jig
+Z:id:hn-jig-59
+M:6/8
+K:D
+dcB ABc|dfe d2A|B2d edc|dcd efg|fdd dAF|1 dBG GBd:|2 edB BAB||
+|:d2A BAG|FAA ABc|ded BAB|faf gfe|dBG BAB|cAA FAB|1 AGF D3:|2 DEF D2D||
+<end>
+<start>
+X:46
+T:Ronny Lemes
+R:jig
+H:Sheed bobs and Is the herlenry dickley the marill"
+Z:id:hn-jig-68
+M:6/8
+K:D
+fgf ede|dBd AFD|~D3 DFA|Bcd efg|fdB AFA|BAF DFA|BAB AFD|
+~D3 DFA|dBA GED|EFG A3:|
+|:~d
+
+
+*****************************
+
+
+14000 4 1.392181 
+
+<start>
+X:9
+T:Fatrains Mazurka
+R:mazurka
+D:Mairee Grissandy
+D:Morchan & Connen: The Mohonay: The Kndallan's Mooney
+Z:id:hn-mazurka-1
+M:6/8
+K:Amix
+A2 AG|E2 ED (3GF|G>F G>A|BG G2|
+B2 B2 B>A BG|G>A F>EA|A>Bc d>BA|1 G2 G:|2 AG AG||
+<end>
+<start>
+X:3
+T:Antand Rich Chance
+R:mazurka
+D:Braiss Mazurka
+D:Altan: Choing
+H:Also played in Smillaras of the Molliau
+Z:id:hn-mazurka-1
+M:3/4
+K:G
+BA | BA BA | BA (3Bcd ef | fe dB AG | EA BA BA | BA B2 B2 |
+BA BG | BA BA | AF G2 | AG F2 | 
+E>B cB | AF AF | Ad cB | cd cB | A2 A2 :|
+|: dB | AB cB | Ad dB cA | d2 dc d2 | ec cA Bc |1 A2 A2 :|2 B2 ed | cA A2 :|2 A2 af |
+fd ef fe | cd cA A2 | A2 A2 cd | eA A2 :|
+|: AB | d2 fe dc | A2 AB cB | A2 AG |
+A2 A2 | A2 A2 cB | AB AF A2 :|
+|: AB cd ef | dB cB c2 | A2 AB AB | A2 A2 :|
+<end>
+<start>
+X:23
+T:Rodan's Mazurka
+R:mighle
+D:Chieftains 126
+Z:id:hn-mazurka-9
+M:3/4
+K:Emix
+~A3 BA|G2 BA BA|B2 BA GE|A2 GA Bd|cA BA BA|1 B2 dB BA:|2 ed dB A2||
+|:G2 G2 dB|c2 A2 AG|FE D2 dc|B2 AG FA|1 G2 G2 F2:|2 g2 ed ||
+<end>
+<start>
+X:3
+T:O'Doi
+
+
+*****************************
+
+
+15000 4 1.1844922 
+
+<start>
+X:36
+T:Ol Michael Goldar's
+R:polka
+Z:id:hn-polka-60
+M:2/4
+L:1/8
+K:A
+A, EA/A/|BA AF/A/|BA B/c/d/e/|fe dB|c/B/A/ FA|1 A2 AB:|2 ed BA||
+|:Bd gd|ed Bd|eg ed|cA AB|BA Bc|dB BA|B/c/d/B/ cA|ce ed|B/A/B/c/ d2|dA AB||
+de/d/ cB|AB c/B/A|1 B2 B c/A/B/|AF GE|DE EF|1 G2 G>A:|2 GA BG||
+|:~A3 BA|BE AB|c/A/A/B/ AG|BA AG/A/|BA GE|FE E>F|EA BG|E2 ED||
+P:Version 2:
+Bd cA|B/A/B cB|AG FD|EE E>G|AG GE|1 AG G>A:|2 AG AG||
+|:Bd dB|c/B/A/G/ FE|DB BA|B2 d>e|dB BA|BA A/B/A/E/|DF AB/c/|dA FA|1 A2 A2:|2 BA AG||
+|:BA AB|dB BA/B/|dB AB|AF AB|1 AG GA/B/|cA AB|cA AG|1 AG GB:|2 AG G>A||
+<end>
+<start>
+X:64
+T:Bill the Muid, The
+T:Lay's Fanaine
+R:polka
+H:Also played in G, #2 #21
+D:Movigaif
+Z:id:hn-polka-69
+M:2/4
+L:1/8
+K:A
+A>B cB|A/A/A/B/ cd|ea ef|gb bg/a/|ba ge|fa ga|ba ge|de f>e|dB AB|1 A2 AG:|2 ed ed||
+<end>
+<start>
+X:60
+T:Thas of Johnn's The
+R:polka
+H:A nast "The of the fair to #61
+Z:id:hn-polka-66
+M:2/4
+L:1/8
+K:A
+cd ed|e>d ef|ge ef|df ef|ed ed|ce e2|ef/e/ dB|BA AB|1 AG G2:|2 BA AG||
+<end>
+<start>
+X:63
+T:John the Wa
+
+
+*****************************
+
+
+16000 4 1.2871025 
+
+<start>
+X:13
+T:Davy of Monnter, The
+R:reel
+H:-183. Ceor the Wast the 1.
+H:See also a shie and ha name a ber of the lumples of tha big of Straths.
+S:See also #703.
+D:Chieftains Live.
+Z:id:hn-reel-35
+M:C|
+K:D
+D2B,D DEFD|~E3F GEFD|~E2FD EFDF|EFGF E2EF|1 d2ed cAFE:|2 G2AG GE~A2||
+|:fgdf eAeA|Bdd^c BAFE|D2DE FE~E2:|
+|:e2aa gedB|ABdA FE~A2|
+defd edcB|1 A2d^c dAFA:|2 BABG A2BA||
+P:Variations:
+|: EFEE FB~B2|A2FA BAFA|DF~E2 F2AB|cAdc BAdc|B2AG FGAB|c2Ac ecBA|
+G2 (3ABc AF~F2|ABdf e2de|
+fded dedB|AF~F2 DEFD|
+~E3E DEFD|1 AGFG ABcd:|2 edcB ADD2||
+|:dggf edge|dB B2AB|cdcA FAFA|GEED EAED:|
+|:GB~B2 dBdg|~g3a gfdc|BdgB G2Bd|egge dBAG|FAFA BAGE:|
+|:Bddg ~g3e|fg~g2 edBA|B2Bd B2AB|G2BA GBdB:|
+<end>
+<start>
+X:38
+T:Carannd twue, The
+R:reel
+D:Paddy Glackin: end waith, and Street 1.
+Z:id:hn-reel-85
+M:C|
+K:D
+A2FA BcdB|eAAe dBAF|~F3E FE~E2|AF~F2 ABGE:|
+|:FAdf efde|fdcB A2FB|ABGF F2dB|AF~F2 EFGE|F2AF F2FA:|
+<end>
+<start>
+X:32
+T:Tommone, Ton the nemone, The
+R:reel
+D:Sean Keenan: The Wing Con the Derry: Ceol and the Bu
+
+
+*****************************
+
+
+17000 4 1.0173984 
+
+<start>
+X:38
+Z:id:hn-reel-85
+M:C|
+K:Ador
+d2dB|cBcd eAcd|eaag efge|
+fd~d2 dcAB|cAGE FDDe|fgfe dfec|dcAG FDD2:|
+<end>
+<start>
+X:86
+T:Mary Blunk Related Reel
+R:reel
+C:Mary Bergin: Feadogar, The
+R:reel
+H:See also #87
+D:Paddy Glackin: The Firn in the Cap Bard Maccy Spart also played with part the farest part with played |
+cBAc ecdc|A2AG AGEG|FD~D2 ABcA|
+~B3c cA~A2|BG~G2 BGEF|D2 (3FED EFGE:|
+P:Variations:
+Bcde fedc|~B3c dBGB|AcAB cA~A2:|
+|:Bd~d2 ~f3d|BA~B2 dBGB|ABcd eAcA|BdeB cAGE|~E3B ADFA|
+d2dc d2cA|Bcdc dBGB|AGFG E2FD|
+~D3E EDFG|Addc dcAG|EDCE DEFA:|
+|:EBdB ~G3B|cAGE EDD2|(3Bcd eg fedB|cAGE EDD2:|
+|:fddd cAGA|BGED DGED|(3GAB cA (3Bcd ed|cAGE FDD2:|
+|:f2af afef|gfga fedc|
+d2ed BddB|cAGE ~D2dc|Addc dfec|1 dBGB ABcA:|2 dBGB ADD2:|
+|:~f3g feef|~g3a bgaf|~g3a fedf|e2de fdec|1 dfaf defg|afaf fddc||
+<end>
+<start>
+X:88
+T:Johnny Tadhine Paddy Gares, The
+R:reel
+H:O'in Humples part "Cual pers.
+H:Also played in G, #72
+D:Paddy Glackin: See also played as a se reland both to the partiss.
+D:Paddy Glackin: Ce
+
+
+*****************************
+
+
+18000 4 1.1078538 
+
+<start>
+X:26
+T:Tomm Hill, The
+T:Grinks Slipan's
+T:Sean Faverry Pipering Pipperman Kille
+R:slip jig
+Z:id:hn-slipjig-29
+M:9/8
+K:D
+D2G F2G AFA|~A2G F2G A2B|d2B d2B d2e|f2d d2e f2e|dcA GEE E2G:|
+|:~D3 FDG A2G|F2d cAG ~A3|Bdd e2f g2e|d2B A2G A2G:|
+|:A2A A2d cde|f2d f2d f2d|~g3 e2d c2A|1 G2A B2G F2e|A2G F2d f2g|a2g f2e d2=c|1 d2d d2d d2F G2A|B2G G2A B2A||
+|:G2d d2e dBG|~A2G Add A2G2|A2B cAG FED:|
+<end>
+<start>
+X:24
+T:Come in the Barry O'Charigh, The
+R:hop jig
+C:Joe Mille in the Gringh lame, scottish tunes and 1975
+M:C|
+K:Edor
+B2B BAG ~G3|B2d B2A G2A|B2E E2D E2D:|
+|:ed^c efg d2d|~g3 bgf g2e|d2e f2d d2e|d2d g2f g2e|1 d2e d2A B2A:|2 f2d ded cde||
+<end>
+<start>
+X:31
+T:Mick Raully's
+R:hop j
+Z:id:hn-slipjig-27
+M:9/8
+K:D
+G2G G2G G2G|B2d dBG G2B|d2e d2B B2G G2d|Bdc B2A G2A|B2G A2G FGA|B2G G2E G2A||
+<end>
+<start>
+X:22
+T:Cown Playent Peater's Farney
+R:slip jig
+Z:id:hn-slipjig-26
+M:9/8
+K:D
+AFA d2e f2d|A2F G2A B2A|~G3 ~B2d e2d|~B3 A2G F2G|ABA A2F G2A|B2G B2G A2G||
+<end>
+<start>
+X:23
+T:Wetlin's Rean
+R:slip ji
+
+
+*****************************
+
+
+19000 4 0.80458695 
+
+<start>
+X:14
+T:Mill the Har an Milly (1937 Bannelland bhI Ame the last bher in the see boun to hee a Chilloune, played and lay
+R:single jig
+Z:id:hn-slide-14
+M:6/8
+L:1/8
+K:D
+DEF GFA|DFA GAB|cAB cBA|cAG FAd|f2e ede|f2e cAB|1 c3 A2B:|2 d3 ded||
+|:c3 ABd|e2c e3|~f3 afe|d3 d2e|f2d fed|cAG A3||
+<end>
+<start>
+X:10
+T:My Paddy Gay
+T:The Lime fram\'ain Burled lackie, The
+T:Lay have
+R:slide
+H:See also #51
+D:Neings: The Wind in the parts of O'Ile Paul Hair in A
+W:Kitty and med to the parts a part af sind Gairy of Der
+Z:id:hn-slide-6
+M:6/8
+K:D
+f2e fef|D2A AGE|B2e e2f|g2e f2e|d2B BcB|A3 A2B|cBA B2A|G3 G3:|
+<end>
+<start>
+X:12
+T:Swagan Tunter
+R:slide
+Z:id:hn-slide-11
+M:6/8
+K:G
+G2g|:d2g f2f|g2e d2B|A2d f2e|d2e fef|gaf gfe|1 f3 fge|d2e|f2d gfe|
+f2e fdf|e2d cAG|F2d cBA|1 d3 d3:|2 d3 dBc||
+<end>
+<start>
+X:7
+T:Maid Patley's
+T:Teather, The
+R:slide
+Z:id:hn-slide-1
+M:6/8
+K:Ador
+ece e2f|g2e edc|B2A GED|E2E D3:|
+<end>
+<start>
+X:6
+T:Cubling Raghan a Fleckid Close
+D:Matt Molloy: Ceole. See also same Patlan 5re bar of 
+
+
+*****************************
+
+
+20000 4 0.11453945 
+
+<start>
+X:76
+T:Party have
+R:slide
+Z:id:hn-slide-84
+M:6/8
+L:1/8
+K:D
+f2e f2a | B2c d2c | B2A F2A | FED F2A |
+d2e d2A | B2A G2E | G3 G2E |
+~D3 D2B | ABA ABc|d2e f2e | d2B A2G ||
+<end>
+<start>
+X:86
+T:no nee of
+T:Corn the Slight ohtion
+R:slide
+Z:id:hn-slide-84
+M:6/8
+L:1/8
+K:G
+~D3 B2A | G2B B2A | B2E E2F | G2E G2A | B2E F2A | G3 G2E :|2 E3 E3 ||
+|: B2B Bed | e3 e2f | e3 e2f | g2g e2f | e2f ece |
+d2B G2A | B2d B2A | B2G G2A | B2d B2A | G3 G2E ||
+P:variations
+|: d2B Bcd | e3 e2d | B2g g2e | d2B BAG | E3 E3 :|
+<end>
+<start>
+X:88
+T:Lays of O'Keefe's
+T:Herst's The
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:D
+A2F DFA | B2A F2A | B2A F2A | B2c d2B |
+c2A AFA | B2A B2A | G2F G2A | B2E E2B ||
+<end>
+<start>
+X:86
+T:Green O'Keefe's
+T:John the Wast the grestognnain vers of Collightenna
+T:Crenny's Whistled,
+W:Chis il A Fredennis An, see also #81
+Z:id:hn-slide-81
+M:6/8
+L:1/8
+K:Bm
+ABA AGE | G2A B2d | edB dBG | E2F G2A |
+B2e e2d | B2e e2f | e3 e2d | e3 e2d | AGE E2F :|
+<end>
+<start>
+X:88
+T:Farrick Clandering Froling t
